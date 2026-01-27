@@ -3,14 +3,34 @@ import sys
 import html
 import datetime as dt
 from email.utils import format_datetime
+from urllib.parse import urlparse
 
 import requests
 from bs4 import BeautifulSoup
+
 
 SITE = "https://ultimasgeek.com/"
 OUTFILE = "rss.xml"
 MAX_ITEMS = 25
 TIMEOUT = 25
+
+# Páginas que NO son artículos (ajustá si aparecen otras)
+BLOCKED_SLUGS = {
+    "lo-ultimo",
+    "nota-de-voz",
+    "contacto",
+    "about",
+}
+
+# Prefijos típicos que no son posts
+BLOCKED_PREFIXES = (
+    "category/",
+    "tag/",
+    "page/",
+    "author/",
+    "wp-",
+)
+
 
 MONTHS_ES = {
     "enero": 1,
@@ -28,6 +48,7 @@ MONTHS_ES = {
     "diciembre": 12,
 }
 
+
 session = requests.Session()
 session.headers.update(
     {
@@ -35,35 +56,57 @@ session.headers.update(
     }
 )
 
+
 def fetch(url: str) -> str:
     r = session.get(url, timeout=TIMEOUT)
     r.raise_for_status()
     return r.text
 
+
+def normalize_url(url: str) -> str:
+    # Normaliza cosas tipo trailing slash
+    if url.endswith("/") or "?" in url or "#" in url:
+        return url.split("#", 1)[0].split("?", 1)[0]
+    return url
+
+
 def is_post_url(url: str) -> bool:
-    # Posts suelen ser: https://ultimasgeek.com/<slug>/
-    if not url.startswith(SITE):
+    if not url or not url.startswith(SITE):
         return False
-    path = url[len(SITE):].strip("/")
+
+    clean = normalize_url(url)
+    path = clean[len(SITE):].strip("/")  # slug o slug/subslug
+
     if not path:
         return False
-    # excluir secciones típicas
-    blocked_prefixes = ("category/", "tag/", "page/", "wp-", "author/")
-    if any(path.startswith(p) for p in blocked_prefixes):
+
+    # bloqueos por prefijo (category/tag/etc.)
+    if any(path.startswith(p) for p in BLOCKED_PREFIXES):
         return False
-    # excluir paginación y cosas raras
+
+    # si es una ruta de dos niveles, muchas veces no es post (pero no siempre)
+    # igual dejamos pasar salvo que sea claramente paginación
     if "/page/" in path:
         return False
-    # bastante “permisivo” a propósito
+
+    # bloquear slugs exactos de secciones
+    if path in BLOCKED_SLUGS:
+        return False
+
+    # descartar assets obvios
+    if any(path.endswith(ext) for ext in (".jpg", ".jpeg", ".png", ".webp", ".gif", ".svg", ".pdf")):
+        return False
+
     return True
+
 
 def extract_post_urls_from_home(home_html: str) -> list[str]:
     soup = BeautifulSoup(home_html, "html.parser")
     urls = []
     for a in soup.select("a[href]"):
-        href = a.get("href", "").strip()
+        href = (a.get("href") or "").strip()
         if is_post_url(href):
-            urls.append(href)
+            urls.append(normalize_url(href))
 
     # dedupe conservando orden
     seen = set()
@@ -75,23 +118,42 @@ def extract_post_urls_from_home(home_html: str) -> list[str]:
         out.append(u)
     return out
 
+
 def parse_date_es(text: str) -> dt.datetime | None:
     """
-    Busca fecha tipo: "27 enero, 2026"
+    Busca fecha tipo: "Publicado ... el 27 enero, 2026"
+    o cualquier "27 enero, 2026" dentro del texto.
     """
     m = re.search(r"(\d{1,2})\s+([a-záéíóúñ]+)\s*,\s*(\d{4})", text, re.IGNORECASE)
     if not m:
         return None
+
     day = int(m.group(1))
     mon_name = m.group(2).lower()
     year = int(m.group(3))
+
     mon = MONTHS_ES.get(mon_name)
     if not mon:
         return None
-    # Asumimos zona horaria Argentina para la medianoche y luego pasamos a UTC
-    # (si preferís, lo dejamos como "naive" o lo ponemos en UTC directo)
+
+    # zona Argentina (-03) y lo pasamos a UTC para pubDate
     tz_ar = dt.timezone(dt.timedelta(hours=-3))
     return dt.datetime(year, mon, day, 12, 0, 0, tzinfo=tz_ar).astimezone(dt.timezone.utc)
+
+
+def guess_image_mime(url: str) -> str:
+    u = url.lower().split("?", 1)[0].split("#", 1)[0]
+    if u.endswith(".png"):
+        return "image/png"
+    if u.endswith(".webp"):
+        return "image/webp"
+    if u.endswith(".gif"):
+        return "image/gif"
+    if u.endswith(".svg"):
+        return "image/svg+xml"
+    # default razonable
+    return "image/jpeg"
+
 
 def parse_post(post_url: str) -> dict | None:
     try:
@@ -102,35 +164,45 @@ def parse_post(post_url: str) -> dict | None:
 
     soup = BeautifulSoup(post_html, "html.parser")
 
-    # título: probar h1/h2 fuerte
-    title = None
-    h1 = soup.find("h1")
-    if h1 and h1.get_text(strip=True):
-        title = h1.get_text(" ", strip=True)
+    def get_meta_property(prop: str) -> str:
+        tag = soup.find("meta", attrs={"property": prop})
+        return (tag.get("content") or "").strip() if tag else ""
+
+    def get_meta_name(name: str) -> str:
+        tag = soup.find("meta", attrs={"name": name})
+        return (tag.get("content") or "").strip() if tag else ""
+
+    # Título: primero OG, si no h1, si no title
+    title = get_meta_property("og:title")
     if not title:
-        # fallback: primer encabezado grande
-        for tag in ["h2", "h3"]:
-            h = soup.find(tag)
-            if h and h.get_text(strip=True):
-                title = h.get_text(" ", strip=True)
-                break
+        h1 = soup.find("h1")
+        if h1 and h1.get_text(strip=True):
+            title = h1.get_text(" ", strip=True)
+    if not title:
+        t = soup.find("title")
+        if t and t.get_text(strip=True):
+            title = t.get_text(" ", strip=True)
 
     if not title:
         return None
 
-    # descripción: primer párrafo “real”
-    desc = ""
-    p = soup.find("p")
-    if p:
-        desc = p.get_text(" ", strip=True)
-        desc = desc[:280]
+    # Descripción: OG o meta description; fallback a primer párrafo
+    desc = get_meta_property("og:description") or get_meta_name("description") or ""
+    if not desc:
+        p = soup.find("p")
+        if p:
+            desc = p.get_text(" ", strip=True)
 
-    # fecha: buscar bloque "Publicado ... el 27 enero, 2026"
+    desc = desc.strip()
+    if len(desc) > 300:
+        desc = desc[:300].rstrip() + "…"
+
+    # Imagen: OG image
+    image_url = get_meta_property("og:image").strip()
+
+    # Fecha: buscar patrón en texto completo
     text_all = soup.get_text("\n", strip=True)
-    published = parse_date_es(text_all)
-
-    if not published:
-        published = dt.datetime.now(dt.timezone.utc)
+    published = parse_date_es(text_all) or dt.datetime.now(dt.timezone.utc)
 
     return {
         "title": title,
@@ -138,25 +210,45 @@ def parse_post(post_url: str) -> dict | None:
         "guid": post_url,
         "pubDate": format_datetime(published),
         "description": desc,
+        "image_url": image_url,
     }
+
 
 def build_rss(items: list[dict]) -> str:
     now = format_datetime(dt.datetime.now(dt.timezone.utc))
 
     def esc_cdata(s: str) -> str:
         # CDATA no puede contener "]]>"
-        return s.replace("]]>", "]]]]><![CDATA[>")
+        return (s or "").replace("]]>", "]]]]><![CDATA[>")
 
     rss_items = []
+
     for it in items:
+        link = html.escape(it["link"])
+        guid = html.escape(it["guid"])
+        title = esc_cdata(it["title"])
+        desc_text = esc_cdata(it.get("description", ""))
+
+        img_html = ""
+        enclosure = ""
+
+        img_url = (it.get("image_url") or "").strip()
+        if img_url.startswith("http"):
+            img_url_esc = html.escape(img_url)
+            img_html = f'<p><img src="{img_url_esc}" alt="" /></p>'
+            enclosure = f'\n      <enclosure url="{img_url_esc}" type="{guess_image_mime(img_url)}" />'
+
+        # description en HTML (CDATA) para que muchos lectores muestren imagen + texto
+        description_html = f"{img_html}<p>{desc_text}</p>" if desc_text else img_html
+
         rss_items.append(
             f"""
     <item>
-      <title><![CDATA[{esc_cdata(it["title"])}]]></title>
-      <link>{html.escape(it["link"])}</link>
-      <guid isPermaLink="true">{html.escape(it["guid"])}</guid>
+      <title><![CDATA[{title}]]></title>
+      <link>{link}</link>
+      <guid isPermaLink="true">{guid}</guid>
       <pubDate>{it["pubDate"]}</pubDate>
-      <description><![CDATA[{esc_cdata(it.get("description",""))}]]></description>
+      <description><![CDATA[{description_html}]]></description>{enclosure}
     </item>
 """.rstrip()
         )
@@ -173,25 +265,36 @@ def build_rss(items: list[dict]) -> str:
 </rss>
 """
 
+
 def main():
     home_html = fetch(SITE)
     urls = extract_post_urls_from_home(home_html)
 
     items = []
+    seen_titles = set()
+
     for u in urls:
         it = parse_post(u)
-        if it:
-            items.append(it)
+        if not it:
+            continue
+
+        # evita duplicados feos por páginas de listados u otras rarezas
+        key = (it["link"], it["title"].strip().lower())
+        if key in seen_titles:
+            continue
+        seen_titles.add(key)
+
+        items.append(it)
         if len(items) >= MAX_ITEMS:
             break
 
-    # ordenar por pubDate (string RFC822) no es ideal; lo dejamos como viene (ya suele ser “de hoy hacia atrás”)
     rss = build_rss(items)
 
     with open(OUTFILE, "w", encoding="utf-8") as f:
         f.write(rss)
 
     print(f"OK: generé {OUTFILE} con {len(items)} items")
+
 
 if __name__ == "__main__":
     main()
