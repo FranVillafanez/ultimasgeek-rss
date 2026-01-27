@@ -1,0 +1,69 @@
+import re
+import datetime as dt
+import requests
+from bs4 import BeautifulSoup
+from email.utils import format_datetime
+
+SITE = "https://ultimasgeek.com/"
+OUT = "rss.xml"
+
+def make_rss(items):
+    now = format_datetime(dt.datetime.now(dt.timezone.utc))
+    rss_items = []
+    for it in items:
+        rss_items.append(f"""
+        <item>
+          <title><![CDATA[{it['title']}]]></title>
+          <link>{it['link']}</link>
+          <guid>{it['link']}</guid>
+          <pubDate>{it['pubDate']}</pubDate>
+          <description><![CDATA[{it.get('desc','')}]]></description>
+        </item>
+        """.strip())
+
+    return f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Últimas Geek</title>
+    <link>{SITE}</link>
+    <description>Feed generado externamente</description>
+    <lastBuildDate>{now}</lastBuildDate>
+    {''.join(rss_items)}
+  </channel>
+</rss>
+"""
+
+def main():
+    html = requests.get(SITE, timeout=30).text
+    soup = BeautifulSoup(html, "html.parser")
+
+    # Heurística: agarrar los primeros links a posts del home
+    links = []
+    for a in soup.select("a[href]"):
+        href = a.get("href", "")
+        if href.startswith(SITE) and re.search(r"/\d{4}/\d{2}/\d{2}/", href):
+            title = a.get_text(strip=True)
+            if title and len(title) > 12:
+                links.append((href, title))
+
+    # Deduplicar conservando orden
+    seen = set()
+    items = []
+    for href, title in links:
+        if href in seen:
+            continue
+        seen.add(href)
+        items.append({
+            "link": href,
+            "title": title,
+            "pubDate": format_datetime(dt.datetime.now(dt.timezone.utc)),  # si querés, después se puede parsear la fecha real
+            "desc": ""
+        })
+        if len(items) >= 20:
+            break
+
+    with open(OUT, "w", encoding="utf-8") as f:
+        f.write(make_rss(items))
+
+if __name__ == "__main__":
+    main()
