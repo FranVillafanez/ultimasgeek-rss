@@ -4,7 +4,7 @@
     <title>Últimas Geek</title>
     <link>https://ultimasgeek.com/</link>
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 28 Jan 2026 10:29:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 11:23:26 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple lanzó un nuevo AirTag con más alcance y mejor sonido: mantiene el precio y suma funciones para viajes]]></title>
@@ -52,6 +52,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Google filtró por error el primer vistazo de “Android para PC” y dejó ver Aluminium OS en acción]]></title>
+      <link>https://ultimasgeek.com/google-filtro-por-error-el-primer-vistazo-de-android-para-pc-y-dejo-ver-aluminium-os-en-accion/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-filtro-por-error-el-primer-vistazo-de-android-para-pc-y-dejo-ver-aluminium-os-en-accion/</guid>
+      <pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/2026-01-28_10-05-37_rHEby-1000x600.jpg" alt="" /></p><p>Un reporte público en el Issue Tracker expuso dos grabaciones de pantalla de Aluminium OS (ALOS), el híbrido entre Android y ChromeOS, corriendo en una HP Elite Dragonfly 13.5 Chromebook.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/2026-01-28_10-05-37_rHEby-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Google Photos suma prompts de texto para convertir fotos en video con IA generativa]]></title>
       <link>https://ultimasgeek.com/google-photos-suma-prompts-de-texto-para-convertir-fotos-en-video-con-ia-generativa/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-photos-suma-prompts-de-texto-para-convertir-fotos-en-video-con-ia-generativa/</guid>
@@ -76,15 +85,6 @@
       <pubDate>Wed, 14 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-5-1000x600.jpg" alt="" /></p><p>La función se habilita bajo opción del usuario y empieza a desplegarse este 14 de enero de 2026 en EE.UU. para suscriptores Google AI Pro y AI Ultra.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-5-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google Fotos sumará un ajuste para ahorrar batería al hacer copias de seguridad]]></title>
-      <link>https://ultimasgeek.com/google-fotos-sumara-un-ajuste-para-ahorrar-bateria-al-hacer-copias-de-seguridad/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-fotos-sumara-un-ajuste-para-ahorrar-bateria-al-hacer-copias-de-seguridad/</guid>
-      <pubDate>Wed, 14 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/GettyImages-887454024.jpg-1000x600.jpeg" alt="" /></p><p>Una opción detectada en la versión 7.59 permitiría reducir la actividad en segundo plano y postergar el respaldo hasta que el usuario abra la app.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/GettyImages-887454024.jpg-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -133,15 +133,6 @@
     </item>
 
     <item>
-      <title><![CDATA[TikTok aclara qué significa “estatus migratorio” en su política de privacidad tras el cambio de dueños en EE.UU.]]></title>
-      <link>https://ultimasgeek.com/tiktok-aclara-que-significa-estatus-migratorio-en-su-politica-de-privacidad-tras-el-cambio-de-duenos-en-ee-uu/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/tiktok-aclara-que-significa-estatus-migratorio-en-su-politica-de-privacidad-tras-el-cambio-de-duenos-en-ee-uu/</guid>
-      <pubDate>Sat, 24 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/tik-tok-portada-3863039603-1000x600.jpg" alt="" /></p><p>La app mostró un aviso para aceptar nuevos términos y muchos usuarios interpretaron que la plataforma “pedía” datos migratorios. Especialistas explican que se trata de una categoría legal de “datos sensibles” y que el texto ya existía.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/tik-tok-portada-3863039603-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[OpenAI sumó grupos de pestañas a ChatGPT Atlas, su navegador con IA para macOS]]></title>
       <link>https://ultimasgeek.com/openai-sumo-grupos-de-pestanas-a-chatgpt-atlas-su-navegador-con-ia-para-macos/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/openai-sumo-grupos-de-pestanas-a-chatgpt-atlas-su-navegador-con-ia-para-macos/</guid>
@@ -187,15 +178,6 @@
     </item>
 
     <item>
-      <title><![CDATA[OpenAI lanzó “ChatGPT Translate”, una web de traducción con presets de tono y más de 50 idiomas]]></title>
-      <link>https://ultimasgeek.com/openai-lanzo-chatgpt-translate-una-web-de-traduccion-con-presets-de-tono-y-mas-de-50-idiomas/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/openai-lanzo-chatgpt-translate-una-web-de-traduccion-con-presets-de-tono-y-mas-de-50-idiomas/</guid>
-      <pubDate>Thu, 15 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-1000x600.jpg" alt="" /></p><p>La herramienta aparece en chatgpt.com/translate y permite traducir con ajustes como “más formal” o “académico”, aunque por ahora tiene límites frente a Google Translate y no hubo anuncio oficial.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Apple cerró un acuerdo con Google para integrar Gemini en Siri y reforzar su apuesta por la IA]]></title>
       <link>https://ultimasgeek.com/apple-cerro-un-acuerdo-con-google-para-integrar-gemini-en-siri-y-reforzar-su-apuesta-por-la-ia/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-cerro-un-acuerdo-con-google-para-integrar-gemini-en-siri-y-reforzar-su-apuesta-por-la-ia/</guid>
@@ -229,6 +211,24 @@
       <pubDate>Thu, 08 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/john-ternus-hero.jpg-1000x600.webp" alt="" /></p><p>A los 65 años, Tim Cook habría impulsado un plan más activo de recambio en la cúpula de Apple, con el jefe de ingeniería de hardware como principal favorito, según reportes en Estados Unidos.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/john-ternus-hero.jpg-1000x600.webp" type="image/webp" />
+    </item>
+
+    <item>
+      <title><![CDATA[OpenAI lanzó ChatGPT Health e integra Apple Health para responder con datos personales de bienestar]]></title>
+      <link>https://ultimasgeek.com/openai-lanzo-chatgpt-health-e-integra-apple-health-para-responder-con-datos-personales-de-bienestar/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/openai-lanzo-chatgpt-health-e-integra-apple-health-para-responder-con-datos-personales-de-bienestar/</guid>
+      <pubDate>Wed, 07 Jan 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OAI_ChatGPT_Health_Wayfinding_16-9.png-1000x600.jpeg" alt="" /></p><p>La nueva sección de ChatGPT Health se presentó el 7 de enero de 2026 y permite conectar Apple Health, registros médicos y apps de nutrición para orientar consultas, con controles extra de privacidad.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OAI_ChatGPT_Health_Wayfinding_16-9.png-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google Fotos sumará un ajuste para ahorrar batería al hacer copias de seguridad]]></title>
+      <link>https://ultimasgeek.com/google-fotos-sumara-un-ajuste-para-ahorrar-bateria-al-hacer-copias-de-seguridad/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-fotos-sumara-un-ajuste-para-ahorrar-bateria-al-hacer-copias-de-seguridad/</guid>
+      <pubDate>Wed, 14 Jan 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/GettyImages-887454024.jpg-1000x600.jpeg" alt="" /></p><p>Una opción detectada en la versión 7.59 permitiría reducir la actividad en segundo plano y postergar el respaldo hasta que el usuario abra la app.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/GettyImages-887454024.jpg-1000x600.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
