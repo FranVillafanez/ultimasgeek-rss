@@ -4,7 +4,16 @@
     <title>Últimas Geek</title>
     <link>https://ultimasgeek.com/</link>
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 29 Jan 2026 21:27:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 22:28:19 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple anunció que ya tiene 2.500 millones de dispositivos activos en el mundo]]></title>
+      <link>https://ultimasgeek.com/apple-anuncio-que-ya-tiene-2-500-millones-de-dispositivos-activos-en-el-mundo/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-anuncio-que-ya-tiene-2-500-millones-de-dispositivos-activos-en-el-mundo/</guid>
+      <pubDate>Thu, 29 Jan 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/modal_power__cevo1nv24qz6_large-1000x600.jpg" alt="" /></p><p>El dato se conoció hoy, junto con el balance del trimestre cerrado el 27 de diciembre de 2025, en el que la empresa también informó su mayor facturación trimestral.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/modal_power__cevo1nv24qz6_large-1000x600.jpg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Sebastiaan de With, cofundador de Halide, se suma al equipo de diseño de Apple]]></title>
@@ -40,15 +49,6 @@
       <pubDate>Sun, 25 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/f428e370-fa0b-11f0-bfce-5a0cae24b562-1000x600.jpeg" alt="" /></p><p>Según Bloomberg, Apple prepara demostraciones de una Siri renovada con modelos Gemini de Google en la segunda mitad de febrero, con debut inicial en iOS 26.4.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/f428e370-fa0b-11f0-bfce-5a0cae24b562-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Claude habilita conexión con Apple Health en iPhone y suma funciones para analizar datos de sueño y actividad]]></title>
-      <link>https://ultimasgeek.com/claude-habilita-conexion-con-apple-health-en-iphone-y-suma-funciones-para-analizar-datos-de-sueno-y-actividad/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/claude-habilita-conexion-con-apple-health-en-iphone-y-suma-funciones-para-analizar-datos-de-sueno-y-actividad/</guid>
-      <pubDate>Thu, 22 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-1-1000x600.jpg" alt="" /></p><p>La integración llega en beta a la app de Anthropic: por ahora es opcional y está disponible para suscriptores Pro y Max en Estados Unidos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-1-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -88,6 +88,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Mercado Libre vs Temu: la Corte Suprema deberá definir quién sigue la causa por publicidad engañosa]]></title>
+      <link>https://ultimasgeek.com/mercado-libre-vs-temu-la-corte-suprema-debera-definir-quien-sigue-la-causa-por-publicidad-enganosa/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/mercado-libre-vs-temu-la-corte-suprema-debera-definir-quien-sigue-la-causa-por-publicidad-enganosa/</guid>
+      <pubDate>Thu, 29 Jan 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-2-1000x600.jpg" alt="" /></p><p>La disputa escaló este 29 de enero tras un conflicto de competencia entre cámaras federales. El caso nació con una denuncia de Mercado Libre en agosto de 2025 y una medida preventiva que ordenó a Temu frenar promociones y anuncios cuestionados.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-2-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Meta anuncia agentes de IA para impulsar compras y eleva su inversión tecnológica en 2026]]></title>
       <link>https://ultimasgeek.com/meta-anuncia-agentes-de-ia-para-impulsar-compras-y-eleva-su-inversion-tecnologica-en-2026/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/meta-anuncia-agentes-de-ia-para-impulsar-compras-y-eleva-su-inversion-tecnologica-en-2026/</guid>
@@ -112,15 +121,6 @@
       <pubDate>Tue, 27 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/WhatsApp-Google-Messendzhery-Servisy-6-1000x600.webp" alt="" /></p><p>La app sumó una opción de “bloqueo” para quienes necesitan máxima protección ante ataques sofisticados y, además, reforzó el manejo de fotos y videos con código en Rust.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/WhatsApp-Google-Messendzhery-Servisy-6-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
-      <title><![CDATA[Juicio en Los Ángeles: Meta, TikTok y YouTube enfrentarán un jurado por el “diseño adictivo” y el scroll infinito]]></title>
-      <link>https://ultimasgeek.com/juicio-en-los-angeles-meta-tiktok-y-youtube-enfrentaran-un-jurado-por-el-diseno-adictivo-y-el-scroll-infinito/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/juicio-en-los-angeles-meta-tiktok-y-youtube-enfrentaran-un-jurado-por-el-diseno-adictivo-y-el-scroll-infinito/</guid>
-      <pubDate>Tue, 27 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-3-1000x600.jpg" alt="" /></p><p>Este martes 27 de enero de 2026 comienza la selección del jurado en un caso clave: una joven acusa a las plataformas de incentivar adicción y daños en la salud mental con funciones como scroll infinito y autoplay.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-3-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -151,21 +151,21 @@
     </item>
 
     <item>
+      <title><![CDATA[Claude habilita conexión con Apple Health en iPhone y suma funciones para analizar datos de sueño y actividad]]></title>
+      <link>https://ultimasgeek.com/claude-habilita-conexion-con-apple-health-en-iphone-y-suma-funciones-para-analizar-datos-de-sueno-y-actividad/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/claude-habilita-conexion-con-apple-health-en-iphone-y-suma-funciones-para-analizar-datos-de-sueno-y-actividad/</guid>
+      <pubDate>Thu, 22 Jan 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-1-1000x600.jpg" alt="" /></p><p>La integración llega en beta a la app de Anthropic: por ahora es opcional y está disponible para suscriptores Pro y Max en Estados Unidos.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-1-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Adobe sumó una función para convertir PDFs en “podcasts” con IA dentro de Acrobat]]></title>
       <link>https://ultimasgeek.com/adobe-sumo-una-funcion-para-convertir-pdfs-en-podcasts-con-ia-dentro-de-acrobat/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/adobe-sumo-una-funcion-para-convertir-pdfs-en-podcasts-con-ia-dentro-de-acrobat/</guid>
       <pubDate>Wed, 21 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/media_1f513127409b70b8b164f1590d115d7e42e477b76-1000x600.jpeg" alt="" /></p><p>La herramienta Generate podcast crea un resumen en audio a partir de un documento o un PDF Space en Acrobat Studio, con dos modos de escucha y transcripción incluida, según la documentación oficial de Adobe.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/media_1f513127409b70b8b164f1590d115d7e42e477b76-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[OpenAI activó la predicción de edad en ChatGPT para detectar cuentas de menores de 18]]></title>
-      <link>https://ultimasgeek.com/openai-activo-la-prediccion-de-edad-en-chatgpt-para-detectar-cuentas-de-menores-de-18/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/openai-activo-la-prediccion-de-edad-en-chatgpt-para-detectar-cuentas-de-menores-de-18/</guid>
-      <pubDate>Tue, 20 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" alt="" /></p><p>La herramienta ya se despliega de forma global y, si el sistema estima que un usuario es menor, aplica más límites a contenidos sensibles; quienes se vean afectados por error podrán recuperar el acceso completo con verificación de edad.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -205,15 +205,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple convocó a su asamblea anual de accionistas para el 24 de febrero: será virtual y con cinco votaciones clave]]></title>
-      <link>https://ultimasgeek.com/apple-convoco-a-su-asamblea-anual-de-accionistas-para-el-24-de-febrero-sera-virtual-y-con-cinco-votaciones-clave/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-convoco-a-su-asamblea-anual-de-accionistas-para-el-24-de-febrero-sera-virtual-y-con-cinco-votaciones-clave/</guid>
-      <pubDate>Fri, 09 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/tim-cook-3531269024-1000x600.jpg" alt="" /></p><p>La compañía informó en una presentación ante la SEC que la reunión será el martes 24 de febrero de 2026, a las 8.00 (hora del Pacífico), con participación y preguntas online para accionistas registrados al 2 de enero.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/tim-cook-3531269024-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Google Photos sumó “Me Meme” y ahora permite convertir tus selfies en memes con IA]]></title>
       <link>https://ultimasgeek.com/google-photos-sumo-me-meme-y-ahora-permite-convertir-tus-selfies-en-memes-con-ia/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-photos-sumo-me-meme-y-ahora-permite-convertir-tus-selfies-en-memes-con-ia/</guid>
@@ -229,6 +220,15 @@
       <pubDate>Wed, 14 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-5-1000x600.jpg" alt="" /></p><p>La función se habilita bajo opción del usuario y empieza a desplegarse este 14 de enero de 2026 en EE.UU. para suscriptores Google AI Pro y AI Ultra.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-5-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google Fotos sumará un ajuste para ahorrar batería al hacer copias de seguridad]]></title>
+      <link>https://ultimasgeek.com/google-fotos-sumara-un-ajuste-para-ahorrar-bateria-al-hacer-copias-de-seguridad/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-fotos-sumara-un-ajuste-para-ahorrar-bateria-al-hacer-copias-de-seguridad/</guid>
+      <pubDate>Wed, 14 Jan 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/GettyImages-887454024.jpg-1000x600.jpeg" alt="" /></p><p>Una opción detectada en la versión 7.59 permitiría reducir la actividad en segundo plano y postergar el respaldo hasta que el usuario abra la app.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/GettyImages-887454024.jpg-1000x600.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
