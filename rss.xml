@@ -4,7 +4,7 @@
     <title>Últimas Geek</title>
     <link>https://ultimasgeek.com/</link>
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 30 Jan 2026 11:28:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 12:56:43 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple anunció que ya tiene 2.500 millones de dispositivos activos en el mundo]]></title>
@@ -88,6 +88,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Microsoft prueba una barra de menú superior para Windows 11 con PowerToys]]></title>
+      <link>https://ultimasgeek.com/microsoft-prueba-una-barra-de-menu-superior-para-windows-11-con-powertoys/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/microsoft-prueba-una-barra-de-menu-superior-para-windows-11-con-powertoys/</guid>
+      <pubDate>Fri, 30 Jan 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/command-palette-icon-in-the-start-menu-3165243280-1000x569.jpg" alt="" /></p><p>El equipo de PowerToys evalúa sumar un dock tipo macOS/Linux en Windows 11 para acceso rápido a herramientas y monitoreo del sistema.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/command-palette-icon-in-the-start-menu-3165243280-1000x569.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Mercado Libre vs Temu: la Corte Suprema deberá definir quién sigue la causa por publicidad engañosa]]></title>
       <link>https://ultimasgeek.com/mercado-libre-vs-temu-la-corte-suprema-debera-definir-quien-sigue-la-causa-por-publicidad-enganosa/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/mercado-libre-vs-temu-la-corte-suprema-debera-definir-quien-sigue-la-causa-por-publicidad-enganosa/</guid>
@@ -112,15 +121,6 @@
       <pubDate>Thu, 29 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/openai-historia-portada-890x445-1.jpg" alt="" /></p><p>La nueva plataforma integra GPT-5.2 dentro del documento, permite colaboradores ilimitados y apunta a simplificar la redacción y revisión de papers desde una cuenta de ChatGPT.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/openai-historia-portada-890x445-1.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[WhatsApp lanzó “Strict Account Settings”, un modo anti-spyware que bloquea adjuntos de desconocidos]]></title>
-      <link>https://ultimasgeek.com/whatsapp-lanzo-strict-account-settings-un-modo-anti-spyware-que-bloquea-adjuntos-de-desconocidos/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-lanzo-strict-account-settings-un-modo-anti-spyware-que-bloquea-adjuntos-de-desconocidos/</guid>
-      <pubDate>Tue, 27 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/WhatsApp-Google-Messendzhery-Servisy-6-1000x600.webp" alt="" /></p><p>La app sumó una opción de “bloqueo” para quienes necesitan máxima protección ante ataques sofisticados y, además, reforzó el manejo de fotos y videos con código en Rust.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/WhatsApp-Google-Messendzhery-Servisy-6-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -157,15 +157,6 @@
       <pubDate>Thu, 22 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-1-1000x600.jpg" alt="" /></p><p>La integración llega en beta a la app de Anthropic: por ahora es opcional y está disponible para suscriptores Pro y Max en Estados Unidos.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-1-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Adobe sumó una función para convertir PDFs en “podcasts” con IA dentro de Acrobat]]></title>
-      <link>https://ultimasgeek.com/adobe-sumo-una-funcion-para-convertir-pdfs-en-podcasts-con-ia-dentro-de-acrobat/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/adobe-sumo-una-funcion-para-convertir-pdfs-en-podcasts-con-ia-dentro-de-acrobat/</guid>
-      <pubDate>Wed, 21 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/media_1f513127409b70b8b164f1590d115d7e42e477b76-1000x600.jpeg" alt="" /></p><p>La herramienta Generate podcast crea un resumen en audio a partir de un documento o un PDF Space en Acrobat Studio, con dos modos de escucha y transcripción incluida, según la documentación oficial de Adobe.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/media_1f513127409b70b8b164f1590d115d7e42e477b76-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -229,6 +220,15 @@
       <pubDate>Wed, 14 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/GettyImages-887454024.jpg-1000x600.jpeg" alt="" /></p><p>Una opción detectada en la versión 7.59 permitiría reducir la actividad en segundo plano y postergar el respaldo hasta que el usuario abra la app.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/GettyImages-887454024.jpg-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google actualizó Veo 3.1: ahora convierte fotos en videos verticales 9:16 y permite escalar a 4K]]></title>
+      <link>https://ultimasgeek.com/google-actualizo-veo-3-1-ahora-convierte-fotos-en-videos-verticales-916-y-permite-escalar-a-4k/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-actualizo-veo-3-1-ahora-convierte-fotos-en-videos-verticales-916-y-permite-escalar-a-4k/</guid>
+      <pubDate>Tue, 13 Jan 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/CleanShot-2026-01-13-at-14.51.09-1000x600.png" alt="" /></p><p>La mejora del modo Ingredients to Video suma salida nativa para YouTube Shorts y promete más consistencia visual a partir de hasta tres imágenes de referencia, además de un “upscaling” a 1080p y 4K.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/CleanShot-2026-01-13-at-14.51.09-1000x600.png" type="image/png" />
     </item>
   </channel>
 </rss>
