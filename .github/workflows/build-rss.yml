@@ -6,9 +6,8 @@ concurrency:
 
 on:
   workflow_dispatch:
-  # Ejecuta diariamente a medianoche UTC
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 */2 * * *'   # cada 2 horas, en minuto 0 (UTC)
 
 jobs:
   build:
