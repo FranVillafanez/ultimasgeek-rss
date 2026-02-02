@@ -6,6 +6,9 @@ concurrency:
 
 on:
   workflow_dispatch:
+  # Ejecuta diariamente a medianoche UTC
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   build:
@@ -16,22 +19,42 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # persist-credentials permite hacer push usando el GITHUB_TOKEN
+          persist-credentials: true
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
 
       - name: Install deps
-        run: pip install -r requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
 
       - name: Generate rss.xml
         run: python generate_rss.py
 
       - name: Commit and push if changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add rss.xml
-          git commit -m "Update rss.xml" || echo "No changes"
+          git add -A rss.xml
+          # Si no hay nada staged, salir limpiamente
+          if git diff --cached --quiet; then
+            echo "No hay cambios para commitear"
+            exit 0
+          fi
+          git commit -m "Update rss.xml"
           git push
