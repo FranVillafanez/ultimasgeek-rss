@@ -1,9 +1,13 @@
 name: Build RSS
 
+concurrency:
+  group: build-rss
+  cancel-in-progress: true
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"  # cada hora
+    - cron: "0 */3 * * *" # cada 3 horas
 
 jobs:
   build:
