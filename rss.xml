@@ -4,7 +4,7 @@
     <title>Últimas Geek</title>
     <link>https://ultimasgeek.com/</link>
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 02 Feb 2026 14:40:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 15:37:45 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Google suma “Video Overview” a NotebookLM en Android e iOS y lleva los resúmenes en video al celular]]></title>
@@ -85,6 +85,15 @@
       <pubDate>Tue, 27 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Google-Fotos-IA-912x569-3789009582.jpeg" alt="" /></p><p>La app incorporó una opción para describir el movimiento o efecto deseado al animar imágenes. La función llega con límites por edad (+18), disponibilidad por región y audio activado por defecto.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Google-Fotos-IA-912x569-3789009582.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Adobe habilitó generaciones ilimitadas en Firefly por tiempo limitado e incluyó modelos de Google, OpenAI y Runway]]></title>
+      <link>https://ultimasgeek.com/adobe-habilito-generaciones-ilimitadas-en-firefly-por-tiempo-limitado-e-incluyo-modelos-de-google-openai-y-runway/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/adobe-habilito-generaciones-ilimitadas-en-firefly-por-tiempo-limitado-e-incluyo-modelos-de-google-openai-y-runway/</guid>
+      <pubDate>Mon, 02 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/media_13aab809223b834cc1a1c0ea475aab1abb4d5ccad.png-1000x600.webp" alt="" /></p><p>La promoción rige para planes seleccionados y permite crear imágenes y video sin tope (hasta 2K) si se cumple con la ventana fijada por la compañía.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/media_13aab809223b834cc1a1c0ea475aab1abb4d5ccad.png-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -220,15 +229,6 @@
       <pubDate>Wed, 14 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-5-1000x600.jpg" alt="" /></p><p>La función se habilita bajo opción del usuario y empieza a desplegarse este 14 de enero de 2026 en EE.UU. para suscriptores Google AI Pro y AI Ultra.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-5-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google Fotos sumará un ajuste para ahorrar batería al hacer copias de seguridad]]></title>
-      <link>https://ultimasgeek.com/google-fotos-sumara-un-ajuste-para-ahorrar-bateria-al-hacer-copias-de-seguridad/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-fotos-sumara-un-ajuste-para-ahorrar-bateria-al-hacer-copias-de-seguridad/</guid>
-      <pubDate>Wed, 14 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/GettyImages-887454024.jpg-1000x600.jpeg" alt="" /></p><p>Una opción detectada en la versión 7.59 permitiría reducir la actividad en segundo plano y postergar el respaldo hasta que el usuario abra la app.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/GettyImages-887454024.jpg-1000x600.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
