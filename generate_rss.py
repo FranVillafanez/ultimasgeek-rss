@@ -3,7 +3,6 @@ import sys
 import html
 import datetime as dt
 from email.utils import format_datetime
-from urllib.parse import urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -13,6 +12,9 @@ SITE = "https://ultimasgeek.com/"
 OUTFILE = "rss.xml"
 MAX_ITEMS = 25
 TIMEOUT = 25
+
+# Dónde se publica el feed (GitHub Pages)
+FEED_URL = "https://franvillafanez.github.io/ultimasgeek-rss/rss.xml"
 
 # Páginas que NO son artículos (ajustá si aparecen otras)
 BLOCKED_SLUGS = {
@@ -31,7 +33,6 @@ BLOCKED_PREFIXES = (
     "wp-",
 )
 
-
 MONTHS_ES = {
     "enero": 1,
     "febrero": 2,
@@ -48,7 +49,6 @@ MONTHS_ES = {
     "diciembre": 12,
 }
 
-
 session = requests.Session()
 session.headers.update(
     {
@@ -64,9 +64,10 @@ def fetch(url: str) -> str:
 
 
 def normalize_url(url: str) -> str:
-    # Normaliza cosas tipo trailing slash
-    if url.endswith("/") or "?" in url or "#" in url:
-        return url.split("#", 1)[0].split("?", 1)[0]
+    # saca query/hash para deduplicar bien
+    if not url:
+        return url
+    url = url.split("#", 1)[0].split("?", 1)[0]
     return url
 
 
@@ -84,8 +85,7 @@ def is_post_url(url: str) -> bool:
     if any(path.startswith(p) for p in BLOCKED_PREFIXES):
         return False
 
-    # si es una ruta de dos niveles, muchas veces no es post (pero no siempre)
-    # igual dejamos pasar salvo que sea claramente paginación
+    # paginación
     if "/page/" in path:
         return False
 
@@ -121,8 +121,7 @@ def extract_post_urls_from_home(home_html: str) -> list[str]:
 
 def parse_date_es(text: str) -> dt.datetime | None:
     """
-    Busca fecha tipo: "Publicado ... el 27 enero, 2026"
-    o cualquier "27 enero, 2026" dentro del texto.
+    Busca fecha tipo: "27 enero, 2026" dentro del texto.
     """
     m = re.search(r"(\d{1,2})\s+([a-záéíóúñ]+)\s*,\s*(\d{4})", text, re.IGNORECASE)
     if not m:
@@ -142,7 +141,7 @@ def parse_date_es(text: str) -> dt.datetime | None:
 
 
 def guess_image_mime(url: str) -> str:
-    u = url.lower().split("?", 1)[0].split("#", 1)[0]
+    u = (url or "").lower().split("?", 1)[0].split("#", 1)[0]
     if u.endswith(".png"):
         return "image/png"
     if u.endswith(".webp"):
@@ -151,7 +150,6 @@ def guess_image_mime(url: str) -> str:
         return "image/gif"
     if u.endswith(".svg"):
         return "image/svg+xml"
-    # default razonable
     return "image/jpeg"
 
 
@@ -172,7 +170,7 @@ def parse_post(post_url: str) -> dict | None:
         tag = soup.find("meta", attrs={"name": name})
         return (tag.get("content") or "").strip() if tag else ""
 
-    # Título: primero OG, si no h1, si no title
+    # Título: OG -> h1 -> title
     title = get_meta_property("og:title")
     if not title:
         h1 = soup.find("h1")
@@ -186,21 +184,21 @@ def parse_post(post_url: str) -> dict | None:
     if not title:
         return None
 
-    # Descripción: OG o meta description; fallback a primer párrafo
+    # Descripción: OG -> meta description -> primer párrafo
     desc = get_meta_property("og:description") or get_meta_name("description") or ""
     if not desc:
         p = soup.find("p")
         if p:
             desc = p.get_text(" ", strip=True)
 
-    desc = desc.strip()
+    desc = (desc or "").strip()
     if len(desc) > 300:
         desc = desc[:300].rstrip() + "…"
 
     # Imagen: OG image
-    image_url = get_meta_property("og:image").strip()
+    image_url = (get_meta_property("og:image") or "").strip()
 
-    # Fecha: buscar patrón en texto completo
+    # Fecha: buscar dentro del texto completo
     text_all = soup.get_text("\n", strip=True)
     published = parse_date_es(text_all) or dt.datetime.now(dt.timezone.utc)
 
@@ -235,7 +233,7 @@ def build_rss(items: list[dict]) -> str:
         img_url = (it.get("image_url") or "").strip()
         if img_url.startswith("http"):
             img_url_esc = html.escape(img_url)
-            img_html = f'<p><img src="{img_url_esc}" alt="" /></p>'
+            img_html = f'<p><img src="{img_url_esc}" alt="{html.escape(it["title"])}" /></p>'
             enclosure = f'\n      <enclosure url="{img_url_esc}" type="{guess_image_mime(img_url)}" />'
 
         # description en HTML (CDATA) para que muchos lectores muestren imagen + texto
@@ -254,10 +252,11 @@ def build_rss(items: list[dict]) -> str:
         )
 
     return f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Últimas Geek</title>
     <link>{SITE}</link>
+    <atom:link href="{FEED_URL}" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
     <lastBuildDate>{now}</lastBuildDate>
 {chr(10).join(rss_items)}
@@ -271,18 +270,18 @@ def main():
     urls = extract_post_urls_from_home(home_html)
 
     items = []
-    seen_titles = set()
+    seen = set()
 
     for u in urls:
         it = parse_post(u)
         if not it:
             continue
 
-        # evita duplicados feos por páginas de listados u otras rarezas
+        # evita duplicados raros
         key = (it["link"], it["title"].strip().lower())
-        if key in seen_titles:
+        if key in seen:
             continue
-        seen_titles.add(key)
+        seen.add(key)
 
         items.append(it)
         if len(items) >= MAX_ITEMS:
