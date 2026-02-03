@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 03 Feb 2026 00:52:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 12:17:58 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[OpenAI lanzó Codex para Mac y sumó funciones multiagente para programar en paralelo]]></title>
@@ -86,6 +86,15 @@
       <pubDate>Tue, 27 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Google-Fotos-IA-912x569-3789009582.jpeg" alt="Google Photos suma prompts de texto para convertir fotos en video con IA generativa" /></p><p>La app incorporó una opción para describir el movimiento o efecto deseado al animar imágenes. La función llega con límites por edad (+18), disponibilidad por región y audio activado por defecto.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Google-Fotos-IA-912x569-3789009582.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[España anuncia que prohibirá las redes sociales a menores de 16 años y exigirá verificación de edad]]></title>
+      <link>https://ultimasgeek.com/espana-anuncia-que-prohibira-las-redes-sociales-a-menores-de-16-anos-y-exigira-verificacion-de-edad/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/espana-anuncia-que-prohibira-las-redes-sociales-a-menores-de-16-anos-y-exigira-verificacion-de-edad/</guid>
+      <pubDate>Tue, 03 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/4b5912c5-681f-47fc-97be-c33a49237833_16-9-discover-aspect-ratio_default_0_x2794y667-1000x600.jpg" alt="España anuncia que prohibirá las redes sociales a menores de 16 años y exigirá verificación de edad" /></p><p>Pedro Sánchez dijo en Dubái que la medida se aprobará “la próxima semana” y formará parte de un paquete contra el contenido ilegal, el odio y la desinformación.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/4b5912c5-681f-47fc-97be-c33a49237833_16-9-discover-aspect-ratio_default_0_x2794y667-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Sat, 24 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/INAVSFIZAZEF5PTACYSIQKKFUI.png-1000x512.jpeg" alt="Google Photos sumó “Me Meme” y ahora permite convertir tus selfies en memes con IA" /></p><p>La nueva herramienta usa inteligencia artificial generativa para insertar tu cara en plantillas y crear imágenes listas para compartir. Por ahora se habilita primero en Estados Unidos y llega en “las próximas semanas”.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/INAVSFIZAZEF5PTACYSIQKKFUI.png-1000x512.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google lanza en Gemini “Personal Intelligence”, una beta que usa Gmail, Fotos y YouTube para respuestas personalizadas]]></title>
-      <link>https://ultimasgeek.com/google-lanza-en-gemini-personal-intelligence-una-beta-que-usa-gmail-fotos-y-youtube-para-respuestas-personalizadas/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-lanza-en-gemini-personal-intelligence-una-beta-que-usa-gmail-fotos-y-youtube-para-respuestas-personalizadas/</guid>
-      <pubDate>Wed, 14 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-5-1000x600.jpg" alt="Google lanza en Gemini “Personal Intelligence”, una beta que usa Gmail, Fotos y YouTube para respuestas personalizadas" /></p><p>La función se habilita bajo opción del usuario y empieza a desplegarse este 14 de enero de 2026 en EE.UU. para suscriptores Google AI Pro y AI Ultra.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-5-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
