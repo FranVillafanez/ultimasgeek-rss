@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 03 Feb 2026 14:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 15:51:12 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[OpenAI lanzó Codex para Mac y sumó funciones multiagente para programar en paralelo]]></title>
@@ -86,6 +86,15 @@
       <pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/2026-01-28_10-05-37_rHEby-1000x600.jpg" alt="Google filtró por error el primer vistazo de “Android para PC” y dejó ver Aluminium OS en acción" /></p><p>Un reporte público en el Issue Tracker expuso dos grabaciones de pantalla de Aluminium OS (ALOS), el híbrido entre Android y ChromeOS, corriendo en una HP Elite Dragonfly 13.5 Chromebook.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/2026-01-28_10-05-37_rHEby-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Moltbook: la “red social para bots” explotó en días y ya enfrenta dudas por seguridad y cuentas humanas]]></title>
+      <link>https://ultimasgeek.com/moltbook-la-red-social-para-bots-exploto-en-dias-y-ya-enfrenta-dudas-por-seguridad-y-cuentas-humanas/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/moltbook-la-red-social-para-bots-exploto-en-dias-y-ya-enfrenta-dudas-por-seguridad-y-cuentas-humanas/</guid>
+      <pubDate>Tue, 03 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/europapress_7261106_plataforma_moltbook-3585453531-1000x600.jpg" alt="Moltbook: la “red social para bots” explotó en días y ya enfrenta dudas por seguridad y cuentas humanas" /></p><p>Lanzada a fines de enero de 2026 por Matt Schlicht, la plataforma sumó 1,5 millones de agentes en una semana, pero un hallazgo de Wiz expuso tokens, correos y la posibilidad de suplantar identidades.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/europapress_7261106_plataforma_moltbook-3585453531-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -170,21 +179,21 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple mostraría en febrero una nueva Siri con Gemini: llegaría primero a iOS 26.4]]></title>
-      <link>https://ultimasgeek.com/apple-mostraria-en-febrero-una-nueva-siri-con-gemini-llegaria-primero-a-ios-26-4/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-mostraria-en-febrero-una-nueva-siri-con-gemini-llegaria-primero-a-ios-26-4/</guid>
-      <pubDate>Sun, 25 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/f428e370-fa0b-11f0-bfce-5a0cae24b562-1000x600.jpeg" alt="Apple mostraría en febrero una nueva Siri con Gemini: llegaría primero a iOS 26.4" /></p><p>Según Bloomberg, Apple prepara demostraciones de una Siri renovada con modelos Gemini de Google en la segunda mitad de febrero, con debut inicial en iOS 26.4.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/f428e370-fa0b-11f0-bfce-5a0cae24b562-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Apple lanzó un nuevo AirTag con más alcance y mejor sonido: mantiene el precio y suma funciones para viajes]]></title>
       <link>https://ultimasgeek.com/apple-lanzo-un-nuevo-airtag-con-mas-alcance-y-mejor-sonido-mantiene-el-precio-y-suma-funciones-para-viajes/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-lanzo-un-nuevo-airtag-con-mas-alcance-y-mejor-sonido-mantiene-el-precio-y-suma-funciones-para-viajes/</guid>
       <pubDate>Mon, 26 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-1000x600.png" alt="Apple lanzó un nuevo AirTag con más alcance y mejor sonido: mantiene el precio y suma funciones para viajes" /></p><p>El rastreador se renueva con mayor rango de Bluetooth, Precision Finding más potente (hasta 50% más lejos) y un parlante 50% más fuerte; además integra el envío seguro de ubicación a aerolíneas para recuperar equipaje.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[Apple mostraría en febrero una nueva Siri con Gemini: llegaría primero a iOS 26.4]]></title>
+      <link>https://ultimasgeek.com/apple-mostraria-en-febrero-una-nueva-siri-con-gemini-llegaria-primero-a-ios-26-4/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-mostraria-en-febrero-una-nueva-siri-con-gemini-llegaria-primero-a-ios-26-4/</guid>
+      <pubDate>Sun, 25 Jan 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/f428e370-fa0b-11f0-bfce-5a0cae24b562-1000x600.jpeg" alt="Apple mostraría en febrero una nueva Siri con Gemini: llegaría primero a iOS 26.4" /></p><p>Según Bloomberg, Apple prepara demostraciones de una Siri renovada con modelos Gemini de Google en la segunda mitad de febrero, con debut inicial en iOS 26.4.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/f428e370-fa0b-11f0-bfce-5a0cae24b562-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Mon, 12 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" alt="Apple cerró un acuerdo con Google para integrar Gemini en Siri y reforzar su apuesta por la IA" /></p><p>La alianza es plurianual y apunta a una Siri más personalizada durante 2026, con foco en privacidad y nuevas funciones dentro de Apple Intelligence.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google Photos sumó “Me Meme” y ahora permite convertir tus selfies en memes con IA]]></title>
-      <link>https://ultimasgeek.com/google-photos-sumo-me-meme-y-ahora-permite-convertir-tus-selfies-en-memes-con-ia/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-photos-sumo-me-meme-y-ahora-permite-convertir-tus-selfies-en-memes-con-ia/</guid>
-      <pubDate>Sat, 24 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/INAVSFIZAZEF5PTACYSIQKKFUI.png-1000x512.jpeg" alt="Google Photos sumó “Me Meme” y ahora permite convertir tus selfies en memes con IA" /></p><p>La nueva herramienta usa inteligencia artificial generativa para insertar tu cara en plantillas y crear imágenes listas para compartir. Por ahora se habilita primero en Estados Unidos y llega en “las próximas semanas”.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/INAVSFIZAZEF5PTACYSIQKKFUI.png-1000x512.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
