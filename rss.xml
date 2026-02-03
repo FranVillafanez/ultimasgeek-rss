@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Últimas Geek</title>
     <link>https://ultimasgeek.com/</link>
+    <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 02 Feb 2026 18:44:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 00:52:26 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[OpenAI lanzó Codex para Mac y sumó funciones multiagente para programar en paralelo]]></title>
+      <link>https://ultimasgeek.com/openai-lanzo-codex-para-mac-y-sumo-funciones-multiagente-para-programar-en-paralelo/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/openai-lanzo-codex-para-mac-y-sumo-funciones-multiagente-para-programar-en-paralelo/</guid>
+      <pubDate>Mon, 02 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/CleanShot-2026-02-02-at-15.49.25-1000x574.png" alt="OpenAI lanzó Codex para Mac y sumó funciones multiagente para programar en paralelo" /></p><p>La nueva app para macOS permite coordinar varios agentes de IA a la vez, revisar cambios con diffs y usar worktrees, skills y automatizaciones. Se habilita desde hoy y tendrá acceso ampliado por tiempo limitado.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/CleanShot-2026-02-02-at-15.49.25-1000x574.png" type="image/png" />
+    </item>
 
     <item>
       <title><![CDATA[Google suma “Video Overview” a NotebookLM en Android e iOS y lleva los resúmenes en video al celular]]></title>
       <link>https://ultimasgeek.com/google-suma-video-overview-a-notebooklm-en-android-e-ios-y-lleva-los-resumenes-en-video-al-celular/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-suma-video-overview-a-notebooklm-en-android-e-ios-y-lleva-los-resumenes-en-video-al-celular/</guid>
       <pubDate>Sun, 01 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/notebook-lm-nueva-funcion-videos_shutterstock_2631582199-843223529-1000x600.jpg" alt="" /></p><p>La actualización, que comenzó a desplegarse a fines de enero de 2026, habilita resúmenes en video dentro de la app y agrega más controles para infografías y presentaciones.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/notebook-lm-nueva-funcion-videos_shutterstock_2631582199-843223529-1000x600.jpg" alt="Google suma “Video Overview” a NotebookLM en Android e iOS y lleva los resúmenes en video al celular" /></p><p>La actualización, que comenzó a desplegarse a fines de enero de 2026, habilita resúmenes en video dentro de la app y agrega más controles para infografías y presentaciones.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/notebook-lm-nueva-funcion-videos_shutterstock_2631582199-843223529-1000x600.jpg" type="image/jpeg" />
     </item>
 
@@ -20,7 +30,7 @@
       <link>https://ultimasgeek.com/apple-anuncio-que-ya-tiene-2-500-millones-de-dispositivos-activos-en-el-mundo/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-anuncio-que-ya-tiene-2-500-millones-de-dispositivos-activos-en-el-mundo/</guid>
       <pubDate>Thu, 29 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/modal_power__cevo1nv24qz6_large-1000x600.jpg" alt="" /></p><p>El dato se conoció hoy, junto con el balance del trimestre cerrado el 27 de diciembre de 2025, en el que la empresa también informó su mayor facturación trimestral.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/modal_power__cevo1nv24qz6_large-1000x600.jpg" alt="Apple anunció que ya tiene 2.500 millones de dispositivos activos en el mundo" /></p><p>El dato se conoció hoy, junto con el balance del trimestre cerrado el 27 de diciembre de 2025, en el que la empresa también informó su mayor facturación trimestral.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/modal_power__cevo1nv24qz6_large-1000x600.jpg" type="image/jpeg" />
     </item>
 
@@ -29,7 +39,7 @@
       <link>https://ultimasgeek.com/sebastiaan-de-with-cofundador-de-halide-se-suma-al-equipo-de-diseno-de-apple/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/sebastiaan-de-with-cofundador-de-halide-se-suma-al-equipo-de-diseno-de-apple/</guid>
       <pubDate>Thu, 29 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/sebastiaan_de_with.jpg" alt="" /></p><p>El diseñador anunció este 28 de enero de 2026 que se incorporó al área de Human Interface Design; su llegada ocurre en medio de cambios de liderazgo dentro de la compañía.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/sebastiaan_de_with.jpg" alt="Sebastiaan de With, cofundador de Halide, se suma al equipo de diseño de Apple" /></p><p>El diseñador anunció este 28 de enero de 2026 que se incorporó al área de Human Interface Design; su llegada ocurre en medio de cambios de liderazgo dentro de la compañía.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/sebastiaan_de_with.jpg" type="image/jpeg" />
     </item>
 
@@ -38,17 +48,8 @@
       <link>https://ultimasgeek.com/apple-lanzo-creator-studio-una-suscripcion-que-reune-final-cut-logic-y-pixelmator-desde-us1299-al-mes/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-lanzo-creator-studio-una-suscripcion-que-reune-final-cut-logic-y-pixelmator-desde-us1299-al-mes/</guid>
       <pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/creator-studio.jpg-1000x600.jpeg" alt="" /></p><p>El nuevo paquete de Apple Creator Studio ya está disponible en el App Store con prueba gratis, plan educativo y acceso a apps clave para video, música e imagen en Mac y iPad.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/creator-studio.jpg-1000x600.jpeg" alt="Apple lanzó Creator Studio: una suscripción que reúne Final Cut, Logic y Pixelmator desde US$12,99 al mes" /></p><p>El nuevo paquete de Apple Creator Studio ya está disponible en el App Store con prueba gratis, plan educativo y acceso a apps clave para video, música e imagen en Mac y iPad.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/creator-studio.jpg-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple lanzó un nuevo AirTag con más alcance y mejor sonido: mantiene el precio y suma funciones para viajes]]></title>
-      <link>https://ultimasgeek.com/apple-lanzo-un-nuevo-airtag-con-mas-alcance-y-mejor-sonido-mantiene-el-precio-y-suma-funciones-para-viajes/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-lanzo-un-nuevo-airtag-con-mas-alcance-y-mejor-sonido-mantiene-el-precio-y-suma-funciones-para-viajes/</guid>
-      <pubDate>Mon, 26 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-1000x600.png" alt="" /></p><p>El rastreador se renueva con mayor rango de Bluetooth, Precision Finding más potente (hasta 50% más lejos) y un parlante 50% más fuerte; además integra el envío seguro de ubicación a aerolíneas para recuperar equipaje.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -56,7 +57,7 @@
       <link>https://ultimasgeek.com/google-maps-suma-gemini-al-modo-peaton-y-bici-navegacion-por-voz-y-recomendaciones-en-tiempo-real/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-maps-suma-gemini-al-modo-peaton-y-bici-navegacion-por-voz-y-recomendaciones-en-tiempo-real/</guid>
       <pubDate>Thu, 29 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-4-1000x600.jpg" alt="" /></p><p>Google anunció que Gemini en navegación ya se habilita también para caminar y andar en bicicleta en Google Maps, con funciones manos libres y consultas contextuales.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-4-1000x600.jpg" alt="Google Maps suma Gemini al modo peatón y bici: navegación por voz y recomendaciones en tiempo real" /></p><p>Google anunció que Gemini en navegación ya se habilita también para caminar y andar en bicicleta en Google Maps, con funciones manos libres y consultas contextuales.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-4-1000x600.jpg" type="image/jpeg" />
     </item>
 
@@ -65,7 +66,7 @@
       <link>https://ultimasgeek.com/google-suma-nano-banana-a-chrome-y-habilita-edicion-de-imagenes-con-ia-desde-el-navegador/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-suma-nano-banana-a-chrome-y-habilita-edicion-de-imagenes-con-ia-desde-el-navegador/</guid>
       <pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/be1b6f38-41a2-4e18-8d8f-c321bfaf675c_1920x1080-1000x600.jpg" alt="" /></p><p>La función empezó a desplegarse este 28 de enero en Estados Unidos para usuarios de escritorio con sesión iniciada; también llega un panel lateral con Gemini y un modo “auto browse” para suscriptores pagos.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/be1b6f38-41a2-4e18-8d8f-c321bfaf675c_1920x1080-1000x600.jpg" alt="Google suma “Nano Banana” a Chrome y habilita edición de imágenes con IA desde el navegador" /></p><p>La función empezó a desplegarse este 28 de enero en Estados Unidos para usuarios de escritorio con sesión iniciada; también llega un panel lateral con Gemini y un modo “auto browse” para suscriptores pagos.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/be1b6f38-41a2-4e18-8d8f-c321bfaf675c_1920x1080-1000x600.jpg" type="image/jpeg" />
     </item>
 
@@ -74,7 +75,7 @@
       <link>https://ultimasgeek.com/google-filtro-por-error-el-primer-vistazo-de-android-para-pc-y-dejo-ver-aluminium-os-en-accion/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-filtro-por-error-el-primer-vistazo-de-android-para-pc-y-dejo-ver-aluminium-os-en-accion/</guid>
       <pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/2026-01-28_10-05-37_rHEby-1000x600.jpg" alt="" /></p><p>Un reporte público en el Issue Tracker expuso dos grabaciones de pantalla de Aluminium OS (ALOS), el híbrido entre Android y ChromeOS, corriendo en una HP Elite Dragonfly 13.5 Chromebook.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/2026-01-28_10-05-37_rHEby-1000x600.jpg" alt="Google filtró por error el primer vistazo de “Android para PC” y dejó ver Aluminium OS en acción" /></p><p>Un reporte público en el Issue Tracker expuso dos grabaciones de pantalla de Aluminium OS (ALOS), el híbrido entre Android y ChromeOS, corriendo en una HP Elite Dragonfly 13.5 Chromebook.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/2026-01-28_10-05-37_rHEby-1000x600.jpg" type="image/jpeg" />
     </item>
 
@@ -83,7 +84,7 @@
       <link>https://ultimasgeek.com/google-photos-suma-prompts-de-texto-para-convertir-fotos-en-video-con-ia-generativa/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-photos-suma-prompts-de-texto-para-convertir-fotos-en-video-con-ia-generativa/</guid>
       <pubDate>Tue, 27 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Google-Fotos-IA-912x569-3789009582.jpeg" alt="" /></p><p>La app incorporó una opción para describir el movimiento o efecto deseado al animar imágenes. La función llega con límites por edad (+18), disponibilidad por región y audio activado por defecto.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Google-Fotos-IA-912x569-3789009582.jpeg" alt="Google Photos suma prompts de texto para convertir fotos en video con IA generativa" /></p><p>La app incorporó una opción para describir el movimiento o efecto deseado al animar imágenes. La función llega con límites por edad (+18), disponibilidad por región y audio activado por defecto.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Google-Fotos-IA-912x569-3789009582.jpeg" type="image/jpeg" />
     </item>
 
@@ -92,7 +93,7 @@
       <link>https://ultimasgeek.com/adobe-habilito-generaciones-ilimitadas-en-firefly-por-tiempo-limitado-e-incluyo-modelos-de-google-openai-y-runway/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/adobe-habilito-generaciones-ilimitadas-en-firefly-por-tiempo-limitado-e-incluyo-modelos-de-google-openai-y-runway/</guid>
       <pubDate>Mon, 02 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/media_13aab809223b834cc1a1c0ea475aab1abb4d5ccad.png-1000x600.webp" alt="" /></p><p>La promoción rige para planes seleccionados y permite crear imágenes y video sin tope (hasta 2K) si se cumple con la ventana fijada por la compañía.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/media_13aab809223b834cc1a1c0ea475aab1abb4d5ccad.png-1000x600.webp" alt="Adobe habilitó generaciones ilimitadas en Firefly por tiempo limitado e incluyó modelos de Google, OpenAI y Runway" /></p><p>La promoción rige para planes seleccionados y permite crear imágenes y video sin tope (hasta 2K) si se cumple con la ventana fijada por la compañía.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/media_13aab809223b834cc1a1c0ea475aab1abb4d5ccad.png-1000x600.webp" type="image/webp" />
     </item>
 
@@ -101,7 +102,7 @@
       <link>https://ultimasgeek.com/microsoft-prueba-una-barra-de-menu-superior-para-windows-11-con-powertoys/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/microsoft-prueba-una-barra-de-menu-superior-para-windows-11-con-powertoys/</guid>
       <pubDate>Fri, 30 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/command-palette-icon-in-the-start-menu-3165243280-1000x569.jpg" alt="" /></p><p>El equipo de PowerToys evalúa sumar un dock tipo macOS/Linux en Windows 11 para acceso rápido a herramientas y monitoreo del sistema.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/command-palette-icon-in-the-start-menu-3165243280-1000x569.jpg" alt="Microsoft prueba una barra de menú superior para Windows 11 con PowerToys" /></p><p>El equipo de PowerToys evalúa sumar un dock tipo macOS/Linux en Windows 11 para acceso rápido a herramientas y monitoreo del sistema.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/command-palette-icon-in-the-start-menu-3165243280-1000x569.jpg" type="image/jpeg" />
     </item>
 
@@ -110,7 +111,7 @@
       <link>https://ultimasgeek.com/mercado-libre-vs-temu-la-corte-suprema-debera-definir-quien-sigue-la-causa-por-publicidad-enganosa/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/mercado-libre-vs-temu-la-corte-suprema-debera-definir-quien-sigue-la-causa-por-publicidad-enganosa/</guid>
       <pubDate>Thu, 29 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-2-1000x600.jpg" alt="" /></p><p>La disputa escaló este 29 de enero tras un conflicto de competencia entre cámaras federales. El caso nació con una denuncia de Mercado Libre en agosto de 2025 y una medida preventiva que ordenó a Temu frenar promociones y anuncios cuestionados.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-2-1000x600.jpg" alt="Mercado Libre vs Temu: la Corte Suprema deberá definir quién sigue la causa por publicidad engañosa" /></p><p>La disputa escaló este 29 de enero tras un conflicto de competencia entre cámaras federales. El caso nació con una denuncia de Mercado Libre en agosto de 2025 y una medida preventiva que ordenó a Temu frenar promociones y anuncios cuestionados.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-2-1000x600.jpg" type="image/jpeg" />
     </item>
 
@@ -119,7 +120,7 @@
       <link>https://ultimasgeek.com/meta-anuncia-agentes-de-ia-para-impulsar-compras-y-eleva-su-inversion-tecnologica-en-2026/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/meta-anuncia-agentes-de-ia-para-impulsar-compras-y-eleva-su-inversion-tecnologica-en-2026/</guid>
       <pubDate>Thu, 29 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/mark-zuckerberg-2657647436-1000x600.jpg" alt="" /></p><p>Mark Zuckerberg dijo que la compañía empezará a desplegar “nuevos modelos y productos” en los próximos meses, con foco en herramientas de compra asistida por agentes de inteligencia artificial.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/mark-zuckerberg-2657647436-1000x600.jpg" alt="Meta anuncia agentes de IA para impulsar compras y eleva su inversión tecnológica en 2026" /></p><p>Mark Zuckerberg dijo que la compañía empezará a desplegar “nuevos modelos y productos” en los próximos meses, con foco en herramientas de compra asistida por agentes de inteligencia artificial.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/mark-zuckerberg-2657647436-1000x600.jpg" type="image/jpeg" />
     </item>
 
@@ -128,7 +129,7 @@
       <link>https://ultimasgeek.com/openai-lanzo-prism-un-editor-cientifico-gratuito-con-ia-para-escribir-y-colaborar-en-latex/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/openai-lanzo-prism-un-editor-cientifico-gratuito-con-ia-para-escribir-y-colaborar-en-latex/</guid>
       <pubDate>Thu, 29 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/openai-historia-portada-890x445-1.jpg" alt="" /></p><p>La nueva plataforma integra GPT-5.2 dentro del documento, permite colaboradores ilimitados y apunta a simplificar la redacción y revisión de papers desde una cuenta de ChatGPT.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/openai-historia-portada-890x445-1.jpg" alt="OpenAI lanzó Prism, un editor científico gratuito con IA para escribir y colaborar en LaTeX" /></p><p>La nueva plataforma integra GPT-5.2 dentro del documento, permite colaboradores ilimitados y apunta a simplificar la redacción y revisión de papers desde una cuenta de ChatGPT.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/openai-historia-portada-890x445-1.jpg" type="image/jpeg" />
     </item>
 
@@ -137,7 +138,7 @@
       <link>https://ultimasgeek.com/la-ue-abre-una-investigacion-formal-contra-x-por-los-deepfakes-sexuales-generados-con-grok/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/la-ue-abre-una-investigacion-formal-contra-x-por-los-deepfakes-sexuales-generados-con-grok/</guid>
       <pubDate>Mon, 26 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Grok-logo-on-an-Android-phone-with-an-AI-type-background-3613510951-1000x600.jpg" alt="" /></p><p>La Comisión Europea activó el procedimiento este lunes 26 de enero de 2026 bajo la Ley de Servicios Digitales (DSA) y amplió el control sobre los algoritmos de recomendación de la plataforma.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Grok-logo-on-an-Android-phone-with-an-AI-type-background-3613510951-1000x600.jpg" alt="La UE abre una investigación formal contra X por los deepfakes sexuales generados con Grok" /></p><p>La Comisión Europea activó el procedimiento este lunes 26 de enero de 2026 bajo la Ley de Servicios Digitales (DSA) y amplió el control sobre los algoritmos de recomendación de la plataforma.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Grok-logo-on-an-Android-phone-with-an-AI-type-background-3613510951-1000x600.jpg" type="image/jpeg" />
     </item>
 
@@ -146,7 +147,7 @@
       <link>https://ultimasgeek.com/whatsapp-prueba-un-modo-de-razonamiento-para-meta-ai-y-promete-respuestas-mas-completas/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-prueba-un-modo-de-razonamiento-para-meta-ai-y-promete-respuestas-mas-completas/</guid>
       <pubDate>Mon, 26 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Meta-AI-o-ChatGPT-en-WhatsApp-8-1159779845-1000x600.jpg" alt="" /></p><p>Detectado en la beta de WhatsApp para Android 2.26.3.10, el nuevo selector permitiría alternar entre respuestas “rápidas” y “razonadas” dentro del chat con Meta AI.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Meta-AI-o-ChatGPT-en-WhatsApp-8-1159779845-1000x600.jpg" alt="WhatsApp prueba un “modo de razonamiento” para Meta AI y promete respuestas más completas" /></p><p>Detectado en la beta de WhatsApp para Android 2.26.3.10, el nuevo selector permitiría alternar entre respuestas “rápidas” y “razonadas” dentro del chat con Meta AI.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Meta-AI-o-ChatGPT-en-WhatsApp-8-1159779845-1000x600.jpg" type="image/jpeg" />
     </item>
 
@@ -155,7 +156,7 @@
       <link>https://ultimasgeek.com/apple-mostraria-en-febrero-una-nueva-siri-con-gemini-llegaria-primero-a-ios-26-4/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-mostraria-en-febrero-una-nueva-siri-con-gemini-llegaria-primero-a-ios-26-4/</guid>
       <pubDate>Sun, 25 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/f428e370-fa0b-11f0-bfce-5a0cae24b562-1000x600.jpeg" alt="" /></p><p>Según Bloomberg, Apple prepara demostraciones de una Siri renovada con modelos Gemini de Google en la segunda mitad de febrero, con debut inicial en iOS 26.4.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/f428e370-fa0b-11f0-bfce-5a0cae24b562-1000x600.jpeg" alt="Apple mostraría en febrero una nueva Siri con Gemini: llegaría primero a iOS 26.4" /></p><p>Según Bloomberg, Apple prepara demostraciones de una Siri renovada con modelos Gemini de Google en la segunda mitad de febrero, con debut inicial en iOS 26.4.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/f428e370-fa0b-11f0-bfce-5a0cae24b562-1000x600.jpeg" type="image/jpeg" />
     </item>
 
@@ -164,8 +165,17 @@
       <link>https://ultimasgeek.com/openai-sumo-grupos-de-pestanas-a-chatgpt-atlas-su-navegador-con-ia-para-macos/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/openai-sumo-grupos-de-pestanas-a-chatgpt-atlas-su-navegador-con-ia-para-macos/</guid>
       <pubDate>Fri, 23 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/openai-lanza-atlas-su-navegador-impulsado-por-ia-openai-lanza-atlas-su-navegador-impulsado-por-ia-6FBD935F397FB419B62534F4C7FE9FB6-4134277557-1000x600.jpeg" alt="" /></p><p>La actualización 1.2026.15.3 habilita organizar pestañas, agrega un modo Auto que alterna entre ChatGPT y Google, y mejora el uso de memoria.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/openai-lanza-atlas-su-navegador-impulsado-por-ia-openai-lanza-atlas-su-navegador-impulsado-por-ia-6FBD935F397FB419B62534F4C7FE9FB6-4134277557-1000x600.jpeg" alt="OpenAI sumó grupos de pestañas a ChatGPT Atlas, su navegador con IA para macOS" /></p><p>La actualización 1.2026.15.3 habilita organizar pestañas, agrega un modo Auto que alterna entre ChatGPT y Google, y mejora el uso de memoria.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/openai-lanza-atlas-su-navegador-impulsado-por-ia-openai-lanza-atlas-su-navegador-impulsado-por-ia-6FBD935F397FB419B62534F4C7FE9FB6-4134277557-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Apple lanzó un nuevo AirTag con más alcance y mejor sonido: mantiene el precio y suma funciones para viajes]]></title>
+      <link>https://ultimasgeek.com/apple-lanzo-un-nuevo-airtag-con-mas-alcance-y-mejor-sonido-mantiene-el-precio-y-suma-funciones-para-viajes/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-lanzo-un-nuevo-airtag-con-mas-alcance-y-mejor-sonido-mantiene-el-precio-y-suma-funciones-para-viajes/</guid>
+      <pubDate>Mon, 26 Jan 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-1000x600.png" alt="Apple lanzó un nuevo AirTag con más alcance y mejor sonido: mantiene el precio y suma funciones para viajes" /></p><p>El rastreador se renueva con mayor rango de Bluetooth, Precision Finding más potente (hasta 50% más lejos) y un parlante 50% más fuerte; además integra el envío seguro de ubicación a aerolíneas para recuperar equipaje.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -173,7 +183,7 @@
       <link>https://ultimasgeek.com/claude-habilita-conexion-con-apple-health-en-iphone-y-suma-funciones-para-analizar-datos-de-sueno-y-actividad/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/claude-habilita-conexion-con-apple-health-en-iphone-y-suma-funciones-para-analizar-datos-de-sueno-y-actividad/</guid>
       <pubDate>Thu, 22 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-1-1000x600.jpg" alt="" /></p><p>La integración llega en beta a la app de Anthropic: por ahora es opcional y está disponible para suscriptores Pro y Max en Estados Unidos.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-1-1000x600.jpg" alt="Claude habilita conexión con Apple Health en iPhone y suma funciones para analizar datos de sueño y actividad" /></p><p>La integración llega en beta a la app de Anthropic: por ahora es opcional y está disponible para suscriptores Pro y Max en Estados Unidos.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-1-1000x600.jpg" type="image/jpeg" />
     </item>
 
@@ -182,7 +192,7 @@
       <link>https://ultimasgeek.com/apple-lanzo-apple-creator-studio-una-suscripcion-que-reune-final-cut-pro-logic-pro-y-pixelmator-pro-con-nuevas-funciones-de-ia/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-lanzo-apple-creator-studio-una-suscripcion-que-reune-final-cut-pro-logic-pro-y-pixelmator-pro-con-nuevas-funciones-de-ia/</guid>
       <pubDate>Tue, 13 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-4-1000x600.jpg" alt="" /></p><p>Una nueva suscripción de Apple agrupa sus principales apps creativas para video, música e imagen y suma herramientas “inteligentes” y contenido premium en Keynote, Pages y Numbers. Estará disponible desde el 28 de enero de 2026.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-4-1000x600.jpg" alt="Apple lanzó Apple Creator Studio: una suscripción que reúne Final Cut Pro, Logic Pro y Pixelmator Pro con nuevas funciones de IA" /></p><p>Una nueva suscripción de Apple agrupa sus principales apps creativas para video, música e imagen y suma herramientas “inteligentes” y contenido premium en Keynote, Pages y Numbers. Estará disponible desde el 28 de enero de 2026.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-4-1000x600.jpg" type="image/jpeg" />
     </item>
 
@@ -191,7 +201,7 @@
       <link>https://ultimasgeek.com/elon-musk-cuestiono-el-acuerdo-apple-google-para-una-siri-con-gemini-y-hablo-de-concentracion-de-poder/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/elon-musk-cuestiono-el-acuerdo-apple-google-para-una-siri-con-gemini-y-hablo-de-concentracion-de-poder/</guid>
       <pubDate>Mon, 12 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/elon-musk-trajetoria-do-empreendedor-de-sucesso-3778797263-1000x600.jpeg" alt="" /></p><p>El CEO de xAI reaccionó en X tras el anuncio de Apple y Google para integrar Gemini en la próxima Siri y en futuras funciones de Apple Intelligence.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/elon-musk-trajetoria-do-empreendedor-de-sucesso-3778797263-1000x600.jpeg" alt="Elon Musk cuestionó el acuerdo Apple–Google para una Siri con Gemini y habló de “concentración de poder”" /></p><p>El CEO de xAI reaccionó en X tras el anuncio de Apple y Google para integrar Gemini en la próxima Siri y en futuras funciones de Apple Intelligence.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/elon-musk-trajetoria-do-empreendedor-de-sucesso-3778797263-1000x600.jpeg" type="image/jpeg" />
     </item>
 
@@ -200,17 +210,8 @@
       <link>https://ultimasgeek.com/apple-cerro-un-acuerdo-con-google-para-integrar-gemini-en-siri-y-reforzar-su-apuesta-por-la-ia/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-cerro-un-acuerdo-con-google-para-integrar-gemini-en-siri-y-reforzar-su-apuesta-por-la-ia/</guid>
       <pubDate>Mon, 12 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" alt="" /></p><p>La alianza es plurianual y apunta a una Siri más personalizada durante 2026, con foco en privacidad y nuevas funciones dentro de Apple Intelligence.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" alt="Apple cerró un acuerdo con Google para integrar Gemini en Siri y reforzar su apuesta por la IA" /></p><p>La alianza es plurianual y apunta a una Siri más personalizada durante 2026, con foco en privacidad y nuevas funciones dentro de Apple Intelligence.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple afirmó que 2025 fue récord para sus Servicios: crecen el App Store, Apple Pay y Apple TV]]></title>
-      <link>https://ultimasgeek.com/apple-afirmo-que-2025-fue-record-para-sus-servicios-crecen-el-app-store-apple-pay-y-apple-tv/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-afirmo-que-2025-fue-record-para-sus-servicios-crecen-el-app-store-apple-pay-y-apple-tv/</guid>
-      <pubDate>Mon, 12 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-2-1-1000x600.jpg" alt="" /></p><p>En un comunicado publicado el 12 de enero de 2026, Apple informó que su negocio de Servicios cerró 2025 con marcas históricas: 850 millones de usuarios semanales en el App Store y más de US$100.000 millones en ventas adicionales para comercios con Apple Pay.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-2-1-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -218,7 +219,7 @@
       <link>https://ultimasgeek.com/google-photos-sumo-me-meme-y-ahora-permite-convertir-tus-selfies-en-memes-con-ia/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-photos-sumo-me-meme-y-ahora-permite-convertir-tus-selfies-en-memes-con-ia/</guid>
       <pubDate>Sat, 24 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/INAVSFIZAZEF5PTACYSIQKKFUI.png-1000x512.jpeg" alt="" /></p><p>La nueva herramienta usa inteligencia artificial generativa para insertar tu cara en plantillas y crear imágenes listas para compartir. Por ahora se habilita primero en Estados Unidos y llega en “las próximas semanas”.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/INAVSFIZAZEF5PTACYSIQKKFUI.png-1000x512.jpeg" alt="Google Photos sumó “Me Meme” y ahora permite convertir tus selfies en memes con IA" /></p><p>La nueva herramienta usa inteligencia artificial generativa para insertar tu cara en plantillas y crear imágenes listas para compartir. Por ahora se habilita primero en Estados Unidos y llega en “las próximas semanas”.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/INAVSFIZAZEF5PTACYSIQKKFUI.png-1000x512.jpeg" type="image/jpeg" />
     </item>
 
@@ -227,7 +228,7 @@
       <link>https://ultimasgeek.com/google-lanza-en-gemini-personal-intelligence-una-beta-que-usa-gmail-fotos-y-youtube-para-respuestas-personalizadas/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-lanza-en-gemini-personal-intelligence-una-beta-que-usa-gmail-fotos-y-youtube-para-respuestas-personalizadas/</guid>
       <pubDate>Wed, 14 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-5-1000x600.jpg" alt="" /></p><p>La función se habilita bajo opción del usuario y empieza a desplegarse este 14 de enero de 2026 en EE.UU. para suscriptores Google AI Pro y AI Ultra.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-5-1000x600.jpg" alt="Google lanza en Gemini “Personal Intelligence”, una beta que usa Gmail, Fotos y YouTube para respuestas personalizadas" /></p><p>La función se habilita bajo opción del usuario y empieza a desplegarse este 14 de enero de 2026 en EE.UU. para suscriptores Google AI Pro y AI Ultra.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-5-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
