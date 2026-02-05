@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 05 Feb 2026 11:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 13:03:36 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple integra agentes de IA de OpenAI y Anthropic en Xcode 26.3 para “programación agentiva”]]></title>
@@ -86,6 +86,15 @@
       <pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/2026-01-28_10-05-37_rHEby-1000x600.jpg" alt="Google filtró por error el primer vistazo de “Android para PC” y dejó ver Aluminium OS en acción" /></p><p>Un reporte público en el Issue Tracker expuso dos grabaciones de pantalla de Aluminium OS (ALOS), el híbrido entre Android y ChromeOS, corriendo en una HP Elite Dragonfly 13.5 Chromebook.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/2026-01-28_10-05-37_rHEby-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Spotify se alía con Bookshop.org y sumará la compra de libros físicos desde su app en EE.UU. y Reino Unido]]></title>
+      <link>https://ultimasgeek.com/spotify-se-alia-con-bookshop-org-y-sumara-la-compra-de-libros-fisicos-desde-su-app-en-ee-uu-y-reino-unido/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/spotify-se-alia-con-bookshop-org-y-sumara-la-compra-de-libros-fisicos-desde-su-app-en-ee-uu-y-reino-unido/</guid>
+      <pubDate>Thu, 05 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Spotify_Physical_Books_Product_Infographic_3240x1620@2x.png.webp" alt="Spotify se alía con Bookshop.org y sumará la compra de libros físicos desde su app en EE.UU. y Reino Unido" /></p><p>La plataforma de streaming anunció que, desde la primavera de 2026, mostrará un botón para comprar ediciones impresas de audiolibros vía Bookshop.org; además lanzó Page Match, una función que sincroniza lectura y audio con la cámara.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Spotify_Physical_Books_Product_Infographic_3240x1620@2x.png.webp" type="image/webp" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Mon, 12 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/elon-musk-trajetoria-do-empreendedor-de-sucesso-3778797263-1000x600.jpeg" alt="Elon Musk cuestionó el acuerdo Apple–Google para una Siri con Gemini y habló de “concentración de poder”" /></p><p>El CEO de xAI reaccionó en X tras el anuncio de Apple y Google para integrar Gemini en la próxima Siri y en futuras funciones de Apple Intelligence.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/elon-musk-trajetoria-do-empreendedor-de-sucesso-3778797263-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple cerró un acuerdo con Google para integrar Gemini en Siri y reforzar su apuesta por la IA]]></title>
-      <link>https://ultimasgeek.com/apple-cerro-un-acuerdo-con-google-para-integrar-gemini-en-siri-y-reforzar-su-apuesta-por-la-ia/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-cerro-un-acuerdo-con-google-para-integrar-gemini-en-siri-y-reforzar-su-apuesta-por-la-ia/</guid>
-      <pubDate>Mon, 12 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" alt="Apple cerró un acuerdo con Google para integrar Gemini en Siri y reforzar su apuesta por la IA" /></p><p>La alianza es plurianual y apunta a una Siri más personalizada durante 2026, con foco en privacidad y nuevas funciones dentro de Apple Intelligence.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
