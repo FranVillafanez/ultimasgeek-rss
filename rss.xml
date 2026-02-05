@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 05 Feb 2026 21:29:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 22:28:40 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Tim Cook anticipó nuevas líneas de productos y servicios de Apple impulsados por IA]]></title>
+      <link>https://ultimasgeek.com/tim-cook-anticipo-nuevas-lineas-de-productos-y-servicios-de-apple-impulsados-por-ia/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/tim-cook-anticipo-nuevas-lineas-de-productos-y-servicios-de-apple-impulsados-por-ia/</guid>
+      <pubDate>Thu, 05 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/GettyImages-1421759579-793893512-1000x600.jpg" alt="Tim Cook anticipó nuevas líneas de productos y servicios de Apple impulsados por IA" /></p><p>En una reunión interna con empleados, el CEO dijo que llegarán “nuevas categorías” habilitadas por inteligencia artificial; el mercado mira posibles anuncios como Apple Glasses y un futuro Health+.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/GettyImages-1421759579-793893512-1000x600.jpg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Apple integra agentes de IA de OpenAI y Anthropic en Xcode 26.3 para “programación agentiva”]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Thu, 29 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/modal_power__cevo1nv24qz6_large-1000x600.jpg" alt="Apple anunció que ya tiene 2.500 millones de dispositivos activos en el mundo" /></p><p>El dato se conoció hoy, junto con el balance del trimestre cerrado el 27 de diciembre de 2025, en el que la empresa también informó su mayor facturación trimestral.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/modal_power__cevo1nv24qz6_large-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Sebastiaan de With, cofundador de Halide, se suma al equipo de diseño de Apple]]></title>
-      <link>https://ultimasgeek.com/sebastiaan-de-with-cofundador-de-halide-se-suma-al-equipo-de-diseno-de-apple/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/sebastiaan-de-with-cofundador-de-halide-se-suma-al-equipo-de-diseno-de-apple/</guid>
-      <pubDate>Thu, 29 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/sebastiaan_de_with.jpg" alt="Sebastiaan de With, cofundador de Halide, se suma al equipo de diseño de Apple" /></p><p>El diseñador anunció este 28 de enero de 2026 que se incorporó al área de Human Interface Design; su llegada ocurre en medio de cambios de liderazgo dentro de la compañía.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/sebastiaan_de_with.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -161,12 +161,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Google Photos suma prompts de texto para convertir fotos en video con IA generativa]]></title>
-      <link>https://ultimasgeek.com/google-photos-suma-prompts-de-texto-para-convertir-fotos-en-video-con-ia-generativa/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-photos-suma-prompts-de-texto-para-convertir-fotos-en-video-con-ia-generativa/</guid>
-      <pubDate>Tue, 27 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Google-Fotos-IA-912x569-3789009582.jpeg" alt="Google Photos suma prompts de texto para convertir fotos en video con IA generativa" /></p><p>La app incorporó una opción para describir el movimiento o efecto deseado al animar imágenes. La función llega con límites por edad (+18), disponibilidad por región y audio activado por defecto.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Google-Fotos-IA-912x569-3789009582.jpeg" type="image/jpeg" />
+      <title><![CDATA[Sebastiaan de With, cofundador de Halide, se suma al equipo de diseño de Apple]]></title>
+      <link>https://ultimasgeek.com/sebastiaan-de-with-cofundador-de-halide-se-suma-al-equipo-de-diseno-de-apple/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/sebastiaan-de-with-cofundador-de-halide-se-suma-al-equipo-de-diseno-de-apple/</guid>
+      <pubDate>Thu, 29 Jan 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/sebastiaan_de_with.jpg" alt="Sebastiaan de With, cofundador de Halide, se suma al equipo de diseño de Apple" /></p><p>El diseñador anunció este 28 de enero de 2026 que se incorporó al área de Human Interface Design; su llegada ocurre en medio de cambios de liderazgo dentro de la compañía.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/sebastiaan_de_with.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -224,12 +224,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Google Photos sumó “Me Meme” y ahora permite convertir tus selfies en memes con IA]]></title>
-      <link>https://ultimasgeek.com/google-photos-sumo-me-meme-y-ahora-permite-convertir-tus-selfies-en-memes-con-ia/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-photos-sumo-me-meme-y-ahora-permite-convertir-tus-selfies-en-memes-con-ia/</guid>
-      <pubDate>Sat, 24 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/INAVSFIZAZEF5PTACYSIQKKFUI.png-1000x512.jpeg" alt="Google Photos sumó “Me Meme” y ahora permite convertir tus selfies en memes con IA" /></p><p>La nueva herramienta usa inteligencia artificial generativa para insertar tu cara en plantillas y crear imágenes listas para compartir. Por ahora se habilita primero en Estados Unidos y llega en “las próximas semanas”.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/INAVSFIZAZEF5PTACYSIQKKFUI.png-1000x512.jpeg" type="image/jpeg" />
+      <title><![CDATA[Google Photos suma prompts de texto para convertir fotos en video con IA generativa]]></title>
+      <link>https://ultimasgeek.com/google-photos-suma-prompts-de-texto-para-convertir-fotos-en-video-con-ia-generativa/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-photos-suma-prompts-de-texto-para-convertir-fotos-en-video-con-ia-generativa/</guid>
+      <pubDate>Tue, 27 Jan 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Google-Fotos-IA-912x569-3789009582.jpeg" alt="Google Photos suma prompts de texto para convertir fotos en video con IA generativa" /></p><p>La app incorporó una opción para describir el movimiento o efecto deseado al animar imágenes. La función llega con límites por edad (+18), disponibilidad por región y audio activado por defecto.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Google-Fotos-IA-912x569-3789009582.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
