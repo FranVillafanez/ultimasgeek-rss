@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 06 Feb 2026 10:39:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 11:34:54 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Tim Cook anticipó nuevas líneas de productos y servicios de Apple impulsados por IA]]></title>
@@ -188,15 +188,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple mostraría en febrero una nueva Siri con Gemini: llegaría primero a iOS 26.4]]></title>
-      <link>https://ultimasgeek.com/apple-mostraria-en-febrero-una-nueva-siri-con-gemini-llegaria-primero-a-ios-26-4/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-mostraria-en-febrero-una-nueva-siri-con-gemini-llegaria-primero-a-ios-26-4/</guid>
-      <pubDate>Sun, 25 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/f428e370-fa0b-11f0-bfce-5a0cae24b562-1000x600.jpeg" alt="Apple mostraría en febrero una nueva Siri con Gemini: llegaría primero a iOS 26.4" /></p><p>Según Bloomberg, Apple prepara demostraciones de una Siri renovada con modelos Gemini de Google en la segunda mitad de febrero, con debut inicial en iOS 26.4.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/f428e370-fa0b-11f0-bfce-5a0cae24b562-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Claude habilita conexión con Apple Health en iPhone y suma funciones para analizar datos de sueño y actividad]]></title>
       <link>https://ultimasgeek.com/claude-habilita-conexion-con-apple-health-en-iphone-y-suma-funciones-para-analizar-datos-de-sueno-y-actividad/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/claude-habilita-conexion-con-apple-health-en-iphone-y-suma-funciones-para-analizar-datos-de-sueno-y-actividad/</guid>
@@ -230,6 +221,15 @@
       <pubDate>Tue, 27 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Google-Fotos-IA-912x569-3789009582.jpeg" alt="Google Photos suma prompts de texto para convertir fotos en video con IA generativa" /></p><p>La app incorporó una opción para describir el movimiento o efecto deseado al animar imágenes. La función llega con límites por edad (+18), disponibilidad por región y audio activado por defecto.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Google-Fotos-IA-912x569-3789009582.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google Photos sumó “Me Meme” y ahora permite convertir tus selfies en memes con IA]]></title>
+      <link>https://ultimasgeek.com/google-photos-sumo-me-meme-y-ahora-permite-convertir-tus-selfies-en-memes-con-ia/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-photos-sumo-me-meme-y-ahora-permite-convertir-tus-selfies-en-memes-con-ia/</guid>
+      <pubDate>Sat, 24 Jan 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/INAVSFIZAZEF5PTACYSIQKKFUI.png-1000x512.jpeg" alt="Google Photos sumó “Me Meme” y ahora permite convertir tus selfies en memes con IA" /></p><p>La nueva herramienta usa inteligencia artificial generativa para insertar tu cara en plantillas y crear imágenes listas para compartir. Por ahora se habilita primero en Estados Unidos y llega en “las próximas semanas”.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/INAVSFIZAZEF5PTACYSIQKKFUI.png-1000x512.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
