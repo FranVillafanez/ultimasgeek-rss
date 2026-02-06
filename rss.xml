@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 06 Feb 2026 14:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 15:40:26 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Google ampliará la compatibilidad de Quick Share con AirDrop en más teléfonos Android “muy pronto”]]></title>
@@ -77,6 +77,15 @@
       <pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/be1b6f38-41a2-4e18-8d8f-c321bfaf675c_1920x1080-1000x600.jpg" alt="Google suma “Nano Banana” a Chrome y habilita edición de imágenes con IA desde el navegador" /></p><p>La función empezó a desplegarse este 28 de enero en Estados Unidos para usuarios de escritorio con sesión iniciada; también llega un panel lateral con Gemini y un modo “auto browse” para suscriptores pagos.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/be1b6f38-41a2-4e18-8d8f-c321bfaf675c_1920x1080-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Spotify lanzó “About the Song”: una nueva función para conocer la historia detrás de cada tema]]></title>
+      <link>https://ultimasgeek.com/spotify-lanzo-about-the-song-una-nueva-funcion-para-conocer-la-historia-detras-de-cada-tema/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/spotify-lanzo-about-the-song-una-nueva-funcion-para-conocer-la-historia-detras-de-cada-tema/</guid>
+      <pubDate>Fri, 06 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/spotify-hifi-lossless-streaming-1000x600.jpg" alt="Spotify lanzó “About the Song”: una nueva función para conocer la historia detrás de cada tema" /></p><p>La plataforma empezó a probar en iOS y Android una herramienta que muestra tarjetas con relatos breves sobre canciones, con datos de fuentes externas y opción de valorar el contenido.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/spotify-hifi-lossless-streaming-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/2026-01-28_10-05-37_rHEby-1000x600.jpg" alt="Google filtró por error el primer vistazo de “Android para PC” y dejó ver Aluminium OS en acción" /></p><p>Un reporte público en el Issue Tracker expuso dos grabaciones de pantalla de Aluminium OS (ALOS), el híbrido entre Android y ChromeOS, corriendo en una HP Elite Dragonfly 13.5 Chromebook.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/2026-01-28_10-05-37_rHEby-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google Photos suma prompts de texto para convertir fotos en video con IA generativa]]></title>
-      <link>https://ultimasgeek.com/google-photos-suma-prompts-de-texto-para-convertir-fotos-en-video-con-ia-generativa/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-photos-suma-prompts-de-texto-para-convertir-fotos-en-video-con-ia-generativa/</guid>
-      <pubDate>Tue, 27 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Google-Fotos-IA-912x569-3789009582.jpeg" alt="Google Photos suma prompts de texto para convertir fotos en video con IA generativa" /></p><p>La app incorporó una opción para describir el movimiento o efecto deseado al animar imágenes. La función llega con límites por edad (+18), disponibilidad por región y audio activado por defecto.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Google-Fotos-IA-912x569-3789009582.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
