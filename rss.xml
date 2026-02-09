@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Sun, 08 Feb 2026 23:31:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 02:13:22 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple evalúa habilitar ChatGPT y otros chatbots en CarPlay: qué cambiaría para los conductores]]></title>
@@ -80,6 +80,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Nueva York impulsa una moratoria de tres años para frenar nuevos data centers por su impacto en la red eléctrica]]></title>
+      <link>https://ultimasgeek.com/nueva-york-impulsa-una-moratoria-de-tres-anos-para-frenar-nuevos-data-centers-por-su-impacto-en-la-red-electrica/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/nueva-york-impulsa-una-moratoria-de-tres-anos-para-frenar-nuevos-data-centers-por-su-impacto-en-la-red-electrica/</guid>
+      <pubDate>Sun, 08 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/stargate-advances-with-partnership-with-oracle-1-scaled-e1770593810457-1000x600.jpg" alt="Nueva York impulsa una moratoria de tres años para frenar nuevos data centers por su impacto en la red eléctrica" /></p><p>Legisladores estatales presentaron el proyecto S9144 para pausar permisos por al menos tres años y 90 días, mientras se evalúan efectos ambientales y de tarifas en plena expansión de infraestructura para IA.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/stargate-advances-with-partnership-with-oracle-1-scaled-e1770593810457-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Spotify lanzó “About the Song”: una nueva función para conocer la historia detrás de cada tema]]></title>
       <link>https://ultimasgeek.com/spotify-lanzo-about-the-song-una-nueva-funcion-para-conocer-la-historia-detras-de-cada-tema/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/spotify-lanzo-about-the-song-una-nueva-funcion-para-conocer-la-historia-detras-de-cada-tema/</guid>
@@ -140,15 +149,6 @@
       <pubDate>Thu, 29 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/mark-zuckerberg-2657647436-1000x600.jpg" alt="Meta anuncia agentes de IA para impulsar compras y eleva su inversión tecnológica en 2026" /></p><p>Mark Zuckerberg dijo que la compañía empezará a desplegar “nuevos modelos y productos” en los próximos meses, con foco en herramientas de compra asistida por agentes de inteligencia artificial.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/mark-zuckerberg-2657647436-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[OpenAI lanzó Prism, un editor científico gratuito con IA para escribir y colaborar en LaTeX]]></title>
-      <link>https://ultimasgeek.com/openai-lanzo-prism-un-editor-cientifico-gratuito-con-ia-para-escribir-y-colaborar-en-latex/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/openai-lanzo-prism-un-editor-cientifico-gratuito-con-ia-para-escribir-y-colaborar-en-latex/</guid>
-      <pubDate>Thu, 29 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/openai-historia-portada-890x445-1.jpg" alt="OpenAI lanzó Prism, un editor científico gratuito con IA para escribir y colaborar en LaTeX" /></p><p>La nueva plataforma integra GPT-5.2 dentro del documento, permite colaboradores ilimitados y apunta a simplificar la redacción y revisión de papers desde una cuenta de ChatGPT.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/openai-historia-portada-890x445-1.jpg" type="image/jpeg" />
     </item>
 
     <item>
