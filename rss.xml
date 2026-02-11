@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 11 Feb 2026 14:53:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 16:02:05 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Google Fotos suma “Crear con IA” en iPhone: plantillas que convierten tus fotos en retratos y estilos en segundos]]></title>
@@ -50,6 +50,15 @@
       <pubDate>Wed, 04 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/2026-02-04-08.06.51-1000x600.jpg" alt="Apple integra agentes de IA de OpenAI y Anthropic en Xcode 26.3 para “programación agentiva”" /></p><p>La nueva versión del entorno de desarrollo suma a Claude Agent y Codex para ejecutar tareas dentro de Xcode, además de escribir y editar código, y agrega compatibilidad con el estándar abierto Model Context Protocol.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/2026-02-04-08.06.51-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google amplía herramientas para borrar datos personales y fotos íntimas de los resultados de búsqueda]]></title>
+      <link>https://ultimasgeek.com/google-amplia-herramientas-para-borrar-datos-personales-y-fotos-intimas-de-los-resultados-de-busqueda/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-amplia-herramientas-para-borrar-datos-personales-y-fotos-intimas-de-los-resultados-de-busqueda/</guid>
+      <pubDate>Wed, 11 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Expandingresults_2096x1192.width-1200.format-webp-1000x600.webp" alt="Google amplía herramientas para borrar datos personales y fotos íntimas de los resultados de búsqueda" /></p><p>La función “Resultados sobre ti” permite pedir la eliminación de números de identificación oficiales y centraliza solicitudes para retirar imágenes explícitas compartidas sin consentimiento, según informó la compañía.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Expandingresults_2096x1192.width-1200.format-webp-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/be1b6f38-41a2-4e18-8d8f-c321bfaf675c_1920x1080-1000x600.jpg" alt="Google suma “Nano Banana” a Chrome y habilita edición de imágenes con IA desde el navegador" /></p><p>La función empezó a desplegarse este 28 de enero en Estados Unidos para usuarios de escritorio con sesión iniciada; también llega un panel lateral con Gemini y un modo “auto browse” para suscriptores pagos.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/be1b6f38-41a2-4e18-8d8f-c321bfaf675c_1920x1080-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google filtró por error el primer vistazo de “Android para PC” y dejó ver Aluminium OS en acción]]></title>
-      <link>https://ultimasgeek.com/google-filtro-por-error-el-primer-vistazo-de-android-para-pc-y-dejo-ver-aluminium-os-en-accion/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-filtro-por-error-el-primer-vistazo-de-android-para-pc-y-dejo-ver-aluminium-os-en-accion/</guid>
-      <pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/2026-01-28_10-05-37_rHEby-1000x600.jpg" alt="Google filtró por error el primer vistazo de “Android para PC” y dejó ver Aluminium OS en acción" /></p><p>Un reporte público en el Issue Tracker expuso dos grabaciones de pantalla de Aluminium OS (ALOS), el híbrido entre Android y ChromeOS, corriendo en una HP Elite Dragonfly 13.5 Chromebook.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/2026-01-28_10-05-37_rHEby-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
