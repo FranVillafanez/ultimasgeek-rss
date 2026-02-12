@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 12 Feb 2026 18:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 19:49:06 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[YouTube lanzó su app oficial para Apple Vision Pro y suma videos 360° y Shorts en visionOS]]></title>
+      <link>https://ultimasgeek.com/youtube-lanzo-su-app-oficial-para-apple-vision-pro-y-suma-videos-360-y-shorts-en-visionos/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/youtube-lanzo-su-app-oficial-para-apple-vision-pro-y-suma-videos-360-y-shorts-en-visionos/</guid>
+      <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Foto-3-1000x600.jpg" alt="YouTube lanzó su app oficial para Apple Vision Pro y suma videos 360° y Shorts en visionOS" /></p><p>Desde este 12 de febrero de 2026, la plataforma habilitó “YouTube for visionOS” en el App Store: permite ver contenidos en pantalla tipo cine, con soporte para 360°, VR180 y hasta 8K en modelos con chip M5.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Foto-3-1000x600.jpg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Google Fotos suma “Crear con IA” en iPhone: plantillas que convierten tus fotos en retratos y estilos en segundos]]></title>
@@ -44,15 +53,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple integra agentes de IA de OpenAI y Anthropic en Xcode 26.3 para “programación agentiva”]]></title>
-      <link>https://ultimasgeek.com/apple-integra-agentes-de-ia-de-openai-y-anthropic-en-xcode-26-3-para-programacion-agentiva/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-integra-agentes-de-ia-de-openai-y-anthropic-en-xcode-26-3-para-programacion-agentiva/</guid>
-      <pubDate>Wed, 04 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/2026-02-04-08.06.51-1000x600.jpg" alt="Apple integra agentes de IA de OpenAI y Anthropic en Xcode 26.3 para “programación agentiva”" /></p><p>La nueva versión del entorno de desarrollo suma a Claude Agent y Codex para ejecutar tareas dentro de Xcode, además de escribir y editar código, y agrega compatibilidad con el estándar abierto Model Context Protocol.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/2026-02-04-08.06.51-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Google frenó a último momento el debut de Android 17 Beta 1 y ahora promete que llegará “pronto”]]></title>
       <link>https://ultimasgeek.com/google-freno-a-ultimo-momento-el-debut-de-android-17-beta-1-y-ahora-promete-que-llegara-pronto/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-freno-a-ultimo-momento-el-debut-de-android-17-beta-1-y-ahora-promete-que-llegara-pronto/</guid>
@@ -77,15 +77,6 @@
       <pubDate>Tue, 10 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/d1e11e70ba9497a332a03630ad6a5b83_fgraphic-1000x500.png" alt="YouTube Music suma un generador de playlists con IA y lo habilita para usuarios Premium" /></p><p>La nueva función permite armar listas a partir de un texto o comando de voz en iOS y Android. Llega en pleno impulso de suscripciones de Google, que ya superan los 325 millones.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/d1e11e70ba9497a332a03630ad6a5b83_fgraphic-1000x500.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[YouTube Music limita las letras para usuarios gratis y empuja a la suscripción Premium]]></title>
-      <link>https://ultimasgeek.com/youtube-music-limita-las-letras-para-usuarios-gratis-y-empuja-a-la-suscripcion-premium/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/youtube-music-limita-las-letras-para-usuarios-gratis-y-empuja-a-la-suscripcion-premium/</guid>
-      <pubDate>Mon, 09 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/6348271a203f9-197751651-1000x600.jpeg" alt="YouTube Music limita las letras para usuarios gratis y empuja a la suscripción Premium" /></p><p>La app empezó a restringir el acceso completo a las letras: permite ver solo cinco canciones y luego desenfoca el resto del texto con un aviso para pagar.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/6348271a203f9-197751651-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -125,6 +116,15 @@
     </item>
 
     <item>
+      <title><![CDATA[YouTube Music limita las letras para usuarios gratis y empuja a la suscripción Premium]]></title>
+      <link>https://ultimasgeek.com/youtube-music-limita-las-letras-para-usuarios-gratis-y-empuja-a-la-suscripcion-premium/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/youtube-music-limita-las-letras-para-usuarios-gratis-y-empuja-a-la-suscripcion-premium/</guid>
+      <pubDate>Mon, 09 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/6348271a203f9-197751651-1000x600.jpeg" alt="YouTube Music limita las letras para usuarios gratis y empuja a la suscripción Premium" /></p><p>La app empezó a restringir el acceso completo a las letras: permite ver solo cinco canciones y luego desenfoca el resto del texto con un aviso para pagar.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/6348271a203f9-197751651-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Nueva York impulsa una moratoria de tres años para frenar nuevos data centers por su impacto en la red eléctrica]]></title>
       <link>https://ultimasgeek.com/nueva-york-impulsa-una-moratoria-de-tres-anos-para-frenar-nuevos-data-centers-por-su-impacto-en-la-red-electrica/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/nueva-york-impulsa-una-moratoria-de-tres-anos-para-frenar-nuevos-data-centers-por-su-impacto-en-la-red-electrica/</guid>
@@ -140,6 +140,15 @@
       <pubDate>Wed, 04 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/11/220907093825-elon-musk-0210.jpg" alt="Francia: la Fiscalía de París allanó las oficinas de X y citó a Elon Musk para una audiencia en abril" /></p><p>El Tribunal Judicial de París informó que la medida se enmarca en una investigación abierta en enero de 2025 por presuntos delitos vinculados a pedopornografía, deepfakes sexuales y negacionismo, entre otros.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/11/220907093825-elon-musk-0210.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Apple integra agentes de IA de OpenAI y Anthropic en Xcode 26.3 para “programación agentiva”]]></title>
+      <link>https://ultimasgeek.com/apple-integra-agentes-de-ia-de-openai-y-anthropic-en-xcode-26-3-para-programacion-agentiva/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-integra-agentes-de-ia-de-openai-y-anthropic-en-xcode-26-3-para-programacion-agentiva/</guid>
+      <pubDate>Wed, 04 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/2026-02-04-08.06.51-1000x600.jpg" alt="Apple integra agentes de IA de OpenAI y Anthropic en Xcode 26.3 para “programación agentiva”" /></p><p>La nueva versión del entorno de desarrollo suma a Claude Agent y Codex para ejecutar tareas dentro de Xcode, además de escribir y editar código, y agrega compatibilidad con el estándar abierto Model Context Protocol.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/2026-02-04-08.06.51-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/be1b6f38-41a2-4e18-8d8f-c321bfaf675c_1920x1080-1000x600.jpg" alt="Google suma “Nano Banana” a Chrome y habilita edición de imágenes con IA desde el navegador" /></p><p>La función empezó a desplegarse este 28 de enero en Estados Unidos para usuarios de escritorio con sesión iniciada; también llega un panel lateral con Gemini y un modo “auto browse” para suscriptores pagos.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/be1b6f38-41a2-4e18-8d8f-c321bfaf675c_1920x1080-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google filtró por error el primer vistazo de “Android para PC” y dejó ver Aluminium OS en acción]]></title>
-      <link>https://ultimasgeek.com/google-filtro-por-error-el-primer-vistazo-de-android-para-pc-y-dejo-ver-aluminium-os-en-accion/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-filtro-por-error-el-primer-vistazo-de-android-para-pc-y-dejo-ver-aluminium-os-en-accion/</guid>
-      <pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/2026-01-28_10-05-37_rHEby-1000x600.jpg" alt="Google filtró por error el primer vistazo de “Android para PC” y dejó ver Aluminium OS en acción" /></p><p>Un reporte público en el Issue Tracker expuso dos grabaciones de pantalla de Aluminium OS (ALOS), el híbrido entre Android y ChromeOS, corriendo en una HP Elite Dragonfly 13.5 Chromebook.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/2026-01-28_10-05-37_rHEby-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
