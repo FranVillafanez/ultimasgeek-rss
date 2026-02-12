@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 12 Feb 2026 09:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 10:46:47 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Google Fotos suma “Crear con IA” en iPhone: plantillas que convierten tus fotos en retratos y estilos en segundos]]></title>
@@ -50,6 +50,15 @@
       <pubDate>Wed, 04 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/2026-02-04-08.06.51-1000x600.jpg" alt="Apple integra agentes de IA de OpenAI y Anthropic en Xcode 26.3 para “programación agentiva”" /></p><p>La nueva versión del entorno de desarrollo suma a Claude Agent y Codex para ejecutar tareas dentro de Xcode, además de escribir y editar código, y agrega compatibilidad con el estándar abierto Model Context Protocol.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/2026-02-04-08.06.51-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google frenó a último momento el debut de Android 17 Beta 1 y ahora promete que llegará “pronto”]]></title>
+      <link>https://ultimasgeek.com/google-freno-a-ultimo-momento-el-debut-de-android-17-beta-1-y-ahora-promete-que-llegara-pronto/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-freno-a-ultimo-momento-el-debut-de-android-17-beta-1-y-ahora-promete-que-llegara-pronto/</guid>
+      <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Logo-Android-1000x600.jpg" alt="Google frenó a último momento el debut de Android 17 Beta 1 y ahora promete que llegará “pronto”" /></p><p>La primera beta de Android 17 estaba prevista para el 11 de febrero de 2026, pero Google la postergó por “cambios de último minuto” y aún no dio nueva fecha.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Logo-Android-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -113,15 +122,6 @@
       <pubDate>Sun, 08 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/stargate-advances-with-partnership-with-oracle-1-scaled-e1770593810457-1000x600.jpg" alt="Nueva York impulsa una moratoria de tres años para frenar nuevos data centers por su impacto en la red eléctrica" /></p><p>Legisladores estatales presentaron el proyecto S9144 para pausar permisos por al menos tres años y 90 días, mientras se evalúan efectos ambientales y de tarifas en plena expansión de infraestructura para IA.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/stargate-advances-with-partnership-with-oracle-1-scaled-e1770593810457-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Spotify lanzó “About the Song”: una nueva función para conocer la historia detrás de cada tema]]></title>
-      <link>https://ultimasgeek.com/spotify-lanzo-about-the-song-una-nueva-funcion-para-conocer-la-historia-detras-de-cada-tema/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/spotify-lanzo-about-the-song-una-nueva-funcion-para-conocer-la-historia-detras-de-cada-tema/</guid>
-      <pubDate>Fri, 06 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/spotify-hifi-lossless-streaming-1000x600.jpg" alt="Spotify lanzó “About the Song”: una nueva función para conocer la historia detrás de cada tema" /></p><p>La plataforma empezó a probar en iOS y Android una herramienta que muestra tarjetas con relatos breves sobre canciones, con datos de fuentes externas y opción de valorar el contenido.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/spotify-hifi-lossless-streaming-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
