@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 20 Feb 2026 14:04:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 15:37:36 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple probó en 2021 colores “jugados” para la MacBook Air y ahora vuelven como pista del nuevo MacBook económico]]></title>
+      <link>https://ultimasgeek.com/apple-probo-en-2021-colores-jugados-para-la-macbook-air-y-ahora-vuelven-como-pista-del-nuevo-macbook-economico/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-probo-en-2021-colores-jugados-para-la-macbook-air-y-ahora-vuelven-como-pista-del-nuevo-macbook-economico/</guid>
+      <pubDate>Fri, 20 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/HBdXekNWEAA394p-1000x600.jpg" alt="Apple probó en 2021 colores “jugados” para la MacBook Air y ahora vuelven como pista del nuevo MacBook económico" /></p><p>Una filtración sostiene que los tonos del MacBook de bajo costo que Apple mostraría el 4 de marzo de 2026 ya habían sido evaluados para el rediseño de la MacBook Air M2.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/HBdXekNWEAA394p-1000x600.jpg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Apple habilita ChatGPT, Claude y Gemini en CarPlay con iOS 26.4 y prepara el salto al video]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Foto-3-1000x600.jpg" alt="YouTube lanzó su app oficial para Apple Vision Pro y suma videos 360° y Shorts en visionOS" /></p><p>Desde este 12 de febrero de 2026, la plataforma habilitó “YouTube for visionOS” en el App Store: permite ver contenidos en pantalla tipo cine, con soporte para 360°, VR180 y hasta 8K en modelos con chip M5.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Foto-3-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google Fotos suma “Crear con IA” en iPhone: plantillas que convierten tus fotos en retratos y estilos en segundos]]></title>
-      <link>https://ultimasgeek.com/google-fotos-suma-crear-con-ia-en-iphone-plantillas-que-convierten-tus-fotos-en-retratos-y-estilos-en-segundos/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-fotos-suma-crear-con-ia-en-iphone-plantillas-que-convierten-tus-fotos-en-retratos-y-estilos-en-segundos/</guid>
-      <pubDate>Tue, 10 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Untitled-1000x600.jpg" alt="Google Fotos suma “Crear con IA” en iPhone: plantillas que convierten tus fotos en retratos y estilos en segundos" /></p><p>La app de Google empezó a habilitar en iOS la función “Create with AI”, con plantillas listas para generar ediciones y versiones creativas a partir de imágenes personales. El despliegue incluye a Argentina y otros mercados.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Untitled-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -143,6 +143,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Google Fotos suma “Crear con IA” en iPhone: plantillas que convierten tus fotos en retratos y estilos en segundos]]></title>
+      <link>https://ultimasgeek.com/google-fotos-suma-crear-con-ia-en-iphone-plantillas-que-convierten-tus-fotos-en-retratos-y-estilos-en-segundos/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-fotos-suma-crear-con-ia-en-iphone-plantillas-que-convierten-tus-fotos-en-retratos-y-estilos-en-segundos/</guid>
+      <pubDate>Tue, 10 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Untitled-1000x600.jpg" alt="Google Fotos suma “Crear con IA” en iPhone: plantillas que convierten tus fotos en retratos y estilos en segundos" /></p><p>La app de Google empezó a habilitar en iOS la función “Create with AI”, con plantillas listas para generar ediciones y versiones creativas a partir de imágenes personales. El despliegue incluye a Argentina y otros mercados.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Untitled-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[OpenAI empezó a probar anuncios en ChatGPT en Estados Unidos: a quiénes alcanza y dónde se verán]]></title>
       <link>https://ultimasgeek.com/openai-empezo-a-probar-anuncios-en-chatgpt-en-estados-unidos-a-quienes-alcanza-y-donde-se-veran/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/openai-empezo-a-probar-anuncios-en-chatgpt-en-estados-unidos-a-quienes-alcanza-y-donde-se-veran/</guid>
@@ -221,15 +230,6 @@
       <pubDate>Wed, 11 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Expandingresults_2096x1192.width-1200.format-webp-1000x600.webp" alt="Google amplía herramientas para borrar datos personales y fotos íntimas de los resultados de búsqueda" /></p><p>La función “Resultados sobre ti” permite pedir la eliminación de números de identificación oficiales y centraliza solicitudes para retirar imágenes explícitas compartidas sin consentimiento, según informó la compañía.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Expandingresults_2096x1192.width-1200.format-webp-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
-      <title><![CDATA[YouTube Music suma un generador de playlists con IA y lo habilita para usuarios Premium]]></title>
-      <link>https://ultimasgeek.com/youtube-music-suma-un-generador-de-playlists-con-ia-y-lo-habilita-para-usuarios-premium/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/youtube-music-suma-un-generador-de-playlists-con-ia-y-lo-habilita-para-usuarios-premium/</guid>
-      <pubDate>Tue, 10 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/d1e11e70ba9497a332a03630ad6a5b83_fgraphic-1000x500.png" alt="YouTube Music suma un generador de playlists con IA y lo habilita para usuarios Premium" /></p><p>La nueva función permite armar listas a partir de un texto o comando de voz en iOS y Android. Llega en pleno impulso de suscripciones de Google, que ya superan los 325 millones.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/d1e11e70ba9497a332a03630ad6a5b83_fgraphic-1000x500.png" type="image/png" />
     </item>
   </channel>
 </rss>
