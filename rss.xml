@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 23 Feb 2026 21:44:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 22:41:10 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[WhatsApp prepara mensajes programados: la función apareció en una beta de iOS y apunta a un lanzamiento futuro]]></title>
+      <link>https://ultimasgeek.com/whatsapp-prepara-mensajes-programados-la-funcion-aparecio-en-una-beta-de-ios-y-apunta-a-un-lanzamiento-futuro/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-prepara-mensajes-programados-la-funcion-aparecio-en-una-beta-de-ios-y-apunta-a-un-lanzamiento-futuro/</guid>
+      <pubDate>Mon, 23 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/i870137-1149679578-1000x600.jpeg" alt="WhatsApp prepara mensajes programados: la función apareció en una beta de iOS y apunta a un lanzamiento futuro" /></p><p>Meta trabaja en una herramienta para programar mensajes con fecha y hora desde el chat, detectada en WhatsApp beta para iPhone vía TestFlight.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/i870137-1149679578-1000x600.jpeg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Apple probó en 2021 colores “jugados” para la MacBook Air y ahora vuelven como pista del nuevo MacBook económico]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Mon, 16 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/IMG_1009.jpeg" alt="Apple convocó a un evento especial en Nueva York el 4 de marzo y crecen las expectativas por nuevos lanzamientos" /></p><p>La compañía citó a prensa para una “special Apple Experience” a las 9.00 (hora del Este) y también habría encuentros en Londres y Shanghái.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/IMG_1009.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[YouTube lanzó su app oficial para Apple Vision Pro y suma videos 360° y Shorts en visionOS]]></title>
-      <link>https://ultimasgeek.com/youtube-lanzo-su-app-oficial-para-apple-vision-pro-y-suma-videos-360-y-shorts-en-visionos/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/youtube-lanzo-su-app-oficial-para-apple-vision-pro-y-suma-videos-360-y-shorts-en-visionos/</guid>
-      <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Foto-3-1000x600.jpg" alt="YouTube lanzó su app oficial para Apple Vision Pro y suma videos 360° y Shorts en visionOS" /></p><p>Desde este 12 de febrero de 2026, la plataforma habilitó “YouTube for visionOS” en el App Store: permite ver contenidos en pantalla tipo cine, con soporte para 360°, VR180 y hasta 8K en modelos con chip M5.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Foto-3-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -179,6 +179,15 @@
     </item>
 
     <item>
+      <title><![CDATA[YouTube lanzó su app oficial para Apple Vision Pro y suma videos 360° y Shorts en visionOS]]></title>
+      <link>https://ultimasgeek.com/youtube-lanzo-su-app-oficial-para-apple-vision-pro-y-suma-videos-360-y-shorts-en-visionos/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/youtube-lanzo-su-app-oficial-para-apple-vision-pro-y-suma-videos-360-y-shorts-en-visionos/</guid>
+      <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Foto-3-1000x600.jpg" alt="YouTube lanzó su app oficial para Apple Vision Pro y suma videos 360° y Shorts en visionOS" /></p><p>Desde este 12 de febrero de 2026, la plataforma habilitó “YouTube for visionOS” en el App Store: permite ver contenidos en pantalla tipo cine, con soporte para 360°, VR180 y hasta 8K en modelos con chip M5.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Foto-3-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Apple evalúa habilitar ChatGPT y otros chatbots en CarPlay: qué cambiaría para los conductores]]></title>
       <link>https://ultimasgeek.com/apple-evalua-habilitar-chatgpt-y-otros-chatbots-en-carplay-que-cambiaria-para-los-conductores/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-evalua-habilitar-chatgpt-y-otros-chatbots-en-carplay-que-cambiaria-para-los-conductores/</guid>
@@ -221,15 +230,6 @@
       <pubDate>Mon, 02 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/CleanShot-2026-02-02-at-15.49.25-1000x574.png" alt="OpenAI lanzó Codex para Mac y sumó funciones multiagente para programar en paralelo" /></p><p>La nueva app para macOS permite coordinar varios agentes de IA a la vez, revisar cambios con diffs y usar worktrees, skills y automatizaciones. Se habilita desde hoy y tendrá acceso ampliado por tiempo limitado.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/CleanShot-2026-02-02-at-15.49.25-1000x574.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google frenó a último momento el debut de Android 17 Beta 1 y ahora promete que llegará “pronto”]]></title>
-      <link>https://ultimasgeek.com/google-freno-a-ultimo-momento-el-debut-de-android-17-beta-1-y-ahora-promete-que-llegara-pronto/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-freno-a-ultimo-momento-el-debut-de-android-17-beta-1-y-ahora-promete-que-llegara-pronto/</guid>
-      <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Logo-Android-1000x600.jpg" alt="Google frenó a último momento el debut de Android 17 Beta 1 y ahora promete que llegará “pronto”" /></p><p>La primera beta de Android 17 estaba prevista para el 11 de febrero de 2026, pero Google la postergó por “cambios de último minuto” y aún no dio nueva fecha.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Logo-Android-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
