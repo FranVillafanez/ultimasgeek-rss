@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 23 Feb 2026 16:57:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 18:03:40 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple probó en 2021 colores “jugados” para la MacBook Air y ahora vuelven como pista del nuevo MacBook económico]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Fri, 13 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/GoogleDocsAIGeminiiOSiPhone-750x420-1.webp" alt="Google Docs suma resúmenes de audio con IA: así funciona la nueva opción de Gemini" /></p><p>La herramienta genera un resumen hablado de menos de tres minutos, con voces personalizables y control de velocidad; Google la despliega de forma gradual en la versión web.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/GoogleDocsAIGeminiiOSiPhone-750x420-1.webp" type="image/webp" />
+    </item>
+
+    <item>
+      <title><![CDATA[Apple habilitó Apple Sports en Argentina y otros 35 mercados de América Latina y el Caribe]]></title>
+      <link>https://ultimasgeek.com/apple-habilito-apple-sports-en-argentina-y-otros-35-mercados-de-america-latina-y-el-caribe/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-habilito-apple-sports-en-argentina-y-otros-35-mercados-de-america-latina-y-el-caribe/</guid>
+      <pubDate>Mon, 23 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Foto-1000x600.png" alt="Apple habilitó Apple Sports en Argentina y otros 35 mercados de América Latina y el Caribe" /></p><p>La app gratuita de resultados en tiempo real para iPhone sumó 36 países y regiones, incorporó ligas sudamericanas y ya puede descargarse en 80 mercados.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Foto-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Logo-Android-1000x600.jpg" alt="Google frenó a último momento el debut de Android 17 Beta 1 y ahora promete que llegará “pronto”" /></p><p>La primera beta de Android 17 estaba prevista para el 11 de febrero de 2026, pero Google la postergó por “cambios de último minuto” y aún no dio nueva fecha.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Logo-Android-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google amplía herramientas para borrar datos personales y fotos íntimas de los resultados de búsqueda]]></title>
-      <link>https://ultimasgeek.com/google-amplia-herramientas-para-borrar-datos-personales-y-fotos-intimas-de-los-resultados-de-busqueda/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-amplia-herramientas-para-borrar-datos-personales-y-fotos-intimas-de-los-resultados-de-busqueda/</guid>
-      <pubDate>Wed, 11 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Expandingresults_2096x1192.width-1200.format-webp-1000x600.webp" alt="Google amplía herramientas para borrar datos personales y fotos íntimas de los resultados de búsqueda" /></p><p>La función “Resultados sobre ti” permite pedir la eliminación de números de identificación oficiales y centraliza solicitudes para retirar imágenes explícitas compartidas sin consentimiento, según informó la compañía.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Expandingresults_2096x1192.width-1200.format-webp-1000x600.webp" type="image/webp" />
     </item>
   </channel>
 </rss>
