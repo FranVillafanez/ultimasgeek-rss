@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 24 Feb 2026 10:50:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 11:40:52 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple confirmó que fabricará la Mac mini en Houston y abrirá un centro de capacitación industrial]]></title>
+      <link>https://ultimasgeek.com/apple-confirmo-que-fabricara-la-mac-mini-en-houston-y-abrira-un-centro-de-capacitacion-industrial/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-confirmo-que-fabricara-la-mac-mini-en-houston-y-abrira-un-centro-de-capacitacion-industrial/</guid>
+      <pubDate>Tue, 24 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Apple-US-manufacturing-investment-Houston-Mac-mini_inline.jpg.large_.jpg" alt="Apple confirmó que fabricará la Mac mini en Houston y abrirá un centro de capacitación industrial" /></p><p>La compañía anunció que la producción comenzará “más adelante este año” en Texas, con expansión de servidores de IA y un nuevo Advanced Manufacturing Center de 20.000 pies².</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Apple-US-manufacturing-investment-Houston-Mac-mini_inline.jpg.large_.jpg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[WhatsApp prepara mensajes programados: la función apareció en una beta de iOS y apunta a un lanzamiento futuro]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Mon, 16 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/apple-podcasts-video-1000x600.jpg" alt="Apple prepara video podcasts mejorados en iOS 26.4: cambio instantáneo entre ver y escuchar" /></p><p>La actualización en beta para desarrolladores, lanzada el 16 de febrero de 2026, incorpora a Apple Podcasts una experiencia de video basada en HLS, con descargas offline y nuevas opciones de monetización.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/apple-podcasts-video-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple convocó a un evento especial en Nueva York el 4 de marzo y crecen las expectativas por nuevos lanzamientos]]></title>
-      <link>https://ultimasgeek.com/apple-convoco-a-un-evento-especial-en-nueva-york-el-4-de-marzo-y-crecen-las-expectativas-por-nuevos-lanzamientos/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-convoco-a-un-evento-especial-en-nueva-york-el-4-de-marzo-y-crecen-las-expectativas-por-nuevos-lanzamientos/</guid>
-      <pubDate>Mon, 16 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/IMG_1009.jpeg" alt="Apple convocó a un evento especial en Nueva York el 4 de marzo y crecen las expectativas por nuevos lanzamientos" /></p><p>La compañía citó a prensa para una “special Apple Experience” a las 9.00 (hora del Este) y también habría encuentros en Londres y Shanghái.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/IMG_1009.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -179,6 +179,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Apple convocó a un evento especial en Nueva York el 4 de marzo y crecen las expectativas por nuevos lanzamientos]]></title>
+      <link>https://ultimasgeek.com/apple-convoco-a-un-evento-especial-en-nueva-york-el-4-de-marzo-y-crecen-las-expectativas-por-nuevos-lanzamientos/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-convoco-a-un-evento-especial-en-nueva-york-el-4-de-marzo-y-crecen-las-expectativas-por-nuevos-lanzamientos/</guid>
+      <pubDate>Mon, 16 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/IMG_1009.jpeg" alt="Apple convocó a un evento especial en Nueva York el 4 de marzo y crecen las expectativas por nuevos lanzamientos" /></p><p>La compañía citó a prensa para una “special Apple Experience” a las 9.00 (hora del Este) y también habría encuentros en Londres y Shanghái.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/IMG_1009.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[YouTube lanzó su app oficial para Apple Vision Pro y suma videos 360° y Shorts en visionOS]]></title>
       <link>https://ultimasgeek.com/youtube-lanzo-su-app-oficial-para-apple-vision-pro-y-suma-videos-360-y-shorts-en-visionos/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/youtube-lanzo-su-app-oficial-para-apple-vision-pro-y-suma-videos-360-y-shorts-en-visionos/</guid>
@@ -221,15 +230,6 @@
       <pubDate>Wed, 04 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/2026-02-04-08.06.51-1000x600.jpg" alt="Apple integra agentes de IA de OpenAI y Anthropic en Xcode 26.3 para “programación agentiva”" /></p><p>La nueva versión del entorno de desarrollo suma a Claude Agent y Codex para ejecutar tareas dentro de Xcode, además de escribir y editar código, y agrega compatibilidad con el estándar abierto Model Context Protocol.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/2026-02-04-08.06.51-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[OpenAI lanzó Codex para Mac y sumó funciones multiagente para programar en paralelo]]></title>
-      <link>https://ultimasgeek.com/openai-lanzo-codex-para-mac-y-sumo-funciones-multiagente-para-programar-en-paralelo/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/openai-lanzo-codex-para-mac-y-sumo-funciones-multiagente-para-programar-en-paralelo/</guid>
-      <pubDate>Mon, 02 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/CleanShot-2026-02-02-at-15.49.25-1000x574.png" alt="OpenAI lanzó Codex para Mac y sumó funciones multiagente para programar en paralelo" /></p><p>La nueva app para macOS permite coordinar varios agentes de IA a la vez, revisar cambios con diffs y usar worktrees, skills y automatizaciones. Se habilita desde hoy y tendrá acceso ampliado por tiempo limitado.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/CleanShot-2026-02-02-at-15.49.25-1000x574.png" type="image/png" />
     </item>
   </channel>
 </rss>
