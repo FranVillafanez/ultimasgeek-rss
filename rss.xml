@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 26 Feb 2026 13:07:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 14:47:05 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple endurece el control de edad: bloqueará apps 18+ si no se confirma la mayoría de edad]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-down-1000x600.jpg" alt="YouTube sufrió una caída masiva y afectó a cientos de miles de usuarios: qué pasó y qué dijo la empresa" /></p><p>El servicio tuvo fallas de carga y videos que no aparecían en la portada. Downdetector registró un pico de más de 320.000 reportes en Estados Unidos y hubo quejas también en otros países.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-down-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Instagram avisará a padres si un adolescente busca contenidos sobre suicidio o autolesiones]]></title>
+      <link>https://ultimasgeek.com/instagram-avisara-a-padres-si-un-adolescente-busca-contenidos-sobre-suicidio-o-autolesiones/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/instagram-avisara-a-padres-si-un-adolescente-busca-contenidos-sobre-suicidio-o-autolesiones/</guid>
+      <pubDate>Thu, 26 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/04/Diseno-sin-titulo-14.jpg" alt="Instagram avisará a padres si un adolescente busca contenidos sobre suicidio o autolesiones" /></p><p>La función se activará para cuentas con supervisión parental y enviará alertas por email, SMS o WhatsApp si detecta búsquedas repetidas en poco tiempo.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/04/Diseno-sin-titulo-14.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Foto-3-1000x600.jpg" alt="YouTube lanzó su app oficial para Apple Vision Pro y suma videos 360° y Shorts en visionOS" /></p><p>Desde este 12 de febrero de 2026, la plataforma habilitó “YouTube for visionOS” en el App Store: permite ver contenidos en pantalla tipo cine, con soporte para 360°, VR180 y hasta 8K en modelos con chip M5.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Foto-3-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple evalúa habilitar ChatGPT y otros chatbots en CarPlay: qué cambiaría para los conductores]]></title>
-      <link>https://ultimasgeek.com/apple-evalua-habilitar-chatgpt-y-otros-chatbots-en-carplay-que-cambiaria-para-los-conductores/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-evalua-habilitar-chatgpt-y-otros-chatbots-en-carplay-que-cambiaria-para-los-conductores/</guid>
-      <pubDate>Fri, 06 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/how-to-set-up-apple-carplay-in-your-new-hyundai-213947_1-3270467398-1000x600.jpeg" alt="Apple evalúa habilitar ChatGPT y otros chatbots en CarPlay: qué cambiaría para los conductores" /></p><p>Un reporte de Bloomberg, replicado por Reuters, indica que Apple trabaja para sumar apps de IA con control por voz en CarPlay, con soporte para servicios como ChatGPT, Claude y Gemini.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/how-to-set-up-apple-carplay-in-your-new-hyundai-213947_1-3270467398-1000x600.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
