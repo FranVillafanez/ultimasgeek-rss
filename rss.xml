@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 27 Feb 2026 23:25:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 01:54:43 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple endurece el control de edad: bloqueará apps 18+ si no se confirma la mayoría de edad]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Lyria-3-Music-Generation-comes-to-Gemini-00-01-03-357-1000x600.jpeg" alt="Google sumó a Gemini una función para crear música con IA en clips de 30 segundos" /></p><p>La app incorpora en beta el modelo Lyria 3 de Google DeepMind: permite generar temas con texto, fotos o videos, en ocho idiomas y para mayores de 18 años.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Lyria-3-Music-Generation-comes-to-Gemini-00-01-03-357-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Trump ordenó a agencias federales dejar de usar la IA de Anthropic tras un choque con el Pentágono]]></title>
+      <link>https://ultimasgeek.com/trump-ordeno-a-agencias-federales-dejar-de-usar-la-ia-de-anthropic-tras-un-choque-con-el-pentagono/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/trump-ordeno-a-agencias-federales-dejar-de-usar-la-ia-de-anthropic-tras-un-choque-con-el-pentagono/</guid>
+      <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/anthropic_1.png_673822677-3323201076-1000x600.png" alt="Trump ordenó a agencias federales dejar de usar la IA de Anthropic tras un choque con el Pentágono" /></p><p>La directiva se conoció este viernes 27 de febrero de 2026 e incluye un “phase out” de seis meses para áreas como Defensa; el trasfondo es una disputa por límites de uso vinculados a armas autónomas y vigilancia.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/anthropic_1.png_673822677-3323201076-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Tue, 10 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Untitled-1000x600.jpg" alt="Google Fotos suma “Crear con IA” en iPhone: plantillas que convierten tus fotos en retratos y estilos en segundos" /></p><p>La app de Google empezó a habilitar en iOS la función “Create with AI”, con plantillas listas para generar ediciones y versiones creativas a partir de imágenes personales. El despliegue incluye a Argentina y otros mercados.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Untitled-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[YouTube sufrió una caída masiva y afectó a cientos de miles de usuarios: qué pasó y qué dijo la empresa]]></title>
-      <link>https://ultimasgeek.com/youtube-sufrio-una-caida-masiva-y-afecto-a-cientos-de-miles-de-usuarios-que-paso-y-que-dijo-la-empresa/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/youtube-sufrio-una-caida-masiva-y-afecto-a-cientos-de-miles-de-usuarios-que-paso-y-que-dijo-la-empresa/</guid>
-      <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-down-1000x600.jpg" alt="YouTube sufrió una caída masiva y afectó a cientos de miles de usuarios: qué pasó y qué dijo la empresa" /></p><p>El servicio tuvo fallas de carga y videos que no aparecían en la portada. Downdetector registró un pico de más de 320.000 reportes en Estados Unidos y hubo quejas también en otros países.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-down-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
