@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 03 Mar 2026 10:39:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 11:32:47 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple presentó el iPhone 17e: A19, cámara de 48 MP y MagSafe desde US$ 599]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Lyria-3-Music-Generation-comes-to-Gemini-00-01-03-357-1000x600.jpeg" alt="Google sumó a Gemini una función para crear música con IA en clips de 30 segundos" /></p><p>La app incorpora en beta el modelo Lyria 3 de Google DeepMind: permite generar temas con texto, fotos o videos, en ocho idiomas y para mayores de 18 años.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/Lyria-3-Music-Generation-comes-to-Gemini-00-01-03-357-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Anthropic lanza una función clave para migrar datos de ChatGPT a su inteligencia artificial Claude]]></title>
+      <link>https://ultimasgeek.com/anthropic-lanza-una-funcion-clave-para-migrar-datos-de-chatgpt-a-su-inteligencia-artificial-claude/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/anthropic-lanza-una-funcion-clave-para-migrar-datos-de-chatgpt-a-su-inteligencia-artificial-claude/</guid>
+      <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/anthropic_1.png_673822677-3323201076-1000x600.png" alt="Anthropic lanza una función clave para migrar datos de ChatGPT a su inteligencia artificial Claude" /></p><p>La nueva herramienta de memoria permite a los usuarios transferir sus preferencias y contextos personales entre plataformas de IA de forma directa.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/anthropic_1.png_673822677-3323201076-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Mon, 16 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/apple-podcasts-video-1000x600.jpg" alt="Apple prepara video podcasts mejorados en iOS 26.4: cambio instantáneo entre ver y escuchar" /></p><p>La actualización en beta para desarrolladores, lanzada el 16 de febrero de 2026, incorpora a Apple Podcasts una experiencia de video basada en HLS, con descargas offline y nuevas opciones de monetización.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/apple-podcasts-video-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple convocó a un evento especial en Nueva York el 4 de marzo y crecen las expectativas por nuevos lanzamientos]]></title>
-      <link>https://ultimasgeek.com/apple-convoco-a-un-evento-especial-en-nueva-york-el-4-de-marzo-y-crecen-las-expectativas-por-nuevos-lanzamientos/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-convoco-a-un-evento-especial-en-nueva-york-el-4-de-marzo-y-crecen-las-expectativas-por-nuevos-lanzamientos/</guid>
-      <pubDate>Mon, 16 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/IMG_1009.jpeg" alt="Apple convocó a un evento especial en Nueva York el 4 de marzo y crecen las expectativas por nuevos lanzamientos" /></p><p>La compañía citó a prensa para una “special Apple Experience” a las 9.00 (hora del Este) y también habría encuentros en Londres y Shanghái.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/IMG_1009.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
