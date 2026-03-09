@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 09 Mar 2026 21:33:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 22:29:15 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple prepara tres nuevos dispositivos “Ultra” y apunta a lanzar un iPhone plegable, un MacBook táctil y AirPods con sensores visuales]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Thu, 19 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Editar-fotos-con-Snapseed-1000x600.jpeg" alt="Google sumó una cámara a Snapseed en iPhone con controles “pro” y filtros tipo film" /></p><p>La app Snapseed dejó de ser solo un editor: con la versión 3.15.0 incorporó una cámara integrada en iPhone para disparar con controles manuales y ver estilos “retro” en tiempo real.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Editar-fotos-con-Snapseed-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Microsoft suma la IA de Anthropic a Copilot para que ejecute tareas complejas en Microsoft 365]]></title>
+      <link>https://ultimasgeek.com/microsoft-suma-la-ia-de-anthropic-a-copilot-para-que-ejecute-tareas-complejas-en-microsoft-365/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/microsoft-suma-la-ia-de-anthropic-a-copilot-para-que-ejecute-tareas-complejas-en-microsoft-365/</guid>
+      <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/microsoft-copilot-1000x600.webp" alt="Microsoft suma la IA de Anthropic a Copilot para que ejecute tareas complejas en Microsoft 365" /></p><p>La empresa anunció este 9 de marzo de 2026 la función Copilot Cowork, desarrollada en colaboración con Anthropic, para que su asistente pueda encargarse de trabajos de varios pasos dentro de Outlook, Word, Excel, PowerPoint y Copilot Chat.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/microsoft-copilot-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Mon, 02 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-iPhone-17e-hero-260302_big.jpg.large_.jpg" alt="Apple presentó el iPhone 17e: A19, cámara de 48 MP y MagSafe desde US$ 599" /></p><p>El nuevo modelo “de entrada” de la familia iPhone 17 llega con 256 GB de base, módem C1X, pantalla de 6,1</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-iPhone-17e-hero-260302_big.jpg.large_.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple presentó el nuevo iPad Air con chip M4: más memoria, Wi-Fi 7 y el mismo precio inicial]]></title>
-      <link>https://ultimasgeek.com/apple-presento-el-nuevo-ipad-air-con-chip-m4-mas-memoria-wi-fi-7-y-el-mismo-precio-inicial/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-presento-el-nuevo-ipad-air-con-chip-m4-mas-memoria-wi-fi-7-y-el-mismo-precio-inicial/</guid>
-      <pubDate>Mon, 02 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-iPad-Air-M4-multitasking-260302_big.jpg.large_-980x600.jpg" alt="Apple presentó el nuevo iPad Air con chip M4: más memoria, Wi-Fi 7 y el mismo precio inicial" /></p><p>La tableta llega en 11 y 13 pulgadas desde US$ 599, con 12 GB de memoria unificada, nuevo chip de conectividad N1 y preventa desde el 4 de marzo.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-iPad-Air-M4-multitasking-260302_big.jpg.large_-980x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
