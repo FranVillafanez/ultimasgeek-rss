@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 11 Mar 2026 11:33:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 13:01:19 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple prepara tres nuevos dispositivos “Ultra” y apunta a lanzar un iPhone plegable, un MacBook táctil y AirPods con sensores visuales]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Tue, 24 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" alt="YouTube suma descargas y reproducción en segundo plano al plan Premium Lite, su suscripción más barata" /></p><p>Los usuarios de Premium Lite podrán escuchar videos con la pantalla apagada o mientras usan otras apps y también descargar contenido para verlo sin conexión, según anunció YouTube este 24 de febrero de 2026.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Meta eliminó 10,9 millones de cuentas de estafa y sumó nuevas alertas en Facebook, Instagram, WhatsApp y Messenger]]></title>
+      <link>https://ultimasgeek.com/meta-elimino-109-millones-de-cuentas-de-estafa-y-sumo-nuevas-alertas-en-facebook-instagram-whatsapp-y-messenger/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/meta-elimino-109-millones-de-cuentas-de-estafa-y-sumo-nuevas-alertas-en-facebook-instagram-whatsapp-y-messenger/</guid>
+      <pubDate>Wed, 11 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/meta-brazil-hate-speech-policy-1024x673-1-1000x600.jpg" alt="Meta eliminó 10,9 millones de cuentas de estafa y sumó nuevas alertas en Facebook, Instagram, WhatsApp y Messenger" /></p><p>La empresa informó que durante 2025 también retiró más de 159 millones de anuncios fraudulentos y lanzó nuevas funciones para advertir a los usuarios sobre contactos y acciones sospechosas.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/meta-brazil-hate-speech-policy-1024x673-1-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-M5-Pro-M5-Max-chips-260303_big.jpg.large_.jpg" alt="Apple presenta los nuevos chips M5 Pro y M5 Max: potencia extrema para profesionales" /></p><p>Con la innovadora arquitectura</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-M5-Pro-M5-Max-chips-260303_big.jpg.large_.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple renueva su línea profesional: lanza los nuevos Studio Display y Studio Display XDR]]></title>
-      <link>https://ultimasgeek.com/apple-renueva-su-linea-profesional-lanza-los-nuevos-studio-display-y-studio-display-xdr/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-renueva-su-linea-profesional-lanza-los-nuevos-studio-display-y-studio-display-xdr/</guid>
-      <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Studio-Display-and-Studio-Display-XDR-260303_big.jpg.large_.jpg" alt="Apple renueva su línea profesional: lanza los nuevos Studio Display y Studio Display XDR" /></p><p>La compañía presentó una nueva generación de monitores que integran tecnología Thunderbolt 5, paneles con tecnología mini-LED y funciones avanzadas para flujos de trabajo de alto rendimiento.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Studio-Display-and-Studio-Display-XDR-260303_big.jpg.large_.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
