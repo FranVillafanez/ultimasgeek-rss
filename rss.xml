@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Sat, 14 Mar 2026 11:24:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 12:52:52 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[TikTok habilita canciones completas de Apple Music dentro de la app y lanza “Listening Party”]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Tue, 24 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" alt="YouTube suma descargas y reproducción en segundo plano al plan Premium Lite, su suscripción más barata" /></p><p>Los usuarios de Premium Lite podrán escuchar videos con la pantalla apagada o mientras usan otras apps y también descargar contenido para verlo sin conexión, según anunció YouTube este 24 de febrero de 2026.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Spotify lanza Taste Profile: la IA permitirá corregir recomendaciones dentro de la app]]></title>
+      <link>https://ultimasgeek.com/spotify-lanza-taste-profile-la-ia-permitira-corregir-recomendaciones-dentro-de-la-app/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/spotify-lanza-taste-profile-la-ia-permitira-corregir-recomendaciones-dentro-de-la-app/</guid>
+      <pubDate>Sat, 14 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/spotify-hifi-lossless-streaming-1000x600.jpg" alt="Spotify lanza Taste Profile: la IA permitirá corregir recomendaciones dentro de la app" /></p><p>La nueva función fue anunciada en SXSW 2026, comenzará como beta para usuarios Premium de Nueva Zelanda y busca dar más control sobre el algoritmo de música, podcasts y audiolibros.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/spotify-hifi-lossless-streaming-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-MacBook-Pro-M5-Pro-and-M5-Max-Capture-One-260303_big.jpg.large_-980x600.jpg" alt="Apple lanza las nuevas MacBook Pro con chips M5 Pro y M5 Max: el salto definitivo en potencia e inteligencia artificial" /></p><p>La compañía tecnológica renovó su línea profesional con procesadores más rápidos y mejoras significativas en autonomía, consolidando su apuesta por la IA integrada.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-MacBook-Pro-M5-Pro-and-M5-Max-Capture-One-260303_big.jpg.large_-980x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple presenta los nuevos chips M5 Pro y M5 Max: potencia extrema para profesionales]]></title>
-      <link>https://ultimasgeek.com/apple-presenta-los-nuevos-chips-m5-pro-y-m5-max-potencia-extrema-para-profesionales/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-presenta-los-nuevos-chips-m5-pro-y-m5-max-potencia-extrema-para-profesionales/</guid>
-      <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-M5-Pro-M5-Max-chips-260303_big.jpg.large_.jpg" alt="Apple presenta los nuevos chips M5 Pro y M5 Max: potencia extrema para profesionales" /></p><p>Con la innovadora arquitectura</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-M5-Pro-M5-Max-chips-260303_big.jpg.large_.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
