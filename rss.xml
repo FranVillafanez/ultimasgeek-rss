@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 16 Mar 2026 20:39:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 21:40:15 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple lanzó los AirPods Max 2: cancelación de ruido mejorada y nuevas funciones inteligentes]]></title>
@@ -32,6 +32,15 @@
       <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" alt="Apple prepara tres nuevos dispositivos “Ultra” y apunta a lanzar un iPhone plegable, un MacBook táctil y AirPods con sensores visuales" /></p><p>Según un nuevo informe de Mark Gurman, la compañía acelerará su apuesta por la gama premium con productos que llegarían entre septiembre y fin de 2026.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Apple Music introduce etiquetas de transparencia para música creada con Inteligencia Artificial]]></title>
+      <link>https://ultimasgeek.com/apple-music-introduce-etiquetas-de-transparencia-para-musica-creada-con-inteligencia-artificial/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-music-introduce-etiquetas-de-transparencia-para-musica-creada-con-inteligencia-artificial/</guid>
+      <pubDate>Thu, 05 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Music-app-icon-2911919108-1000x600.jpg" alt="Apple Music introduce etiquetas de transparencia para música creada con Inteligencia Artificial" /></p><p>La plataforma permite a sellos y distribuidores identificar de manera voluntaria si una canción o contenido audiovisual ha sido generado o asistido por herramientas de IA.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Music-app-icon-2911919108-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-MacBook-Air-hero-260303_big.jpg.large_-980x600.jpg" alt="Apple lanza la nueva MacBook Air con chip M5: más potencia y autonomía para el mercado" /></p><p>La compañía tecnológica renovó su computadora portátil más popular con el procesador de última generación, prometiendo un rendimiento superior, doble capacidad de almacenamiento y mayor eficiencia energética.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-MacBook-Air-hero-260303_big.jpg.large_-980x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple lanza las nuevas MacBook Pro con chips M5 Pro y M5 Max: el salto definitivo en potencia e inteligencia artificial]]></title>
-      <link>https://ultimasgeek.com/apple-lanza-las-nuevas-macbook-pro-con-chips-m5-pro-y-m5-max-el-salto-definitivo-en-potencia-e-inteligencia-artificial/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-lanza-las-nuevas-macbook-pro-con-chips-m5-pro-y-m5-max-el-salto-definitivo-en-potencia-e-inteligencia-artificial/</guid>
-      <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-MacBook-Pro-M5-Pro-and-M5-Max-Capture-One-260303_big.jpg.large_-980x600.jpg" alt="Apple lanza las nuevas MacBook Pro con chips M5 Pro y M5 Max: el salto definitivo en potencia e inteligencia artificial" /></p><p>La compañía tecnológica renovó su línea profesional con procesadores más rápidos y mejoras significativas en autonomía, consolidando su apuesta por la IA integrada.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-MacBook-Pro-M5-Pro-and-M5-Max-Capture-One-260303_big.jpg.large_-980x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
