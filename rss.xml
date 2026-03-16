@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 16 Mar 2026 11:48:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 13:13:34 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[TikTok habilita canciones completas de Apple Music dentro de la app y lanza “Listening Party”]]></title>
@@ -143,15 +143,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Meta eliminó 10,9 millones de cuentas de estafa y sumó nuevas alertas en Facebook, Instagram, WhatsApp y Messenger]]></title>
-      <link>https://ultimasgeek.com/meta-elimino-109-millones-de-cuentas-de-estafa-y-sumo-nuevas-alertas-en-facebook-instagram-whatsapp-y-messenger/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/meta-elimino-109-millones-de-cuentas-de-estafa-y-sumo-nuevas-alertas-en-facebook-instagram-whatsapp-y-messenger/</guid>
-      <pubDate>Wed, 11 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/meta-brazil-hate-speech-policy-1024x673-1-1000x600.jpg" alt="Meta eliminó 10,9 millones de cuentas de estafa y sumó nuevas alertas en Facebook, Instagram, WhatsApp y Messenger" /></p><p>La empresa informó que durante 2025 también retiró más de 159 millones de anuncios fraudulentos y lanzó nuevas funciones para advertir a los usuarios sobre contactos y acciones sospechosas.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/meta-brazil-hate-speech-policy-1024x673-1-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Meta compra Moltbook, la red social para agentes de IA, y la suma a su laboratorio de superinteligencia]]></title>
       <link>https://ultimasgeek.com/meta-compra-moltbook-la-red-social-para-agentes-de-ia-y-la-suma-a-su-laboratorio-de-superinteligencia/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/meta-compra-moltbook-la-red-social-para-agentes-de-ia-y-la-suma-a-su-laboratorio-de-superinteligencia/</guid>
@@ -230,6 +221,15 @@
       <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-MacBook-Pro-M5-Pro-and-M5-Max-Capture-One-260303_big.jpg.large_-980x600.jpg" alt="Apple lanza las nuevas MacBook Pro con chips M5 Pro y M5 Max: el salto definitivo en potencia e inteligencia artificial" /></p><p>La compañía tecnológica renovó su línea profesional con procesadores más rápidos y mejoras significativas en autonomía, consolidando su apuesta por la IA integrada.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-MacBook-Pro-M5-Pro-and-M5-Max-Capture-One-260303_big.jpg.large_-980x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Apple presenta los nuevos chips M5 Pro y M5 Max: potencia extrema para profesionales]]></title>
+      <link>https://ultimasgeek.com/apple-presenta-los-nuevos-chips-m5-pro-y-m5-max-potencia-extrema-para-profesionales/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-presenta-los-nuevos-chips-m5-pro-y-m5-max-potencia-extrema-para-profesionales/</guid>
+      <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-M5-Pro-M5-Max-chips-260303_big.jpg.large_.jpg" alt="Apple presenta los nuevos chips M5 Pro y M5 Max: potencia extrema para profesionales" /></p><p>Con la innovadora arquitectura</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-M5-Pro-M5-Max-chips-260303_big.jpg.large_.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
