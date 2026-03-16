@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 16 Mar 2026 16:13:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 18:00:27 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple lanzó los AirPods Max 2: cancelación de ruido mejorada y nuevas funciones inteligentes]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Tue, 24 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" alt="YouTube suma descargas y reproducción en segundo plano al plan Premium Lite, su suscripción más barata" /></p><p>Los usuarios de Premium Lite podrán escuchar videos con la pantalla apagada o mientras usan otras apps y también descargar contenido para verlo sin conexión, según anunció YouTube este 24 de febrero de 2026.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[OpenAI avanza con su “modo adulto” en ChatGPT, pero bloqueará porno en audio, imágenes y video]]></title>
+      <link>https://ultimasgeek.com/openai-avanza-con-su-modo-adulto-en-chatgpt-pero-bloqueara-porno-en-audio-imagenes-y-video/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/openai-avanza-con-su-modo-adulto-en-chatgpt-pero-bloqueara-porno-en-audio-imagenes-y-video/</guid>
+      <pubDate>Mon, 16 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" alt="OpenAI avanza con su “modo adulto” en ChatGPT, pero bloqueará porno en audio, imágenes y video" /></p><p>Reportes publicados este lunes indican que la función apuntará a conversaciones de texto para adultos verificados. OpenAI todavía no definió una fecha de lanzamiento y sigue reforzando sus controles de edad.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -212,15 +221,6 @@
       <pubDate>Wed, 25 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/spotify_feat-1000x600.jpg" alt="Spotify lanzó “Smart Reorder” para mejorar las transiciones en playlists y acercarlas a una mezcla tipo DJ" /></p><p>La nueva función para suscriptores Premium reordena canciones según BPM y tonalidad para lograr un flujo más parejo entre temas.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/spotify_feat-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Anthropic lanzó “Remote Control”, una versión móvil para manejar Claude Code desde el celular]]></title>
-      <link>https://ultimasgeek.com/anthropic-lanzo-remote-control-una-version-movil-para-manejar-claude-code-desde-el-celular/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/anthropic-lanzo-remote-control-una-version-movil-para-manejar-claude-code-desde-el-celular/</guid>
-      <pubDate>Wed, 25 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/6826a6227b1fbd47034d1936_claude-code-432396467-1000x600.webp" alt="Anthropic lanzó “Remote Control”, una versión móvil para manejar Claude Code desde el celular" /></p><p>La nueva función permite continuar y supervisar sesiones de Claude Code desde iPhone y Android con un QR. Está en vista previa para planes Pro y Max.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/6826a6227b1fbd47034d1936_claude-code-432396467-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
