@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 18 Mar 2026 22:33:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 23:31:01 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple lanzó los AirPods Max 2: cancelación de ruido mejorada y nuevas funciones inteligentes]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Wed, 25 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/chatbot-deep-gemini-avanada-1920x1080-332069063-1000x600.png" alt="Google lleva la IA de Gemini a otro nivel: podrá armar pedidos y reservas en apps desde Galaxy S26 y Pixel 10" /></p><p>La nueva función de automatización de tareas permitirá que Gemini navegue aplicaciones como Uber, DoorDash o Grubhub en una ventana virtual, con lanzamiento inicial en Estados Unidos y Corea del Sur.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/chatbot-deep-gemini-avanada-1920x1080-332069063-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[Perplexity lanza Comet: el navegador con IA que llega al iPhone para desafiar a Safari y Chrome]]></title>
+      <link>https://ultimasgeek.com/perplexity-lanza-comet-el-navegador-con-ia-que-llega-al-iphone-para-desafiar-a-safari-y-chrome/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/perplexity-lanza-comet-el-navegador-con-ia-que-llega-al-iphone-para-desafiar-a-safari-y-chrome/</guid>
+      <pubDate>Wed, 18 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/comet-ai-browser-3-696x392-1.jpg" alt="Perplexity lanza Comet: el navegador con IA que llega al iPhone para desafiar a Safari y Chrome" /></p><p>La nueva aplicación ya está disponible en la App Store y propone un cambio radical en la forma de navegar y buscar información desde el celular.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/comet-ai-browser-3-696x392-1.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -202,15 +211,6 @@
       <guid isPermaLink="true">https://ultimasgeek.com/anthropic-lanza-una-funcion-clave-para-migrar-datos-de-chatgpt-a-su-inteligencia-artificial-claude/</guid>
       <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/anthropic_1.png_673822677-3323201076-1000x600.png" alt="Anthropic lanza una función clave para migrar datos de ChatGPT a su inteligencia artificial Claude" /></p><p>La nueva herramienta de memoria permite a los usuarios transferir sus preferencias y contextos personales entre plataformas de IA de forma directa.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/anthropic_1.png_673822677-3323201076-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Trump ordenó a agencias federales dejar de usar la IA de Anthropic tras un choque con el Pentágono]]></title>
-      <link>https://ultimasgeek.com/trump-ordeno-a-agencias-federales-dejar-de-usar-la-ia-de-anthropic-tras-un-choque-con-el-pentagono/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/trump-ordeno-a-agencias-federales-dejar-de-usar-la-ia-de-anthropic-tras-un-choque-con-el-pentagono/</guid>
-      <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/anthropic_1.png_673822677-3323201076-1000x600.png" alt="Trump ordenó a agencias federales dejar de usar la IA de Anthropic tras un choque con el Pentágono" /></p><p>La directiva se conoció este viernes 27 de febrero de 2026 e incluye un “phase out” de seis meses para áreas como Defensa; el trasfondo es una disputa por límites de uso vinculados a armas autónomas y vigilancia.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/anthropic_1.png_673822677-3323201076-1000x600.png" type="image/png" />
     </item>
 
