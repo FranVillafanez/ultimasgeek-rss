@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 19 Mar 2026 13:05:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 14:48:44 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple lanzó los AirPods Max 2: cancelación de ruido mejorada y nuevas funciones inteligentes]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Wed, 25 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/chatbot-deep-gemini-avanada-1920x1080-332069063-1000x600.png" alt="Google lleva la IA de Gemini a otro nivel: podrá armar pedidos y reservas en apps desde Galaxy S26 y Pixel 10" /></p><p>La nueva función de automatización de tareas permitirá que Gemini navegue aplicaciones como Uber, DoorDash o Grubhub en una ventana virtual, con lanzamiento inicial en Estados Unidos y Corea del Sur.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/chatbot-deep-gemini-avanada-1920x1080-332069063-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[Adobe abrió la beta de Firefly que aprende el estilo visual propio y genera imágenes consistentes]]></title>
+      <link>https://ultimasgeek.com/adobe-abrio-la-beta-de-firefly-que-aprende-el-estilo-visual-propio-y-genera-imagenes-consistentes/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/adobe-abrio-la-beta-de-firefly-que-aprende-el-estilo-visual-propio-y-genera-imagenes-consistentes/</guid>
+      <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Firefly-Custom-Models-Hero-Image-1000x600.jpg" alt="Adobe abrió la beta de Firefly que aprende el estilo visual propio y genera imágenes consistentes" /></p><p>La nueva función de Adobe Firefly permite entrenar la IA generativa con imágenes propias para conservar trazos, paletas, iluminación y personajes; además, la plataforma sumó más de 30 modelos de terceros y amplió la beta privada de Project Moonlight.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Firefly-Custom-Models-Hero-Image-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-MacBook-Air-hero-260303_big.jpg.large_-980x600.jpg" alt="Apple lanza la nueva MacBook Air con chip M5: más potencia y autonomía para el mercado" /></p><p>La compañía tecnológica renovó su computadora portátil más popular con el procesador de última generación, prometiendo un rendimiento superior, doble capacidad de almacenamiento y mayor eficiencia energética.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-MacBook-Air-hero-260303_big.jpg.large_-980x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple lanza las nuevas MacBook Pro con chips M5 Pro y M5 Max: el salto definitivo en potencia e inteligencia artificial]]></title>
-      <link>https://ultimasgeek.com/apple-lanza-las-nuevas-macbook-pro-con-chips-m5-pro-y-m5-max-el-salto-definitivo-en-potencia-e-inteligencia-artificial/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-lanza-las-nuevas-macbook-pro-con-chips-m5-pro-y-m5-max-el-salto-definitivo-en-potencia-e-inteligencia-artificial/</guid>
-      <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-MacBook-Pro-M5-Pro-and-M5-Max-Capture-One-260303_big.jpg.large_-980x600.jpg" alt="Apple lanza las nuevas MacBook Pro con chips M5 Pro y M5 Max: el salto definitivo en potencia e inteligencia artificial" /></p><p>La compañía tecnológica renovó su línea profesional con procesadores más rápidos y mejoras significativas en autonomía, consolidando su apuesta por la IA integrada.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-MacBook-Pro-M5-Pro-and-M5-Max-Capture-One-260303_big.jpg.large_-980x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
