@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 23 Mar 2026 11:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 13:08:46 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple evaluó comprar Halide para mejorar la cámara del iPhone y la negociación terminó en una demanda]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Wed, 25 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/chatbot-deep-gemini-avanada-1920x1080-332069063-1000x600.png" alt="Google lleva la IA de Gemini a otro nivel: podrá armar pedidos y reservas en apps desde Galaxy S26 y Pixel 10" /></p><p>La nueva función de automatización de tareas permitirá que Gemini navegue aplicaciones como Uber, DoorDash o Grubhub en una ventana virtual, con lanzamiento inicial en Estados Unidos y Corea del Sur.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/chatbot-deep-gemini-avanada-1920x1080-332069063-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[Elon Musk anunció Terafab: el megaprojecto con el que Tesla y SpaceX buscan fabricar sus propios chips]]></title>
+      <link>https://ultimasgeek.com/elon-musk-anuncio-terafab-el-megaprojecto-con-el-que-tesla-y-spacex-buscan-fabricar-sus-propios-chips/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/elon-musk-anuncio-terafab-el-megaprojecto-con-el-que-tesla-y-spacex-buscan-fabricar-sus-propios-chips/</guid>
+      <pubDate>Mon, 23 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/05/Diseno-sin-titulo-3-1000x600.png" alt="Elon Musk anunció Terafab: el megaprojecto con el que Tesla y SpaceX buscan fabricar sus propios chips" /></p><p>El empresario presentó en Austin el plan para levantar una planta de semiconductores de gran escala en Texas, con foco en autos, robots e infraestructura de IA, en medio de la presión global por el suministro de chips.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/05/Diseno-sin-titulo-3-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Thu, 05 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Music-app-icon-2911919108-1000x600.jpg" alt="Apple Music introduce etiquetas de transparencia para música creada con Inteligencia Artificial" /></p><p>La plataforma permite a sellos y distribuidores identificar de manera voluntaria si una canción o contenido audiovisual ha sido generado o asistido por herramientas de IA.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Music-app-icon-2911919108-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple lanza la MacBook Neo: potencia de iPhone en un portátil accesible]]></title>
-      <link>https://ultimasgeek.com/apple-lanza-la-macbook-neo-potencia-de-iphone-en-un-portatil-accesible/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-lanza-la-macbook-neo-potencia-de-iphone-en-un-portatil-accesible/</guid>
-      <pubDate>Wed, 04 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-MacBook-Neo-hero-260304_big.jpg.large_-980x600.jpg" alt="Apple lanza la MacBook Neo: potencia de iPhone en un portátil accesible" /></p><p>La compañía de Cupertino sorprendió al mercado con su nueva apuesta de entrada: un equipo de 13 pulgadas, con chip A18 Pro y colores vibrantes, diseñado para conquistar a estudiantes y nuevos usuarios del ecosistema.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-MacBook-Neo-hero-260304_big.jpg.large_-980x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
