@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 25 Mar 2026 17:58:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 19:07:26 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple anunció la WWDC 2026: será del 8 al 12 de junio y pondrá el foco en IA y nuevo software]]></title>
@@ -53,6 +53,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Google lanzó Lyria 3 Pro y amplió su apuesta por la música creada con IA]]></title>
+      <link>https://ultimasgeek.com/google-lanzo-lyria-3-pro-y-amplio-su-apuesta-por-la-musica-creada-con-ia/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-lanzo-lyria-3-pro-y-amplio-su-apuesta-por-la-musica-creada-con-ia/</guid>
+      <pubDate>Wed, 25 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Lyria-3-Pro_thumbnail.width-1300-1-1000x600.png" alt="Google lanzó Lyria 3 Pro y amplió su apuesta por la música creada con IA" /></p><p>La nueva versión del modelo permite generar pistas de hasta tres minutos, suma más control sobre la estructura musical y llega a Gemini, Vertex AI, AI Studio, Google Vids y ProducerAI.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Lyria-3-Pro_thumbnail.width-1300-1-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
       <title><![CDATA[YouTube se asocia con la FIFA y sumará partidos, resúmenes y archivo histórico del Mundial 2026]]></title>
       <link>https://ultimasgeek.com/youtube-se-asocia-con-la-fifa-y-sumara-partidos-resumenes-y-archivo-historico-del-mundial-2026/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/youtube-se-asocia-con-la-fifa-y-sumara-partidos-resumenes-y-archivo-historico-del-mundial-2026/</guid>
@@ -86,15 +95,6 @@
       <pubDate>Thu, 26 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/NB2_Hero.width-1200.format-webp-1000x600.webp" alt="Google presentó Nano Banana 2, su nuevo modelo de IA para generar imágenes más rápido y con calidad “Pro”" /></p><p>La herramienta, llamada Nano Banana 2 (Gemini 3.1 Flash Image), promete edición veloz, más control creativo y despliegue en Gemini, Search, Flow, Google Ads y APIs.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/NB2_Hero.width-1200.format-webp-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google lleva la IA de Gemini a otro nivel: podrá armar pedidos y reservas en apps desde Galaxy S26 y Pixel 10]]></title>
-      <link>https://ultimasgeek.com/google-lleva-la-ia-de-gemini-a-otro-nivel-podra-armar-pedidos-y-reservas-en-apps-desde-galaxy-s26-y-pixel-10/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-lleva-la-ia-de-gemini-a-otro-nivel-podra-armar-pedidos-y-reservas-en-apps-desde-galaxy-s26-y-pixel-10/</guid>
-      <pubDate>Wed, 25 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/chatbot-deep-gemini-avanada-1920x1080-332069063-1000x600.png" alt="Google lleva la IA de Gemini a otro nivel: podrá armar pedidos y reservas en apps desde Galaxy S26 y Pixel 10" /></p><p>La nueva función de automatización de tareas permitirá que Gemini navegue aplicaciones como Uber, DoorDash o Grubhub en una ventana virtual, con lanzamiento inicial en Estados Unidos y Corea del Sur.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/chatbot-deep-gemini-avanada-1920x1080-332069063-1000x600.png" type="image/png" />
     </item>
 
     <item>
