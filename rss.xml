@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 26 Mar 2026 17:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 19:06:47 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple anunció la WWDC 2026: será del 8 al 12 de junio y pondrá el foco en IA y nuevo software]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Thu, 26 Feb 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/NB2_Hero.width-1200.format-webp-1000x600.webp" alt="Google presentó Nano Banana 2, su nuevo modelo de IA para generar imágenes más rápido y con calidad “Pro”" /></p><p>La herramienta, llamada Nano Banana 2 (Gemini 3.1 Flash Image), promete edición veloz, más control creativo y despliegue en Gemini, Search, Flow, Google Ads y APIs.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/NB2_Hero.width-1200.format-webp-1000x600.webp" type="image/webp" />
+    </item>
+
+    <item>
+      <title><![CDATA[WhatsApp suma respuestas sugeridas con IA y amplía sus funciones en iPhone]]></title>
+      <link>https://ultimasgeek.com/whatsapp-suma-respuestas-sugeridas-con-ia-y-amplia-sus-funciones-en-iphone/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-suma-respuestas-sugeridas-con-ia-y-amplia-sus-funciones-en-iphone/</guid>
+      <pubDate>Thu, 26 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/11/7IKZJEXCYRP7RBMXFEOFGPG7S4-1000x600.jpg" alt="WhatsApp suma respuestas sugeridas con IA y amplía sus funciones en iPhone" /></p><p>La app de Meta comenzó a desplegar una actualización que permite redactar respuestas automáticas según el contexto del chat, además de edición de fotos con IA, limpieza de archivos y dos cuentas en un mismo iPhone.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/11/7IKZJEXCYRP7RBMXFEOFGPG7S4-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" alt="Apple prepara tres nuevos dispositivos “Ultra” y apunta a lanzar un iPhone plegable, un MacBook táctil y AirPods con sensores visuales" /></p><p>Según un nuevo informe de Mark Gurman, la compañía acelerará su apuesta por la gama premium con productos que llegarían entre septiembre y fin de 2026.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple Music introduce etiquetas de transparencia para música creada con Inteligencia Artificial]]></title>
-      <link>https://ultimasgeek.com/apple-music-introduce-etiquetas-de-transparencia-para-musica-creada-con-inteligencia-artificial/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-music-introduce-etiquetas-de-transparencia-para-musica-creada-con-inteligencia-artificial/</guid>
-      <pubDate>Thu, 05 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Music-app-icon-2911919108-1000x600.jpg" alt="Apple Music introduce etiquetas de transparencia para música creada con Inteligencia Artificial" /></p><p>La plataforma permite a sellos y distribuidores identificar de manera voluntaria si una canción o contenido audiovisual ha sido generado o asistido por herramientas de IA.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Music-app-icon-2911919108-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
