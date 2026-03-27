@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 26 Mar 2026 23:33:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 02:26:59 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple anunció la WWDC 2026: será del 8 al 12 de junio y pondrá el foco en IA y nuevo software]]></title>
@@ -53,6 +53,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Google expande su buscador en tiempo real: llega Search Live a nivel global]]></title>
+      <link>https://ultimasgeek.com/google-expande-su-buscador-en-tiempo-real-llega-search-live-a-nivel-global/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-expande-su-buscador-en-tiempo-real-llega-search-live-a-nivel-global/</guid>
+      <pubDate>Thu, 26 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Search_Live_blog_header.width-1200.format-webp-1000x600.webp" alt="Google expande su buscador en tiempo real: llega Search Live a nivel global" /></p><p>El gigante tecnológico activa su herramienta de actualizaciones instantáneas para seguir eventos en directo desde cualquier dispositivo.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Search_Live_blog_header.width-1200.format-webp-1000x600.webp" type="image/webp" />
+    </item>
+
+    <item>
       <title><![CDATA[Google lanzó Lyria 3 Pro y amplió su apuesta por la música creada con IA]]></title>
       <link>https://ultimasgeek.com/google-lanzo-lyria-3-pro-y-amplio-su-apuesta-por-la-musica-creada-con-ia/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-lanzo-lyria-3-pro-y-amplio-su-apuesta-por-la-musica-creada-con-ia/</guid>
@@ -86,15 +95,6 @@
       <pubDate>Thu, 05 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Epic-Games-Store-Google-Play-Store-large-4029969400-1000x576.png" alt="Acuerdo histórico: Google y Epic Games cierran su batalla legal por la Play Store" /></p><p>Las empresas pactaron cambios en el sistema de pagos y una compensación económica tras años de litigio judicial.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Epic-Games-Store-Google-Play-Store-large-4029969400-1000x576.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google presentó Nano Banana 2, su nuevo modelo de IA para generar imágenes más rápido y con calidad “Pro”]]></title>
-      <link>https://ultimasgeek.com/google-presento-nano-banana-2-su-nuevo-modelo-de-ia-para-generar-imagenes-mas-rapido-y-con-calidad-pro/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-presento-nano-banana-2-su-nuevo-modelo-de-ia-para-generar-imagenes-mas-rapido-y-con-calidad-pro/</guid>
-      <pubDate>Thu, 26 Feb 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/NB2_Hero.width-1200.format-webp-1000x600.webp" alt="Google presentó Nano Banana 2, su nuevo modelo de IA para generar imágenes más rápido y con calidad “Pro”" /></p><p>La herramienta, llamada Nano Banana 2 (Gemini 3.1 Flash Image), promete edición veloz, más control creativo y despliegue en Gemini, Search, Flow, Google Ads y APIs.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/NB2_Hero.width-1200.format-webp-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
