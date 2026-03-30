@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 30 Mar 2026 11:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 13:20:44 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple anunció la WWDC 2026: será del 8 al 12 de junio y pondrá el foco en IA y nuevo software]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Thu, 05 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Epic-Games-Store-Google-Play-Store-large-4029969400-1000x576.png" alt="Acuerdo histórico: Google y Epic Games cierran su batalla legal por la Play Store" /></p><p>Las empresas pactaron cambios en el sistema de pagos y una compensación económica tras años de litigio judicial.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Epic-Games-Store-Google-Play-Store-large-4029969400-1000x576.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[Bluesky presentó Attie, una app con IA para crear feeds personalizados sin programar]]></title>
+      <link>https://ultimasgeek.com/bluesky-presento-attie-una-app-con-ia-para-crear-feeds-personalizados-sin-programar/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/bluesky-presento-attie-una-app-con-ia-para-crear-feeds-personalizados-sin-programar/</guid>
+      <pubDate>Mon, 30 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/ZVKQXMCDBJAIHOVBBQPD6VKPOQ.jpg-1000x512.avif" alt="Bluesky presentó Attie, una app con IA para crear feeds personalizados sin programar" /></p><p>La nueva herramienta fue mostrada en la conferencia Atmosphere, funciona con Claude de Anthropic sobre AT Protocol y arrancó como una beta cerrada independiente de Bluesky.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/ZVKQXMCDBJAIHOVBBQPD6VKPOQ.jpg-1000x512.avif" type="image/jpeg" />
     </item>
 
     <item>
@@ -194,15 +203,6 @@
       <pubDate>Mon, 16 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" alt="OpenAI avanza con su “modo adulto” en ChatGPT, pero bloqueará porno en audio, imágenes y video" /></p><p>Reportes publicados este lunes indican que la función apuntará a conversaciones de texto para adultos verificados. OpenAI todavía no definió una fecha de lanzamiento y sigue reforzando sus controles de edad.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Spotify lanza Taste Profile: la IA permitirá corregir recomendaciones dentro de la app]]></title>
-      <link>https://ultimasgeek.com/spotify-lanza-taste-profile-la-ia-permitira-corregir-recomendaciones-dentro-de-la-app/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/spotify-lanza-taste-profile-la-ia-permitira-corregir-recomendaciones-dentro-de-la-app/</guid>
-      <pubDate>Sat, 14 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/spotify-hifi-lossless-streaming-1000x600.jpg" alt="Spotify lanza Taste Profile: la IA permitirá corregir recomendaciones dentro de la app" /></p><p>La nueva función fue anunciada en SXSW 2026, comenzará como beta para usuarios Premium de Nueva Zelanda y busca dar más control sobre el algoritmo de música, podcasts y audiolibros.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/spotify-hifi-lossless-streaming-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
