@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 31 Mar 2026 09:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 10:52:46 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple endurece las reglas para que accesorios de terceros accedan a notificaciones del iPhone]]></title>
+      <link>https://ultimasgeek.com/apple-endurece-las-reglas-para-que-accesorios-de-terceros-accedan-a-notificaciones-del-iphone/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-endurece-las-reglas-para-que-accesorios-de-terceros-accedan-a-notificaciones-del-iphone/</guid>
+      <pubDate>Tue, 31 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Data-Privacy-Day-hero_big.jpg.slideshow-xlarge_2x-1000x600.jpg" alt="Apple endurece las reglas para que accesorios de terceros accedan a notificaciones del iPhone" /></p><p>La compañía actualizó su acuerdo para desarrolladores y fijó límites sobre publicidad, perfilado, almacenamiento remoto y uso de datos en funciones ligadas a notificaciones y Live Activities, en un cambio asociado a las exigencias de interoperabilidad en la Unión Europea.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Data-Privacy-Day-hero_big.jpg.slideshow-xlarge_2x-1000x600.jpg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[WhatsApp suma una app para Apple CarPlay y lleva chats y llamadas al tablero del auto]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Fri, 20 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/tim-1000x600.jpg" alt="Apple batió un récord con la Mac: Tim Cook afirmó que fue la mejor semana de lanzamientos entre compradores nuevos" /></p><p>El CEO de la compañía aseguró que la línea Mac tuvo su mejor debut histórico entre usuarios que compraron una computadora de Apple por primera vez, tras la salida de la nueva MacBook Neo, la MacBook Air con M5 y la MacBook Pro con M5 Pro y M5 Max.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/tim-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple Health se integra a Perplexity Health y suma datos médicos y de wearables a la IA]]></title>
-      <link>https://ultimasgeek.com/apple-health-se-integra-a-perplexity-health-y-suma-datos-medicos-y-de-wearables-a-la-ia/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-health-se-integra-a-perplexity-health-y-suma-datos-medicos-y-de-wearables-a-la-ia/</guid>
-      <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/1jY_tFgvo3zdFmBuvI_spoQ-1000x600.png" alt="Apple Health se integra a Perplexity Health y suma datos médicos y de wearables a la IA" /></p><p>La nueva función de Perplexity conecta la app de salud de Apple con historiales clínicos, laboratorios y dispositivos, y comienza a desplegarse para suscriptores Pro y Max en Estados Unidos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/1jY_tFgvo3zdFmBuvI_spoQ-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -170,6 +170,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Apple Health se integra a Perplexity Health y suma datos médicos y de wearables a la IA]]></title>
+      <link>https://ultimasgeek.com/apple-health-se-integra-a-perplexity-health-y-suma-datos-medicos-y-de-wearables-a-la-ia/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-health-se-integra-a-perplexity-health-y-suma-datos-medicos-y-de-wearables-a-la-ia/</guid>
+      <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/1jY_tFgvo3zdFmBuvI_spoQ-1000x600.png" alt="Apple Health se integra a Perplexity Health y suma datos médicos y de wearables a la IA" /></p><p>La nueva función de Perplexity conecta la app de salud de Apple con historiales clínicos, laboratorios y dispositivos, y comienza a desplegarse para suscriptores Pro y Max en Estados Unidos.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/1jY_tFgvo3zdFmBuvI_spoQ-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
       <title><![CDATA[Adobe abrió la beta de Firefly que aprende el estilo visual propio y genera imágenes consistentes]]></title>
       <link>https://ultimasgeek.com/adobe-abrio-la-beta-de-firefly-que-aprende-el-estilo-visual-propio-y-genera-imagenes-consistentes/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/adobe-abrio-la-beta-de-firefly-que-aprende-el-estilo-visual-propio-y-genera-imagenes-consistentes/</guid>
@@ -221,15 +230,6 @@
       <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" alt="Apple prepara tres nuevos dispositivos “Ultra” y apunta a lanzar un iPhone plegable, un MacBook táctil y AirPods con sensores visuales" /></p><p>Según un nuevo informe de Mark Gurman, la compañía acelerará su apuesta por la gama premium con productos que llegarían entre septiembre y fin de 2026.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple Music introduce etiquetas de transparencia para música creada con Inteligencia Artificial]]></title>
-      <link>https://ultimasgeek.com/apple-music-introduce-etiquetas-de-transparencia-para-musica-creada-con-inteligencia-artificial/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-music-introduce-etiquetas-de-transparencia-para-musica-creada-con-inteligencia-artificial/</guid>
-      <pubDate>Thu, 05 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Music-app-icon-2911919108-1000x600.jpg" alt="Apple Music introduce etiquetas de transparencia para música creada con Inteligencia Artificial" /></p><p>La plataforma permite a sellos y distribuidores identificar de manera voluntaria si una canción o contenido audiovisual ha sido generado o asistido por herramientas de IA.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Music-app-icon-2911919108-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
