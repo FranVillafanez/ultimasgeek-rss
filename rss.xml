@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 01 Apr 2026 16:55:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 17:52:12 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[iOS 27 podría dejar crear atajos con IA desde una orden hablada o escrita]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Thu, 05 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Epic-Games-Store-Google-Play-Store-large-4029969400-1000x576.png" alt="Acuerdo histórico: Google y Epic Games cierran su batalla legal por la Play Store" /></p><p>Las empresas pactaron cambios en el sistema de pagos y una compensación económica tras años de litigio judicial.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Epic-Games-Store-Google-Play-Store-large-4029969400-1000x576.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[WhatsApp alertó a 200 usuarios por una app falsa con spyware y apuntó a una firma italiana]]></title>
+      <link>https://ultimasgeek.com/whatsapp-alerto-a-200-usuarios-por-una-app-falsa-con-spyware-y-apunto-a-una-firma-italiana/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-alerto-a-200-usuarios-por-una-app-falsa-con-spyware-y-apunto-a-una-firma-italiana/</guid>
+      <pubDate>Wed, 01 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/11/7IKZJEXCYRP7RBMXFEOFGPG7S4-1000x600.jpg" alt="WhatsApp alertó a 200 usuarios por una app falsa con spyware y apuntó a una firma italiana" /></p><p>La empresa informó este 1 de abril de 2026 que detectó una versión no oficial de WhatsApp para iPhone con software de vigilancia. La mayoría de los afectados está en Italia y Meta anunció medidas legales.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/11/7IKZJEXCYRP7RBMXFEOFGPG7S4-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Wed, 11 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/8a4714269979902dcc22c77988452e68.pngtplv-0twjg7x6w4-default-0-0-q75.image_-1000x600.png" alt="TikTok habilita canciones completas de Apple Music dentro de la app y lanza “Listening Party”" /></p><p>La red social anunció una integración con Apple Music que permitirá escuchar temas completos sin salir de TikTok y sumó una función para sesiones en tiempo real entre artistas y fans.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/8a4714269979902dcc22c77988452e68.pngtplv-0twjg7x6w4-default-0-0-q75.image_-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple prepara tres nuevos dispositivos “Ultra” y apunta a lanzar un iPhone plegable, un MacBook táctil y AirPods con sensores visuales]]></title>
-      <link>https://ultimasgeek.com/apple-prepara-tres-nuevos-dispositivos-ultra-y-apunta-a-lanzar-un-iphone-plegable-un-macbook-tactil-y-airpods-con-sensores-visuales/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-prepara-tres-nuevos-dispositivos-ultra-y-apunta-a-lanzar-un-iphone-plegable-un-macbook-tactil-y-airpods-con-sensores-visuales/</guid>
-      <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" alt="Apple prepara tres nuevos dispositivos “Ultra” y apunta a lanzar un iPhone plegable, un MacBook táctil y AirPods con sensores visuales" /></p><p>Según un nuevo informe de Mark Gurman, la compañía acelerará su apuesta por la gama premium con productos que llegarían entre septiembre y fin de 2026.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
