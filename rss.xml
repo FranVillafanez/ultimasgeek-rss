@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 06 Apr 2026 16:49:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 17:44:13 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[ElevenLabs lanzó ElevenMusic en la App Store y lleva la música con IA al uso comercial desde el celular]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Tue, 10 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" alt="YouTube ampliará su detector de deepfakes con IA a periodistas y políticos" /></p><p>La plataforma anunció un plan piloto para que funcionarios, candidatos y periodistas puedan detectar videos falsos con su imagen y pedir su baja si violan las reglas de privacidad.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Netflix lanzó Playground, su nueva app de juegos para chicos: cuándo llega a todo el mundo]]></title>
+      <link>https://ultimasgeek.com/netflix-lanzo-playground-su-nueva-app-de-juegos-para-chicos-cuando-llega-a-todo-el-mundo/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/netflix-lanzo-playground-su-nueva-app-de-juegos-para-chicos-cuando-llega-a-todo-el-mundo/</guid>
+      <pubDate>Mon, 06 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Welcome-to-Netflix-Playground-_-Official-Trailer-_-Netflix-0-8-screenshot-1000x600.jpg" alt="Netflix lanzó Playground, su nueva app de juegos para chicos: cuándo llega a todo el mundo" /></p><p>La plataforma presentó este lunes 6 de abril una aplicación infantil incluida en la suscripción, con propuestas de Peppa Pig, Sesame Street, Dr. Seuss y StoryBots; ya funciona en seis países y se expandirá globalmente el 28 de abril.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Welcome-to-Netflix-Playground-_-Official-Trailer-_-Netflix-0-8-screenshot-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Mon, 16 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-AirPods-Max-2-color-lineup_big.jpg.large-squashed-1000x600.jpg" alt="Apple lanzó los AirPods Max 2: cancelación de ruido mejorada y nuevas funciones inteligentes" /></p><p>La compañía presentó la segunda generación de sus auriculares de gama alta con chip H2, que ofrecen sonido de alta fidelidad y traducción en vivo.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-AirPods-Max-2-color-lineup_big.jpg.large-squashed-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[TikTok habilita canciones completas de Apple Music dentro de la app y lanza “Listening Party”]]></title>
-      <link>https://ultimasgeek.com/tiktok-habilita-canciones-completas-de-apple-music-dentro-de-la-app-y-lanza-listening-party/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/tiktok-habilita-canciones-completas-de-apple-music-dentro-de-la-app-y-lanza-listening-party/</guid>
-      <pubDate>Wed, 11 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/8a4714269979902dcc22c77988452e68.pngtplv-0twjg7x6w4-default-0-0-q75.image_-1000x600.png" alt="TikTok habilita canciones completas de Apple Music dentro de la app y lanza “Listening Party”" /></p><p>La red social anunció una integración con Apple Music que permitirá escuchar temas completos sin salir de TikTok y sumó una función para sesiones en tiempo real entre artistas y fans.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/8a4714269979902dcc22c77988452e68.pngtplv-0twjg7x6w4-default-0-0-q75.image_-1000x600.png" type="image/png" />
     </item>
   </channel>
 </rss>
