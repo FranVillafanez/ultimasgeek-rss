@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 07 Apr 2026 18:03:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 19:56:58 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[ElevenLabs lanzó ElevenMusic en la App Store y lleva la música con IA al uso comercial desde el celular]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Tue, 10 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" alt="YouTube ampliará su detector de deepfakes con IA a periodistas y políticos" /></p><p>La plataforma anunció un plan piloto para que funcionarios, candidatos y periodistas puedan detectar videos falsos con su imagen y pedir su baja si violan las reglas de privacidad.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Spotify ahora crea listas personalizadas de podcasts con un simple prompt]]></title>
+      <link>https://ultimasgeek.com/spotify-ahora-crea-listas-personalizadas-de-podcasts-con-un-simple-prompt/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/spotify-ahora-crea-listas-personalizadas-de-podcasts-con-un-simple-prompt/</guid>
+      <pubDate>Tue, 07 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/spotifypng.png-1000x600.webp" alt="Spotify ahora crea listas personalizadas de podcasts con un simple prompt" /></p><p>La nueva función Prompted Playlist empezó a incluir podcasts este 7 de abril de 2026 y ya se despliega, en inglés, para usuarios Premium de siete mercados.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/spotifypng.png-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Fri, 20 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/tim-1000x600.jpg" alt="Apple batió un récord con la Mac: Tim Cook afirmó que fue la mejor semana de lanzamientos entre compradores nuevos" /></p><p>El CEO de la compañía aseguró que la línea Mac tuvo su mejor debut histórico entre usuarios que compraron una computadora de Apple por primera vez, tras la salida de la nueva MacBook Neo, la MacBook Air con M5 y la MacBook Pro con M5 Pro y M5 Max.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/tim-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple lanzó los AirPods Max 2: cancelación de ruido mejorada y nuevas funciones inteligentes]]></title>
-      <link>https://ultimasgeek.com/apple-lanzo-los-airpods-max-2-cancelacion-de-ruido-mejorada-y-nuevas-funciones-inteligentes/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-lanzo-los-airpods-max-2-cancelacion-de-ruido-mejorada-y-nuevas-funciones-inteligentes/</guid>
-      <pubDate>Mon, 16 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-AirPods-Max-2-color-lineup_big.jpg.large-squashed-1000x600.jpg" alt="Apple lanzó los AirPods Max 2: cancelación de ruido mejorada y nuevas funciones inteligentes" /></p><p>La compañía presentó la segunda generación de sus auriculares de gama alta con chip H2, que ofrecen sonido de alta fidelidad y traducción en vivo.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-AirPods-Max-2-color-lineup_big.jpg.large-squashed-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
