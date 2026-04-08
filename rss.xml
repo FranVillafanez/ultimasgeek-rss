@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 08 Apr 2026 10:56:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 11:56:23 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[ElevenLabs lanzó ElevenMusic en la App Store y lleva la música con IA al uso comercial desde el celular]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Tue, 10 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" alt="YouTube ampliará su detector de deepfakes con IA a periodistas y políticos" /></p><p>La plataforma anunció un plan piloto para que funcionarios, candidatos y periodistas puedan detectar videos falsos con su imagen y pedir su baja si violan las reglas de privacidad.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[WhatsApp lanza los nombres de usuario: el fin del número obligatorio para chatear]]></title>
+      <link>https://ultimasgeek.com/whatsapp-lanza-los-nombres-de-usuario-el-fin-del-numero-obligatorio-para-chatear/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-lanza-los-nombres-de-usuario-el-fin-del-numero-obligatorio-para-chatear/</guid>
+      <pubDate>Wed, 08 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/WhatsApp-Google-Messendzhery-Servisy-6-1000x600.webp" alt="WhatsApp lanza los nombres de usuario: el fin del número obligatorio para chatear" /></p><p>La aplicación de Meta estrena una función que permite ocultar el contacto telefónico y usar un alias personalizado para mayor seguridad.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/WhatsApp-Google-Messendzhery-Servisy-6-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Sun, 22 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/IMG_1428.jpeg" alt="Apple evaluó comprar Halide para mejorar la cámara del iPhone y la negociación terminó en una demanda" /></p><p>La posible adquisición de Lux Optics, creadora de Halide, quedó al descubierto por una causa judicial entre sus cofundadores, en medio de los planes de Apple para reforzar su app de cámara nativa.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/IMG_1428.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple batió un récord con la Mac: Tim Cook afirmó que fue la mejor semana de lanzamientos entre compradores nuevos]]></title>
-      <link>https://ultimasgeek.com/apple-batio-un-record-con-la-mac-tim-cook-afirmo-que-fue-la-mejor-semana-de-lanzamientos-entre-compradores-nuevos/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-batio-un-record-con-la-mac-tim-cook-afirmo-que-fue-la-mejor-semana-de-lanzamientos-entre-compradores-nuevos/</guid>
-      <pubDate>Fri, 20 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/tim-1000x600.jpg" alt="Apple batió un récord con la Mac: Tim Cook afirmó que fue la mejor semana de lanzamientos entre compradores nuevos" /></p><p>El CEO de la compañía aseguró que la línea Mac tuvo su mejor debut histórico entre usuarios que compraron una computadora de Apple por primera vez, tras la salida de la nueva MacBook Neo, la MacBook Air con M5 y la MacBook Pro con M5 Pro y M5 Max.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/tim-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
