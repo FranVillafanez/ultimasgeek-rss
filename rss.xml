@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 10 Apr 2026 16:52:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 17:49:26 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[ElevenLabs lanzó ElevenMusic en la App Store y lleva la música con IA al uso comercial desde el celular]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Wed, 25 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Lyria-3-Pro_thumbnail.width-1300-1-1000x600.png" alt="Google lanzó Lyria 3 Pro y amplió su apuesta por la música creada con IA" /></p><p>La nueva versión del modelo permite generar pistas de hasta tres minutos, suma más control sobre la estructura musical y llega a Gemini, Vertex AI, AI Studio, Google Vids y ProducerAI.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Lyria-3-Pro_thumbnail.width-1300-1-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[Roblox anunció Roblox Plus: cuánto costará, qué beneficios trae y qué pasará con Premium]]></title>
+      <link>https://ultimasgeek.com/roblox-anuncio-roblox-plus-cuanto-costara-que-beneficios-trae-y-que-pasara-con-premium/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/roblox-anuncio-roblox-plus-cuanto-costara-que-beneficios-trae-y-que-pasara-con-premium/</guid>
+      <pubDate>Fri, 10 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Roblox-Plus.jpeg-1000x600.webp" alt="Roblox anunció Roblox Plus: cuánto costará, qué beneficios trae y qué pasará con Premium" /></p><p>La nueva suscripción global se lanzará el 30 de abril de 2026 por 4,99 dólares al mes e incluirá descuentos, servidores privados gratis y transferencias de Robux sin comisión.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Roblox-Plus.jpeg-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/1jY_tFgvo3zdFmBuvI_spoQ-1000x600.png" alt="Apple Health se integra a Perplexity Health y suma datos médicos y de wearables a la IA" /></p><p>La nueva función de Perplexity conecta la app de salud de Apple con historiales clínicos, laboratorios y dispositivos, y comienza a desplegarse para suscriptores Pro y Max en Estados Unidos.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/1jY_tFgvo3zdFmBuvI_spoQ-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple lanzó los AirPods Max 2: cancelación de ruido mejorada y nuevas funciones inteligentes]]></title>
-      <link>https://ultimasgeek.com/apple-lanzo-los-airpods-max-2-cancelacion-de-ruido-mejorada-y-nuevas-funciones-inteligentes/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-lanzo-los-airpods-max-2-cancelacion-de-ruido-mejorada-y-nuevas-funciones-inteligentes/</guid>
-      <pubDate>Mon, 16 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-AirPods-Max-2-color-lineup_big.jpg.large-squashed-1000x600.jpg" alt="Apple lanzó los AirPods Max 2: cancelación de ruido mejorada y nuevas funciones inteligentes" /></p><p>La compañía presentó la segunda generación de sus auriculares de gama alta con chip H2, que ofrecen sonido de alta fidelidad y traducción en vivo.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-AirPods-Max-2-color-lineup_big.jpg.large-squashed-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
