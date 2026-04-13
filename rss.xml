@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Sun, 12 Apr 2026 23:35:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 02:42:21 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple ya testea cuatro prototipos de sus nuevas gafas inteligentes]]></title>
+      <link>https://ultimasgeek.com/apple-ya-testea-cuatro-prototipos-de-sus-nuevas-gafas-inteligentes/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-ya-testea-cuatro-prototipos-de-sus-nuevas-gafas-inteligentes/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" alt="Apple ya testea cuatro prototipos de sus nuevas gafas inteligentes" /></p><p>El gigante tecnológico busca un diseño liviano y estético para competir en el mercado de la realidad aumentada con dispositivos de uso diario.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[ElevenLabs lanzó ElevenMusic en la App Store y lleva la música con IA al uso comercial desde el celular]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Mon, 30 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-6-1000x600.jpg" alt="WhatsApp suma una app para Apple CarPlay y lleva chats y llamadas al tablero del auto" /></p><p>La nueva función ya aparece en la beta para iPhone y permite ver conversaciones recientes, devolver llamadas y acceder a contactos favoritos desde CarPlay.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-6-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple anunció la WWDC 2026: será del 8 al 12 de junio y pondrá el foco en IA y nuevo software]]></title>
-      <link>https://ultimasgeek.com/apple-anuncio-la-wwdc-2026-sera-del-8-al-12-de-junio-y-pondra-el-foco-en-ia-y-nuevo-software/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-anuncio-la-wwdc-2026-sera-del-8-al-12-de-junio-y-pondra-el-foco-en-ia-y-nuevo-software/</guid>
-      <pubDate>Mon, 23 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg" alt="Apple anunció la WWDC 2026: será del 8 al 12 de junio y pondrá el foco en IA y nuevo software" /></p><p>La conferencia para desarrolladores se hará en formato online, con un evento presencial en Apple Park el 8 de junio y más de 100 sesiones para la comunidad global.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -197,12 +197,12 @@
     </item>
 
     <item>
-      <title><![CDATA[OpenAI prepara una “superapp” para Mac: unificará ChatGPT, Codex y Atlas en una sola aplicación]]></title>
-      <link>https://ultimasgeek.com/openai-prepara-una-superapp-para-mac-unificara-chatgpt-codex-y-atlas-en-una-sola-aplicacion/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/openai-prepara-una-superapp-para-mac-unificara-chatgpt-codex-y-atlas-en-una-sola-aplicacion/</guid>
-      <pubDate>Fri, 20 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" alt="OpenAI prepara una “superapp” para Mac: unificará ChatGPT, Codex y Atlas en una sola aplicación" /></p><p>La empresa confirmó un giro en su estrategia de escritorio y apuesta por integrar sus principales herramientas de IA en macOS, con foco en productividad, programación y funciones autónomas.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" type="image/jpeg" />
+      <title><![CDATA[Apple anunció la WWDC 2026: será del 8 al 12 de junio y pondrá el foco en IA y nuevo software]]></title>
+      <link>https://ultimasgeek.com/apple-anuncio-la-wwdc-2026-sera-del-8-al-12-de-junio-y-pondra-el-foco-en-ia-y-nuevo-software/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-anuncio-la-wwdc-2026-sera-del-8-al-12-de-junio-y-pondra-el-foco-en-ia-y-nuevo-software/</guid>
+      <pubDate>Mon, 23 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg" alt="Apple anunció la WWDC 2026: será del 8 al 12 de junio y pondrá el foco en IA y nuevo software" /></p><p>La conferencia para desarrolladores se hará en formato online, con un evento presencial en Apple Park el 8 de junio y más de 100 sesiones para la comunidad global.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg" type="image/jpeg" />
     </item>
 
     <item>
