@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 14 Apr 2026 17:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 19:16:13 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple lanzó Apple Business y unificó gestión de dispositivos, correo y atención a clientes en una sola plataforma]]></title>
+      <link>https://ultimasgeek.com/apple-lanzo-apple-business-y-unifico-gestion-de-dispositivos-correo-y-atencion-a-clientes-en-una-sola-plataforma/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-lanzo-apple-business-y-unifico-gestion-de-dispositivos-correo-y-atencion-a-clientes-en-una-sola-plataforma/</guid>
+      <pubDate>Tue, 14 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-14-at-16.10.10-1000x600.png" alt="Apple lanzó Apple Business y unificó gestión de dispositivos, correo y atención a clientes en una sola plataforma" /></p><p>La nueva propuesta ya está disponible en más de 200 países y regiones, reemplaza tres servicios previos y suma herramientas de administración, comunicación interna y presencia comercial dentro del ecosistema de la marca.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-14-at-16.10.10-1000x600.png" type="image/png" />
+    </item>
 
     <item>
       <title><![CDATA[Amazon acordó comprar Globalstar por US$ 11.570 millones y aseguró la continuidad del servicio satelital del iPhone]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Tue, 31 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-1000x600.jpg" alt="iOS 27 podría dejar crear atajos con IA desde una orden hablada o escrita" /></p><p>Un nuevo rumor sobre Apple indica que la app Shortcuts, conocida en español como Atajos, sumaría en iOS 27 la capacidad de generar acciones nuevas con lenguaje natural, en línea con la renovación de Siri y el despliegue de Apple Intelligence.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple endurece las reglas para que accesorios de terceros accedan a notificaciones del iPhone]]></title>
-      <link>https://ultimasgeek.com/apple-endurece-las-reglas-para-que-accesorios-de-terceros-accedan-a-notificaciones-del-iphone/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-endurece-las-reglas-para-que-accesorios-de-terceros-accedan-a-notificaciones-del-iphone/</guid>
-      <pubDate>Tue, 31 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Data-Privacy-Day-hero_big.jpg.slideshow-xlarge_2x-1000x600.jpg" alt="Apple endurece las reglas para que accesorios de terceros accedan a notificaciones del iPhone" /></p><p>La compañía actualizó su acuerdo para desarrolladores y fijó límites sobre publicidad, perfilado, almacenamiento remoto y uso de datos en funciones ligadas a notificaciones y Live Activities, en un cambio asociado a las exigencias de interoperabilidad en la Unión Europea.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Data-Privacy-Day-hero_big.jpg.slideshow-xlarge_2x-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -95,6 +95,15 @@
       <pubDate>Wed, 25 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Lyria-3-Pro_thumbnail.width-1300-1-1000x600.png" alt="Google lanzó Lyria 3 Pro y amplió su apuesta por la música creada con IA" /></p><p>La nueva versión del modelo permite generar pistas de hasta tres minutos, suma más control sobre la estructura musical y llega a Gemini, Vertex AI, AI Studio, Google Vids y ProducerAI.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Lyria-3-Pro_thumbnail.width-1300-1-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[Microsoft lanzó MAI-Image-2-Efficient y asegura que genera imágenes hasta 40% más rápido que Gemini]]></title>
+      <link>https://ultimasgeek.com/microsoft-lanzo-mai-image-2-efficient-y-asegura-que-genera-imagenes-hasta-40-mas-rapido-que-gemini/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/microsoft-lanzo-mai-image-2-efficient-y-asegura-que-genera-imagenes-hasta-40-mas-rapido-que-gemini/</guid>
+      <pubDate>Tue, 14 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/mai-image-2-efficient-thumb-1000x599.jpg" alt="Microsoft lanzó MAI-Image-2-Efficient y asegura que genera imágenes hasta 40% más rápido que Gemini" /></p><p>La nueva variante de su modelo de IA reduce costos, apunta a chats en tiempo real y ya está disponible en vista previa pública en Microsoft Foundry y MAI Playground.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/mai-image-2-efficient-thumb-1000x599.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -179,6 +188,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Apple endurece las reglas para que accesorios de terceros accedan a notificaciones del iPhone]]></title>
+      <link>https://ultimasgeek.com/apple-endurece-las-reglas-para-que-accesorios-de-terceros-accedan-a-notificaciones-del-iphone/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-endurece-las-reglas-para-que-accesorios-de-terceros-accedan-a-notificaciones-del-iphone/</guid>
+      <pubDate>Tue, 31 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Data-Privacy-Day-hero_big.jpg.slideshow-xlarge_2x-1000x600.jpg" alt="Apple endurece las reglas para que accesorios de terceros accedan a notificaciones del iPhone" /></p><p>La compañía actualizó su acuerdo para desarrolladores y fijó límites sobre publicidad, perfilado, almacenamiento remoto y uso de datos en funciones ligadas a notificaciones y Live Activities, en un cambio asociado a las exigencias de interoperabilidad en la Unión Europea.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Data-Privacy-Day-hero_big.jpg.slideshow-xlarge_2x-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[WhatsApp suma una app para Apple CarPlay y lleva chats y llamadas al tablero del auto]]></title>
       <link>https://ultimasgeek.com/whatsapp-suma-una-app-para-apple-carplay-y-lleva-chats-y-llamadas-al-tablero-del-auto/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-suma-una-app-para-apple-carplay-y-lleva-chats-y-llamadas-al-tablero-del-auto/</guid>
@@ -212,24 +230,6 @@
       <pubDate>Fri, 20 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/tim-1000x600.jpg" alt="Apple batió un récord con la Mac: Tim Cook afirmó que fue la mejor semana de lanzamientos entre compradores nuevos" /></p><p>El CEO de la compañía aseguró que la línea Mac tuvo su mejor debut histórico entre usuarios que compraron una computadora de Apple por primera vez, tras la salida de la nueva MacBook Neo, la MacBook Air con M5 y la MacBook Pro con M5 Pro y M5 Max.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/tim-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple Health se integra a Perplexity Health y suma datos médicos y de wearables a la IA]]></title>
-      <link>https://ultimasgeek.com/apple-health-se-integra-a-perplexity-health-y-suma-datos-medicos-y-de-wearables-a-la-ia/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-health-se-integra-a-perplexity-health-y-suma-datos-medicos-y-de-wearables-a-la-ia/</guid>
-      <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/1jY_tFgvo3zdFmBuvI_spoQ-1000x600.png" alt="Apple Health se integra a Perplexity Health y suma datos médicos y de wearables a la IA" /></p><p>La nueva función de Perplexity conecta la app de salud de Apple con historiales clínicos, laboratorios y dispositivos, y comienza a desplegarse para suscriptores Pro y Max en Estados Unidos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/1jY_tFgvo3zdFmBuvI_spoQ-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple lanzó los AirPods Max 2: cancelación de ruido mejorada y nuevas funciones inteligentes]]></title>
-      <link>https://ultimasgeek.com/apple-lanzo-los-airpods-max-2-cancelacion-de-ruido-mejorada-y-nuevas-funciones-inteligentes/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-lanzo-los-airpods-max-2-cancelacion-de-ruido-mejorada-y-nuevas-funciones-inteligentes/</guid>
-      <pubDate>Mon, 16 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-AirPods-Max-2-color-lineup_big.jpg.large-squashed-1000x600.jpg" alt="Apple lanzó los AirPods Max 2: cancelación de ruido mejorada y nuevas funciones inteligentes" /></p><p>La compañía presentó la segunda generación de sus auriculares de gama alta con chip H2, que ofrecen sonido de alta fidelidad y traducción en vivo.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-AirPods-Max-2-color-lineup_big.jpg.large-squashed-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
