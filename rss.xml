@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 15 Apr 2026 16:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 18:04:57 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Google lanzó la app nativa de Gemini para Mac y suma acceso directo desde el escritorio]]></title>
+      <link>https://ultimasgeek.com/google-lanzo-la-app-nativa-de-gemini-para-mac-y-suma-acceso-directo-desde-el-escritorio/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-lanzo-la-app-nativa-de-gemini-para-mac-y-suma-acceso-directo-desde-el-escritorio/</guid>
+      <pubDate>Wed, 15 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Gemini_for_MacOS_01_Hero_16x9.width-1200.format-webp-1000x600.webp" alt="Google lanzó la app nativa de Gemini para Mac y suma acceso directo desde el escritorio" /></p><p>La nueva aplicación para macOS permite usar Gemini sin abrir el navegador, compartir ventanas y generar contenido con IA desde una interfaz integrada al sistema.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Gemini_for_MacOS_01_Hero_16x9.width-1200.format-webp-1000x600.webp" type="image/webp" />
+    </item>
 
     <item>
       <title><![CDATA[Apple lanzó Apple Business y unificó gestión de dispositivos, correo y atención a clientes en una sola plataforma]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Fri, 03 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-03-at-11.08.26.png" alt="ElevenLabs lanzó ElevenMusic en la App Store y lleva la música con IA al uso comercial desde el celular" /></p><p>La nueva app gratuita permite crear hasta 7 canciones por día con inteligencia artificial, editar letra, estilo y duración, y refuerza la apuesta de la empresa por el audio generativo con foco comercial.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-03-at-11.08.26.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[iOS 27 podría dejar crear atajos con IA desde una orden hablada o escrita]]></title>
-      <link>https://ultimasgeek.com/ios-27-podria-dejar-crear-atajos-con-ia-desde-una-orden-hablada-o-escrita/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/ios-27-podria-dejar-crear-atajos-con-ia-desde-una-orden-hablada-o-escrita/</guid>
-      <pubDate>Tue, 31 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-1000x600.jpg" alt="iOS 27 podría dejar crear atajos con IA desde una orden hablada o escrita" /></p><p>Un nuevo rumor sobre Apple indica que la app Shortcuts, conocida en español como Atajos, sumaría en iOS 27 la capacidad de generar acciones nuevas con lenguaje natural, en línea con la renovación de Siri y el despliegue de Apple Intelligence.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -89,15 +89,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Google lanzó Lyria 3 Pro y amplió su apuesta por la música creada con IA]]></title>
-      <link>https://ultimasgeek.com/google-lanzo-lyria-3-pro-y-amplio-su-apuesta-por-la-musica-creada-con-ia/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-lanzo-lyria-3-pro-y-amplio-su-apuesta-por-la-musica-creada-con-ia/</guid>
-      <pubDate>Wed, 25 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Lyria-3-Pro_thumbnail.width-1300-1-1000x600.png" alt="Google lanzó Lyria 3 Pro y amplió su apuesta por la música creada con IA" /></p><p>La nueva versión del modelo permite generar pistas de hasta tres minutos, suma más control sobre la estructura musical y llega a Gemini, Vertex AI, AI Studio, Google Vids y ProducerAI.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Lyria-3-Pro_thumbnail.width-1300-1-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
       <title><![CDATA[Microsoft lanzó MAI-Image-2-Efficient y asegura que genera imágenes hasta 40% más rápido que Gemini]]></title>
       <link>https://ultimasgeek.com/microsoft-lanzo-mai-image-2-efficient-y-asegura-que-genera-imagenes-hasta-40-mas-rapido-que-gemini/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/microsoft-lanzo-mai-image-2-efficient-y-asegura-que-genera-imagenes-hasta-40-mas-rapido-que-gemini/</guid>
@@ -134,15 +125,6 @@
     </item>
 
     <item>
-      <title><![CDATA[WhatsApp lanza los nombres de usuario: el fin del número obligatorio para chatear]]></title>
-      <link>https://ultimasgeek.com/whatsapp-lanza-los-nombres-de-usuario-el-fin-del-numero-obligatorio-para-chatear/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-lanza-los-nombres-de-usuario-el-fin-del-numero-obligatorio-para-chatear/</guid>
-      <pubDate>Wed, 08 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/WhatsApp-Google-Messendzhery-Servisy-6-1000x600.webp" alt="WhatsApp lanza los nombres de usuario: el fin del número obligatorio para chatear" /></p><p>La aplicación de Meta estrena una función que permite ocultar el contacto telefónico y usar un alias personalizado para mayor seguridad.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/WhatsApp-Google-Messendzhery-Servisy-6-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
       <title><![CDATA[Claude Mythos: la inteligencia artificial que Anthropic decidió ocultar por ser “demasiado potente”]]></title>
       <link>https://ultimasgeek.com/claude-mythos-la-inteligencia-artificial-que-anthropic-decidio-ocultar-por-ser-demasiado-potente/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/claude-mythos-la-inteligencia-artificial-que-anthropic-decidio-ocultar-por-ser-demasiado-potente/</guid>
@@ -158,6 +140,15 @@
       <pubDate>Tue, 07 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/spotifypng.png-1000x600.webp" alt="Spotify ahora crea listas personalizadas de podcasts con un simple prompt" /></p><p>La nueva función Prompted Playlist empezó a incluir podcasts este 7 de abril de 2026 y ya se despliega, en inglés, para usuarios Premium de siete mercados.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/spotifypng.png-1000x600.webp" type="image/webp" />
+    </item>
+
+    <item>
+      <title><![CDATA[iOS 27 podría dejar crear atajos con IA desde una orden hablada o escrita]]></title>
+      <link>https://ultimasgeek.com/ios-27-podria-dejar-crear-atajos-con-ia-desde-una-orden-hablada-o-escrita/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/ios-27-podria-dejar-crear-atajos-con-ia-desde-una-orden-hablada-o-escrita/</guid>
+      <pubDate>Tue, 31 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-1000x600.jpg" alt="iOS 27 podría dejar crear atajos con IA desde una orden hablada o escrita" /></p><p>Un nuevo rumor sobre Apple indica que la app Shortcuts, conocida en español como Atajos, sumaría en iOS 27 la capacidad de generar acciones nuevas con lenguaje natural, en línea con la renovación de Siri y el despliegue de Apple Intelligence.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -179,12 +170,12 @@
     </item>
 
     <item>
-      <title><![CDATA[OpenAI cerrará Sora y deja en pausa un acuerdo de USD 1.000 millones con Disney]]></title>
-      <link>https://ultimasgeek.com/openai-cerrara-sora-y-deja-en-pausa-un-acuerdo-de-usd-1-000-millones-con-disney/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/openai-cerrara-sora-y-deja-en-pausa-un-acuerdo-de-usd-1-000-millones-con-disney/</guid>
+      <title><![CDATA[Google lanzó Lyria 3 Pro y amplió su apuesta por la música creada con IA]]></title>
+      <link>https://ultimasgeek.com/google-lanzo-lyria-3-pro-y-amplio-su-apuesta-por-la-musica-creada-con-ia/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-lanzo-lyria-3-pro-y-amplio-su-apuesta-por-la-musica-creada-con-ia/</guid>
       <pubDate>Wed, 25 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/sora4-1000x600.jpg" alt="OpenAI cerrará Sora y deja en pausa un acuerdo de USD 1.000 millones con Disney" /></p><p>La compañía decidió discontinuar su plataforma de video con IA y reordenar sus prioridades hacia herramientas de código, clientes corporativos y el desarrollo de AGI.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/sora4-1000x600.jpg" type="image/jpeg" />
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Lyria-3-Pro_thumbnail.width-1300-1-1000x600.png" alt="Google lanzó Lyria 3 Pro y amplió su apuesta por la música creada con IA" /></p><p>La nueva versión del modelo permite generar pistas de hasta tres minutos, suma más control sobre la estructura musical y llega a Gemini, Vertex AI, AI Studio, Google Vids y ProducerAI.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Lyria-3-Pro_thumbnail.width-1300-1-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -230,6 +221,15 @@
       <pubDate>Fri, 20 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/tim-1000x600.jpg" alt="Apple batió un récord con la Mac: Tim Cook afirmó que fue la mejor semana de lanzamientos entre compradores nuevos" /></p><p>El CEO de la compañía aseguró que la línea Mac tuvo su mejor debut histórico entre usuarios que compraron una computadora de Apple por primera vez, tras la salida de la nueva MacBook Neo, la MacBook Air con M5 y la MacBook Pro con M5 Pro y M5 Max.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/tim-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Apple Health se integra a Perplexity Health y suma datos médicos y de wearables a la IA]]></title>
+      <link>https://ultimasgeek.com/apple-health-se-integra-a-perplexity-health-y-suma-datos-medicos-y-de-wearables-a-la-ia/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-health-se-integra-a-perplexity-health-y-suma-datos-medicos-y-de-wearables-a-la-ia/</guid>
+      <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/1jY_tFgvo3zdFmBuvI_spoQ-1000x600.png" alt="Apple Health se integra a Perplexity Health y suma datos médicos y de wearables a la IA" /></p><p>La nueva función de Perplexity conecta la app de salud de Apple con historiales clínicos, laboratorios y dispositivos, y comienza a desplegarse para suscriptores Pro y Max en Estados Unidos.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/1jY_tFgvo3zdFmBuvI_spoQ-1000x600.png" type="image/png" />
     </item>
   </channel>
 </rss>
