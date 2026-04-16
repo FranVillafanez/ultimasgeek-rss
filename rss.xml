@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 15 Apr 2026 23:41:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 02:40:44 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Google lanzó la app nativa de Gemini para Mac y suma acceso directo desde el escritorio]]></title>
@@ -53,6 +53,15 @@
     </item>
 
     <item>
+      <title><![CDATA[YouTube ya permite desactivar Shorts con un límite de cero minutos]]></title>
+      <link>https://ultimasgeek.com/youtube-ya-permite-desactivar-shorts-con-un-limite-de-cero-minutos/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/youtube-ya-permite-desactivar-shorts-con-un-limite-de-cero-minutos/</guid>
+      <pubDate>Wed, 15 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/09/OMEFA53QFFA27KUHZQ6XIZZKOI-1000x600.jpg" alt="YouTube ya permite desactivar Shorts con un límite de cero minutos" /></p><p>La plataforma comenzó a habilitar una nueva opción en Android y iPhone para fijar el consumo diario de Shorts en 0 minutos, lo que en la práctica oculta ese formato dentro de la app.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/09/OMEFA53QFFA27KUHZQ6XIZZKOI-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[YouTube habilita avatares con IA en Shorts y permite a creadores generar videos con su propia imagen]]></title>
       <link>https://ultimasgeek.com/youtube-habilita-avatares-con-ia-en-shorts-y-permite-a-creadores-generar-videos-con-su-propia-imagen/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/youtube-habilita-avatares-con-ia-en-shorts-y-permite-a-creadores-generar-videos-con-su-propia-imagen/</guid>
@@ -77,15 +86,6 @@
       <pubDate>Fri, 03 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/google-ai-pro-logo-surrounded-by-floating-feature-previews-on-a-blue-teal-gradient-background-1000x600.avif" alt="Google amplía su plan de IA y lleva el almacenamiento a 5 TB sin subir el precio" /></p><p>El plan Google AI Pro pasó de 2 TB a 5 TB de almacenamiento en Gmail, Google Drive y Google Fotos, mientras mantiene el precio publicado de US$ 19,99 por mes en la web oficial.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/google-ai-pro-logo-surrounded-by-floating-feature-previews-on-a-blue-teal-gradient-background-1000x600.avif" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google expande su buscador en tiempo real: llega Search Live a nivel global]]></title>
-      <link>https://ultimasgeek.com/google-expande-su-buscador-en-tiempo-real-llega-search-live-a-nivel-global/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-expande-su-buscador-en-tiempo-real-llega-search-live-a-nivel-global/</guid>
-      <pubDate>Thu, 26 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Search_Live_blog_header.width-1200.format-webp-1000x600.webp" alt="Google expande su buscador en tiempo real: llega Search Live a nivel global" /></p><p>El gigante tecnológico activa su herramienta de actualizaciones instantáneas para seguir eventos en directo desde cualquier dispositivo.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Search_Live_blog_header.width-1200.format-webp-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -224,12 +224,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple Health se integra a Perplexity Health y suma datos médicos y de wearables a la IA]]></title>
-      <link>https://ultimasgeek.com/apple-health-se-integra-a-perplexity-health-y-suma-datos-medicos-y-de-wearables-a-la-ia/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-health-se-integra-a-perplexity-health-y-suma-datos-medicos-y-de-wearables-a-la-ia/</guid>
-      <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/1jY_tFgvo3zdFmBuvI_spoQ-1000x600.png" alt="Apple Health se integra a Perplexity Health y suma datos médicos y de wearables a la IA" /></p><p>La nueva función de Perplexity conecta la app de salud de Apple con historiales clínicos, laboratorios y dispositivos, y comienza a desplegarse para suscriptores Pro y Max en Estados Unidos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/1jY_tFgvo3zdFmBuvI_spoQ-1000x600.png" type="image/png" />
+      <title><![CDATA[Google expande su buscador en tiempo real: llega Search Live a nivel global]]></title>
+      <link>https://ultimasgeek.com/google-expande-su-buscador-en-tiempo-real-llega-search-live-a-nivel-global/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-expande-su-buscador-en-tiempo-real-llega-search-live-a-nivel-global/</guid>
+      <pubDate>Thu, 26 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Search_Live_blog_header.width-1200.format-webp-1000x600.webp" alt="Google expande su buscador en tiempo real: llega Search Live a nivel global" /></p><p>El gigante tecnológico activa su herramienta de actualizaciones instantáneas para seguir eventos en directo desde cualquier dispositivo.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Search_Live_blog_header.width-1200.format-webp-1000x600.webp" type="image/webp" />
     </item>
   </channel>
 </rss>
