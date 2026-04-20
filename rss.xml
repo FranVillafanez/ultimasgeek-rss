@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 20 Apr 2026 20:46:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 21:48:17 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple anunció la salida de Tim Cook como CEO y nombró a John Ternus para sucederlo desde septiembre]]></title>
+      <link>https://ultimasgeek.com/apple-anuncio-la-salida-de-tim-cook-como-ceo-y-nombro-a-john-ternus-para-sucederlo-desde-septiembre/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-anuncio-la-salida-de-tim-cook-como-ceo-y-nombro-a-john-ternus-para-sucederlo-desde-septiembre/</guid>
+      <pubDate>Mon, 20 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/IMG_1774-1000x600.jpeg" alt="Apple anunció la salida de Tim Cook como CEO y nombró a John Ternus para sucederlo desde septiembre" /></p><p>El actual director ejecutivo pasará a ser presidente ejecutivo del directorio el 1 de septiembre de 2026, mientras que el jefe de ingeniería de hardware asumirá la conducción de la compañía.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/IMG_1774-1000x600.jpeg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Google lanzó la app nativa de Gemini para Mac y suma acceso directo desde el escritorio]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" alt="Apple ya testea cuatro prototipos de sus nuevas gafas inteligentes" /></p><p>El gigante tecnológico busca un diseño liviano y estético para competir en el mercado de la realidad aumentada con dispositivos de uso diario.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[ElevenLabs lanzó ElevenMusic en la App Store y lleva la música con IA al uso comercial desde el celular]]></title>
-      <link>https://ultimasgeek.com/elevenlabs-lanzo-elevenmusic-en-la-app-store-y-lleva-la-musica-con-ia-al-uso-comercial-desde-el-celular/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/elevenlabs-lanzo-elevenmusic-en-la-app-store-y-lleva-la-musica-con-ia-al-uso-comercial-desde-el-celular/</guid>
-      <pubDate>Fri, 03 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-03-at-11.08.26.png" alt="ElevenLabs lanzó ElevenMusic en la App Store y lleva la música con IA al uso comercial desde el celular" /></p><p>La nueva app gratuita permite crear hasta 7 canciones por día con inteligencia artificial, editar letra, estilo y duración, y refuerza la apuesta de la empresa por el audio generativo con foco comercial.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-03-at-11.08.26.png" type="image/png" />
     </item>
 
     <item>
@@ -170,6 +170,15 @@
     </item>
 
     <item>
+      <title><![CDATA[ElevenLabs lanzó ElevenMusic en la App Store y lleva la música con IA al uso comercial desde el celular]]></title>
+      <link>https://ultimasgeek.com/elevenlabs-lanzo-elevenmusic-en-la-app-store-y-lleva-la-musica-con-ia-al-uso-comercial-desde-el-celular/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/elevenlabs-lanzo-elevenmusic-en-la-app-store-y-lleva-la-musica-con-ia-al-uso-comercial-desde-el-celular/</guid>
+      <pubDate>Fri, 03 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-03-at-11.08.26.png" alt="ElevenLabs lanzó ElevenMusic en la App Store y lleva la música con IA al uso comercial desde el celular" /></p><p>La nueva app gratuita permite crear hasta 7 canciones por día con inteligencia artificial, editar letra, estilo y duración, y refuerza la apuesta de la empresa por el audio generativo con foco comercial.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-03-at-11.08.26.png" type="image/png" />
+    </item>
+
+    <item>
       <title><![CDATA[Apple endurece las reglas para que accesorios de terceros accedan a notificaciones del iPhone]]></title>
       <link>https://ultimasgeek.com/apple-endurece-las-reglas-para-que-accesorios-de-terceros-accedan-a-notificaciones-del-iphone/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-endurece-las-reglas-para-que-accesorios-de-terceros-accedan-a-notificaciones-del-iphone/</guid>
@@ -221,15 +230,6 @@
       <pubDate>Wed, 25 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Lyria-3-Pro_thumbnail.width-1300-1-1000x600.png" alt="Google lanzó Lyria 3 Pro y amplió su apuesta por la música creada con IA" /></p><p>La nueva versión del modelo permite generar pistas de hasta tres minutos, suma más control sobre la estructura musical y llega a Gemini, Vertex AI, AI Studio, Google Vids y ProducerAI.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Lyria-3-Pro_thumbnail.width-1300-1-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[YouTube se asocia con la FIFA y sumará partidos, resúmenes y archivo histórico del Mundial 2026]]></title>
-      <link>https://ultimasgeek.com/youtube-se-asocia-con-la-fifa-y-sumara-partidos-resumenes-y-archivo-historico-del-mundial-2026/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/youtube-se-asocia-con-la-fifa-y-sumara-partidos-resumenes-y-archivo-historico-del-mundial-2026/</guid>
-      <pubDate>Tue, 17 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-3-1000x600.jpg" alt="YouTube se asocia con la FIFA y sumará partidos, resúmenes y archivo histórico del Mundial 2026" /></p><p>La plataforma fue presentada como “Preferred Platform” de la Copa del Mundo 2026 y ofrecerá clips, primeros minutos en vivo, encuentros seleccionados y contenido exclusivo de creadores.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-3-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
