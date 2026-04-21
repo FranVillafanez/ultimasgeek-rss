@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 21 Apr 2026 09:26:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 11:06:51 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple anunció la salida de Tim Cook como CEO y nombró a John Ternus para sucederlo desde septiembre]]></title>
@@ -89,6 +89,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Instagram reconoció una falla que volvió en blanco y negro fotos subidas en HDR]]></title>
+      <link>https://ultimasgeek.com/instagram-reconocio-una-falla-que-volvio-en-blanco-y-negro-fotos-subidas-en-hdr/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/instagram-reconocio-una-falla-que-volvio-en-blanco-y-negro-fotos-subidas-en-hdr/</guid>
+      <pubDate>Tue, 21 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/04/Diseno-sin-titulo-14.jpg" alt="Instagram reconoció una falla que volvió en blanco y negro fotos subidas en HDR" /></p><p>La red social de Meta confirmó que un error técnico afectó a una parte de las cuentas y alteró la visualización de imágenes en color; la empresa aseguró que el problema ya fue corregido.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/04/Diseno-sin-titulo-14.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[WhatsApp empieza a activar Plus: cuánto cuesta y qué funciones premium suma]]></title>
       <link>https://ultimasgeek.com/whatsapp-empieza-a-activar-plus-cuanto-cuesta-y-que-funciones-premium-suma/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-empieza-a-activar-plus-cuanto-cuesta-y-que-funciones-premium-suma/</guid>
@@ -158,15 +167,6 @@
       <pubDate>Tue, 31 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-1000x600.jpg" alt="iOS 27 podría dejar crear atajos con IA desde una orden hablada o escrita" /></p><p>Un nuevo rumor sobre Apple indica que la app Shortcuts, conocida en español como Atajos, sumaría en iOS 27 la capacidad de generar acciones nuevas con lenguaje natural, en línea con la renovación de Siri y el despliegue de Apple Intelligence.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Bluesky presentó Attie, una app con IA para crear feeds personalizados sin programar]]></title>
-      <link>https://ultimasgeek.com/bluesky-presento-attie-una-app-con-ia-para-crear-feeds-personalizados-sin-programar/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/bluesky-presento-attie-una-app-con-ia-para-crear-feeds-personalizados-sin-programar/</guid>
-      <pubDate>Mon, 30 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/ZVKQXMCDBJAIHOVBBQPD6VKPOQ.jpg-1000x512.avif" alt="Bluesky presentó Attie, una app con IA para crear feeds personalizados sin programar" /></p><p>La nueva herramienta fue mostrada en la conferencia Atmosphere, funciona con Claude de Anthropic sobre AT Protocol y arrancó como una beta cerrada independiente de Bluesky.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/ZVKQXMCDBJAIHOVBBQPD6VKPOQ.jpg-1000x512.avif" type="image/jpeg" />
     </item>
 
     <item>
