@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 21 Apr 2026 21:45:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 22:38:01 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple anunció la salida de Tim Cook como CEO y nombró a John Ternus para sucederlo desde septiembre]]></title>
@@ -89,6 +89,15 @@
     </item>
 
     <item>
+      <title><![CDATA[OpenAI presentó ChatGPT Images 2.0 y promete más control, mejor texto y soporte multilingüe]]></title>
+      <link>https://ultimasgeek.com/openai-presento-chatgpt-images-2-0-y-promete-mas-control-mejor-texto-y-soporte-multilingue/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/openai-presento-chatgpt-images-2-0-y-promete-mas-control-mejor-texto-y-soporte-multilingue/</guid>
+      <pubDate>Tue, 21 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Images-2.0_FINAL-00-01-45-865-1000x600.jpeg" alt="OpenAI presentó ChatGPT Images 2.0 y promete más control, mejor texto y soporte multilingüe" /></p><p>La compañía lanzó este 21 de abril una nueva versión de su sistema de generación de imágenes dentro de ChatGPT, con foco en precisión, realismo y creación visual en varios idiomas.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Images-2.0_FINAL-00-01-45-865-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Instagram reconoció una falla que volvió en blanco y negro fotos subidas en HDR]]></title>
       <link>https://ultimasgeek.com/instagram-reconocio-una-falla-que-volvio-en-blanco-y-negro-fotos-subidas-en-hdr/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/instagram-reconocio-una-falla-que-volvio-en-blanco-y-negro-fotos-subidas-en-hdr/</guid>
@@ -161,21 +170,21 @@
     </item>
 
     <item>
-      <title><![CDATA[iOS 27 podría dejar crear atajos con IA desde una orden hablada o escrita]]></title>
-      <link>https://ultimasgeek.com/ios-27-podria-dejar-crear-atajos-con-ia-desde-una-orden-hablada-o-escrita/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/ios-27-podria-dejar-crear-atajos-con-ia-desde-una-orden-hablada-o-escrita/</guid>
-      <pubDate>Tue, 31 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-1000x600.jpg" alt="iOS 27 podría dejar crear atajos con IA desde una orden hablada o escrita" /></p><p>Un nuevo rumor sobre Apple indica que la app Shortcuts, conocida en español como Atajos, sumaría en iOS 27 la capacidad de generar acciones nuevas con lenguaje natural, en línea con la renovación de Siri y el despliegue de Apple Intelligence.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[ElevenLabs lanzó ElevenMusic en la App Store y lleva la música con IA al uso comercial desde el celular]]></title>
       <link>https://ultimasgeek.com/elevenlabs-lanzo-elevenmusic-en-la-app-store-y-lleva-la-musica-con-ia-al-uso-comercial-desde-el-celular/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/elevenlabs-lanzo-elevenmusic-en-la-app-store-y-lleva-la-musica-con-ia-al-uso-comercial-desde-el-celular/</guid>
       <pubDate>Fri, 03 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-03-at-11.08.26.png" alt="ElevenLabs lanzó ElevenMusic en la App Store y lleva la música con IA al uso comercial desde el celular" /></p><p>La nueva app gratuita permite crear hasta 7 canciones por día con inteligencia artificial, editar letra, estilo y duración, y refuerza la apuesta de la empresa por el audio generativo con foco comercial.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-03-at-11.08.26.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[iOS 27 podría dejar crear atajos con IA desde una orden hablada o escrita]]></title>
+      <link>https://ultimasgeek.com/ios-27-podria-dejar-crear-atajos-con-ia-desde-una-orden-hablada-o-escrita/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/ios-27-podria-dejar-crear-atajos-con-ia-desde-una-orden-hablada-o-escrita/</guid>
+      <pubDate>Tue, 31 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-1000x600.jpg" alt="iOS 27 podría dejar crear atajos con IA desde una orden hablada o escrita" /></p><p>Un nuevo rumor sobre Apple indica que la app Shortcuts, conocida en español como Atajos, sumaría en iOS 27 la capacidad de generar acciones nuevas con lenguaje natural, en línea con la renovación de Siri y el despliegue de Apple Intelligence.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Thu, 26 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Search_Live_blog_header.width-1200.format-webp-1000x600.webp" alt="Google expande su buscador en tiempo real: llega Search Live a nivel global" /></p><p>El gigante tecnológico activa su herramienta de actualizaciones instantáneas para seguir eventos en directo desde cualquier dispositivo.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Search_Live_blog_header.width-1200.format-webp-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google lanzó Lyria 3 Pro y amplió su apuesta por la música creada con IA]]></title>
-      <link>https://ultimasgeek.com/google-lanzo-lyria-3-pro-y-amplio-su-apuesta-por-la-musica-creada-con-ia/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-lanzo-lyria-3-pro-y-amplio-su-apuesta-por-la-musica-creada-con-ia/</guid>
-      <pubDate>Wed, 25 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Lyria-3-Pro_thumbnail.width-1300-1-1000x600.png" alt="Google lanzó Lyria 3 Pro y amplió su apuesta por la música creada con IA" /></p><p>La nueva versión del modelo permite generar pistas de hasta tres minutos, suma más control sobre la estructura musical y llega a Gemini, Vertex AI, AI Studio, Google Vids y ProducerAI.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Lyria-3-Pro_thumbnail.width-1300-1-1000x600.png" type="image/png" />
     </item>
   </channel>
 </rss>
