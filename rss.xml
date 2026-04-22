@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 22 Apr 2026 11:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 13:28:03 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[X lanzó “Custom Timelines” con IA para usuarios Premium en iPhone]]></title>
+      <link>https://ultimasgeek.com/x-lanzo-custom-timelines-con-ia-para-usuarios-premium-en-iphone/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/x-lanzo-custom-timelines-con-ia-para-usuarios-premium-en-iphone/</guid>
+      <pubDate>Wed, 22 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/X-formerly-known-as-Twitter-1000x600.jpg" alt="X lanzó “Custom Timelines” con IA para usuarios Premium en iPhone" /></p><p>La red social sumó una nueva función que permite fijar temas específicos en la pantalla principal, con más de 75 categorías y personalización impulsada por Grok.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/X-formerly-known-as-Twitter-1000x600.jpg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Apple anunció la salida de Tim Cook como CEO y nombró a John Ternus para sucederlo desde septiembre]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Tue, 14 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/90-1000x600.png" alt="Amazon acordó comprar Globalstar por US$ 11.570 millones y aseguró la continuidad del servicio satelital del iPhone" /></p><p>La operación, que todavía debe aprobarse en entes regulatorios, incluye un nuevo acuerdo con Apple para mantener y ampliar funciones satelitales en iPhone y Apple Watch.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/90-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple ya testea cuatro prototipos de sus nuevas gafas inteligentes]]></title>
-      <link>https://ultimasgeek.com/apple-ya-testea-cuatro-prototipos-de-sus-nuevas-gafas-inteligentes/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-ya-testea-cuatro-prototipos-de-sus-nuevas-gafas-inteligentes/</guid>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" alt="Apple ya testea cuatro prototipos de sus nuevas gafas inteligentes" /></p><p>El gigante tecnológico busca un diseño liviano y estético para competir en el mercado de la realidad aumentada con dispositivos de uso diario.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -170,6 +170,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Apple ya testea cuatro prototipos de sus nuevas gafas inteligentes]]></title>
+      <link>https://ultimasgeek.com/apple-ya-testea-cuatro-prototipos-de-sus-nuevas-gafas-inteligentes/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-ya-testea-cuatro-prototipos-de-sus-nuevas-gafas-inteligentes/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" alt="Apple ya testea cuatro prototipos de sus nuevas gafas inteligentes" /></p><p>El gigante tecnológico busca un diseño liviano y estético para competir en el mercado de la realidad aumentada con dispositivos de uso diario.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[ElevenLabs lanzó ElevenMusic en la App Store y lleva la música con IA al uso comercial desde el celular]]></title>
       <link>https://ultimasgeek.com/elevenlabs-lanzo-elevenmusic-en-la-app-store-y-lleva-la-musica-con-ia-al-uso-comercial-desde-el-celular/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/elevenlabs-lanzo-elevenmusic-en-la-app-store-y-lleva-la-musica-con-ia-al-uso-comercial-desde-el-celular/</guid>
@@ -221,15 +230,6 @@
       <pubDate>Sun, 22 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/IMG_1428.jpeg" alt="Apple evaluó comprar Halide para mejorar la cámara del iPhone y la negociación terminó en una demanda" /></p><p>La posible adquisición de Lux Optics, creadora de Halide, quedó al descubierto por una causa judicial entre sus cofundadores, en medio de los planes de Apple para reforzar su app de cámara nativa.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/IMG_1428.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google expande su buscador en tiempo real: llega Search Live a nivel global]]></title>
-      <link>https://ultimasgeek.com/google-expande-su-buscador-en-tiempo-real-llega-search-live-a-nivel-global/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-expande-su-buscador-en-tiempo-real-llega-search-live-a-nivel-global/</guid>
-      <pubDate>Thu, 26 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Search_Live_blog_header.width-1200.format-webp-1000x600.webp" alt="Google expande su buscador en tiempo real: llega Search Live a nivel global" /></p><p>El gigante tecnológico activa su herramienta de actualizaciones instantáneas para seguir eventos en directo desde cualquier dispositivo.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Search_Live_blog_header.width-1200.format-webp-1000x600.webp" type="image/webp" />
     </item>
   </channel>
 </rss>
