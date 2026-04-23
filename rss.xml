@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 23 Apr 2026 17:20:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 19:08:49 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Google confirmó que la nueva Siri usará Gemini]]></title>
@@ -77,6 +77,15 @@
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Notebooks_header_2026_2096x1182.width-1200.format-webp-1000x600.jpeg" alt="Google suma Notebooks a Gemini y lo integra con NotebookLM para ordenar chats, archivos y proyectos" /></p><p>La nueva función de Gemini permite reunir conversaciones, documentos e instrucciones en un solo espacio y empezará a desplegarse en la web para usuarios pagos antes de llegar al móvil y a la versión gratuita.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Notebooks_header_2026_2096x1182.width-1200.format-webp-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Claude suma integración con Spotify y ya recomienda música, podcasts y playlists desde el chat]]></title>
+      <link>https://ultimasgeek.com/claude-suma-integracion-con-spotify-y-ya-recomienda-musica-podcasts-y-playlists-desde-el-chat/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/claude-suma-integracion-con-spotify-y-ya-recomienda-musica-podcasts-y-playlists-desde-el-chat/</guid>
+      <pubDate>Thu, 23 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/spotifypng.png-1000x600.webp" alt="Claude suma integración con Spotify y ya recomienda música, podcasts y playlists desde el chat" /></p><p>La nueva función permite conectar una cuenta de Spotify con Claude para recibir sugerencias personalizadas, reproducir contenido, guardar temas y cambiar de dispositivo sin salir de la conversación.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/spotifypng.png-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Mon, 23 Mar 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg" alt="Apple anunció la WWDC 2026: será del 8 al 12 de junio y pondrá el foco en IA y nuevo software" /></p><p>La conferencia para desarrolladores se hará en formato online, con un evento presencial en Apple Park el 8 de junio y más de 100 sesiones para la comunidad global.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google amplía su plan de IA y lleva el almacenamiento a 5 TB sin subir el precio]]></title>
-      <link>https://ultimasgeek.com/google-amplia-su-plan-de-ia-y-lleva-el-almacenamiento-a-5-tb-sin-subir-el-precio/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-amplia-su-plan-de-ia-y-lleva-el-almacenamiento-a-5-tb-sin-subir-el-precio/</guid>
-      <pubDate>Fri, 03 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/google-ai-pro-logo-surrounded-by-floating-feature-previews-on-a-blue-teal-gradient-background-1000x600.avif" alt="Google amplía su plan de IA y lleva el almacenamiento a 5 TB sin subir el precio" /></p><p>El plan Google AI Pro pasó de 2 TB a 5 TB de almacenamiento en Gmail, Google Drive y Google Fotos, mientras mantiene el precio publicado de US$ 19,99 por mes en la web oficial.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/google-ai-pro-logo-surrounded-by-floating-feature-previews-on-a-blue-teal-gradient-background-1000x600.avif" type="image/jpeg" />
     </item>
   </channel>
 </rss>
