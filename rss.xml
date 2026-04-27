@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 27 Apr 2026 13:54:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 15:49:02 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Google confirmó que la nueva Siri usará Gemini]]></title>
@@ -80,6 +80,15 @@
     </item>
 
     <item>
+      <title><![CDATA[OpenAI prepara un teléfono propio con IA para competir con el iPhone]]></title>
+      <link>https://ultimasgeek.com/openai-prepara-un-telefono-propio-con-ia-para-competir-con-el-iphone/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/openai-prepara-un-telefono-propio-con-ia-para-competir-con-el-iphone/</guid>
+      <pubDate>Mon, 27 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" alt="OpenAI prepara un teléfono propio con IA para competir con el iPhone" /></p><p>Un reporte del analista Ming-Chi Kuo indica que la empresa trabaja con Qualcomm, MediaTek y Luxshare para lanzar un smartphone en 2028.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Spotify suma entrenamientos guiados para usuarios gratis y Premium]]></title>
       <link>https://ultimasgeek.com/spotify-suma-entrenamientos-guiados-para-usuarios-gratis-y-premium/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/spotify-suma-entrenamientos-guiados-para-usuarios-gratis-y-premium/</guid>
@@ -143,15 +152,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Instagram reconoció una falla que volvió en blanco y negro fotos subidas en HDR]]></title>
-      <link>https://ultimasgeek.com/instagram-reconocio-una-falla-que-volvio-en-blanco-y-negro-fotos-subidas-en-hdr/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/instagram-reconocio-una-falla-que-volvio-en-blanco-y-negro-fotos-subidas-en-hdr/</guid>
-      <pubDate>Tue, 21 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/04/Diseno-sin-titulo-14.jpg" alt="Instagram reconoció una falla que volvió en blanco y negro fotos subidas en HDR" /></p><p>La red social de Meta confirmó que un error técnico afectó a una parte de las cuentas y alteró la visualización de imágenes en color; la empresa aseguró que el problema ya fue corregido.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/04/Diseno-sin-titulo-14.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Perplexity lanzó Personal Computer en Mac y habilitó el acceso para suscriptores Max y usuarios en lista de espera]]></title>
       <link>https://ultimasgeek.com/perplexity-lanzo-personal-computer-en-mac-y-habilito-el-acceso-para-suscriptores-max-y-usuarios-en-lista-de-espera/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/perplexity-lanzo-personal-computer-en-mac-y-habilito-el-acceso-para-suscriptores-max-y-usuarios-en-lista-de-espera/</guid>
@@ -167,15 +167,6 @@
       <pubDate>Thu, 16 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Claude-Opus.jpg-1000x600.webp" alt="Anthropic lanzó Claude Opus 4.7 y apunta a empresas con más capacidad para programar, analizar imágenes y ejecutar tareas complejas" /></p><p>La firma presentó este 16 de abril su nuevo modelo de IA, disponible en Claude, API, Amazon Bedrock, Vertex AI y Microsoft Foundry, con el mismo precio de la versión anterior.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Claude-Opus.jpg-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
-      <title><![CDATA[Microsoft lanzó MAI-Image-2-Efficient y asegura que genera imágenes hasta 40% más rápido que Gemini]]></title>
-      <link>https://ultimasgeek.com/microsoft-lanzo-mai-image-2-efficient-y-asegura-que-genera-imagenes-hasta-40-mas-rapido-que-gemini/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/microsoft-lanzo-mai-image-2-efficient-y-asegura-que-genera-imagenes-hasta-40-mas-rapido-que-gemini/</guid>
-      <pubDate>Tue, 14 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/mai-image-2-efficient-thumb-1000x599.jpg" alt="Microsoft lanzó MAI-Image-2-Efficient y asegura que genera imágenes hasta 40% más rápido que Gemini" /></p><p>La nueva variante de su modelo de IA reduce costos, apunta a chats en tiempo real y ya está disponible en vista previa pública en Microsoft Foundry y MAI Playground.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/mai-image-2-efficient-thumb-1000x599.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -215,21 +206,30 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple endurece las reglas para que accesorios de terceros accedan a notificaciones del iPhone]]></title>
-      <link>https://ultimasgeek.com/apple-endurece-las-reglas-para-que-accesorios-de-terceros-accedan-a-notificaciones-del-iphone/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-endurece-las-reglas-para-que-accesorios-de-terceros-accedan-a-notificaciones-del-iphone/</guid>
-      <pubDate>Tue, 31 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Data-Privacy-Day-hero_big.jpg.slideshow-xlarge_2x-1000x600.jpg" alt="Apple endurece las reglas para que accesorios de terceros accedan a notificaciones del iPhone" /></p><p>La compañía actualizó su acuerdo para desarrolladores y fijó límites sobre publicidad, perfilado, almacenamiento remoto y uso de datos en funciones ligadas a notificaciones y Live Activities, en un cambio asociado a las exigencias de interoperabilidad en la Unión Europea.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Data-Privacy-Day-hero_big.jpg.slideshow-xlarge_2x-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Google amplía su plan de IA y lleva el almacenamiento a 5 TB sin subir el precio]]></title>
       <link>https://ultimasgeek.com/google-amplia-su-plan-de-ia-y-lleva-el-almacenamiento-a-5-tb-sin-subir-el-precio/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-amplia-su-plan-de-ia-y-lleva-el-almacenamiento-a-5-tb-sin-subir-el-precio/</guid>
       <pubDate>Fri, 03 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/google-ai-pro-logo-surrounded-by-floating-feature-previews-on-a-blue-teal-gradient-background-1000x600.avif" alt="Google amplía su plan de IA y lleva el almacenamiento a 5 TB sin subir el precio" /></p><p>El plan Google AI Pro pasó de 2 TB a 5 TB de almacenamiento en Gmail, Google Drive y Google Fotos, mientras mantiene el precio publicado de US$ 19,99 por mes en la web oficial.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/google-ai-pro-logo-surrounded-by-floating-feature-previews-on-a-blue-teal-gradient-background-1000x600.avif" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google expande su buscador en tiempo real: llega Search Live a nivel global]]></title>
+      <link>https://ultimasgeek.com/google-expande-su-buscador-en-tiempo-real-llega-search-live-a-nivel-global/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-expande-su-buscador-en-tiempo-real-llega-search-live-a-nivel-global/</guid>
+      <pubDate>Thu, 26 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Search_Live_blog_header.width-1200.format-webp-1000x600.webp" alt="Google expande su buscador en tiempo real: llega Search Live a nivel global" /></p><p>El gigante tecnológico activa su herramienta de actualizaciones instantáneas para seguir eventos en directo desde cualquier dispositivo.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Search_Live_blog_header.width-1200.format-webp-1000x600.webp" type="image/webp" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google lanzó Lyria 3 Pro y amplió su apuesta por la música creada con IA]]></title>
+      <link>https://ultimasgeek.com/google-lanzo-lyria-3-pro-y-amplio-su-apuesta-por-la-musica-creada-con-ia/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-lanzo-lyria-3-pro-y-amplio-su-apuesta-por-la-musica-creada-con-ia/</guid>
+      <pubDate>Wed, 25 Mar 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Lyria-3-Pro_thumbnail.width-1300-1-1000x600.png" alt="Google lanzó Lyria 3 Pro y amplió su apuesta por la música creada con IA" /></p><p>La nueva versión del modelo permite generar pistas de hasta tres minutos, suma más control sobre la estructura musical y llega a Gemini, Vertex AI, AI Studio, Google Vids y ProducerAI.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Lyria-3-Pro_thumbnail.width-1300-1-1000x600.png" type="image/png" />
     </item>
   </channel>
 </rss>
