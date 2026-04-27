@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 27 Apr 2026 11:04:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 13:54:13 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Google confirmó que la nueva Siri usará Gemini]]></title>
@@ -77,6 +77,15 @@
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Notebooks_header_2026_2096x1182.width-1200.format-webp-1000x600.jpeg" alt="Google suma Notebooks a Gemini y lo integra con NotebookLM para ordenar chats, archivos y proyectos" /></p><p>La nueva función de Gemini permite reunir conversaciones, documentos e instrucciones en un solo espacio y empezará a desplegarse en la web para usuarios pagos antes de llegar al móvil y a la versión gratuita.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Notebooks_header_2026_2096x1182.width-1200.format-webp-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Spotify suma entrenamientos guiados para usuarios gratis y Premium]]></title>
+      <link>https://ultimasgeek.com/spotify-suma-entrenamientos-guiados-para-usuarios-gratis-y-premium/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/spotify-suma-entrenamientos-guiados-para-usuarios-gratis-y-premium/</guid>
+      <pubDate>Mon, 27 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/spotify-workouts.jpg-1000x600.webp" alt="Spotify suma entrenamientos guiados para usuarios gratis y Premium" /></p><p>La plataforma lanzó un nuevo centro de fitness con rutinas de yoga, running, baile y alta intensidad; además, los suscriptores Premium tendrán acceso a más de 1.400 clases de Peloton en ciertos mercados.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/spotify-workouts.jpg-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -170,15 +179,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Anthropic lanza Claude para Microsoft Word y suma IA a la edición de documentos]]></title>
-      <link>https://ultimasgeek.com/anthropic-lanza-claude-para-microsoft-word-y-suma-ia-a-la-edicion-de-documentos/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/anthropic-lanza-claude-para-microsoft-word-y-suma-ia-a-la-edicion-de-documentos/</guid>
-      <pubDate>Mon, 13 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-13-at-14.00.04-1000x600.png" alt="Anthropic lanza Claude para Microsoft Word y suma IA a la edición de documentos" /></p><p>El nuevo complemento de Claude para Word llegó en versión beta y permite hacer consultas sobre un archivo, editar texto con control de cambios y responder comentarios sin salir de Microsoft Word.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-13-at-14.00.04-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
       <title><![CDATA[Amazon acordó comprar Globalstar por US$ 11.570 millones y aseguró la continuidad del servicio satelital del iPhone]]></title>
       <link>https://ultimasgeek.com/amazon-acordo-comprar-globalstar-por-us-11-570-millones-y-aseguro-la-continuidad-del-servicio-satelital-del-iphone/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/amazon-acordo-comprar-globalstar-por-us-11-570-millones-y-aseguro-la-continuidad-del-servicio-satelital-del-iphone/</guid>
@@ -224,12 +224,12 @@
     </item>
 
     <item>
-      <title><![CDATA[WhatsApp suma una app para Apple CarPlay y lleva chats y llamadas al tablero del auto]]></title>
-      <link>https://ultimasgeek.com/whatsapp-suma-una-app-para-apple-carplay-y-lleva-chats-y-llamadas-al-tablero-del-auto/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-suma-una-app-para-apple-carplay-y-lleva-chats-y-llamadas-al-tablero-del-auto/</guid>
-      <pubDate>Mon, 30 Mar 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-6-1000x600.jpg" alt="WhatsApp suma una app para Apple CarPlay y lleva chats y llamadas al tablero del auto" /></p><p>La nueva función ya aparece en la beta para iPhone y permite ver conversaciones recientes, devolver llamadas y acceder a contactos favoritos desde CarPlay.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Diseno-sin-titulo-6-1000x600.jpg" type="image/jpeg" />
+      <title><![CDATA[Google amplía su plan de IA y lleva el almacenamiento a 5 TB sin subir el precio]]></title>
+      <link>https://ultimasgeek.com/google-amplia-su-plan-de-ia-y-lleva-el-almacenamiento-a-5-tb-sin-subir-el-precio/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-amplia-su-plan-de-ia-y-lleva-el-almacenamiento-a-5-tb-sin-subir-el-precio/</guid>
+      <pubDate>Fri, 03 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/google-ai-pro-logo-surrounded-by-floating-feature-previews-on-a-blue-teal-gradient-background-1000x600.avif" alt="Google amplía su plan de IA y lleva el almacenamiento a 5 TB sin subir el precio" /></p><p>El plan Google AI Pro pasó de 2 TB a 5 TB de almacenamiento en Gmail, Google Drive y Google Fotos, mientras mantiene el precio publicado de US$ 19,99 por mes en la web oficial.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/google-ai-pro-logo-surrounded-by-floating-feature-previews-on-a-blue-teal-gradient-background-1000x600.avif" type="image/jpeg" />
     </item>
   </channel>
 </rss>
