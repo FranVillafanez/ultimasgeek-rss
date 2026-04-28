@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 28 Apr 2026 11:44:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 14:07:16 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple suma suscripciones mensuales con compromiso anual en la App Store]]></title>
@@ -53,6 +53,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Google habría firmado un acuerdo secreto con el Pentágono para usar su IA en “cualquier fin legal”]]></title>
+      <link>https://ultimasgeek.com/google-habria-firmado-un-acuerdo-secreto-con-el-pentagono-para-usar-su-ia-en-cualquier-fin-legal/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-habria-firmado-un-acuerdo-secreto-con-el-pentagono-para-usar-su-ia-en-cualquier-fin-legal/</guid>
+      <pubDate>Tue, 28 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" alt="Google habría firmado un acuerdo secreto con el Pentágono para usar su IA en “cualquier fin legal”" /></p><p>El convenio permitiría al Departamento de Defensa de Estados Unidos acceder a modelos de inteligencia artificial de Google, según reveló The Information.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[YouTube ya permite desactivar Shorts con un límite de cero minutos]]></title>
       <link>https://ultimasgeek.com/youtube-ya-permite-desactivar-shorts-con-un-limite-de-cero-minutos/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/youtube-ya-permite-desactivar-shorts-con-un-limite-de-cero-minutos/</guid>
@@ -68,15 +77,6 @@
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/article_full@1x-2997093706.jpg" alt="YouTube habilita avatares con IA en Shorts y permite a creadores generar videos con su propia imagen" /></p><p>La nueva función crea una versión digital del usuario a partir de una selfie en vivo y la voz, pero por ahora solo estará disponible de forma gradual para mayores de 18 años con un canal activo.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/article_full@1x-2997093706.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google suma Notebooks a Gemini y lo integra con NotebookLM para ordenar chats, archivos y proyectos]]></title>
-      <link>https://ultimasgeek.com/google-suma-notebooks-a-gemini-y-lo-integra-con-notebooklm-para-ordenar-chats-archivos-y-proyectos/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-suma-notebooks-a-gemini-y-lo-integra-con-notebooklm-para-ordenar-chats-archivos-y-proyectos/</guid>
-      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Notebooks_header_2026_2096x1182.width-1200.format-webp-1000x600.jpeg" alt="Google suma Notebooks a Gemini y lo integra con NotebookLM para ordenar chats, archivos y proyectos" /></p><p>La nueva función de Gemini permite reunir conversaciones, documentos e instrucciones en un solo espacio y empezará a desplegarse en la web para usuarios pagos antes de llegar al móvil y a la versión gratuita.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Notebooks_header_2026_2096x1182.width-1200.format-webp-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -224,12 +224,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Google amplía su plan de IA y lleva el almacenamiento a 5 TB sin subir el precio]]></title>
-      <link>https://ultimasgeek.com/google-amplia-su-plan-de-ia-y-lleva-el-almacenamiento-a-5-tb-sin-subir-el-precio/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-amplia-su-plan-de-ia-y-lleva-el-almacenamiento-a-5-tb-sin-subir-el-precio/</guid>
-      <pubDate>Fri, 03 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/google-ai-pro-logo-surrounded-by-floating-feature-previews-on-a-blue-teal-gradient-background-1000x600.avif" alt="Google amplía su plan de IA y lleva el almacenamiento a 5 TB sin subir el precio" /></p><p>El plan Google AI Pro pasó de 2 TB a 5 TB de almacenamiento en Gmail, Google Drive y Google Fotos, mientras mantiene el precio publicado de US$ 19,99 por mes en la web oficial.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/google-ai-pro-logo-surrounded-by-floating-feature-previews-on-a-blue-teal-gradient-background-1000x600.avif" type="image/jpeg" />
+      <title><![CDATA[Google suma Notebooks a Gemini y lo integra con NotebookLM para ordenar chats, archivos y proyectos]]></title>
+      <link>https://ultimasgeek.com/google-suma-notebooks-a-gemini-y-lo-integra-con-notebooklm-para-ordenar-chats-archivos-y-proyectos/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-suma-notebooks-a-gemini-y-lo-integra-con-notebooklm-para-ordenar-chats-archivos-y-proyectos/</guid>
+      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Notebooks_header_2026_2096x1182.width-1200.format-webp-1000x600.jpeg" alt="Google suma Notebooks a Gemini y lo integra con NotebookLM para ordenar chats, archivos y proyectos" /></p><p>La nueva función de Gemini permite reunir conversaciones, documentos e instrucciones en un solo espacio y empezará a desplegarse en la web para usuarios pagos antes de llegar al móvil y a la versión gratuita.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Notebooks_header_2026_2096x1182.width-1200.format-webp-1000x600.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
