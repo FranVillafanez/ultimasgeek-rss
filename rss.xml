@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 30 Apr 2026 09:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 11:27:42 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple suma suscripciones mensuales con compromiso anual en la App Store]]></title>
@@ -50,6 +50,15 @@
       <pubDate>Wed, 15 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Gemini_for_MacOS_01_Hero_16x9.width-1200.format-webp-1000x600.webp" alt="Google lanzó la app nativa de Gemini para Mac y suma acceso directo desde el escritorio" /></p><p>La nueva aplicación para macOS permite usar Gemini sin abrir el navegador, compartir ventanas y generar contenido con IA desde una interfaz integrada al sistema.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Gemini_for_MacOS_01_Hero_16x9.width-1200.format-webp-1000x600.webp" type="image/webp" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google Fotos suma un “guardarropa” con IA para armar looks y probar ropa de forma virtual]]></title>
+      <link>https://ultimasgeek.com/google-fotos-suma-un-guardarropa-con-ia-para-armar-looks-y-probar-ropa-de-forma-virtual/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-fotos-suma-un-guardarropa-con-ia-para-armar-looks-y-probar-ropa-de-forma-virtual/</guid>
+      <pubDate>Thu, 30 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-30-at-08.02.16-1000x516.png" alt="Google Fotos suma un “guardarropa” con IA para armar looks y probar ropa de forma virtual" /></p><p>La nueva función llegará durante el verano boreal, primero a Android y luego a iOS, según informó Google.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-30-at-08.02.16-1000x516.png" type="image/png" />
     </item>
 
     <item>
@@ -176,15 +185,6 @@
       <pubDate>Thu, 16 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/perplexity.jpg-1000x600.webp" alt="Perplexity lanzó Personal Computer en Mac y habilitó el acceso para suscriptores Max y usuarios en lista de espera" /></p><p>La nueva función integra el asistente de IA con archivos locales, apps nativas y el navegador en macOS, con despliegue desde este 16 de abril.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/perplexity.jpg-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
-      <title><![CDATA[Anthropic lanzó Claude Opus 4.7 y apunta a empresas con más capacidad para programar, analizar imágenes y ejecutar tareas complejas]]></title>
-      <link>https://ultimasgeek.com/anthropic-lanzo-claude-opus-4-7-y-apunta-a-empresas-con-mas-capacidad-para-programar-analizar-imagenes-y-ejecutar-tareas-complejas/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/anthropic-lanzo-claude-opus-4-7-y-apunta-a-empresas-con-mas-capacidad-para-programar-analizar-imagenes-y-ejecutar-tareas-complejas/</guid>
-      <pubDate>Thu, 16 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Claude-Opus.jpg-1000x600.webp" alt="Anthropic lanzó Claude Opus 4.7 y apunta a empresas con más capacidad para programar, analizar imágenes y ejecutar tareas complejas" /></p><p>La firma presentó este 16 de abril su nuevo modelo de IA, disponible en Claude, API, Amazon Bedrock, Vertex AI y Microsoft Foundry, con el mismo precio de la versión anterior.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Claude-Opus.jpg-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
