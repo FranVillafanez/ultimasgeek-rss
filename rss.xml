@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 01 May 2026 13:18:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 14:55:38 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple creció 17% y logró ingresos récord por el impulso del iPhone y los servicios]]></title>
+      <link>https://ultimasgeek.com/apple-crecio-17-y-logro-ingresos-record-por-el-impulso-del-iphone-y-los-servicios/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-crecio-17-y-logro-ingresos-record-por-el-impulso-del-iphone-y-los-servicios/</guid>
+      <pubDate>Fri, 01 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/pexels-photo-544295-1000x600.jpeg" alt="Apple creció 17% y logró ingresos récord por el impulso del iPhone y los servicios" /></p><p>La compañía facturó 111.200 millones de dólares en el segundo trimestre fiscal de 2026 y anunció una recompra de acciones por hasta 100.000 millones de dólares.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/pexels-photo-544295-1000x600.jpeg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Apple suma suscripciones mensuales con compromiso anual en la App Store]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Mon, 20 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/IMG_1774-1000x600.jpeg" alt="Apple anunció la salida de Tim Cook como CEO y nombró a John Ternus para sucederlo desde septiembre" /></p><p>El actual director ejecutivo pasará a ser presidente ejecutivo del directorio el 1 de septiembre de 2026, mientras que el jefe de ingeniería de hardware asumirá la conducción de la compañía.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/IMG_1774-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google lanzó la app nativa de Gemini para Mac y suma acceso directo desde el escritorio]]></title>
-      <link>https://ultimasgeek.com/google-lanzo-la-app-nativa-de-gemini-para-mac-y-suma-acceso-directo-desde-el-escritorio/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-lanzo-la-app-nativa-de-gemini-para-mac-y-suma-acceso-directo-desde-el-escritorio/</guid>
-      <pubDate>Wed, 15 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Gemini_for_MacOS_01_Hero_16x9.width-1200.format-webp-1000x600.webp" alt="Google lanzó la app nativa de Gemini para Mac y suma acceso directo desde el escritorio" /></p><p>La nueva aplicación para macOS permite usar Gemini sin abrir el navegador, compartir ventanas y generar contenido con IA desde una interfaz integrada al sistema.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Gemini_for_MacOS_01_Hero_16x9.width-1200.format-webp-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -134,15 +134,6 @@
     </item>
 
     <item>
-      <title><![CDATA[X lanzó XChat, su nueva app de mensajería para iPhone y iPad]]></title>
-      <link>https://ultimasgeek.com/x-lanzo-xchat-su-nueva-app-de-mensajeria-para-iphone-y-ipad/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/x-lanzo-xchat-su-nueva-app-de-mensajeria-para-iphone-y-ipad/</guid>
-      <pubDate>Fri, 24 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Diseno-sin-titulo-3-1000x600.jpg" alt="X lanzó XChat, su nueva app de mensajería para iPhone y iPad" /></p><p>La aplicación de X Corp. ya aparece como gratuita en la App Store argentina y promete chats cifrados, llamadas, grupos y envío de archivos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Diseno-sin-titulo-3-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[DeepSeek lanzó V4 y busca competir con ChatGPT, Gemini y Claude con un modelo de código abierto]]></title>
       <link>https://ultimasgeek.com/deepseek-lanzo-v4-y-busca-competir-con-chatgpt-gemini-y-claude-con-un-modelo-de-codigo-abierto/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/deepseek-lanzo-v4-y-busca-competir-con-chatgpt-gemini-y-claude-con-un-modelo-de-codigo-abierto/</guid>
@@ -185,6 +176,15 @@
       <pubDate>Thu, 16 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/perplexity.jpg-1000x600.webp" alt="Perplexity lanzó Personal Computer en Mac y habilitó el acceso para suscriptores Max y usuarios en lista de espera" /></p><p>La nueva función integra el asistente de IA con archivos locales, apps nativas y el navegador en macOS, con despliegue desde este 16 de abril.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/perplexity.jpg-1000x600.webp" type="image/webp" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google lanzó la app nativa de Gemini para Mac y suma acceso directo desde el escritorio]]></title>
+      <link>https://ultimasgeek.com/google-lanzo-la-app-nativa-de-gemini-para-mac-y-suma-acceso-directo-desde-el-escritorio/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-lanzo-la-app-nativa-de-gemini-para-mac-y-suma-acceso-directo-desde-el-escritorio/</guid>
+      <pubDate>Wed, 15 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Gemini_for_MacOS_01_Hero_16x9.width-1200.format-webp-1000x600.webp" alt="Google lanzó la app nativa de Gemini para Mac y suma acceso directo desde el escritorio" /></p><p>La nueva aplicación para macOS permite usar Gemini sin abrir el navegador, compartir ventanas y generar contenido con IA desde una interfaz integrada al sistema.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Gemini_for_MacOS_01_Hero_16x9.width-1200.format-webp-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
