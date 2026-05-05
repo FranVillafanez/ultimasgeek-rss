@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 05 May 2026 17:24:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 19:23:11 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple negocia con Intel y Samsung para fabricar más chips en Estados Unidos]]></title>
@@ -86,6 +86,15 @@
       <pubDate>Wed, 15 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/09/OMEFA53QFFA27KUHZQ6XIZZKOI-1000x600.jpg" alt="YouTube ya permite desactivar Shorts con un límite de cero minutos" /></p><p>La plataforma comenzó a habilitar una nueva opción en Android y iPhone para fijar el consumo diario de Shorts en 0 minutos, lo que en la práctica oculta ese formato dentro de la app.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/09/OMEFA53QFFA27KUHZQ6XIZZKOI-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[OpenAI lanzó GPT-5.5 Instant y promete respuestas más precisas en ChatGPT]]></title>
+      <link>https://ultimasgeek.com/openai-lanzo-gpt-5-5-instant-y-promete-respuestas-mas-precisas-en-chatgpt/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/openai-lanzo-gpt-5-5-instant-y-promete-respuestas-mas-precisas-en-chatgpt/</guid>
+      <pubDate>Tue, 05 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" alt="OpenAI lanzó GPT-5.5 Instant y promete respuestas más precisas en ChatGPT" /></p><p>La compañía reemplazó el modelo predeterminado de ChatGPT y aseguró que reduce en un 52,5% las “alucinaciones” en consultas sensibles.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" alt="Apple ya testea cuatro prototipos de sus nuevas gafas inteligentes" /></p><p>El gigante tecnológico busca un diseño liviano y estético para competir en el mercado de la realidad aumentada con dispositivos de uso diario.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[ElevenLabs lanzó ElevenMusic en la App Store y lleva la música con IA al uso comercial desde el celular]]></title>
-      <link>https://ultimasgeek.com/elevenlabs-lanzo-elevenmusic-en-la-app-store-y-lleva-la-musica-con-ia-al-uso-comercial-desde-el-celular/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/elevenlabs-lanzo-elevenmusic-en-la-app-store-y-lleva-la-musica-con-ia-al-uso-comercial-desde-el-celular/</guid>
-      <pubDate>Fri, 03 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-03-at-11.08.26.png" alt="ElevenLabs lanzó ElevenMusic en la App Store y lleva la música con IA al uso comercial desde el celular" /></p><p>La nueva app gratuita permite crear hasta 7 canciones por día con inteligencia artificial, editar letra, estilo y duración, y refuerza la apuesta de la empresa por el audio generativo con foco comercial.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-03-at-11.08.26.png" type="image/png" />
     </item>
   </channel>
 </rss>
