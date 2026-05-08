@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 08 May 2026 17:17:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 19:18:19 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple e Intel habrían cerrado un acuerdo para fabricar futuros chips]]></title>
+      <link>https://ultimasgeek.com/apple-e-intel-habrian-cerrado-un-acuerdo-para-fabricar-futuros-chips/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-e-intel-habrian-cerrado-un-acuerdo-para-fabricar-futuros-chips/</guid>
+      <pubDate>Fri, 08 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Untitled-1000x576.jpg" alt="Apple e Intel habrían cerrado un acuerdo para fabricar futuros chips" /></p><p>El entendimiento preliminar apunta a que Intel produzca parte de los procesadores de dispositivos de Apple, aunque aún no se informó qué productos estarán incluidos.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Untitled-1000x576.jpg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Google niega que Android vaya a copiar el diseño Liquid Glass de Apple]]></title>
@@ -44,15 +53,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Google confirmó que la nueva Siri usará Gemini]]></title>
-      <link>https://ultimasgeek.com/google-confirmo-que-la-nueva-siri-usara-gemini/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-confirmo-que-la-nueva-siri-usara-gemini/</guid>
-      <pubDate>Wed, 22 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" alt="Google confirmó que la nueva Siri usará Gemini" /></p><p>La alianza entre Apple y Google suma un dato clave: la próxima versión de Siri, más personalizada y vinculada a Apple Intelligence, se apoyará en tecnología Gemini y apunta a lanzarse antes de fin de año.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Google Fotos suma un “guardarropa” con IA para armar looks y probar ropa de forma virtual]]></title>
       <link>https://ultimasgeek.com/google-fotos-suma-un-guardarropa-con-ia-para-armar-looks-y-probar-ropa-de-forma-virtual/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-fotos-suma-un-guardarropa-con-ia-para-armar-looks-y-probar-ropa-de-forma-virtual/</guid>
@@ -77,6 +77,24 @@
       <pubDate>Tue, 28 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" alt="Google habría firmado un acuerdo secreto con el Pentágono para usar su IA en “cualquier fin legal”" /></p><p>El convenio permitiría al Departamento de Defensa de Estados Unidos acceder a modelos de inteligencia artificial de Google, según reveló The Information.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google confirmó que la nueva Siri usará Gemini]]></title>
+      <link>https://ultimasgeek.com/google-confirmo-que-la-nueva-siri-usara-gemini/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-confirmo-que-la-nueva-siri-usara-gemini/</guid>
+      <pubDate>Wed, 22 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" alt="Google confirmó que la nueva Siri usará Gemini" /></p><p>La alianza entre Apple y Google suma un dato clave: la próxima versión de Siri, más personalizada y vinculada a Apple Intelligence, se apoyará en tecnología Gemini y apunta a lanzarse antes de fin de año.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Grok llega a Apple CarPlay y permite usar su modo de voz desde el auto]]></title>
+      <link>https://ultimasgeek.com/grok-llega-a-apple-carplay-y-permite-usar-su-modo-de-voz-desde-el-auto/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/grok-llega-a-apple-carplay-y-permite-usar-su-modo-de-voz-desde-el-auto/</guid>
+      <pubDate>Fri, 08 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Your-commute-just-got-smarter-Talk-to-me-hands-free-—-now-on-Apple-CarPlay-00-00-02-097-1000x600.jpeg" alt="Grok llega a Apple CarPlay y permite usar su modo de voz desde el auto" /></p><p>La IA de xAI ya puede responder consultas y pedidos por voz en vehículos compatibles con Apple CarPlay, sin usar las manos.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Your-commute-just-got-smarter-Talk-to-me-hands-free-—-now-on-Apple-CarPlay-00-00-02-097-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -134,15 +152,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Spotify lanza una insignia para identificar a artistas reales y frenar perfiles creados con IA]]></title>
-      <link>https://ultimasgeek.com/spotify-lanza-una-insignia-para-identificar-a-artistas-reales-y-frenar-perfiles-creados-con-ia/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/spotify-lanza-una-insignia-para-identificar-a-artistas-reales-y-frenar-perfiles-creados-con-ia/</guid>
-      <pubDate>Thu, 30 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/S4A_Verified_Header_Ravyn.jpg.jpeg" alt="Spotify lanza una insignia para identificar a artistas reales y frenar perfiles creados con IA" /></p><p>La plataforma estrenó Verified by Spotify, una marca con tilde verde que aparecerá en perfiles revisados y no incluirá, por ahora, a artistas generados principalmente con inteligencia artificial.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/S4A_Verified_Header_Ravyn.jpg.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[OpenAI y Microsoft cambian su alianza: qué pasa con la IA en Word, Excel y Copilot]]></title>
       <link>https://ultimasgeek.com/openai-y-microsoft-cambian-su-alianza-que-pasa-con-la-ia-en-word-excel-y-copilot/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/openai-y-microsoft-cambian-su-alianza-que-pasa-con-la-ia-en-word-excel-y-copilot/</guid>
@@ -176,15 +185,6 @@
       <pubDate>Thu, 23 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" alt="OpenAI lanzó GPT-5.5 para ChatGPT y Codex y promete más autonomía para tareas complejas" /></p><p>La compañía presentó este 23 de abril de 2026 su nuevo modelo, con mejoras en programación, uso de computadora, investigación y trabajo con documentos; además, confirmó una suba de precios en la API.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Claude suma integración con Spotify y ya recomienda música, podcasts y playlists desde el chat]]></title>
-      <link>https://ultimasgeek.com/claude-suma-integracion-con-spotify-y-ya-recomienda-musica-podcasts-y-playlists-desde-el-chat/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/claude-suma-integracion-con-spotify-y-ya-recomienda-musica-podcasts-y-playlists-desde-el-chat/</guid>
-      <pubDate>Thu, 23 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/spotifypng.png-1000x600.webp" alt="Claude suma integración con Spotify y ya recomienda música, podcasts y playlists desde el chat" /></p><p>La nueva función permite conectar una cuenta de Spotify con Claude para recibir sugerencias personalizadas, reproducir contenido, guardar temas y cambiar de dispositivo sin salir de la conversación.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/spotifypng.png-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -224,12 +224,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Amazon acordó comprar Globalstar por US$ 11.570 millones y aseguró la continuidad del servicio satelital del iPhone]]></title>
-      <link>https://ultimasgeek.com/amazon-acordo-comprar-globalstar-por-us-11-570-millones-y-aseguro-la-continuidad-del-servicio-satelital-del-iphone/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/amazon-acordo-comprar-globalstar-por-us-11-570-millones-y-aseguro-la-continuidad-del-servicio-satelital-del-iphone/</guid>
-      <pubDate>Tue, 14 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/90-1000x600.png" alt="Amazon acordó comprar Globalstar por US$ 11.570 millones y aseguró la continuidad del servicio satelital del iPhone" /></p><p>La operación, que todavía debe aprobarse en entes regulatorios, incluye un nuevo acuerdo con Apple para mantener y ampliar funciones satelitales en iPhone y Apple Watch.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/90-1000x600.png" type="image/png" />
+      <title><![CDATA[YouTube ya permite desactivar Shorts con un límite de cero minutos]]></title>
+      <link>https://ultimasgeek.com/youtube-ya-permite-desactivar-shorts-con-un-limite-de-cero-minutos/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/youtube-ya-permite-desactivar-shorts-con-un-limite-de-cero-minutos/</guid>
+      <pubDate>Wed, 15 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/09/OMEFA53QFFA27KUHZQ6XIZZKOI-1000x600.jpg" alt="YouTube ya permite desactivar Shorts con un límite de cero minutos" /></p><p>La plataforma comenzó a habilitar una nueva opción en Android y iPhone para fijar el consumo diario de Shorts en 0 minutos, lo que en la práctica oculta ese formato dentro de la app.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/09/OMEFA53QFFA27KUHZQ6XIZZKOI-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
