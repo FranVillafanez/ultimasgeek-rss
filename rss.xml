@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 11 May 2026 17:24:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 19:47:09 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple y Google lanzan el cifrado de extremo a extremo para mensajes RCS entre iPhone y Android]]></title>
+      <link>https://ultimasgeek.com/apple-y-google-lanzan-el-cifrado-de-extremo-a-extremo-para-mensajes-rcs-entre-iphone-y-android/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-y-google-lanzan-el-cifrado-de-extremo-a-extremo-para-mensajes-rcs-entre-iphone-y-android/</guid>
+      <pubDate>Mon, 11 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-RCS-messaging-beta_quick-read-16x9.jpg.large_-1000x600.jpg" alt="Apple y Google lanzan el cifrado de extremo a extremo para mensajes RCS entre iPhone y Android" /></p><p>Por primera vez, los mensajes entre usuarios de iOS y Android podrán viajar encriptados de forma predeterminada, sin que nadie pueda leerlos en el camino.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-RCS-messaging-beta_quick-read-16x9.jpg.large_-1000x600.jpg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Apple e Intel habrían cerrado un acuerdo para fabricar futuros chips]]></title>
@@ -44,15 +53,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple suma suscripciones mensuales con compromiso anual en la App Store]]></title>
-      <link>https://ultimasgeek.com/apple-suma-suscripciones-mensuales-con-compromiso-anual-en-la-app-store/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-suma-suscripciones-mensuales-con-compromiso-anual-en-la-app-store/</guid>
-      <pubDate>Mon, 27 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" alt="Apple suma suscripciones mensuales con compromiso anual en la App Store" /></p><p>La compañía permitirá pagar planes de 12 meses en cuotas mensuales, aunque la función no estará disponible al inicio en Estados Unidos ni Singapur.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Google Fotos suma un “guardarropa” con IA para armar looks y probar ropa de forma virtual]]></title>
       <link>https://ultimasgeek.com/google-fotos-suma-un-guardarropa-con-ia-para-armar-looks-y-probar-ropa-de-forma-virtual/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-fotos-suma-un-guardarropa-con-ia-para-armar-looks-y-probar-ropa-de-forma-virtual/</guid>
@@ -77,15 +77,6 @@
       <pubDate>Tue, 28 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" alt="Google habría firmado un acuerdo secreto con el Pentágono para usar su IA en “cualquier fin legal”" /></p><p>El convenio permitiría al Departamento de Defensa de Estados Unidos acceder a modelos de inteligencia artificial de Google, según reveló The Information.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google confirmó que la nueva Siri usará Gemini]]></title>
-      <link>https://ultimasgeek.com/google-confirmo-que-la-nueva-siri-usara-gemini/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-confirmo-que-la-nueva-siri-usara-gemini/</guid>
-      <pubDate>Wed, 22 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" alt="Google confirmó que la nueva Siri usará Gemini" /></p><p>La alianza entre Apple y Google suma un dato clave: la próxima versión de Siri, más personalizada y vinculada a Apple Intelligence, se apoyará en tecnología Gemini y apunta a lanzarse antes de fin de año.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -188,12 +179,21 @@
     </item>
 
     <item>
-      <title><![CDATA[OpenAI prepara un teléfono propio con IA para competir con el iPhone]]></title>
-      <link>https://ultimasgeek.com/openai-prepara-un-telefono-propio-con-ia-para-competir-con-el-iphone/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/openai-prepara-un-telefono-propio-con-ia-para-competir-con-el-iphone/</guid>
+      <title><![CDATA[Apple suma suscripciones mensuales con compromiso anual en la App Store]]></title>
+      <link>https://ultimasgeek.com/apple-suma-suscripciones-mensuales-con-compromiso-anual-en-la-app-store/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-suma-suscripciones-mensuales-con-compromiso-anual-en-la-app-store/</guid>
       <pubDate>Mon, 27 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" alt="OpenAI prepara un teléfono propio con IA para competir con el iPhone" /></p><p>Un reporte del analista Ming-Chi Kuo indica que la empresa trabaja con Qualcomm, MediaTek y Luxshare para lanzar un smartphone en 2028.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" type="image/jpeg" />
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" alt="Apple suma suscripciones mensuales con compromiso anual en la App Store" /></p><p>La compañía permitirá pagar planes de 12 meses en cuotas mensuales, aunque la función no estará disponible al inicio en Estados Unidos ni Singapur.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google confirmó que la nueva Siri usará Gemini]]></title>
+      <link>https://ultimasgeek.com/google-confirmo-que-la-nueva-siri-usara-gemini/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-confirmo-que-la-nueva-siri-usara-gemini/</guid>
+      <pubDate>Wed, 22 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" alt="Google confirmó que la nueva Siri usará Gemini" /></p><p>La alianza entre Apple y Google suma un dato clave: la próxima versión de Siri, más personalizada y vinculada a Apple Intelligence, se apoyará en tecnología Gemini y apunta a lanzarse antes de fin de año.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
