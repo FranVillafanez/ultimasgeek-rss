@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 11 May 2026 14:52:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 17:24:50 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple e Intel habrían cerrado un acuerdo para fabricar futuros chips]]></title>
@@ -86,6 +86,33 @@
       <pubDate>Wed, 22 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" alt="Google confirmó que la nueva Siri usará Gemini" /></p><p>La alianza entre Apple y Google suma un dato clave: la próxima versión de Siri, más personalizada y vinculada a Apple Intelligence, se apoyará en tecnología Gemini y apunta a lanzarse antes de fin de año.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Anthropic dice que corrigió el comportamiento de Claude tras pruebas con intentos de chantaje]]></title>
+      <link>https://ultimasgeek.com/anthropic-dice-que-corrigio-el-comportamiento-de-claude-tras-pruebas-con-intentos-de-chantaje/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/anthropic-dice-que-corrigio-el-comportamiento-de-claude-tras-pruebas-con-intentos-de-chantaje/</guid>
+      <pubDate>Mon, 11 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/7USOGQDXR5ITZGE2DC4VABDTZQ.jpg-1000x600.avif" alt="Anthropic dice que corrigió el comportamiento de Claude tras pruebas con intentos de chantaje" /></p><p>La empresa afirmó que entrenó de nuevo a sus modelos de inteligencia artificial después de detectar respuestas dañinas en escenarios simulados de alta presión.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/7USOGQDXR5ITZGE2DC4VABDTZQ.jpg-1000x600.avif" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Dua Lipa demandó a Samsung por US$15 millones por usar su imagen en cajas de televisores]]></title>
+      <link>https://ultimasgeek.com/dua-lipa-demando-a-samsung-por-us15-millones-por-usar-su-imagen-en-cajas-de-televisores/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/dua-lipa-demando-a-samsung-por-us15-millones-por-usar-su-imagen-en-cajas-de-televisores/</guid>
+      <pubDate>Mon, 11 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/dua-lipa-samsung-1000x600.png" alt="Dua Lipa demandó a Samsung por US$15 millones por usar su imagen en cajas de televisores" /></p><p>La cantante británica acusó a la empresa de utilizar una foto suya sin autorización para vender productos en Estados Unidos.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/dua-lipa-samsung-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[TikTok lanza una suscripción sin anuncios en Reino Unido por £3,99 al mes]]></title>
+      <link>https://ultimasgeek.com/tiktok-lanza-una-suscripcion-sin-anuncios-en-reino-unido-por-399-al-mes/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/tiktok-lanza-una-suscripcion-sin-anuncios-en-reino-unido-por-399-al-mes/</guid>
+      <pubDate>Mon, 11 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/01/Diseno-sin-titulo-1000x600.png" alt="TikTok lanza una suscripción sin anuncios en Reino Unido por £3,99 al mes" /></p><p>La nueva opción, llamada TikTok Ad-Free, estará disponible de forma gradual para usuarios mayores de 18 años y no cambiará el acceso a funciones, creadores ni contenidos.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/01/Diseno-sin-titulo-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -170,24 +197,6 @@
     </item>
 
     <item>
-      <title><![CDATA[DeepSeek lanzó V4 y busca competir con ChatGPT, Gemini y Claude con un modelo de código abierto]]></title>
-      <link>https://ultimasgeek.com/deepseek-lanzo-v4-y-busca-competir-con-chatgpt-gemini-y-claude-con-un-modelo-de-codigo-abierto/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/deepseek-lanzo-v4-y-busca-competir-con-chatgpt-gemini-y-claude-con-un-modelo-de-codigo-abierto/</guid>
-      <pubDate>Fri, 24 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/DeepSeek-coder.jpeg-1000x600.jpeg" alt="DeepSeek lanzó V4 y busca competir con ChatGPT, Gemini y Claude con un modelo de código abierto" /></p><p>La startup china presentó versiones Pro y Flash, con una ventana de contexto de 1 millón de tokens y soporte para chips Huawei.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/DeepSeek-coder.jpeg-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[OpenAI lanzó GPT-5.5 para ChatGPT y Codex y promete más autonomía para tareas complejas]]></title>
-      <link>https://ultimasgeek.com/openai-lanzo-gpt-5-5-para-chatgpt-y-codex-y-promete-mas-autonomia-para-tareas-complejas/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/openai-lanzo-gpt-5-5-para-chatgpt-y-codex-y-promete-mas-autonomia-para-tareas-complejas/</guid>
-      <pubDate>Thu, 23 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" alt="OpenAI lanzó GPT-5.5 para ChatGPT y Codex y promete más autonomía para tareas complejas" /></p><p>La compañía presentó este 23 de abril de 2026 su nuevo modelo, con mejoras en programación, uso de computadora, investigación y trabajo con documentos; además, confirmó una suba de precios en la API.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[X lanzó “Custom Timelines” con IA para usuarios Premium en iPhone]]></title>
       <link>https://ultimasgeek.com/x-lanzo-custom-timelines-con-ia-para-usuarios-premium-en-iphone/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/x-lanzo-custom-timelines-con-ia-para-usuarios-premium-en-iphone/</guid>
@@ -212,15 +221,6 @@
       <pubDate>Wed, 15 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Gemini_for_MacOS_01_Hero_16x9.width-1200.format-webp-1000x600.webp" alt="Google lanzó la app nativa de Gemini para Mac y suma acceso directo desde el escritorio" /></p><p>La nueva aplicación para macOS permite usar Gemini sin abrir el navegador, compartir ventanas y generar contenido con IA desde una interfaz integrada al sistema.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Gemini_for_MacOS_01_Hero_16x9.width-1200.format-webp-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple lanzó Apple Business y unificó gestión de dispositivos, correo y atención a clientes en una sola plataforma]]></title>
-      <link>https://ultimasgeek.com/apple-lanzo-apple-business-y-unifico-gestion-de-dispositivos-correo-y-atencion-a-clientes-en-una-sola-plataforma/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-lanzo-apple-business-y-unifico-gestion-de-dispositivos-correo-y-atencion-a-clientes-en-una-sola-plataforma/</guid>
-      <pubDate>Tue, 14 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-14-at-16.10.10-1000x600.png" alt="Apple lanzó Apple Business y unificó gestión de dispositivos, correo y atención a clientes en una sola plataforma" /></p><p>La nueva propuesta ya está disponible en más de 200 países y regiones, reemplaza tres servicios previos y suma herramientas de administración, comunicación interna y presencia comercial dentro del ecosistema de la marca.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-14-at-16.10.10-1000x600.png" type="image/png" />
     </item>
 
     <item>
