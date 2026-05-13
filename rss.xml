@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 13 May 2026 18:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 20:45:36 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple prepara cambios en App Store para permitir apps con agentes de inteligencia artificial]]></title>
+      <link>https://ultimasgeek.com/apple-prepara-cambios-en-app-store-para-permitir-apps-con-agentes-de-inteligencia-artificial/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-prepara-cambios-en-app-store-para-permitir-apps-con-agentes-de-inteligencia-artificial/</guid>
+      <pubDate>Wed, 13 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" alt="Apple prepara cambios en App Store para permitir apps con agentes de inteligencia artificial" /></p><p>La compañía evalúa un sistema para aceptar apps con agentes de IA sin resignar sus reglas de seguridad y privacidad, según informó MacRumors en base a The Information.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Foxconn confirmó un ciberataque y un grupo ransomware afirma haber robado archivos de Apple]]></title>
@@ -44,21 +53,21 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple y Google lanzan el cifrado de extremo a extremo para mensajes RCS entre iPhone y Android]]></title>
-      <link>https://ultimasgeek.com/apple-y-google-lanzan-el-cifrado-de-extremo-a-extremo-para-mensajes-rcs-entre-iphone-y-android/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-y-google-lanzan-el-cifrado-de-extremo-a-extremo-para-mensajes-rcs-entre-iphone-y-android/</guid>
-      <pubDate>Mon, 11 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-RCS-messaging-beta_quick-read-16x9.jpg.large_-1000x600.jpg" alt="Apple y Google lanzan el cifrado de extremo a extremo para mensajes RCS entre iPhone y Android" /></p><p>Por primera vez, los mensajes entre usuarios de iOS y Android podrán viajar encriptados de forma predeterminada, sin que nadie pueda leerlos en el camino.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-RCS-messaging-beta_quick-read-16x9.jpg.large_-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Google prepara las Googlebooks, las nuevas laptops con Android que buscan reemplazar a las Chromebook]]></title>
       <link>https://ultimasgeek.com/google-prepara-las-googlebooks-las-nuevas-laptops-con-android-que-buscan-reemplazar-a-las-chromebook/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-prepara-las-googlebooks-las-nuevas-laptops-con-android-que-buscan-reemplazar-a-las-chromebook/</guid>
       <pubDate>Tue, 12 May 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Thumbnail_for_video.width-700.format-webp.webp" alt="Google prepara las Googlebooks, las nuevas laptops con Android que buscan reemplazar a las Chromebook" /></p><p>La compañía confirmó una nueva categoría de computadoras portátiles pensada para una integración más directa con Android y Gemini. Los primeros equipos llegarían en el segundo semestre de 2026.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Thumbnail_for_video.width-700.format-webp.webp" type="image/webp" />
+    </item>
+
+    <item>
+      <title><![CDATA[Apple y Google lanzan el cifrado de extremo a extremo para mensajes RCS entre iPhone y Android]]></title>
+      <link>https://ultimasgeek.com/apple-y-google-lanzan-el-cifrado-de-extremo-a-extremo-para-mensajes-rcs-entre-iphone-y-android/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-y-google-lanzan-el-cifrado-de-extremo-a-extremo-para-mensajes-rcs-entre-iphone-y-android/</guid>
+      <pubDate>Mon, 11 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-RCS-messaging-beta_quick-read-16x9.jpg.large_-1000x600.jpg" alt="Apple y Google lanzan el cifrado de extremo a extremo para mensajes RCS entre iPhone y Android" /></p><p>Por primera vez, los mensajes entre usuarios de iOS y Android podrán viajar encriptados de forma predeterminada, sin que nadie pueda leerlos en el camino.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-RCS-messaging-beta_quick-read-16x9.jpg.large_-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -71,30 +80,30 @@
     </item>
 
     <item>
+      <title><![CDATA[WhatsApp suma un chat incógnito para hablar en privado con Meta AI]]></title>
+      <link>https://ultimasgeek.com/whatsapp-suma-un-chat-incognito-para-hablar-en-privado-con-meta-ai/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-suma-un-chat-incognito-para-hablar-en-privado-con-meta-ai/</guid>
+      <pubDate>Wed, 13 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/688819815_1626380975284269_1894230749033778576_n.png-1000x600.webp" alt="WhatsApp suma un chat incógnito para hablar en privado con Meta AI" /></p><p>Meta anunció una nueva función para WhatsApp y la app Meta AI: las conversaciones no se guardarán, desaparecerán por defecto y no podrán ser leídas por la compañía.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/688819815_1626380975284269_1894230749033778576_n.png-1000x600.webp" type="image/webp" />
+    </item>
+
+    <item>
+      <title><![CDATA[Meta lanzó Instants, una nueva app y función de Instagram para compartir fotos efímeras]]></title>
+      <link>https://ultimasgeek.com/meta-lanzo-instants-una-nueva-app-y-funcion-de-instagram-para-compartir-fotos-efimeras/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/meta-lanzo-instants-una-nueva-app-y-funcion-de-instagram-para-compartir-fotos-efimeras/</guid>
+      <pubDate>Wed, 13 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/logo-de-instants.jpg-1000x600.webp" alt="Meta lanzó Instants, una nueva app y función de Instagram para compartir fotos efímeras" /></p><p>La herramienta permite enviar fotos espontáneas que desaparecen después de ser vistas y también tendrá una app independiente para iPhone y Android en países seleccionados.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/logo-de-instants.jpg-1000x600.webp" type="image/webp" />
+    </item>
+
+    <item>
       <title><![CDATA[Anthropic dice que corrigió el comportamiento de Claude tras pruebas con intentos de chantaje]]></title>
       <link>https://ultimasgeek.com/anthropic-dice-que-corrigio-el-comportamiento-de-claude-tras-pruebas-con-intentos-de-chantaje/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/anthropic-dice-que-corrigio-el-comportamiento-de-claude-tras-pruebas-con-intentos-de-chantaje/</guid>
       <pubDate>Mon, 11 May 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/7USOGQDXR5ITZGE2DC4VABDTZQ.jpg-1000x600.avif" alt="Anthropic dice que corrigió el comportamiento de Claude tras pruebas con intentos de chantaje" /></p><p>La empresa afirmó que entrenó de nuevo a sus modelos de inteligencia artificial después de detectar respuestas dañinas en escenarios simulados de alta presión.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/7USOGQDXR5ITZGE2DC4VABDTZQ.jpg-1000x600.avif" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Dua Lipa demandó a Samsung por US$15 millones por usar su imagen en cajas de televisores]]></title>
-      <link>https://ultimasgeek.com/dua-lipa-demando-a-samsung-por-us15-millones-por-usar-su-imagen-en-cajas-de-televisores/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/dua-lipa-demando-a-samsung-por-us15-millones-por-usar-su-imagen-en-cajas-de-televisores/</guid>
-      <pubDate>Mon, 11 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/dua-lipa-samsung-1000x600.png" alt="Dua Lipa demandó a Samsung por US$15 millones por usar su imagen en cajas de televisores" /></p><p>La cantante británica acusó a la empresa de utilizar una foto suya sin autorización para vender productos en Estados Unidos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/dua-lipa-samsung-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[TikTok lanza una suscripción sin anuncios en Reino Unido por £3,99 al mes]]></title>
-      <link>https://ultimasgeek.com/tiktok-lanza-una-suscripcion-sin-anuncios-en-reino-unido-por-399-al-mes/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/tiktok-lanza-una-suscripcion-sin-anuncios-en-reino-unido-por-399-al-mes/</guid>
-      <pubDate>Mon, 11 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/01/Diseno-sin-titulo-1000x600.png" alt="TikTok lanza una suscripción sin anuncios en Reino Unido por £3,99 al mes" /></p><p>La nueva opción, llamada TikTok Ad-Free, estará disponible de forma gradual para usuarios mayores de 18 años y no cambiará el acceso a funciones, creadores ni contenidos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/01/Diseno-sin-titulo-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -161,15 +170,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Google Fotos suma un “guardarropa” con IA para armar looks y probar ropa de forma virtual]]></title>
-      <link>https://ultimasgeek.com/google-fotos-suma-un-guardarropa-con-ia-para-armar-looks-y-probar-ropa-de-forma-virtual/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-fotos-suma-un-guardarropa-con-ia-para-armar-looks-y-probar-ropa-de-forma-virtual/</guid>
-      <pubDate>Thu, 30 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-30-at-08.02.16-1000x516.png" alt="Google Fotos suma un “guardarropa” con IA para armar looks y probar ropa de forma virtual" /></p><p>La nueva función llegará durante el verano boreal, primero a Android y luego a iOS, según informó Google.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-30-at-08.02.16-1000x516.png" type="image/png" />
-    </item>
-
-    <item>
       <title><![CDATA[Apple e Intel habrían cerrado un acuerdo para fabricar futuros chips]]></title>
       <link>https://ultimasgeek.com/apple-e-intel-habrian-cerrado-un-acuerdo-para-fabricar-futuros-chips/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-e-intel-habrian-cerrado-un-acuerdo-para-fabricar-futuros-chips/</guid>
@@ -206,21 +206,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Google confirmó que la nueva Siri usará Gemini]]></title>
-      <link>https://ultimasgeek.com/google-confirmo-que-la-nueva-siri-usara-gemini/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-confirmo-que-la-nueva-siri-usara-gemini/</guid>
-      <pubDate>Wed, 22 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" alt="Google confirmó que la nueva Siri usará Gemini" /></p><p>La alianza entre Apple y Google suma un dato clave: la próxima versión de Siri, más personalizada y vinculada a Apple Intelligence, se apoyará en tecnología Gemini y apunta a lanzarse antes de fin de año.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/17e-3-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[X lanzó “Custom Timelines” con IA para usuarios Premium en iPhone]]></title>
-      <link>https://ultimasgeek.com/x-lanzo-custom-timelines-con-ia-para-usuarios-premium-en-iphone/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/x-lanzo-custom-timelines-con-ia-para-usuarios-premium-en-iphone/</guid>
-      <pubDate>Wed, 22 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/X-formerly-known-as-Twitter-1000x600.jpg" alt="X lanzó “Custom Timelines” con IA para usuarios Premium en iPhone" /></p><p>La red social sumó una nueva función que permite fijar temas específicos en la pantalla principal, con más de 75 categorías y personalización impulsada por Grok.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/X-formerly-known-as-Twitter-1000x600.jpg" type="image/jpeg" />
+      <title><![CDATA[Google Fotos suma un “guardarropa” con IA para armar looks y probar ropa de forma virtual]]></title>
+      <link>https://ultimasgeek.com/google-fotos-suma-un-guardarropa-con-ia-para-armar-looks-y-probar-ropa-de-forma-virtual/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-fotos-suma-un-guardarropa-con-ia-para-armar-looks-y-probar-ropa-de-forma-virtual/</guid>
+      <pubDate>Thu, 30 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-30-at-08.02.16-1000x516.png" alt="Google Fotos suma un “guardarropa” con IA para armar looks y probar ropa de forma virtual" /></p><p>La nueva función llegará durante el verano boreal, primero a Android y luego a iOS, según informó Google.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-30-at-08.02.16-1000x516.png" type="image/png" />
     </item>
 
     <item>
@@ -230,6 +221,15 @@
       <pubDate>Wed, 29 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" alt="YouTube habilita gratis una de sus funciones más usadas en Android y iPhone" /></p><p>La plataforma comenzó a liberar el modo picture-in-picture para usuarios sin Premium en todo el mundo, aunque con límites para videos musicales.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google habría firmado un acuerdo secreto con el Pentágono para usar su IA en “cualquier fin legal”]]></title>
+      <link>https://ultimasgeek.com/google-habria-firmado-un-acuerdo-secreto-con-el-pentagono-para-usar-su-ia-en-cualquier-fin-legal/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-habria-firmado-un-acuerdo-secreto-con-el-pentagono-para-usar-su-ia-en-cualquier-fin-legal/</guid>
+      <pubDate>Tue, 28 Apr 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" alt="Google habría firmado un acuerdo secreto con el Pentágono para usar su IA en “cualquier fin legal”" /></p><p>El convenio permitiría al Departamento de Defensa de Estados Unidos acceder a modelos de inteligencia artificial de Google, según reveló The Information.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
