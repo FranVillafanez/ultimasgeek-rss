@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 15 May 2026 17:27:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 19:38:37 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Spotify adopta tecnología de Apple para simplificar la publicación de podcasts en video]]></title>
@@ -86,6 +86,15 @@
       <pubDate>Thu, 07 May 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Android-show-Liquid-Glass.jpg-1000x600.webp" alt="Google niega que Android vaya a copiar el diseño Liquid Glass de Apple" /></p><p>El jefe de Android, Sameer Samat, respondió a las críticas tras un teaser de Google que generó comparaciones con la nueva estética de Apple.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Android-show-Liquid-Glass.jpg-1000x600.webp" type="image/webp" />
+    </item>
+
+    <item>
+      <title><![CDATA[OpenAI suma finanzas personales a ChatGPT: permite conectar cuentas bancarias y analizar gastos]]></title>
+      <link>https://ultimasgeek.com/openai-suma-finanzas-personales-a-chatgpt-permite-conectar-cuentas-bancarias-y-analizar-gastos/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/openai-suma-finanzas-personales-a-chatgpt-permite-conectar-cuentas-bancarias-y-analizar-gastos/</guid>
+      <pubDate>Fri, 15 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/OAI-ChatGPT-Personal-Finances-Connecting-accounts-16x9.png-1000x600.webp" alt="OpenAI suma finanzas personales a ChatGPT: permite conectar cuentas bancarias y analizar gastos" /></p><p>La nueva función ya está disponible en vista previa para usuarios ChatGPT Pro de Estados Unidos y permite ver gastos, pagos, suscripciones e inversiones desde un panel financiero.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/OAI-ChatGPT-Personal-Finances-Connecting-accounts-16x9.png-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -176,15 +185,6 @@
       <pubDate>Tue, 05 May 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/AI-Age-Assurance_Header-1-1000x600.jpg" alt="Meta usará IA para detectar menores de 13 años en Facebook e Instagram" /></p><p>La compañía analizará fotos, videos, textos y señales de perfil para identificar cuentas de chicos que no cumplen la edad mínima de sus plataformas.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/AI-Age-Assurance_Header-1-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Instagram prueba una etiqueta para identificar a los “creadores de IA”]]></title>
-      <link>https://ultimasgeek.com/instagram-prueba-una-etiqueta-para-identificar-a-los-creadores-de-ia/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/instagram-prueba-una-etiqueta-para-identificar-a-los-creadores-de-ia/</guid>
-      <pubDate>Mon, 04 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/intro-1777677041.webp" alt="Instagram prueba una etiqueta para identificar a los “creadores de IA”" /></p><p>Meta ensaya una nueva función opcional que mostrará en perfiles, publicaciones y Reels cuando una cuenta publique contenido generado o modificado con inteligencia artificial.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/intro-1777677041.webp" type="image/webp" />
     </item>
 
     <item>
