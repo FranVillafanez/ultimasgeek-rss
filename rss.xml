@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 19 May 2026 09:42:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 12:38:08 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple suma nuevas funciones de accesibilidad con Apple Intelligence para iPhone, iPad, Mac y Vision Pro]]></title>
+      <link>https://ultimasgeek.com/apple-suma-nuevas-funciones-de-accesibilidad-con-apple-intelligence-para-iphone-ipad-mac-y-vision-pro/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-suma-nuevas-funciones-de-accesibilidad-con-apple-intelligence-para-iphone-ipad-mac-y-vision-pro/</guid>
+      <pubDate>Tue, 19 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/CleanShot-2026-05-19-at-09.11.43.png" alt="Apple suma nuevas funciones de accesibilidad con Apple Intelligence para iPhone, iPad, Mac y Vision Pro" /></p><p>La compañía anunció mejoras en VoiceOver, Lupa, Control por Voz, subtítulos automáticos y una función para manejar sillas de ruedas eléctricas con la mirada.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/CleanShot-2026-05-19-at-09.11.43.png" type="image/png" />
+    </item>
 
     <item>
       <title><![CDATA[Apple pone fecha a la WWDC 2026: el evento comenzará el 8 de junio con anuncios de software e inteligencia artificial]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Thu, 14 May 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/4a5be62c-a083-41a8-a714-36ae4ddfa6e7-1000x600.png" alt="Investigadores usaron IA para detectar nuevas fallas en macOS que Apple ya revisa" /></p><p>Un equipo de la firma Calif presentó a Apple un informe de 55 páginas sobre vulnerabilidades halladas con ayuda del modelo Claude Mythos Preview, de Anthropic.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/4a5be62c-a083-41a8-a714-36ae4ddfa6e7-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple prepara cambios en App Store para permitir apps con agentes de inteligencia artificial]]></title>
-      <link>https://ultimasgeek.com/apple-prepara-cambios-en-app-store-para-permitir-apps-con-agentes-de-inteligencia-artificial/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-prepara-cambios-en-app-store-para-permitir-apps-con-agentes-de-inteligencia-artificial/</guid>
-      <pubDate>Wed, 13 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" alt="Apple prepara cambios en App Store para permitir apps con agentes de inteligencia artificial" /></p><p>La compañía evalúa un sistema para aceptar apps con agentes de IA sin resignar sus reglas de seguridad y privacidad, según informó MacRumors en base a The Information.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" type="image/jpeg" />
     </item>
 
     <item>
@@ -122,6 +122,15 @@
       <pubDate>Thu, 14 May 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/X_Twitter_1713882875836_1713882876367-2387728595-1000x600.jpg" alt="X lanzó una pestaña de historial para guardar likes, videos y artículos" /></p><p>La red social sumó una sección llamada History, disponible primero en iOS, que reúne contenido visto o guardado por los usuarios.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/X_Twitter_1713882875836_1713882876367-2387728595-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Apple prepara cambios en App Store para permitir apps con agentes de inteligencia artificial]]></title>
+      <link>https://ultimasgeek.com/apple-prepara-cambios-en-app-store-para-permitir-apps-con-agentes-de-inteligencia-artificial/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-prepara-cambios-en-app-store-para-permitir-apps-con-agentes-de-inteligencia-artificial/</guid>
+      <pubDate>Wed, 13 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" alt="Apple prepara cambios en App Store para permitir apps con agentes de inteligencia artificial" /></p><p>La compañía evalúa un sistema para aceptar apps con agentes de IA sin resignar sus reglas de seguridad y privacidad, según informó MacRumors en base a The Information.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Wed, 29 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" alt="YouTube habilita gratis una de sus funciones más usadas en Android y iPhone" /></p><p>La plataforma comenzó a liberar el modo picture-in-picture para usuarios sin Premium en todo el mundo, aunque con límites para videos musicales.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google habría firmado un acuerdo secreto con el Pentágono para usar su IA en “cualquier fin legal”]]></title>
-      <link>https://ultimasgeek.com/google-habria-firmado-un-acuerdo-secreto-con-el-pentagono-para-usar-su-ia-en-cualquier-fin-legal/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-habria-firmado-un-acuerdo-secreto-con-el-pentagono-para-usar-su-ia-en-cualquier-fin-legal/</guid>
-      <pubDate>Tue, 28 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" alt="Google habría firmado un acuerdo secreto con el Pentágono para usar su IA en “cualquier fin legal”" /></p><p>El convenio permitiría al Departamento de Defensa de Estados Unidos acceder a modelos de inteligencia artificial de Google, según reveló The Information.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
