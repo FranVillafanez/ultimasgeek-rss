@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 20 May 2026 12:24:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 16:25:38 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple estrena un documental inmersivo del Real Madrid para Vision Pro]]></title>
+      <link>https://ultimasgeek.com/apple-estrena-un-documental-inmersivo-del-real-madrid-para-vision-pro/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-estrena-un-documental-inmersivo-del-real-madrid-para-vision-pro/</guid>
+      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-Vision-Pro_-Official-Trailer-for-Real-Madrid_-The-Weight-of-Greatness-0-13-screenshot-1000x600.jpg" alt="Apple estrena un documental inmersivo del Real Madrid para Vision Pro" /></p><p>Real Madrid: The Weight of Greatness llegará este viernes 22 de mayo a la app Apple TV, con una producción de 20 minutos grabada durante la Champions League 2025.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-Vision-Pro_-Official-Trailer-for-Real-Madrid_-The-Weight-of-Greatness-0-13-screenshot-1000x600.jpg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Apple suma nuevas funciones de accesibilidad con Apple Intelligence para iPhone, iPad, Mac y Vision Pro]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Thu, 14 May 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/spotify-hifi-lossless-streaming-1000x600.jpg" alt="Spotify adopta tecnología de Apple para simplificar la publicación de podcasts en video" /></p><p>La plataforma integrará soporte para HLS en Spotify for Creators y Megaphone durante este año, con el objetivo de facilitar la distribución entre Spotify y Apple Podcasts.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/spotify-hifi-lossless-streaming-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Investigadores usaron IA para detectar nuevas fallas en macOS que Apple ya revisa]]></title>
-      <link>https://ultimasgeek.com/investigadores-usaron-ia-para-detectar-nuevas-fallas-en-macos-que-apple-ya-revisa/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/investigadores-usaron-ia-para-detectar-nuevas-fallas-en-macos-que-apple-ya-revisa/</guid>
-      <pubDate>Thu, 14 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/4a5be62c-a083-41a8-a714-36ae4ddfa6e7-1000x600.png" alt="Investigadores usaron IA para detectar nuevas fallas en macOS que Apple ya revisa" /></p><p>Un equipo de la firma Calif presentó a Apple un informe de 55 páginas sobre vulnerabilidades halladas con ayuda del modelo Claude Mythos Preview, de Anthropic.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/4a5be62c-a083-41a8-a714-36ae4ddfa6e7-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -125,6 +125,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Investigadores usaron IA para detectar nuevas fallas en macOS que Apple ya revisa]]></title>
+      <link>https://ultimasgeek.com/investigadores-usaron-ia-para-detectar-nuevas-fallas-en-macos-que-apple-ya-revisa/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/investigadores-usaron-ia-para-detectar-nuevas-fallas-en-macos-que-apple-ya-revisa/</guid>
+      <pubDate>Thu, 14 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/4a5be62c-a083-41a8-a714-36ae4ddfa6e7-1000x600.png" alt="Investigadores usaron IA para detectar nuevas fallas en macOS que Apple ya revisa" /></p><p>Un equipo de la firma Calif presentó a Apple un informe de 55 páginas sobre vulnerabilidades halladas con ayuda del modelo Claude Mythos Preview, de Anthropic.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/4a5be62c-a083-41a8-a714-36ae4ddfa6e7-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
       <title><![CDATA[Apple prepara cambios en App Store para permitir apps con agentes de inteligencia artificial]]></title>
       <link>https://ultimasgeek.com/apple-prepara-cambios-en-app-store-para-permitir-apps-con-agentes-de-inteligencia-artificial/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-prepara-cambios-en-app-store-para-permitir-apps-con-agentes-de-inteligencia-artificial/</guid>
@@ -149,15 +158,6 @@
       <pubDate>Fri, 08 May 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Your-commute-just-got-smarter-Talk-to-me-hands-free-—-now-on-Apple-CarPlay-00-00-02-097-1000x600.jpeg" alt="Grok llega a Apple CarPlay y permite usar su modo de voz desde el auto" /></p><p>La IA de xAI ya puede responder consultas y pedidos por voz en vehículos compatibles con Apple CarPlay, sin usar las manos.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Your-commute-just-got-smarter-Talk-to-me-hands-free-—-now-on-Apple-CarPlay-00-00-02-097-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[ChatGPT suma “contacto de confianza” para alertar ante riesgo de autolesión]]></title>
-      <link>https://ultimasgeek.com/chatgpt-suma-contacto-de-confianza-para-alertar-ante-riesgo-de-autolesion/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/chatgpt-suma-contacto-de-confianza-para-alertar-ante-riesgo-de-autolesion/</guid>
-      <pubDate>Fri, 08 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Safety.png-1000x600.webp" alt="ChatGPT suma “contacto de confianza” para alertar ante riesgo de autolesión" /></p><p>OpenAI lanzó una función opcional para adultos que permite avisar a una persona elegida si el sistema detecta una posible situación grave de riesgo.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Safety.png-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
