@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 26 May 2026 07:47:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:28:32 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple TV transmitirá el primer evento deportivo profesional grabado íntegramente con iPhone 17 Pro]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Tue, 12 May 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/3d6353f5-4caf-4444-bd8d-a879f8887028-1000x600.png" alt="Google facilita el envío de archivos entre Android y iPhone con Quick Share" /></p><p>La compañía anunció que Quick Share permitirá compartir contenido con dispositivos iOS mediante códigos QR y ampliará la compatibilidad con AirDrop en más marcas durante 2026.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/3d6353f5-4caf-4444-bd8d-a879f8887028-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[Spotify suma artículos de revistas narrados: habrá más de 650 textos en audio]]></title>
+      <link>https://ultimasgeek.com/spotify-suma-articulos-de-revistas-narrados-habra-mas-de-650-textos-en-audio/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/spotify-suma-articulos-de-revistas-narrados-habra-mas-de-650-textos-en-audio/</guid>
+      <pubDate>Tue, 26 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/intro-1779796364.jpeg" alt="Spotify suma artículos de revistas narrados: habrá más de 650 textos en audio" /></p><p>La plataforma lanzó un nuevo formato con notas largas de medios como Rolling Stone, The Atlantic, Vogue, GQ, Wired y Vanity Fair.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/intro-1779796364.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Thu, 30 Apr 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-30-at-08.02.16-1000x516.png" alt="Google Fotos suma un “guardarropa” con IA para armar looks y probar ropa de forma virtual" /></p><p>La nueva función llegará durante el verano boreal, primero a Android y luego a iOS, según informó Google.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/CleanShot-2026-04-30-at-08.02.16-1000x516.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[YouTube habilita gratis una de sus funciones más usadas en Android y iPhone]]></title>
-      <link>https://ultimasgeek.com/youtube-habilita-gratis-una-de-sus-funciones-mas-usadas-en-android-y-iphone/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/youtube-habilita-gratis-una-de-sus-funciones-mas-usadas-en-android-y-iphone/</guid>
-      <pubDate>Wed, 29 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" alt="YouTube habilita gratis una de sus funciones más usadas en Android y iPhone" /></p><p>La plataforma comenzó a liberar el modo picture-in-picture para usuarios sin Premium en todo el mundo, aunque con límites para videos musicales.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
