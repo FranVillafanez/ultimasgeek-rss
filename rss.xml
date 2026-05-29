@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 29 May 2026 21:07:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 23:12:34 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple TV transmitirá el primer evento deportivo profesional grabado íntegramente con iPhone 17 Pro]]></title>
@@ -53,6 +53,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Google activa en Chrome una protección que dificulta el robo de cuentas mediante cookies]]></title>
+      <link>https://ultimasgeek.com/google-activa-en-chrome-una-proteccion-que-dificulta-el-robo-de-cuentas-mediante-cookies/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-activa-en-chrome-una-proteccion-que-dificulta-el-robo-de-cuentas-mediante-cookies/</guid>
+      <pubDate>Fri, 29 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/02/Google-Chrome--e1780093067307-992x600.webp" alt="Google activa en Chrome una protección que dificulta el robo de cuentas mediante cookies" /></p><p>La función DBSC ya se despliega en Chrome para Windows y alcanza a usuarios de Google Workspace y cuentas personales; vincula la sesión al dispositivo para impedir accesos desde otra computadora.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/02/Google-Chrome--e1780093067307-992x600.webp" type="image/webp" />
+    </item>
+
+    <item>
       <title><![CDATA[YouTube suma inteligencia artificial para crear feeds personalizados con pedidos de texto]]></title>
       <link>https://ultimasgeek.com/youtube-suma-inteligencia-artificial-para-crear-feeds-personalizados-con-pedidos-de-texto/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/youtube-suma-inteligencia-artificial-para-crear-feeds-personalizados-con-pedidos-de-texto/</guid>
@@ -89,12 +98,21 @@
     </item>
 
     <item>
-      <title><![CDATA[Google acelera Gemini con 3.5 Flash y Omni Flash, sus nuevas apuestas para competir en IA]]></title>
-      <link>https://ultimasgeek.com/google-acelera-gemini-con-3-5-flash-y-omni-flash-sus-nuevas-apuestas-para-competir-en-ia/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-acelera-gemini-con-3-5-flash-y-omni-flash-sus-nuevas-apuestas-para-competir-en-ia/</guid>
-      <pubDate>Tue, 19 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/gemini-3-5__keyword__blog-header.width-1200.format-webp-1000x600.webp" alt="Google acelera Gemini con 3.5 Flash y Omni Flash, sus nuevas apuestas para competir en IA" /></p><p>La compañía presentó mejoras para su asistente Gemini, con foco en velocidad, tareas complejas, generación multimedia y nuevos agentes de inteligencia artificial.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/gemini-3-5__keyword__blog-header.width-1200.format-webp-1000x600.webp" type="image/webp" />
+      <title><![CDATA[Microsoft habilitó Copilot Health: la IA que reúne datos de sueño, actividad física y estudios médicos]]></title>
+      <link>https://ultimasgeek.com/microsoft-habilito-copilot-health-la-ia-que-reune-datos-de-sueno-actividad-fisica-y-estudios-medicos/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/microsoft-habilito-copilot-health-la-ia-que-reune-datos-de-sueno-actividad-fisica-y-estudios-medicos/</guid>
+      <pubDate>Fri, 29 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/microsoft-copilot-1000x600.webp" alt="Microsoft habilitó Copilot Health: la IA que reúne datos de sueño, actividad física y estudios médicos" /></p><p>La herramienta comenzó su etapa de prueba en Estados Unidos para mayores de 18 años con suscripción Microsoft 365 y permite integrar información de salud en un mismo espacio digital.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/microsoft-copilot-1000x600.webp" type="image/webp" />
+    </item>
+
+    <item>
+      <title><![CDATA[ChatGPT ya permite iniciar tareas de Codex en computadoras con Windows desde el celular]]></title>
+      <link>https://ultimasgeek.com/chatgpt-ya-permite-iniciar-tareas-de-codex-en-computadoras-con-windows-desde-el-celular/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/chatgpt-ya-permite-iniciar-tareas-de-codex-en-computadoras-con-windows-desde-el-celular/</guid>
+      <pubDate>Fri, 29 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/CleanShot-2026-02-02-at-15.49.25-1000x574.png" alt="ChatGPT ya permite iniciar tareas de Codex en computadoras con Windows desde el celular" /></p><p>La función se habilitó este viernes 29 de mayo para la app de ChatGPT en iPhone y Android, junto con el control remoto y nuevas herramientas de Codex en Windows.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/CleanShot-2026-02-02-at-15.49.25-1000x574.png" type="image/png" />
     </item>
 
     <item>
@@ -170,12 +188,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Elon Musk perdió el juicio contra Sam Altman por el futuro de OpenAI]]></title>
-      <link>https://ultimasgeek.com/elon-musk-perdio-el-juicio-contra-sam-altman-por-el-futuro-de-openai/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/elon-musk-perdio-el-juicio-contra-sam-altman-por-el-futuro-de-openai/</guid>
-      <pubDate>Mon, 18 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/24d436d9afb344fbba42e868efcd608d-1000x600.jpg" alt="Elon Musk perdió el juicio contra Sam Altman por el futuro de OpenAI" /></p><p>Un jurado federal rechazó los reclamos del empresario contra el CEO de OpenAI por prescripción, tras tres semanas de audiencias en Oakland.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/24d436d9afb344fbba42e868efcd608d-1000x600.jpg" type="image/jpeg" />
+      <title><![CDATA[Google acelera Gemini con 3.5 Flash y Omni Flash, sus nuevas apuestas para competir en IA]]></title>
+      <link>https://ultimasgeek.com/google-acelera-gemini-con-3-5-flash-y-omni-flash-sus-nuevas-apuestas-para-competir-en-ia/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-acelera-gemini-con-3-5-flash-y-omni-flash-sus-nuevas-apuestas-para-competir-en-ia/</guid>
+      <pubDate>Tue, 19 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/gemini-3-5__keyword__blog-header.width-1200.format-webp-1000x600.webp" alt="Google acelera Gemini con 3.5 Flash y Omni Flash, sus nuevas apuestas para competir en IA" /></p><p>La compañía presentó mejoras para su asistente Gemini, con foco en velocidad, tareas complejas, generación multimedia y nuevos agentes de inteligencia artificial.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/gemini-3-5__keyword__blog-header.width-1200.format-webp-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -212,24 +230,6 @@
       <pubDate>Wed, 13 May 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/foxconn-source-adobe-19837-1000x600.jpeg" alt="Foxconn confirmó un ciberataque y un grupo ransomware afirma haber robado archivos de Apple" /></p><p>El proveedor de Apple informó que varias fábricas de Norteamérica fueron afectadas; el grupo Nitrogen asegura haber sustraído 8 TB de datos y más de 11 millones de archivos.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/foxconn-source-adobe-19837-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google I/O 2026: cómo ver en vivo el evento donde Google mostrará sus novedades en IA, Android y Gemini]]></title>
-      <link>https://ultimasgeek.com/google-i-o-2026-como-ver-en-vivo-el-evento-donde-google-mostrara-sus-novedades-en-ia-android-y-gemini/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-i-o-2026-como-ver-en-vivo-el-evento-donde-google-mostrara-sus-novedades-en-ia-android-y-gemini/</guid>
-      <pubDate>Mon, 18 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/IO26_SVD_16x9_v012.max-1440x810-1-1000x600.png" alt="Google I/O 2026: cómo ver en vivo el evento donde Google mostrará sus novedades en IA, Android y Gemini" /></p><p>La conferencia anual será el 19 y 20 de mayo, con transmisión online desde Mountain View y foco en inteligencia artificial, Android 17 y nuevos dispositivos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/IO26_SVD_16x9_v012.max-1440x810-1-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[YouTube habilita una herramienta para detectar deepfakes a todos los creadores mayores de 18 años]]></title>
-      <link>https://ultimasgeek.com/youtube-habilita-una-herramienta-para-detectar-deepfakes-a-todos-los-creadores-mayores-de-18-anos/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/youtube-habilita-una-herramienta-para-detectar-deepfakes-a-todos-los-creadores-mayores-de-18-anos/</guid>
-      <pubDate>Sat, 16 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Deteccion-de-Semejanza-en-YouTube-0-25-screenshot-1000x600.jpg" alt="YouTube habilita una herramienta para detectar deepfakes a todos los creadores mayores de 18 años" /></p><p>La plataforma ampliará en las próximas semanas el acceso a “Likeness detection”, una función que permite rastrear videos generados con IA que usen el rostro de una persona sin autorización.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Deteccion-de-Semejanza-en-YouTube-0-25-screenshot-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
