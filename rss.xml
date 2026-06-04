@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 04 Jun 2026 08:47:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 11:53:35 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Google lleva la IA local a las Mac: lanza AI Edge Gallery para ejecutar modelos sin conexión]]></title>
+      <link>https://ultimasgeek.com/google-lleva-la-ia-local-a-las-mac-lanza-ai-edge-gallery-para-ejecutar-modelos-sin-conexion/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-lleva-la-ia-local-a-las-mac-lanza-ai-edge-gallery-para-ejecutar-modelos-sin-conexion/</guid>
+      <pubDate>Thu, 04 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/side_by_side_plot_deviceFrame-00-00-00-148-1000x600.jpeg" alt="Google lleva la IA local a las Mac: lanza AI Edge Gallery para ejecutar modelos sin conexión" /></p><p>La nueva versión para macOS permite ejecutar modelos de inteligencia artificial directamente en la computadora, sin depender de la nube. Además, Google presentó el modelo Gemma 4 12B y una aplicación de dictado con procesamiento local.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/side_by_side_plot_deviceFrame-00-00-00-148-1000x600.jpeg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Google amplía la compatibilidad de AirDrop en Android: qué celulares ya pueden compartir archivos con iPhone]]></title>
@@ -44,15 +53,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple TV transmitirá el primer evento deportivo profesional grabado íntegramente con iPhone 17 Pro]]></title>
-      <link>https://ultimasgeek.com/apple-tv-transmitira-el-primer-evento-deportivo-profesional-grabado-integramente-con-iphone-17-pro/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-tv-transmitira-el-primer-evento-deportivo-profesional-grabado-integramente-con-iphone-17-pro/</guid>
-      <pubDate>Thu, 21 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-TV-MLS-logo-lockup_quick-read-16x9.jpg.large_-1000x600.jpg" alt="Apple TV transmitirá el primer evento deportivo profesional grabado íntegramente con iPhone 17 Pro" /></p><p>La compañía emitirá este sábado 23 de mayo el partido entre LA Galaxy y Houston Dynamo FC, por la MLS, desde California.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-TV-MLS-logo-lockup_quick-read-16x9.jpg.large_-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[YouTube sumará una herramienta para identificar videos creados con inteligencia artificial]]></title>
       <link>https://ultimasgeek.com/youtube-sumara-una-herramienta-para-identificar-videos-creados-con-inteligencia-artificial/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/youtube-sumara-una-herramienta-para-identificar-videos-creados-con-inteligencia-artificial/</guid>
@@ -80,12 +80,12 @@
     </item>
 
     <item>
-      <title><![CDATA[DuckDuckGo creció en descargas tras el avance de Google con la IA en las búsquedas]]></title>
-      <link>https://ultimasgeek.com/duckduckgo-crecio-en-descargas-tras-el-avance-de-google-con-la-ia-en-las-busquedas/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/duckduckgo-crecio-en-descargas-tras-el-avance-de-google-con-la-ia-en-las-busquedas/</guid>
-      <pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/duckduckgo-search-1000x600.jpg" alt="DuckDuckGo creció en descargas tras el avance de Google con la IA en las búsquedas" /></p><p>La empresa informó una suba promedio del 18,1% en instalaciones en Estados Unidos luego de Google I/O 2026, con un fuerte salto entre usuarios de iPhone.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/duckduckgo-search-1000x600.jpg" type="image/jpeg" />
+      <title><![CDATA[Meta lanza un agente de ventas con IA para WhatsApp, Instagram y Messenger]]></title>
+      <link>https://ultimasgeek.com/meta-lanza-un-agente-de-ventas-con-ia-para-whatsapp-instagram-y-messenger/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/meta-lanza-un-agente-de-ventas-con-ia-para-whatsapp-instagram-y-messenger/</guid>
+      <pubDate>Thu, 04 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Spanish_WhatsApp_conversations-2026-2.jpg-1000x600.jpeg" alt="Meta lanza un agente de ventas con IA para WhatsApp, Instagram y Messenger" /></p><p>La compañía presentó una herramienta capaz de responder consultas, recomendar productos, gestionar reservas y cerrar ventas de forma automática dentro de sus principales plataformas de mensajería.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Spanish_WhatsApp_conversations-2026-2.jpg-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -161,6 +161,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Apple TV transmitirá el primer evento deportivo profesional grabado íntegramente con iPhone 17 Pro]]></title>
+      <link>https://ultimasgeek.com/apple-tv-transmitira-el-primer-evento-deportivo-profesional-grabado-integramente-con-iphone-17-pro/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-tv-transmitira-el-primer-evento-deportivo-profesional-grabado-integramente-con-iphone-17-pro/</guid>
+      <pubDate>Thu, 21 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-TV-MLS-logo-lockup_quick-read-16x9.jpg.large_-1000x600.jpg" alt="Apple TV transmitirá el primer evento deportivo profesional grabado íntegramente con iPhone 17 Pro" /></p><p>La compañía emitirá este sábado 23 de mayo el partido entre LA Galaxy y Houston Dynamo FC, por la MLS, desde California.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-TV-MLS-logo-lockup_quick-read-16x9.jpg.large_-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Apple estrena un documental inmersivo del Real Madrid para Vision Pro]]></title>
       <link>https://ultimasgeek.com/apple-estrena-un-documental-inmersivo-del-real-madrid-para-vision-pro/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-estrena-un-documental-inmersivo-del-real-madrid-para-vision-pro/</guid>
@@ -206,12 +215,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Investigadores usaron IA para detectar nuevas fallas en macOS que Apple ya revisa]]></title>
-      <link>https://ultimasgeek.com/investigadores-usaron-ia-para-detectar-nuevas-fallas-en-macos-que-apple-ya-revisa/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/investigadores-usaron-ia-para-detectar-nuevas-fallas-en-macos-que-apple-ya-revisa/</guid>
-      <pubDate>Thu, 14 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/4a5be62c-a083-41a8-a714-36ae4ddfa6e7-1000x600.png" alt="Investigadores usaron IA para detectar nuevas fallas en macOS que Apple ya revisa" /></p><p>Un equipo de la firma Calif presentó a Apple un informe de 55 páginas sobre vulnerabilidades halladas con ayuda del modelo Claude Mythos Preview, de Anthropic.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/4a5be62c-a083-41a8-a714-36ae4ddfa6e7-1000x600.png" type="image/png" />
+      <title><![CDATA[DuckDuckGo creció en descargas tras el avance de Google con la IA en las búsquedas]]></title>
+      <link>https://ultimasgeek.com/duckduckgo-crecio-en-descargas-tras-el-avance-de-google-con-la-ia-en-las-busquedas/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/duckduckgo-crecio-en-descargas-tras-el-avance-de-google-con-la-ia-en-las-busquedas/</guid>
+      <pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/duckduckgo-search-1000x600.jpg" alt="DuckDuckGo creció en descargas tras el avance de Google con la IA en las búsquedas" /></p><p>La empresa informó una suba promedio del 18,1% en instalaciones en Estados Unidos luego de Google I/O 2026, con un fuerte salto entre usuarios de iPhone.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/duckduckgo-search-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Tue, 26 May 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/6348271a203f9-197751651-1000x600.jpeg" alt="YouTube Music prueba una función clave para ordenar playlists" /></p><p>La app de música de Google comenzó a probar nuevas opciones para organizar listas por título, artista y álbum, una mejora esperada por usuarios de Android.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/6348271a203f9-197751651-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[CapCut se integra a Gemini: Google suma edición de fotos y videos con IA dentro de su app]]></title>
-      <link>https://ultimasgeek.com/google-integra-capcut-en-la-app-de-gemini-para-editar-videos-sin-cambiar-de-pantalla/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-integra-capcut-en-la-app-de-gemini-para-editar-videos-sin-cambiar-de-pantalla/</guid>
-      <pubDate>Thu, 21 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/HI0kN5eagAAosfN-1000x600.jpeg" alt="CapCut se integra a Gemini: Google suma edición de fotos y videos con IA dentro de su app" /></p><p>La alianza permitirá editar imágenes y videos sin salir de Gemini, aunque todavía no hay fecha confirmada para el lanzamiento.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/HI0kN5eagAAosfN-1000x600.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
