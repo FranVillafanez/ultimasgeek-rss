@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 05 Jun 2026 17:54:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 19:54:48 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple informó que el ecosistema de la App Store generó US$ 1,4 billones y destacó el crecimiento global de los desarrolladores]]></title>
@@ -77,6 +77,15 @@
       <pubDate>Thu, 28 May 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" alt="YouTube suma inteligencia artificial para crear feeds personalizados con pedidos de texto" /></p><p>La nueva función permite armar una selección de videos a partir de intereses, estados de ánimo o temas específicos, aunque por ahora solo está disponible en inglés para usuarios de Estados Unidos.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Anthropic propone frenar el desarrollo de la IA y advierte sobre sistemas capaces de mejorarse solos]]></title>
+      <link>https://ultimasgeek.com/anthropic-propone-frenar-el-desarrollo-de-la-ia-y-advierte-sobre-sistemas-capaces-de-mejorarse-solos/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/anthropic-propone-frenar-el-desarrollo-de-la-ia-y-advierte-sobre-sistemas-capaces-de-mejorarse-solos/</guid>
+      <pubDate>Fri, 05 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/GettyImages-2191761606.jpg-1000x600.webp" alt="Anthropic propone frenar el desarrollo de la IA y advierte sobre sistemas capaces de mejorarse solos" /></p><p>La empresa detrás de Claude pidió crear mecanismos globales para ralentizar o pausar la carrera por la inteligencia artificial avanzada si los riesgos superan la capacidad de control humano.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/GettyImages-2191761606.jpg-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -203,15 +212,6 @@
       <pubDate>Mon, 18 May 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Finder-Siri-Feature-1000x600.jpg" alt="Apple prepara una app de Siri para iOS 27 con chats que se podrán borrar automáticamente" /></p><p>La nueva versión del asistente permitiría elegir si las conversaciones se guardan por 30 días, un año o para siempre, según Bloomberg.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Finder-Siri-Feature-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Spotify adopta tecnología de Apple para simplificar la publicación de podcasts en video]]></title>
-      <link>https://ultimasgeek.com/spotify-adopta-tecnologia-de-apple-para-simplificar-la-publicacion-de-podcasts-en-video/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/spotify-adopta-tecnologia-de-apple-para-simplificar-la-publicacion-de-podcasts-en-video/</guid>
-      <pubDate>Thu, 14 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/spotify-hifi-lossless-streaming-1000x600.jpg" alt="Spotify adopta tecnología de Apple para simplificar la publicación de podcasts en video" /></p><p>La plataforma integrará soporte para HLS en Spotify for Creators y Megaphone durante este año, con el objetivo de facilitar la distribución entre Spotify y Apple Podcasts.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/spotify-hifi-lossless-streaming-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
