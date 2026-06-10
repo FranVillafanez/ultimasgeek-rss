@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 10 Jun 2026 09:59:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 13:40:07 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Telegram vuelve al Apple Watch con una app nativa: permite mensajes, GIF, videos y más]]></title>
+      <link>https://ultimasgeek.com/telegram-vuelve-al-apple-watch-con-una-app-nativa-permite-mensajes-gif-videos-y-mas/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/telegram-vuelve-al-apple-watch-con-una-app-nativa-permite-mensajes-gif-videos-y-mas/</guid>
+      <pubDate>Wed, 10 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Diseno-sin-titulo-1000x600.jpg" alt="Telegram vuelve al Apple Watch con una app nativa: permite mensajes, GIF, videos y más" /></p><p>La plataforma de mensajería lanzó una nueva aplicación para el reloj inteligente de Apple, más de una década después de su primer desembarco en watchOS.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Diseno-sin-titulo-1000x600.jpg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Apple activa una lista de espera para probar la nueva Siri con IA en iOS 27 beta]]></title>
@@ -44,12 +53,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple informó que el ecosistema de la App Store generó US$ 1,4 billones y destacó el crecimiento global de los desarrolladores]]></title>
-      <link>https://ultimasgeek.com/apple-informo-que-el-ecosistema-de-la-app-store-genero-us-14-billones-y-destaco-el-crecimiento-global-de-los-desarrolladores/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-informo-que-el-ecosistema-de-la-app-store-genero-us-14-billones-y-destaco-el-crecimiento-global-de-los-desarrolladores/</guid>
-      <pubDate>Thu, 04 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" alt="Apple informó que el ecosistema de la App Store generó US$ 1,4 billones y destacó el crecimiento global de los desarrolladores" /></p><p>Un estudio encargado por la compañía señaló que las ventas y la facturación facilitadas por la App Store alcanzaron los US$ 1,4 billones en 2025, con fuerte impulso en los servicios digitales, el comercio físico y la publicidad dentro de aplicaciones.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" type="image/jpeg" />
+      <title><![CDATA[Google lanza Gemini 3.5 Live Translate: traducción de voz en tiempo real en más de 70 idiomas]]></title>
+      <link>https://ultimasgeek.com/google-lanza-gemini-3-5-live-translate-traduccion-de-voz-en-tiempo-real-en-mas-de-70-idiomas/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-lanza-gemini-3-5-live-translate-traduccion-de-voz-en-tiempo-real-en-mas-de-70-idiomas/</guid>
+      <pubDate>Wed, 10 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/3-5_Live_Translate_hero.width-1200.format-webp-1000x600.jpeg" alt="Google lanza Gemini 3.5 Live Translate: traducción de voz en tiempo real en más de 70 idiomas" /></p><p>La nueva tecnología de inteligencia artificial permite conversaciones fluidas entre personas que hablan distintos idiomas, conservando el tono y la naturalidad de la voz.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/3-5_Live_Translate_hero.width-1200.format-webp-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -89,15 +98,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Google activa en Chrome una protección que dificulta el robo de cuentas mediante cookies]]></title>
-      <link>https://ultimasgeek.com/google-activa-en-chrome-una-proteccion-que-dificulta-el-robo-de-cuentas-mediante-cookies/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-activa-en-chrome-una-proteccion-que-dificulta-el-robo-de-cuentas-mediante-cookies/</guid>
-      <pubDate>Fri, 29 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/02/Google-Chrome--e1780093067307-992x600.webp" alt="Google activa en Chrome una protección que dificulta el robo de cuentas mediante cookies" /></p><p>La función DBSC ya se despliega en Chrome para Windows y alcanza a usuarios de Google Workspace y cuentas personales; vincula la sesión al dispositivo para impedir accesos desde otra computadora.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/02/Google-Chrome--e1780093067307-992x600.webp" type="image/webp" />
-    </item>
-
-    <item>
       <title><![CDATA[Instagram habilita una función histórica: ahora se puede reorganizar la cuadrícula del perfil]]></title>
       <link>https://ultimasgeek.com/instagram-habilita-una-funcion-historica-ahora-se-puede-reorganizar-la-cuadricula-del-perfil/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/instagram-habilita-una-funcion-historica-ahora-se-puede-reorganizar-la-cuadricula-del-perfil/</guid>
@@ -113,6 +113,15 @@
       <pubDate>Fri, 05 Jun 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/GettyImages-2191761606.jpg-1000x600.webp" alt="Anthropic propone frenar el desarrollo de la IA y advierte sobre sistemas capaces de mejorarse solos" /></p><p>La empresa detrás de Claude pidió crear mecanismos globales para ralentizar o pausar la carrera por la inteligencia artificial avanzada si los riesgos superan la capacidad de control humano.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/GettyImages-2191761606.jpg-1000x600.webp" type="image/webp" />
+    </item>
+
+    <item>
+      <title><![CDATA[Apple informó que el ecosistema de la App Store generó US$ 1,4 billones y destacó el crecimiento global de los desarrolladores]]></title>
+      <link>https://ultimasgeek.com/apple-informo-que-el-ecosistema-de-la-app-store-genero-us-14-billones-y-destaco-el-crecimiento-global-de-los-desarrolladores/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-informo-que-el-ecosistema-de-la-app-store-genero-us-14-billones-y-destaco-el-crecimiento-global-de-los-desarrolladores/</guid>
+      <pubDate>Thu, 04 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" alt="Apple informó que el ecosistema de la App Store generó US$ 1,4 billones y destacó el crecimiento global de los desarrolladores" /></p><p>Un estudio encargado por la compañía señaló que las ventas y la facturación facilitadas por la App Store alcanzaron los US$ 1,4 billones en 2025, con fuerte impulso en los servicios digitales, el comercio físico y la publicidad dentro de aplicaciones.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" type="image/jpeg" />
     </item>
 
     <item>
@@ -140,24 +149,6 @@
       <pubDate>Mon, 01 Jun 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/antro-1000x600.jpeg" alt="Anthropic acelera su salida a bolsa y redefine la carrera por la inteligencia artificial" /></p><p>La empresa detrás de Claude presentó de forma confidencial su solicitud para cotizar en Wall Street, en un movimiento que podría cambiar el futuro del sector de la IA y aumentar la presión sobre OpenAI.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/antro-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[La aplicación de ChatGPT suma una función oculta para controlar cómo responde la inteligencia artificial]]></title>
-      <link>https://ultimasgeek.com/la-aplicacion-de-chatgpt-suma-una-funcion-oculta-para-controlar-como-responde-la-inteligencia-artificial/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/la-aplicacion-de-chatgpt-suma-una-funcion-oculta-para-controlar-como-responde-la-inteligencia-artificial/</guid>
-      <pubDate>Mon, 01 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" alt="La aplicación de ChatGPT suma una función oculta para controlar cómo responde la inteligencia artificial" /></p><p>La nueva actualización permite cambiar el nivel de esfuerzo de la plataforma antes de enviar un mensaje con un simple gesto en la pantalla del celular.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[La FTC investiga a Microsoft por monopolio en inteligencia artificial y la nube]]></title>
-      <link>https://ultimasgeek.com/la-ftc-investiga-a-microsoft-por-monopolio-en-inteligencia-artificial-y-la-nube/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/la-ftc-investiga-a-microsoft-por-monopolio-en-inteligencia-artificial-y-la-nube/</guid>
-      <pubDate>Mon, 01 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Untitled-1000x576.jpg" alt="La FTC investiga a Microsoft por monopolio en inteligencia artificial y la nube" /></p><p>La agencia estadounidense exige documentos internos desde 2016 ante sospechas de bloqueos competitivos a rivales como Google y Amazon.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Untitled-1000x576.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -203,6 +194,15 @@
       <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-Vision-Pro_-Official-Trailer-for-Real-Madrid_-The-Weight-of-Greatness-0-13-screenshot-1000x600.jpg" alt="Apple estrena un documental inmersivo del Real Madrid para Vision Pro" /></p><p>Real Madrid: The Weight of Greatness llegará este viernes 22 de mayo a la app Apple TV, con una producción de 20 minutos grabada durante la Champions League 2025.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-Vision-Pro_-Official-Trailer-for-Real-Madrid_-The-Weight-of-Greatness-0-13-screenshot-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google activa en Chrome una protección que dificulta el robo de cuentas mediante cookies]]></title>
+      <link>https://ultimasgeek.com/google-activa-en-chrome-una-proteccion-que-dificulta-el-robo-de-cuentas-mediante-cookies/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-activa-en-chrome-una-proteccion-que-dificulta-el-robo-de-cuentas-mediante-cookies/</guid>
+      <pubDate>Fri, 29 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/02/Google-Chrome--e1780093067307-992x600.webp" alt="Google activa en Chrome una protección que dificulta el robo de cuentas mediante cookies" /></p><p>La función DBSC ya se despliega en Chrome para Windows y alcanza a usuarios de Google Workspace y cuentas personales; vincula la sesión al dispositivo para impedir accesos desde otra computadora.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/02/Google-Chrome--e1780093067307-992x600.webp" type="image/webp" />
     </item>
 
     <item>
