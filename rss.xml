@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 11 Jun 2026 10:24:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 14:36:14 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Telegram vuelve al Apple Watch con una app nativa: permite mensajes, GIF, videos y más]]></title>
@@ -53,6 +53,15 @@
     </item>
 
     <item>
+      <title><![CDATA[YouTube vuelve a apostar por los mensajes privados y relanza una función que había eliminado en 2019]]></title>
+      <link>https://ultimasgeek.com/youtube-vuelve-a-apostar-por-los-mensajes-privados-y-relanza-una-funcion-que-habia-eliminado-en-2019/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/youtube-vuelve-a-apostar-por-los-mensajes-privados-y-relanza-una-funcion-que-habia-eliminado-en-2019/</guid>
+      <pubDate>Thu, 11 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" alt="YouTube vuelve a apostar por los mensajes privados y relanza una función que había eliminado en 2019" /></p><p>La plataforma comenzó a expandir una nueva herramienta de mensajería directa para usuarios mayores de 18 años en Estados Unidos y otros mercados, con foco en compartir videos y conversar dentro de la aplicación.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Google lanza Gemini 3.5 Live Translate: traducción de voz en tiempo real en más de 70 idiomas]]></title>
       <link>https://ultimasgeek.com/google-lanza-gemini-3-5-live-translate-traduccion-de-voz-en-tiempo-real-en-mas-de-70-idiomas/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-lanza-gemini-3-5-live-translate-traduccion-de-voz-en-tiempo-real-en-mas-de-70-idiomas/</guid>
@@ -89,12 +98,30 @@
     </item>
 
     <item>
-      <title><![CDATA[YouTube sumará una herramienta para identificar videos creados con inteligencia artificial]]></title>
-      <link>https://ultimasgeek.com/youtube-sumara-una-herramienta-para-identificar-videos-creados-con-inteligencia-artificial/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/youtube-sumara-una-herramienta-para-identificar-videos-creados-con-inteligencia-artificial/</guid>
-      <pubDate>Tue, 02 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/05/Diseno-sin-titulo-2-1-1000x600.jpg" alt="YouTube sumará una herramienta para identificar videos creados con inteligencia artificial" /></p><p>La plataforma comenzó a probar una función que permitirá a los usuarios señalar contenido generado con IA de baja calidad, en medio del crecimiento de este tipo de videos en las recomendaciones.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/05/Diseno-sin-titulo-2-1-1000x600.jpg" type="image/jpeg" />
+      <title><![CDATA[Anthropic pide disculpas por ocultar restricciones en Claude Fable para evitar la “destilación” de IA]]></title>
+      <link>https://ultimasgeek.com/anthropic-pide-disculpas-por-ocultar-restricciones-en-claude-fable-para-evitar-la-destilacion-de-ia/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/anthropic-pide-disculpas-por-ocultar-restricciones-en-claude-fable-para-evitar-la-destilacion-de-ia/</guid>
+      <pubDate>Thu, 11 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/antro-1000x600.jpeg" alt="Anthropic pide disculpas por ocultar restricciones en Claude Fable para evitar la “destilación” de IA" /></p><p>La empresa reconoció que implementó barreras invisibles en su nuevo modelo Claude Fable 5 para degradar respuestas relacionadas con la creación de modelos competidores, una decisión que generó críticas entre investigadores de IA.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/antro-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[OpenAI analiza una fuerte baja en los precios de ChatGPT para enfrentar el avance de Anthropic]]></title>
+      <link>https://ultimasgeek.com/openai-analiza-una-fuerte-baja-en-los-precios-de-chatgpt-para-enfrentar-el-avance-de-anthropic/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/openai-analiza-una-fuerte-baja-en-los-precios-de-chatgpt-para-enfrentar-el-avance-de-anthropic/</guid>
+      <pubDate>Thu, 11 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" alt="OpenAI analiza una fuerte baja en los precios de ChatGPT para enfrentar el avance de Anthropic" /></p><p>La compañía evalúa reducir de forma “drástica” el costo de sus servicios de inteligencia artificial, en una estrategia que busca ganar competitividad frente a Claude, el modelo desarrollado por Anthropic.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Netflix se mete en el fútbol: lanza gratis el videojuego oficial del Mundial 2026 para sus suscriptores]]></title>
+      <link>https://ultimasgeek.com/netflix-se-mete-en-el-futbol-lanza-gratis-el-videojuego-oficial-del-mundial-2026-para-sus-suscriptores/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/netflix-se-mete-en-el-futbol-lanza-gratis-el-videojuego-oficial-del-mundial-2026-para-sus-suscriptores/</guid>
+      <pubDate>Thu, 11 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/FIFA__NGC-1000x600.png" alt="Netflix se mete en el fútbol: lanza gratis el videojuego oficial del Mundial 2026 para sus suscriptores" /></p><p>La plataforma estrenará “FIFA World Cup: Launch Edition” el mismo día que comienza la Copa del Mundo y permitirá jugar con las 48 selecciones participantes.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/FIFA__NGC-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -116,15 +143,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple informó que el ecosistema de la App Store generó US$ 1,4 billones y destacó el crecimiento global de los desarrolladores]]></title>
-      <link>https://ultimasgeek.com/apple-informo-que-el-ecosistema-de-la-app-store-genero-us-14-billones-y-destaco-el-crecimiento-global-de-los-desarrolladores/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-informo-que-el-ecosistema-de-la-app-store-genero-us-14-billones-y-destaco-el-crecimiento-global-de-los-desarrolladores/</guid>
-      <pubDate>Thu, 04 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" alt="Apple informó que el ecosistema de la App Store generó US$ 1,4 billones y destacó el crecimiento global de los desarrolladores" /></p><p>Un estudio encargado por la compañía señaló que las ventas y la facturación facilitadas por la App Store alcanzaron los US$ 1,4 billones en 2025, con fuerte impulso en los servicios digitales, el comercio físico y la publicidad dentro de aplicaciones.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Meta lanza un agente de ventas con IA para WhatsApp, Instagram y Messenger]]></title>
       <link>https://ultimasgeek.com/meta-lanza-un-agente-de-ventas-con-ia-para-whatsapp-instagram-y-messenger/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/meta-lanza-un-agente-de-ventas-con-ia-para-whatsapp-instagram-y-messenger/</guid>
@@ -134,21 +152,21 @@
     </item>
 
     <item>
-      <title><![CDATA[OpenAI integrará Codex en toda la experiencia de ChatGPT y prepara nuevos complementos empresariales]]></title>
-      <link>https://ultimasgeek.com/openai-integrara-codex-en-toda-la-experiencia-de-chatgpt-y-prepara-nuevos-complementos-empresariales/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/openai-integrara-codex-en-toda-la-experiencia-de-chatgpt-y-prepara-nuevos-complementos-empresariales/</guid>
+      <title><![CDATA[YouTube sumará una herramienta para identificar videos creados con inteligencia artificial]]></title>
+      <link>https://ultimasgeek.com/youtube-sumara-una-herramienta-para-identificar-videos-creados-con-inteligencia-artificial/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/youtube-sumara-una-herramienta-para-identificar-videos-creados-con-inteligencia-artificial/</guid>
       <pubDate>Tue, 02 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Anyone-can-build-and-share-apps-in-Codex-0-9-screenshot-1000x600.jpg" alt="OpenAI integrará Codex en toda la experiencia de ChatGPT y prepara nuevos complementos empresariales" /></p><p>Según un informe publicado por 9to5Mac, OpenAI está ampliando la presencia de Codex dentro de ChatGPT y planea lanzar seis nuevos plugins orientados a clientes corporativos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Anyone-can-build-and-share-apps-in-Codex-0-9-screenshot-1000x600.jpg" type="image/jpeg" />
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/05/Diseno-sin-titulo-2-1-1000x600.jpg" alt="YouTube sumará una herramienta para identificar videos creados con inteligencia artificial" /></p><p>La plataforma comenzó a probar una función que permitirá a los usuarios señalar contenido generado con IA de baja calidad, en medio del crecimiento de este tipo de videos en las recomendaciones.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/05/Diseno-sin-titulo-2-1-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
-      <title><![CDATA[Anthropic acelera su salida a bolsa y redefine la carrera por la inteligencia artificial]]></title>
-      <link>https://ultimasgeek.com/anthropic-acelera-su-salida-a-bolsa-y-redefine-la-carrera-por-la-inteligencia-artificial/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/anthropic-acelera-su-salida-a-bolsa-y-redefine-la-carrera-por-la-inteligencia-artificial/</guid>
-      <pubDate>Mon, 01 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/antro-1000x600.jpeg" alt="Anthropic acelera su salida a bolsa y redefine la carrera por la inteligencia artificial" /></p><p>La empresa detrás de Claude presentó de forma confidencial su solicitud para cotizar en Wall Street, en un movimiento que podría cambiar el futuro del sector de la IA y aumentar la presión sobre OpenAI.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/antro-1000x600.jpeg" type="image/jpeg" />
+      <title><![CDATA[Apple informó que el ecosistema de la App Store generó US$ 1,4 billones y destacó el crecimiento global de los desarrolladores]]></title>
+      <link>https://ultimasgeek.com/apple-informo-que-el-ecosistema-de-la-app-store-genero-us-14-billones-y-destaco-el-crecimiento-global-de-los-desarrolladores/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-informo-que-el-ecosistema-de-la-app-store-genero-us-14-billones-y-destaco-el-crecimiento-global-de-los-desarrolladores/</guid>
+      <pubDate>Thu, 04 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" alt="Apple informó que el ecosistema de la App Store generó US$ 1,4 billones y destacó el crecimiento global de los desarrolladores" /></p><p>Un estudio encargado por la compañía señaló que las ventas y la facturación facilitadas por la App Store alcanzaron los US$ 1,4 billones en 2025, con fuerte impulso en los servicios digitales, el comercio físico y la publicidad dentro de aplicaciones.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" type="image/jpeg" />
     </item>
 
     <item>
@@ -167,33 +185,6 @@
       <pubDate>Tue, 02 Jun 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Music-app-icon-2911919108-1000x600.jpg" alt="Apple evalúa un plan gratuito para Apple Music y una filtración reaviva el debate sobre la publicidad" /></p><p>Una serie de líneas de código encontradas en la versión beta de Apple Music para Android sugiere que la compañía podría estar probando un modelo gratuito o más económico, algo que históricamente rechazó.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/Apple-Music-app-icon-2911919108-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple retrasaría hasta fines de 2027 el lanzamiento de sus primeras gafas inteligentes]]></title>
-      <link>https://ultimasgeek.com/apple-retrasaria-hasta-fines-de-2027-el-lanzamiento-de-sus-primeras-gafas-inteligentes/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-retrasaria-hasta-fines-de-2027-el-lanzamiento-de-sus-primeras-gafas-inteligentes/</guid>
-      <pubDate>Sun, 31 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" alt="Apple retrasaría hasta fines de 2027 el lanzamiento de sus primeras gafas inteligentes" /></p><p>La compañía habría postergado la llegada de sus anteojos conectados, un dispositivo centrado en inteligencia artificial y Siri que buscaría competir con las Ray-Ban Meta.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple TV transmitirá el primer evento deportivo profesional grabado íntegramente con iPhone 17 Pro]]></title>
-      <link>https://ultimasgeek.com/apple-tv-transmitira-el-primer-evento-deportivo-profesional-grabado-integramente-con-iphone-17-pro/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-tv-transmitira-el-primer-evento-deportivo-profesional-grabado-integramente-con-iphone-17-pro/</guid>
-      <pubDate>Thu, 21 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-TV-MLS-logo-lockup_quick-read-16x9.jpg.large_-1000x600.jpg" alt="Apple TV transmitirá el primer evento deportivo profesional grabado íntegramente con iPhone 17 Pro" /></p><p>La compañía emitirá este sábado 23 de mayo el partido entre LA Galaxy y Houston Dynamo FC, por la MLS, desde California.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-TV-MLS-logo-lockup_quick-read-16x9.jpg.large_-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple estrena un documental inmersivo del Real Madrid para Vision Pro]]></title>
-      <link>https://ultimasgeek.com/apple-estrena-un-documental-inmersivo-del-real-madrid-para-vision-pro/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-estrena-un-documental-inmersivo-del-real-madrid-para-vision-pro/</guid>
-      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-Vision-Pro_-Official-Trailer-for-Real-Madrid_-The-Weight-of-Greatness-0-13-screenshot-1000x600.jpg" alt="Apple estrena un documental inmersivo del Real Madrid para Vision Pro" /></p><p>Real Madrid: The Weight of Greatness llegará este viernes 22 de mayo a la app Apple TV, con una producción de 20 minutos grabada durante la Champions League 2025.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/Apple-Vision-Pro_-Official-Trailer-for-Real-Madrid_-The-Weight-of-Greatness-0-13-screenshot-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -230,6 +221,15 @@
       <pubDate>Tue, 26 May 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/6348271a203f9-197751651-1000x600.jpeg" alt="YouTube Music prueba una función clave para ordenar playlists" /></p><p>La app de música de Google comenzó a probar nuevas opciones para organizar listas por título, artista y álbum, una mejora esperada por usuarios de Android.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/6348271a203f9-197751651-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[CapCut se integra a Gemini: Google suma edición de fotos y videos con IA dentro de su app]]></title>
+      <link>https://ultimasgeek.com/google-integra-capcut-en-la-app-de-gemini-para-editar-videos-sin-cambiar-de-pantalla/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-integra-capcut-en-la-app-de-gemini-para-editar-videos-sin-cambiar-de-pantalla/</guid>
+      <pubDate>Thu, 21 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/HI0kN5eagAAosfN-1000x600.jpeg" alt="CapCut se integra a Gemini: Google suma edición de fotos y videos con IA dentro de su app" /></p><p>La alianza permitirá editar imágenes y videos sin salir de Gemini, aunque todavía no hay fecha confirmada para el lanzamiento.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/05/HI0kN5eagAAosfN-1000x600.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
