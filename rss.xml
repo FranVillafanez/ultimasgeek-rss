@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 17 Jun 2026 11:47:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 15:30:18 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Telegram vuelve al Apple Watch con una app nativa: permite mensajes, GIF, videos y más]]></title>
@@ -53,6 +53,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Google lanza su primer altavoz inteligente en seis años: llega con Gemini integrado y funciones avanzadas para el hogar]]></title>
+      <link>https://ultimasgeek.com/google-lanza-su-primer-altavoz-inteligente-en-seis-anos-llega-con-gemini-integrado-y-funciones-avanzadas-para-el-hogar/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-lanza-su-primer-altavoz-inteligente-en-seis-anos-llega-con-gemini-integrado-y-funciones-avanzadas-para-el-hogar/</guid>
+      <pubDate>Wed, 17 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Google_Home_Speaker_-_Multi.width-1000.format-webp-1000x600.webp" alt="Google lanza su primer altavoz inteligente en seis años: llega con Gemini integrado y funciones avanzadas para el hogar" /></p><p>La compañía presentó el nuevo Google Home Speaker, un dispositivo diseñado para aprovechar la inteligencia artificial Gemini, con sonido de 360 grados, control de hogar inteligente y conversaciones más naturales.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Google_Home_Speaker_-_Multi.width-1000.format-webp-1000x600.webp" type="image/webp" />
+    </item>
+
+    <item>
       <title><![CDATA[YouTube vuelve a apostar por los mensajes privados y relanza una función que había eliminado en 2019]]></title>
       <link>https://ultimasgeek.com/youtube-vuelve-a-apostar-por-los-mensajes-privados-y-relanza-una-funcion-que-habia-eliminado-en-2019/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/youtube-vuelve-a-apostar-por-los-mensajes-privados-y-relanza-una-funcion-que-habia-eliminado-en-2019/</guid>
@@ -86,15 +95,6 @@
       <pubDate>Thu, 04 Jun 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/side_by_side_plot_deviceFrame-00-00-00-148-1000x600.jpeg" alt="Google lleva la IA local a las Mac: lanza AI Edge Gallery para ejecutar modelos sin conexión" /></p><p>La nueva versión para macOS permite ejecutar modelos de inteligencia artificial directamente en la computadora, sin depender de la nube. Además, Google presentó el modelo Gemma 4 12B y una aplicación de dictado con procesamiento local.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/side_by_side_plot_deviceFrame-00-00-00-148-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google amplía la compatibilidad de AirDrop en Android: qué celulares ya pueden compartir archivos con iPhone]]></title>
-      <link>https://ultimasgeek.com/google-amplia-la-compatibilidad-de-airdrop-en-android-que-celulares-ya-pueden-compartir-archivos-con-iphone/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-amplia-la-compatibilidad-de-airdrop-en-android-que-celulares-ya-pueden-compartir-archivos-con-iphone/</guid>
-      <pubDate>Wed, 03 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/image-1000x600.png" alt="Google amplía la compatibilidad de AirDrop en Android: qué celulares ya pueden compartir archivos con iPhone" /></p><p>La función Quick Share, que permite transferir archivos entre Android y dispositivos Apple mediante AirDrop, llega a más modelos de Samsung, Xiaomi, OnePlus, OPPO, Vivo y otras marcas.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/image-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -206,6 +206,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Google amplía la compatibilidad de AirDrop en Android: qué celulares ya pueden compartir archivos con iPhone]]></title>
+      <link>https://ultimasgeek.com/google-amplia-la-compatibilidad-de-airdrop-en-android-que-celulares-ya-pueden-compartir-archivos-con-iphone/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-amplia-la-compatibilidad-de-airdrop-en-android-que-celulares-ya-pueden-compartir-archivos-con-iphone/</guid>
+      <pubDate>Wed, 03 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/image-1000x600.png" alt="Google amplía la compatibilidad de AirDrop en Android: qué celulares ya pueden compartir archivos con iPhone" /></p><p>La función Quick Share, que permite transferir archivos entre Android y dispositivos Apple mediante AirDrop, llega a más modelos de Samsung, Xiaomi, OnePlus, OPPO, Vivo y otras marcas.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/image-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
       <title><![CDATA[X sumó una función para grabar videos de reacciones]]></title>
       <link>https://ultimasgeek.com/x-sumo-una-funcion-para-grabar-videos-de-reacciones/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/x-sumo-una-funcion-para-grabar-videos-de-reacciones/</guid>
@@ -221,15 +230,6 @@
       <pubDate>Tue, 02 Jun 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/05/Diseno-sin-titulo-2-1-1000x600.jpg" alt="YouTube sumará una herramienta para identificar videos creados con inteligencia artificial" /></p><p>La plataforma comenzó a probar una función que permitirá a los usuarios señalar contenido generado con IA de baja calidad, en medio del crecimiento de este tipo de videos en las recomendaciones.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/05/Diseno-sin-titulo-2-1-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google activa en Chrome una protección que dificulta el robo de cuentas mediante cookies]]></title>
-      <link>https://ultimasgeek.com/google-activa-en-chrome-una-proteccion-que-dificulta-el-robo-de-cuentas-mediante-cookies/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-activa-en-chrome-una-proteccion-que-dificulta-el-robo-de-cuentas-mediante-cookies/</guid>
-      <pubDate>Fri, 29 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/02/Google-Chrome--e1780093067307-992x600.webp" alt="Google activa en Chrome una protección que dificulta el robo de cuentas mediante cookies" /></p><p>La función DBSC ya se despliega en Chrome para Windows y alcanza a usuarios de Google Workspace y cuentas personales; vincula la sesión al dispositivo para impedir accesos desde otra computadora.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/02/Google-Chrome--e1780093067307-992x600.webp" type="image/webp" />
     </item>
   </channel>
 </rss>
