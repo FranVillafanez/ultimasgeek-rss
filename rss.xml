@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 24 Jun 2026 08:20:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 11:44:14 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple habilita tiendas alternativas y nuevos métodos de pago en iPhone en Brasil]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/notebook-lm-nueva-funcion-videos_shutterstock_2631582199-843223529-1000x600.jpg" alt="Google actualiza NotebookLM con Gemini 3.5 y suma herramientas para investigar, analizar y crear documentos" /></p><p>La plataforma de investigación asistida por inteligencia artificial incorpora nuevas funciones para encontrar fuentes, generar archivos en distintos formatos y mejorar la trazabilidad de sus respuestas.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/notebook-lm-nueva-funcion-videos_shutterstock_2631582199-843223529-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Claude Tag: Anthropic lanza una herramienta para equipos]]></title>
+      <link>https://ultimasgeek.com/claude-tag-anthropic-lanza-una-herramienta-para-equipos/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/claude-tag-anthropic-lanza-una-herramienta-para-equipos/</guid>
+      <pubDate>Wed, 24 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Tag-Claude-in-right-where-you-already-work-2-17-screenshot-1000x600.jpg" alt="Claude Tag: Anthropic lanza una herramienta para equipos" /></p><p>La empresa habilitó esta función en Slack para cuentas corporativas, la cual reemplazará por completo al asistente anterior el próximo 3 de agosto.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Tag-Claude-in-right-where-you-already-work-2-17-screenshot-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Wed, 03 Jun 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/image-1000x600.png" alt="Google amplía la compatibilidad de AirDrop en Android: qué celulares ya pueden compartir archivos con iPhone" /></p><p>La función Quick Share, que permite transferir archivos entre Android y dispositivos Apple mediante AirDrop, llega a más modelos de Samsung, Xiaomi, OnePlus, OPPO, Vivo y otras marcas.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/image-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[YouTube sumará una herramienta para identificar videos creados con inteligencia artificial]]></title>
-      <link>https://ultimasgeek.com/youtube-sumara-una-herramienta-para-identificar-videos-creados-con-inteligencia-artificial/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/youtube-sumara-una-herramienta-para-identificar-videos-creados-con-inteligencia-artificial/</guid>
-      <pubDate>Tue, 02 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/05/Diseno-sin-titulo-2-1-1000x600.jpg" alt="YouTube sumará una herramienta para identificar videos creados con inteligencia artificial" /></p><p>La plataforma comenzó a probar una función que permitirá a los usuarios señalar contenido generado con IA de baja calidad, en medio del crecimiento de este tipo de videos en las recomendaciones.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/05/Diseno-sin-titulo-2-1-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
