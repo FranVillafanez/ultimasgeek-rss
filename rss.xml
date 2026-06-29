@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 29 Jun 2026 16:52:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 22:57:10 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple pierde a un ejecutivo clave del Vision Pro: liderará el desarrollo de hardware de IA en OpenAI]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Thu, 11 Jun 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" alt="YouTube vuelve a apostar por los mensajes privados y relanza una función que había eliminado en 2019" /></p><p>La plataforma comenzó a expandir una nueva herramienta de mensajería directa para usuarios mayores de 18 años en Estados Unidos y otros mercados, con foco en compartir videos y conversar dentro de la aplicación.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[WhatsApp permitirá reservar nombres de usuario: cómo funcionará la nueva opción para proteger la privacidad]]></title>
+      <link>https://ultimasgeek.com/whatsapp-permitira-reservar-nombres-de-usuario-como-funcionara-la-nueva-opcion-para-proteger-la-privacidad/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-permitira-reservar-nombres-de-usuario-como-funcionara-la-nueva-opcion-para-proteger-la-privacidad/</guid>
+      <pubDate>Mon, 29 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/731252906_2195335757898498_5807286050994783213_n.png-1000x600.webp" alt="WhatsApp permitirá reservar nombres de usuario: cómo funcionará la nueva opción para proteger la privacidad" /></p><p>La aplicación comenzará esta semana con la reserva anticipada de nombres de usuario, una función que permitirá chatear sin compartir el número de teléfono cuando se lance de forma gradual durante 2026.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/731252906_2195335757898498_5807286050994783213_n.png-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Thu, 04 Jun 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/side_by_side_plot_deviceFrame-00-00-00-148-1000x600.jpeg" alt="Google lleva la IA local a las Mac: lanza AI Edge Gallery para ejecutar modelos sin conexión" /></p><p>La nueva versión para macOS permite ejecutar modelos de inteligencia artificial directamente en la computadora, sin depender de la nube. Además, Google presentó el modelo Gemma 4 12B y una aplicación de dictado con procesamiento local.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/side_by_side_plot_deviceFrame-00-00-00-148-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google lanza Gemini 3.5 Live Translate: traducción de voz en tiempo real en más de 70 idiomas]]></title>
-      <link>https://ultimasgeek.com/google-lanza-gemini-3-5-live-translate-traduccion-de-voz-en-tiempo-real-en-mas-de-70-idiomas/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-lanza-gemini-3-5-live-translate-traduccion-de-voz-en-tiempo-real-en-mas-de-70-idiomas/</guid>
-      <pubDate>Wed, 10 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/3-5_Live_Translate_hero.width-1200.format-webp-1000x600.jpeg" alt="Google lanza Gemini 3.5 Live Translate: traducción de voz en tiempo real en más de 70 idiomas" /></p><p>La nueva tecnología de inteligencia artificial permite conversaciones fluidas entre personas que hablan distintos idiomas, conservando el tono y la naturalidad de la voz.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/3-5_Live_Translate_hero.width-1200.format-webp-1000x600.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
