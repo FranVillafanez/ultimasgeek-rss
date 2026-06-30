@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 30 Jun 2026 09:35:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 12:08:16 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple pierde a un ejecutivo clave del Vision Pro: liderará el desarrollo de hardware de IA en OpenAI]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Thu, 11 Jun 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" alt="YouTube vuelve a apostar por los mensajes privados y relanza una función que había eliminado en 2019" /></p><p>La plataforma comenzó a expandir una nueva herramienta de mensajería directa para usuarios mayores de 18 años en Estados Unidos y otros mercados, con foco en compartir videos y conversar dentro de la aplicación.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Del código abierto al bolsillo: OpenClaw lanzó sus aplicaciones oficiales para iPhone y Android]]></title>
+      <link>https://ultimasgeek.com/del-codigo-abierto-al-bolsillo-openclaw-lanzo-sus-aplicaciones-oficiales-para-iphone-y-android/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/del-codigo-abierto-al-bolsillo-openclaw-lanzo-sus-aplicaciones-oficiales-para-iphone-y-android/</guid>
+      <pubDate>Tue, 30 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/openclaw-ios.png-1000x600.webp" alt="Del código abierto al bolsillo: OpenClaw lanzó sus aplicaciones oficiales para iPhone y Android" /></p><p>Las nuevas plataformas móviles permiten controlar agentes autónomos de Inteligencia Artificial directamente desde el smartphone, aunque las primeras reseñas de los usuarios advierten fallas de estabilidad.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/openclaw-ios.png-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Thu, 04 Jun 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" alt="Apple informó que el ecosistema de la App Store generó US$ 1,4 billones y destacó el crecimiento global de los desarrolladores" /></p><p>Un estudio encargado por la compañía señaló que las ventas y la facturación facilitadas por la App Store alcanzaron los US$ 1,4 billones en 2025, con fuerte impulso en los servicios digitales, el comercio físico y la publicidad dentro de aplicaciones.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google lleva la IA local a las Mac: lanza AI Edge Gallery para ejecutar modelos sin conexión]]></title>
-      <link>https://ultimasgeek.com/google-lleva-la-ia-local-a-las-mac-lanza-ai-edge-gallery-para-ejecutar-modelos-sin-conexion/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-lleva-la-ia-local-a-las-mac-lanza-ai-edge-gallery-para-ejecutar-modelos-sin-conexion/</guid>
-      <pubDate>Thu, 04 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/side_by_side_plot_deviceFrame-00-00-00-148-1000x600.jpeg" alt="Google lleva la IA local a las Mac: lanza AI Edge Gallery para ejecutar modelos sin conexión" /></p><p>La nueva versión para macOS permite ejecutar modelos de inteligencia artificial directamente en la computadora, sin depender de la nube. Además, Google presentó el modelo Gemma 4 12B y una aplicación de dictado con procesamiento local.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/side_by_side_plot_deviceFrame-00-00-00-148-1000x600.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
