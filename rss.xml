@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 08 Jul 2026 16:38:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 18:16:43 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple perdió una batalla judicial en Europa y deberá mantener las reglas que abren el App Store a la competencia]]></title>
@@ -98,6 +98,15 @@
     </item>
 
     <item>
+      <title><![CDATA[OpenAI renueva el modo de voz de ChatGPT: ahora permite conversaciones más naturales y traducción en tiempo real]]></title>
+      <link>https://ultimasgeek.com/openai-renueva-el-modo-de-voz-de-chatgpt-ahora-permite-conversaciones-mas-naturales-y-traduccion-en-tiempo-real/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/openai-renueva-el-modo-de-voz-de-chatgpt-ahora-permite-conversaciones-mas-naturales-y-traduccion-en-tiempo-real/</guid>
+      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" alt="OpenAI renueva el modo de voz de ChatGPT: ahora permite conversaciones más naturales y traducción en tiempo real" /></p><p>La compañía presentó GPT-Live-1, un nuevo modelo de voz que escucha y responde de manera simultánea, con una experiencia más fluida para los usuarios de ChatGPT en web y dispositivos móviles.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Anthropic expande su agente IA a la web y el celular para ganar la batalla de la oficina]]></title>
       <link>https://ultimasgeek.com/anthropic-expande-su-agente-ia-a-la-web-y-el-celular-para-ganar-la-batalla-de-la-oficina/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/anthropic-expande-su-agente-ia-a-la-web-y-el-celular-para-ganar-la-batalla-de-la-oficina/</guid>
@@ -167,15 +176,6 @@
       <pubDate>Wed, 24 Jun 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" alt="OpenAI actualiza el modelo de ChatGPT más usado para hacerlo más preciso" /></p><p>La tecnológica renovó el sistema GPT-5.5 Instant con mejoras para comprender mejor los mensajes y dar mejores recomendaciones locales.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Claude Tag: Anthropic lanza una herramienta para equipos]]></title>
-      <link>https://ultimasgeek.com/claude-tag-anthropic-lanza-una-herramienta-para-equipos/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/claude-tag-anthropic-lanza-una-herramienta-para-equipos/</guid>
-      <pubDate>Wed, 24 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Tag-Claude-in-right-where-you-already-work-2-17-screenshot-1000x600.jpg" alt="Claude Tag: Anthropic lanza una herramienta para equipos" /></p><p>La empresa habilitó esta función en Slack para cuentas corporativas, la cual reemplazará por completo al asistente anterior el próximo 3 de agosto.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Tag-Claude-in-right-where-you-already-work-2-17-screenshot-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
