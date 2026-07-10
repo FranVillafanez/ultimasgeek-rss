@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 10 Jul 2026 10:53:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 13:11:12 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple perdió una batalla judicial en Europa y deberá mantener las reglas que abren el App Store a la competencia]]></title>
@@ -98,6 +98,15 @@
     </item>
 
     <item>
+      <title><![CDATA[OpenAI lanzó GPT-5.6: el nuevo cerebro de ChatGPT promete cambiar la forma de trabajar]]></title>
+      <link>https://ultimasgeek.com/openai-lanzo-gpt-5-6-el-nuevo-cerebro-de-chatgpt-promete-cambiar-la-forma-de-trabajar/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/openai-lanzo-gpt-5-6-el-nuevo-cerebro-de-chatgpt-promete-cambiar-la-forma-de-trabajar/</guid>
+      <pubDate>Fri, 10 Jul 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" alt="OpenAI lanzó GPT-5.6: el nuevo cerebro de ChatGPT promete cambiar la forma de trabajar" /></p><p>La compañía de Sam Altman presentó una familia de tres versiones —Sol, Terra y Luna— adaptadas a distintas necesidades de velocidad y costo, consolidando su liderazgo ante la presión de competidores como Google.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[OpenAI renueva el modo de voz de ChatGPT: ahora permite conversaciones más naturales y traducción en tiempo real]]></title>
       <link>https://ultimasgeek.com/openai-renueva-el-modo-de-voz-de-chatgpt-ahora-permite-conversaciones-mas-naturales-y-traduccion-en-tiempo-real/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/openai-renueva-el-modo-de-voz-de-chatgpt-ahora-permite-conversaciones-mas-naturales-y-traduccion-en-tiempo-real/</guid>
@@ -167,15 +176,6 @@
       <pubDate>Fri, 26 Jun 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" alt="OpenAI prepara GPT-5.6 y nuevas versiones de Codex con un lanzamiento limitado" /></p><p>OpenAI comenzó una implementación restringida de GPT-5.6 y nuevas versiones de Codex, disponibles inicialmente para un grupo reducido de usuarios mientras completa las pruebas y la validación del sistema.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[OpenAI actualiza el modelo de ChatGPT más usado para hacerlo más preciso]]></title>
-      <link>https://ultimasgeek.com/openai-actualiza-el-modelo-de-chatgpt-mas-usado-para-hacerlo-mas-preciso/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/openai-actualiza-el-modelo-de-chatgpt-mas-usado-para-hacerlo-mas-preciso/</guid>
-      <pubDate>Wed, 24 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" alt="OpenAI actualiza el modelo de ChatGPT más usado para hacerlo más preciso" /></p><p>La tecnológica renovó el sistema GPT-5.5 Instant con mejoras para comprender mejor los mensajes y dar mejores recomendaciones locales.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
