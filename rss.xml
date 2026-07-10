@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 10 Jul 2026 13:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 16:24:20 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple perdió una batalla judicial en Europa y deberá mantener las reglas que abren el App Store a la competencia]]></title>
@@ -98,11 +98,20 @@
     </item>
 
     <item>
+      <title><![CDATA[La Unión Europea acusa a Meta de usar un diseño “adictivo” en Instagram y Facebook y exige cambios]]></title>
+      <link>https://ultimasgeek.com/la-union-europea-acusa-a-meta-de-usar-un-diseno-adictivo-en-instagram-y-facebook-y-exige-cambios/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/la-union-europea-acusa-a-meta-de-usar-un-diseno-adictivo-en-instagram-y-facebook-y-exige-cambios/</guid>
+      <pubDate>Fri, 10 Jul 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/04/Diseno-sin-titulo-14.jpg" alt="La Unión Europea acusa a Meta de usar un diseño “adictivo” en Instagram y Facebook y exige cambios" /></p><p>La Comisión Europea concluyó de manera preliminar que funciones como el scroll infinito y la reproducción automática pueden perjudicar la salud mental de los usuarios, especialmente de los menores. La empresa enfrenta una posible multa millonaria si se confirma la infracción.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/04/Diseno-sin-titulo-14.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[OpenAI lanzó GPT-5.6: el nuevo cerebro de ChatGPT promete cambiar la forma de trabajar]]></title>
       <link>https://ultimasgeek.com/openai-lanzo-gpt-5-6-el-nuevo-cerebro-de-chatgpt-promete-cambiar-la-forma-de-trabajar/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/openai-lanzo-gpt-5-6-el-nuevo-cerebro-de-chatgpt-promete-cambiar-la-forma-de-trabajar/</guid>
       <pubDate>Fri, 10 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" alt="OpenAI lanzó GPT-5.6: el nuevo cerebro de ChatGPT promete cambiar la forma de trabajar" /></p><p>La compañía de Sam Altman presentó una familia de tres versiones —Sol, Terra y Luna— adaptadas a distintas necesidades de velocidad y costo, consolidando su liderazgo ante la presión de competidores como Google.</p>]]></description>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" alt="OpenAI lanzó GPT-5.6: el nuevo cerebro de ChatGPT promete cambiar la forma de trabajar" /></p><p>La nueva generación del modelo de OpenAI incorpora mejoras en razonamiento, velocidad, personalización y automatización de tareas, con el objetivo de ofrecer respuestas más precisas y una experiencia más integrada.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" type="image/jpeg" />
     </item>
 
@@ -167,15 +176,6 @@
       <pubDate>Tue, 30 Jun 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/openclaw-ios.png-1000x600.webp" alt="Del código abierto al bolsillo: OpenClaw lanzó sus aplicaciones oficiales para iPhone y Android" /></p><p>Las nuevas plataformas móviles permiten controlar agentes autónomos de Inteligencia Artificial directamente desde el smartphone, aunque las primeras reseñas de los usuarios advierten fallas de estabilidad.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/openclaw-ios.png-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
-      <title><![CDATA[OpenAI prepara GPT-5.6 y nuevas versiones de Codex con un lanzamiento limitado]]></title>
-      <link>https://ultimasgeek.com/openai-prepara-gpt-5-6-y-nuevas-versiones-de-codex-con-un-lanzamiento-limitado/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/openai-prepara-gpt-5-6-y-nuevas-versiones-de-codex-con-un-lanzamiento-limitado/</guid>
-      <pubDate>Fri, 26 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" alt="OpenAI prepara GPT-5.6 y nuevas versiones de Codex con un lanzamiento limitado" /></p><p>OpenAI comenzó una implementación restringida de GPT-5.6 y nuevas versiones de Codex, disponibles inicialmente para un grupo reducido de usuarios mientras completa las pruebas y la validación del sistema.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
