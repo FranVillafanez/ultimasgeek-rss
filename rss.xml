@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 30 Jul 2026 11:50:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 14:00:02 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Google suma dictado por voz natural a Gemini para macOS y apuesta por una IA más integrada]]></title>
@@ -89,6 +89,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Spotify lanza Running Mode para crear playlists según el ritmo de cada carrera]]></title>
+      <link>https://ultimasgeek.com/spotify-lanza-running-mode-para-crear-playlists-segun-el-ritmo-de-cada-carrera/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/spotify-lanza-running-mode-para-crear-playlists-segun-el-ritmo-de-cada-carrera/</guid>
+      <pubDate>Thu, 30 Jul 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/Sample_3-147982374923-1920x733-1-1000x600.png" alt="Spotify lanza Running Mode para crear playlists según el ritmo de cada carrera" /></p><p>La plataforma presentó una nueva función impulsada por inteligencia artificial que permite generar listas de reproducción personalizadas en función del tipo de entrenamiento, el ritmo en BPM y los gustos musicales del usuario. El lanzamiento, por ahora, está limitado a iPhone y a un grupo reducido d…</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/Sample_3-147982374923-1920x733-1-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
       <title><![CDATA[Rusia emitió una orden de captura contra Pavel Durov, fundador de Telegram]]></title>
       <link>https://ultimasgeek.com/rusia-emitio-una-orden-de-captura-contra-pavel-durov-fundador-de-telegram/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/rusia-emitio-una-orden-de-captura-contra-pavel-durov-fundador-de-telegram/</guid>
@@ -122,15 +131,6 @@
       <pubDate>Mon, 27 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/intro-1785148929.jpeg" alt="Nvidia lanzó una alianza global para reforzar la seguridad de la IA tras el ataque a Hugging Face" /></p><p>La Open Secure AI Alliance reúne a más de 30 empresas tecnológicas para desarrollar herramientas abiertas de ciberseguridad y responder a los riesgos que plantean los sistemas de inteligencia artificial autónomos.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/intro-1785148929.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[WhatsApp prepara una alternativa a iCloud para las copias de seguridad en iPhone]]></title>
-      <link>https://ultimasgeek.com/whatsapp-prepara-una-alternativa-a-icloud-para-las-copias-de-seguridad-en-iphone/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-prepara-una-alternativa-a-icloud-para-las-copias-de-seguridad-en-iphone/</guid>
-      <pubDate>Tue, 14 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/WA_WHATSAPP_BACKUP_CLOUD_PROVIDER_FEATURE_IOS-1000x600.jpeg" alt="WhatsApp prepara una alternativa a iCloud para las copias de seguridad en iPhone" /></p><p>La aplicación desarrolla un proveedor propio de almacenamiento en la nube para iOS, con cifrado de extremo a extremo activado por defecto y hasta 2 GB gratuitos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/WA_WHATSAPP_BACKUP_CLOUD_PROVIDER_FEATURE_IOS-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -224,12 +224,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple pierde a un ejecutivo clave del Vision Pro: liderará el desarrollo de hardware de IA en OpenAI]]></title>
-      <link>https://ultimasgeek.com/apple-pierde-a-un-ejecutivo-clave-el-responsable-de-vision-pro-y-los-anteojos-inteligentes-se-va-a-openai/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-pierde-a-un-ejecutivo-clave-el-responsable-de-vision-pro-y-los-anteojos-inteligentes-se-va-a-openai/</guid>
-      <pubDate>Sat, 27 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2024/01/Apple-Vision-Pro-availability-lifestyle-EyeSight-1000x600.jpg" alt="Apple pierde a un ejecutivo clave del Vision Pro: liderará el desarrollo de hardware de IA en OpenAI" /></p><p>Paul Meade, responsable de la ingeniería del Vision Pro y de las gafas inteligentes de Apple, dejará la compañía para incorporarse a OpenAI en un nuevo revés para la estrategia de dispositivos de la firma de Cupertino.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2024/01/Apple-Vision-Pro-availability-lifestyle-EyeSight-1000x600.jpg" type="image/jpeg" />
+      <title><![CDATA[Google abre la Play Store a sistemas de pago externos tras una fuerte presión judicial]]></title>
+      <link>https://ultimasgeek.com/google-abre-la-play-store-a-sistemas-de-pago-externos-tras-una-fuerte-presion-judicial/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-abre-la-play-store-a-sistemas-de-pago-externos-tras-una-fuerte-presion-judicial/</guid>
+      <pubDate>Wed, 24 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Google-antitrust-Play-Store.jpg-1000x600.webp" alt="Google abre la Play Store a sistemas de pago externos tras una fuerte presión judicial" /></p><p>La compañía permitirá que los desarrolladores utilicen métodos de cobro alternativos dentro de Android, en un cambio impulsado por fallos judiciales vinculados al caso antimonopolio de Epic</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Google-antitrust-Play-Store.jpg-1000x600.webp" type="image/webp" />
     </item>
   </channel>
 </rss>
