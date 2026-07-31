@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 31 Jul 2026 11:59:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 14:27:16 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple evalúa un nuevo plan de iCloud+ para quienes usen más funciones de IA]]></title>
@@ -86,6 +86,15 @@
       <pubDate>Fri, 26 Jun 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/09/OMEFA53QFFA27KUHZQ6XIZZKOI-1000x600.jpg" alt="YouTube renueva Shorts con reproducción al doble de velocidad y una interfaz más limpia" /></p><p>La plataforma incorporó nuevas funciones para facilitar el consumo de videos cortos, con cambios que acercan aún más la experiencia de uso a la de TikTok.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/09/OMEFA53QFFA27KUHZQ6XIZZKOI-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Anthropic reveló que sus modelos de IA vulneraron sistemas de tres empresas durante pruebas]]></title>
+      <link>https://ultimasgeek.com/anthropic-revelo-que-sus-modelos-de-ia-vulneraron-sistemas-de-tres-empresas-durante-pruebas/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/anthropic-revelo-que-sus-modelos-de-ia-vulneraron-sistemas-de-tres-empresas-durante-pruebas/</guid>
+      <pubDate>Fri, 31 Jul 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/antro-1000x600.jpeg" alt="Anthropic reveló que sus modelos de IA vulneraron sistemas de tres empresas durante pruebas" /></p><p>La compañía detrás de Claude informó que detectó tres accesos no autorizados a organizaciones reales mientras realizaba evaluaciones de ciberseguridad. El incidente, atribuido a una falla operativa que permitió acceso a internet, reavivó el debate sobre los riesgos de los modelos de IA con capacidad…</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/antro-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-7.jpeg" alt="Apple y Broadcom extienden su alianza hasta 2031 para desarrollar chips personalizados" /></p><p>El nuevo acuerdo garantiza el suministro de componentes clave para los dispositivos de Apple y refuerza la estrategia de la compañía de asegurar su cadena de abastecimiento en plena expansión de la demanda por chips para inteligencia artificial.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-7.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Tim Cook busca destrabar el conflicto por Siri AI en Europa tras una reunión con la Unión Europea]]></title>
-      <link>https://ultimasgeek.com/tim-cook-busca-destrabar-el-conflicto-por-siri-ai-en-europa-tras-una-reunion-con-la-union-europea/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/tim-cook-busca-destrabar-el-conflicto-por-siri-ai-en-europa-tras-una-reunion-con-la-union-europea/</guid>
-      <pubDate>Wed, 01 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Apple-WWDC-2026-June-8_-Introducing-Siri-AI-and-more-48-31-screenshot-1000x600.jpg" alt="Tim Cook busca destrabar el conflicto por Siri AI en Europa tras una reunión con la Unión Europea" /></p><p>El CEO de Apple y la comisaria europea Henna Virkkunen mantuvieron un encuentro virtual que ambas partes calificaron como “constructivo” para intentar resolver las diferencias sobre el lanzamiento de la nueva inteligencia artificial de Siri en la Unión Europea.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Apple-WWDC-2026-June-8_-Introducing-Siri-AI-and-more-48-31-screenshot-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
