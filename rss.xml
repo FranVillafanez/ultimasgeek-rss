@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 31 Jul 2026 22:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 00:01:39 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple multiplicó sus ingresos durante los 15 años de Tim Cook]]></title>
+      <link>https://ultimasgeek.com/apple-multiplico-sus-ingresos-durante-los-15-anos-de-tim-cook/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-multiplico-sus-ingresos-durante-los-15-anos-de-tim-cook/</guid>
+      <pubDate>Fri, 31 Jul 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-7-1.jpeg" alt="Apple multiplicó sus ingresos durante los 15 años de Tim Cook" /></p><p>La compañía pasó de facturar US$108.000 millones anuales en 2011 a superar esa cifra en un solo trimestre. John Ternus asumirá como CEO el 1° de septiembre.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-7-1.jpeg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Apple evalúa un nuevo plan de iCloud+ para quienes usen más funciones de IA]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Mon, 27 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/image-1000x600.png" alt="Apple Glasses: sin grabación de video, podrían perder su principal atractivo, según un análisis" /></p><p>Un artículo de 9to5Mac sostiene que Apple enfrenta un dilema entre la privacidad y la utilidad de sus futuros anteojos inteligentes, un producto previsto para 2027.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/image-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple aumenta el precio de Apple Music y Apple One: cuánto costarán las suscripciones]]></title>
-      <link>https://ultimasgeek.com/apple-aumenta-el-precio-de-apple-music-y-apple-one-cuanto-costaran-las-suscripciones/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-aumenta-el-precio-de-apple-music-y-apple-one-cuanto-costaran-las-suscripciones/</guid>
-      <pubDate>Fri, 17 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/791930954_235777684_1024x576.jpg-1000x576.webp" alt="Apple aumenta el precio de Apple Music y Apple One: cuánto costarán las suscripciones" /></p><p>La compañía aplicó un nuevo ajuste en Estados Unidos y otros mercados. El incremento alcanza a todos los planes de Apple Music y a dos versiones de Apple One, con subas de hasta 3 dólares mensuales.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/791930954_235777684_1024x576.jpg-1000x576.webp" type="image/webp" />
     </item>
 
     <item>
@@ -206,6 +206,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Apple aumenta el precio de Apple Music y Apple One: cuánto costarán las suscripciones]]></title>
+      <link>https://ultimasgeek.com/apple-aumenta-el-precio-de-apple-music-y-apple-one-cuanto-costaran-las-suscripciones/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-aumenta-el-precio-de-apple-music-y-apple-one-cuanto-costaran-las-suscripciones/</guid>
+      <pubDate>Fri, 17 Jul 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/791930954_235777684_1024x576.jpg-1000x576.webp" alt="Apple aumenta el precio de Apple Music y Apple One: cuánto costarán las suscripciones" /></p><p>La compañía aplicó un nuevo ajuste en Estados Unidos y otros mercados. El incremento alcanza a todos los planes de Apple Music y a dos versiones de Apple One, con subas de hasta 3 dólares mensuales.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/791930954_235777684_1024x576.jpg-1000x576.webp" type="image/webp" />
+    </item>
+
+    <item>
       <title><![CDATA[Apple perdió una batalla judicial en Europa y deberá mantener las reglas que abren el App Store a la competencia]]></title>
       <link>https://ultimasgeek.com/apple-perdio-una-batalla-judicial-en-europa-y-debera-mantener-las-reglas-que-abren-el-app-store-a-la-competencia/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-perdio-una-batalla-judicial-en-europa-y-debera-mantener-las-reglas-que-abren-el-app-store-a-la-competencia/</guid>
@@ -221,15 +230,6 @@
       <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-8.jpeg" alt="Una jueza aplaza los plazos del caso entre Apple y Epic Games mientras avanza la revisión de la Corte Suprema" /></p><p>La decisión suspende temporalmente el calendario judicial mientras Apple busca una pausa más amplia en la disputa por las reglas de la App Store.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-8.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple y Broadcom extienden su alianza hasta 2031 para desarrollar chips personalizados]]></title>
-      <link>https://ultimasgeek.com/apple-y-broadcom-extienden-su-alianza-hasta-2031-para-desarrollar-chips-personalizados/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-y-broadcom-extienden-su-alianza-hasta-2031-para-desarrollar-chips-personalizados/</guid>
-      <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-7.jpeg" alt="Apple y Broadcom extienden su alianza hasta 2031 para desarrollar chips personalizados" /></p><p>El nuevo acuerdo garantiza el suministro de componentes clave para los dispositivos de Apple y refuerza la estrategia de la compañía de asegurar su cadena de abastecimiento en plena expansión de la demanda por chips para inteligencia artificial.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-7.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
