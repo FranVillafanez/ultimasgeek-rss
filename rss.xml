@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 04 Aug 2026 13:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 16:11:35 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple retiró Telegram de la App Store y lo restituyó tras bloquear una cuenta]]></title>
@@ -89,6 +89,15 @@
     </item>
 
     <item>
+      <title><![CDATA[WhatsApp suma la mención “@todos” y mejora las encuestas en los grupos]]></title>
+      <link>https://ultimasgeek.com/whatsapp-suma-la-mencion-todos-y-mejora-las-encuestas-en-los-grupos/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-suma-la-mencion-todos-y-mejora-las-encuestas-en-los-grupos/</guid>
+      <pubDate>Tue, 04 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/i870137-1149679578-1000x600.jpeg" alt="WhatsApp suma la mención “@todos” y mejora las encuestas en los grupos" /></p><p>La aplicación permitirá notificar a todos los integrantes de un chat grupal con un solo mensaje. También incorporará votaciones anónimas, plazos de cierre y una opción para crear grupos similares con mayor rapidez.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/i870137-1149679578-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[WhatsApp restaura cuentas bloqueadas por error y revisa el incidente]]></title>
       <link>https://ultimasgeek.com/whatsapp-restaura-cuentas-bloqueadas-por-error-y-revisa-el-incidente/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-restaura-cuentas-bloqueadas-por-error-y-revisa-el-incidente/</guid>
@@ -122,15 +131,6 @@
       <pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/e5728df6-c33e-4b9a-b6de-18b4b7387d5c_16-9-aspect-ratio_default_1042892-1000x600.jpg" alt="Rusia emitió una orden de captura contra Pavel Durov, fundador de Telegram" /></p><p>El Servicio Federal de Seguridad (FSB) acusó al empresario de facilitar actividades terroristas a través de la plataforma de mensajería. Durov, que reside fuera de Rusia, rechazó las acusaciones y el caso profundiza el conflicto entre el Kremlin y la aplicación.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/e5728df6-c33e-4b9a-b6de-18b4b7387d5c_16-9-aspect-ratio_default_1042892-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[WhatsApp suma llamadas desde el navegador y estrena sala de espera para videollamadas grupales]]></title>
-      <link>https://ultimasgeek.com/whatsapp-suma-llamadas-desde-el-navegador-y-estrena-sala-de-espera-para-videollamadas-grupales/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-suma-llamadas-desde-el-navegador-y-estrena-sala-de-espera-para-videollamadas-grupales/</guid>
-      <pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/whatsapp-web-calls.jpeg.jpeg" alt="WhatsApp suma llamadas desde el navegador y estrena sala de espera para videollamadas grupales" /></p><p>La plataforma incorporó llamadas de voz y video en WhatsApp Web, además de nuevas funciones para mejorar la experiencia en reuniones y facilitar el uso entre distintos dispositivos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/whatsapp-web-calls.jpeg.jpeg" type="image/jpeg" />
     </item>
 
     <item>
