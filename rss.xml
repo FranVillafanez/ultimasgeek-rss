@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 06 Aug 2026 12:55:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:57:41 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple retiró Telegram de la App Store y lo restituyó tras bloquear una cuenta]]></title>
@@ -86,6 +86,15 @@
       <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" alt="Fin del almacenamiento ilimitado: Google computará las copias de seguridad de Android en el espacio de tu cuenta" /></p><p>La empresa tecnológica elimina el beneficio que permitía resguardar la configuración de los teléfonos de forma gratuita. Afectará a fotos, chats y aplicaciones si se supera el límite de 15 GB.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Meta lanza Muse Code, su agente de IA para programar desde la terminal]]></title>
+      <link>https://ultimasgeek.com/meta-lanza-muse-code-su-agente-de-ia-para-programar-desde-la-terminal/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/meta-lanza-muse-code-su-agente-de-ia-para-programar-desde-la-terminal/</guid>
+      <pubDate>Thu, 06 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/HO-xetQW0AAvupU-1000x600.jpeg" alt="Meta lanza Muse Code, su agente de IA para programar desde la terminal" /></p><p>La compañía presentó una herramienta capaz de planificar cambios, escribir código y validar resultados en proyectos de software complejos. Muse Code ya está disponible en versión beta para macOS y Linux y funciona con el nuevo modelo Muse Spark 1.2.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/HO-xetQW0AAvupU-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Fri, 17 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/791930954_235777684_1024x576.jpg-1000x576.webp" alt="Apple aumenta el precio de Apple Music y Apple One: cuánto costarán las suscripciones" /></p><p>La compañía aplicó un nuevo ajuste en Estados Unidos y otros mercados. El incremento alcanza a todos los planes de Apple Music y a dos versiones de Apple One, con subas de hasta 3 dólares mensuales.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/791930954_235777684_1024x576.jpg-1000x576.webp" type="image/webp" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple perdió una batalla judicial en Europa y deberá mantener las reglas que abren el App Store a la competencia]]></title>
-      <link>https://ultimasgeek.com/apple-perdio-una-batalla-judicial-en-europa-y-debera-mantener-las-reglas-que-abren-el-app-store-a-la-competencia/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-perdio-una-batalla-judicial-en-europa-y-debera-mantener-las-reglas-que-abren-el-app-store-a-la-competencia/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" alt="Apple perdió una batalla judicial en Europa y deberá mantener las reglas que abren el App Store a la competencia" /></p><p>La Justicia de la Unión Europea rechazó el reclamo de la empresa contra su designación como</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/la-app-store-de-apple-inauguro-una-nueva-era-en-la-industria-tecnologica-foto-adobe-stock-KIC27F7DXJAXHFB4WHX7MBRADY.jpg-e1777330639623-1000x600.avif" type="image/jpeg" />
     </item>
   </channel>
 </rss>
