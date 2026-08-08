@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Sat, 08 Aug 2026 11:27:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 12:46:22 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple retiró Telegram de la App Store y lo restituyó tras bloquear una cuenta]]></title>
@@ -86,6 +86,15 @@
       <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" alt="Fin del almacenamiento ilimitado: Google computará las copias de seguridad de Android en el espacio de tu cuenta" /></p><p>La empresa tecnológica elimina el beneficio que permitía resguardar la configuración de los teléfonos de forma gratuita. Afectará a fotos, chats y aplicaciones si se supera el límite de 15 GB.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[X cambia su sistema de pagos y premiará a los usuarios que publiquen contenido original]]></title>
+      <link>https://ultimasgeek.com/x-cambia-su-sistema-de-pagos-y-premiara-a-los-usuarios-que-publiquen-contenido-original/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/x-cambia-su-sistema-de-pagos-y-premiara-a-los-usuarios-que-publiquen-contenido-original/</guid>
+      <pubDate>Sat, 08 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/X_Twitter_1713882875836_1713882876367-2387728595-1000x600.jpg" alt="X cambia su sistema de pagos y premiará a los usuarios que publiquen contenido original" /></p><p>La plataforma de Elon Musk cerrará en septiembre su actual esquema de reparto de ingresos y lo reemplazará por Original Content Rewards. El nuevo programa pagará según las impresiones calificadas que consigan publicaciones originales y establecerá requisitos específicos para acceder a la monetizació…</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/X_Twitter_1713882875836_1713882876367-2387728595-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Mon, 27 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/image-1000x600.png" alt="Apple Glasses: sin grabación de video, podrían perder su principal atractivo, según un análisis" /></p><p>Un artículo de 9to5Mac sostiene que Apple enfrenta un dilema entre la privacidad y la utilidad de sus futuros anteojos inteligentes, un producto previsto para 2027.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/image-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple aumenta el precio de Apple Music y Apple One: cuánto costarán las suscripciones]]></title>
-      <link>https://ultimasgeek.com/apple-aumenta-el-precio-de-apple-music-y-apple-one-cuanto-costaran-las-suscripciones/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-aumenta-el-precio-de-apple-music-y-apple-one-cuanto-costaran-las-suscripciones/</guid>
-      <pubDate>Fri, 17 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/791930954_235777684_1024x576.jpg-1000x576.webp" alt="Apple aumenta el precio de Apple Music y Apple One: cuánto costarán las suscripciones" /></p><p>La compañía aplicó un nuevo ajuste en Estados Unidos y otros mercados. El incremento alcanza a todos los planes de Apple Music y a dos versiones de Apple One, con subas de hasta 3 dólares mensuales.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/791930954_235777684_1024x576.jpg-1000x576.webp" type="image/webp" />
     </item>
   </channel>
 </rss>
