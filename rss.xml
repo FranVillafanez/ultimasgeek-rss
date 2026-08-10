@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 10 Aug 2026 17:50:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 18:56:13 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple retiró Telegram de la App Store y lo restituyó tras bloquear una cuenta]]></title>
@@ -86,6 +86,15 @@
       <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" alt="Fin del almacenamiento ilimitado: Google computará las copias de seguridad de Android en el espacio de tu cuenta" /></p><p>La empresa tecnológica elimina el beneficio que permitía resguardar la configuración de los teléfonos de forma gratuita. Afectará a fotos, chats y aplicaciones si se supera el límite de 15 GB.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Zuckerberg anticipó el futuro de la IA: inventar antes que automatizar]]></title>
+      <link>https://ultimasgeek.com/zuckerberg-anticipo-el-futuro-de-la-ia-inventar-antes-que-automatizar/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/zuckerberg-anticipo-el-futuro-de-la-ia-inventar-antes-que-automatizar/</guid>
+      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/mark-zuckerberg-2657647436-1000x600.jpg" alt="Zuckerberg anticipó el futuro de la IA: inventar antes que automatizar" /></p><p>El CEO de Meta sostuvo que la superinteligencia debería ampliar las capacidades humanas y permitir que más personas puedan crear, aprender y desarrollar nuevos proyectos.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/mark-zuckerberg-2657647436-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -203,15 +212,6 @@
       <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images.jpeg" alt="Apple invertirá más de US$ 30.000 millones con Broadcom para fabricar más de 15.000 millones de chips en Estados Unidos" /></p><p>La alianza se extenderá durante varios años y forma parte del plan de Apple para fortalecer su cadena de suministro y ampliar la producción de componentes tecnológicos en territorio estadounidense.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Anthropic expande su agente IA a la web y el celular para ganar la batalla de la oficina]]></title>
-      <link>https://ultimasgeek.com/anthropic-expande-su-agente-ia-a-la-web-y-el-celular-para-ganar-la-batalla-de-la-oficina/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/anthropic-expande-su-agente-ia-a-la-web-y-el-celular-para-ganar-la-batalla-de-la-oficina/</guid>
-      <pubDate>Tue, 07 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/6a4c2a3e7ccd1da1a8961f94_Cowork-Web-Mobile-Blog-Cowork-1920x1080-1-1000x600.png" alt="Anthropic expande su agente IA a la web y el celular para ganar la batalla de la oficina" /></p><p>Con una actualización clave, Claude Cowork traslada sus tareas a la nube y funciona de fondo incluso con la computadora apagada. Busca ganarle terreno al avance de OpenAI fuera del mundo del software.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/6a4c2a3e7ccd1da1a8961f94_Cowork-Web-Mobile-Blog-Cowork-1920x1080-1-1000x600.png" type="image/png" />
     </item>
 
     <item>
