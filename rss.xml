@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 11 Aug 2026 13:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 14:56:05 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple retiró Telegram de la App Store y lo restituyó tras bloquear una cuenta]]></title>
@@ -86,6 +86,15 @@
       <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" alt="Fin del almacenamiento ilimitado: Google computará las copias de seguridad de Android en el espacio de tu cuenta" /></p><p>La empresa tecnológica elimina el beneficio que permitía resguardar la configuración de los teléfonos de forma gratuita. Afectará a fotos, chats y aplicaciones si se supera el límite de 15 GB.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Bluesky permite ocultar los reposts de usuarios específicos en el feed]]></title>
+      <link>https://ultimasgeek.com/bluesky-permite-ocultar-los-reposts-de-usuarios-especificos-en-el-feed/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/bluesky-permite-ocultar-los-reposts-de-usuarios-especificos-en-el-feed/</guid>
+      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/BOPUFVE2NXIA3QDQYIHIOM5YTU-1000x600.jpg" alt="Bluesky permite ocultar los reposts de usuarios específicos en el feed" /></p><p>La red social Bluesky incorporó una herramienta para dejar de ver las publicaciones que determinadas cuentas vuelven a compartir. La opción permite personalizar el feed sin necesidad de silenciar o dejar de seguir al usuario y se suma a otra función destinada a facilitar la lectura de hilos.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/BOPUFVE2NXIA3QDQYIHIOM5YTU-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -203,15 +212,6 @@
       <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" alt="OpenAI renueva el modo de voz de ChatGPT: ahora permite conversaciones más naturales y traducción en tiempo real" /></p><p>La compañía presentó GPT-Live-1, un nuevo modelo de voz que escucha y responde de manera simultánea, con una experiencia más fluida para los usuarios de ChatGPT en web y dispositivos móviles.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple invertirá más de US$ 30.000 millones con Broadcom para fabricar más de 15.000 millones de chips en Estados Unidos]]></title>
-      <link>https://ultimasgeek.com/apple-invertira-mas-de-us-30-000-millones-con-broadcom-para-fabricar-mas-de-15-000-millones-de-chips-en-estados-unidos/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-invertira-mas-de-us-30-000-millones-con-broadcom-para-fabricar-mas-de-15-000-millones-de-chips-en-estados-unidos/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images.jpeg" alt="Apple invertirá más de US$ 30.000 millones con Broadcom para fabricar más de 15.000 millones de chips en Estados Unidos" /></p><p>La alianza se extenderá durante varios años y forma parte del plan de Apple para fortalecer su cadena de suministro y ampliar la producción de componentes tecnológicos en territorio estadounidense.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images.jpeg" type="image/jpeg" />
     </item>
 
     <item>
