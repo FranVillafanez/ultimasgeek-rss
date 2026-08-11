@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 11 Aug 2026 16:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 17:55:47 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Demandan a Apple por presunto fraude con la privacidad de iCloud Private Relay]]></title>
+      <link>https://ultimasgeek.com/demandan-a-apple-por-presunto-fraude-con-la-privacidad-de-icloud-private-relay/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/demandan-a-apple-por-presunto-fraude-con-la-privacidad-de-icloud-private-relay/</guid>
+      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/images.jpeg" alt="Demandan a Apple por presunto fraude con la privacidad de iCloud Private Relay" /></p><p>Una demanda colectiva acusa a Apple de promocionar iCloud Private Relay como una herramienta capaz de proteger la dirección IP y los datos de navegación pese a vulnerabilidades que podrían revelar esa información. El reclamo apunta a usuarios que pagan una suscripción a iCloud+.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/images.jpeg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Apple retiró Telegram de la App Store y lo restituyó tras bloquear una cuenta]]></title>
@@ -44,12 +53,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Google suma dictado por voz natural a Gemini para macOS y apuesta por una IA más integrada]]></title>
-      <link>https://ultimasgeek.com/google-suma-dictado-por-voz-natural-a-gemini-para-macos-y-apuesta-por-una-ia-mas-integrada/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-suma-dictado-por-voz-natural-a-gemini-para-macos-y-apuesta-por-una-ia-mas-integrada/</guid>
-      <pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/StC_FRE_2_click_1080_16x9-00-00-00-676-1000x600.jpeg" alt="Google suma dictado por voz natural a Gemini para macOS y apuesta por una IA más integrada" /></p><p>La compañía presentó una nueva función que permite crear, editar y resumir texto mediante la voz desde cualquier aplicación en Mac. La herramienta busca reducir el cambio entre ventanas y convertir a Gemini en un asistente cada vez más presente dentro del flujo de trabajo diario.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/StC_FRE_2_click_1080_16x9-00-00-00-676-1000x600.jpeg" type="image/jpeg" />
+      <title><![CDATA[Aptoide vuelve a Google Play y se convierte en la primera tienda rival disponible en Estados Unidos]]></title>
+      <link>https://ultimasgeek.com/aptoide-vuelve-a-google-play-y-se-convierte-en-la-primera-tienda-rival-disponible-en-estados-unidos/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/aptoide-vuelve-a-google-play-y-se-convierte-en-la-primera-tienda-rival-disponible-en-estados-unidos/</guid>
+      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/48c1f18f7d65f38d0b19af5f47015e9c_fgraphic-1000x500.jpg" alt="Aptoide vuelve a Google Play y se convierte en la primera tienda rival disponible en Estados Unidos" /></p><p>La plataforma portuguesa Aptoide regresó a Google Play después de más de una década y permitirá que los usuarios estadounidenses instalen una tienda alternativa directamente desde el ecosistema de Google. El cambio llega tras el fallo judicial en el caso impulsado por Epic Games, que obligó a flexib…</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/48c1f18f7d65f38d0b19af5f47015e9c_fgraphic-1000x500.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -59,6 +68,15 @@
       <pubDate>Wed, 05 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/daniss-1000x600.jpg" alt="Demis Hassabis deja la conducción de Google DeepMind y asume un rol estratégico" /></p><p>El cofundador del laboratorio abandonará las tareas operativas y será presidente de Google DeepMind y científico jefe de Alphabet. Koray Kavukcuoglu quedará al frente del desarrollo de Gemini, la investigación avanzada y los productos de inteligencia artificial.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/daniss-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google suma dictado por voz natural a Gemini para macOS y apuesta por una IA más integrada]]></title>
+      <link>https://ultimasgeek.com/google-suma-dictado-por-voz-natural-a-gemini-para-macos-y-apuesta-por-una-ia-mas-integrada/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-suma-dictado-por-voz-natural-a-gemini-para-macos-y-apuesta-por-una-ia-mas-integrada/</guid>
+      <pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/StC_FRE_2_click_1080_16x9-00-00-00-676-1000x600.jpeg" alt="Google suma dictado por voz natural a Gemini para macOS y apuesta por una IA más integrada" /></p><p>La compañía presentó una nueva función que permite crear, editar y resumir texto mediante la voz desde cualquier aplicación en Mac. La herramienta busca reducir el cambio entre ventanas y convertir a Gemini en un asistente cada vez más presente dentro del flujo de trabajo diario.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/StC_FRE_2_click_1080_16x9-00-00-00-676-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -77,15 +95,6 @@
       <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-9.jpeg" alt="Google comenzó a usar más datos de Search para entrenar su IA: cómo desactivar la opción" /></p><p>Una actualización de privacidad activa por defecto permite que imágenes, archivos y grabaciones de voz usadas en varios servicios de Google puedan emplearse para mejorar modelos de inteligencia artificial. Los usuarios pueden modificar esa configuración.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-9.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Fin del almacenamiento ilimitado: Google computará las copias de seguridad de Android en el espacio de tu cuenta]]></title>
-      <link>https://ultimasgeek.com/fin-del-almacenamiento-ilimitado-google-computara-las-copias-de-seguridad-de-android-en-el-espacio-de-tu-cuenta/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/fin-del-almacenamiento-ilimitado-google-computara-las-copias-de-seguridad-de-android-en-el-espacio-de-tu-cuenta/</guid>
-      <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" alt="Fin del almacenamiento ilimitado: Google computará las copias de seguridad de Android en el espacio de tu cuenta" /></p><p>La empresa tecnológica elimina el beneficio que permitía resguardar la configuración de los teléfonos de forma gratuita. Afectará a fotos, chats y aplicaciones si se supera el límite de 15 GB.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -143,15 +152,6 @@
     </item>
 
     <item>
-      <title><![CDATA[WhatsApp restaura cuentas bloqueadas por error y revisa el incidente]]></title>
-      <link>https://ultimasgeek.com/whatsapp-restaura-cuentas-bloqueadas-por-error-y-revisa-el-incidente/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-restaura-cuentas-bloqueadas-por-error-y-revisa-el-incidente/</guid>
-      <pubDate>Mon, 03 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/11/7IKZJEXCYRP7RBMXFEOFGPG7S4-1000x600.jpg" alt="WhatsApp restaura cuentas bloqueadas por error y revisa el incidente" /></p><p>Usuarios denunciaron que sus perfiles quedaron suspendidos y “bajo revisión” sin previo aviso. Meta admitió que su sistema pudo haber cometido errores, aunque todavía no explicó la causa ni precisó qué regiones fueron afectadas.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/11/7IKZJEXCYRP7RBMXFEOFGPG7S4-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Anthropic reveló que sus modelos de IA vulneraron sistemas de tres empresas durante pruebas]]></title>
       <link>https://ultimasgeek.com/anthropic-revelo-que-sus-modelos-de-ia-vulneraron-sistemas-de-tres-empresas-durante-pruebas/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/anthropic-revelo-que-sus-modelos-de-ia-vulneraron-sistemas-de-tres-empresas-durante-pruebas/</guid>
@@ -206,15 +206,6 @@
     </item>
 
     <item>
-      <title><![CDATA[OpenAI renueva el modo de voz de ChatGPT: ahora permite conversaciones más naturales y traducción en tiempo real]]></title>
-      <link>https://ultimasgeek.com/openai-renueva-el-modo-de-voz-de-chatgpt-ahora-permite-conversaciones-mas-naturales-y-traduccion-en-tiempo-real/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/openai-renueva-el-modo-de-voz-de-chatgpt-ahora-permite-conversaciones-mas-naturales-y-traduccion-en-tiempo-real/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" alt="OpenAI renueva el modo de voz de ChatGPT: ahora permite conversaciones más naturales y traducción en tiempo real" /></p><p>La compañía presentó GPT-Live-1, un nuevo modelo de voz que escucha y responde de manera simultánea, con una experiencia más fluida para los usuarios de ChatGPT en web y dispositivos móviles.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Apple renovó por completo el “iPhone Upgrade Program” y sumó a la Mac y al iPad]]></title>
       <link>https://ultimasgeek.com/apple-renovo-por-completo-el-iphone-upgrade-program-y-sumo-a-la-mac-y-al-ipad/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-renovo-por-completo-el-iphone-upgrade-program-y-sumo-a-la-mac-y-al-ipad/</guid>
@@ -230,6 +221,15 @@
       <pubDate>Mon, 27 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/image-1000x600.png" alt="Apple Glasses: sin grabación de video, podrían perder su principal atractivo, según un análisis" /></p><p>Un artículo de 9to5Mac sostiene que Apple enfrenta un dilema entre la privacidad y la utilidad de sus futuros anteojos inteligentes, un producto previsto para 2027.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/image-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[Apple aumenta el precio de Apple Music y Apple One: cuánto costarán las suscripciones]]></title>
+      <link>https://ultimasgeek.com/apple-aumenta-el-precio-de-apple-music-y-apple-one-cuanto-costaran-las-suscripciones/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-aumenta-el-precio-de-apple-music-y-apple-one-cuanto-costaran-las-suscripciones/</guid>
+      <pubDate>Fri, 17 Jul 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/791930954_235777684_1024x576.jpg-1000x576.webp" alt="Apple aumenta el precio de Apple Music y Apple One: cuánto costarán las suscripciones" /></p><p>La compañía aplicó un nuevo ajuste en Estados Unidos y otros mercados. El incremento alcanza a todos los planes de Apple Music y a dos versiones de Apple One, con subas de hasta 3 dólares mensuales.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/791930954_235777684_1024x576.jpg-1000x576.webp" type="image/webp" />
     </item>
   </channel>
 </rss>
