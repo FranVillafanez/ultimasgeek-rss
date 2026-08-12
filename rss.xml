@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 12 Aug 2026 17:04:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 19:01:02 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Demandan a Apple por presunto fraude con la privacidad de iCloud Private Relay]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-9.jpeg" alt="Google comenzó a usar más datos de Search para entrenar su IA: cómo desactivar la opción" /></p><p>Una actualización de privacidad activa por defecto permite que imágenes, archivos y grabaciones de voz usadas en varios servicios de Google puedan emplearse para mejorar modelos de inteligencia artificial. Los usuarios pueden modificar esa configuración.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-9.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[SpaceXAI lanzó Grok 4.6 y afirma que iguala a GPT-5.6 Sol]]></title>
+      <link>https://ultimasgeek.com/spacexai-lanzo-grok-4-6-y-afirma-que-iguala-a-gpt-5-6-sol/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/spacexai-lanzo-grok-4-6-y-afirma-que-iguala-a-gpt-5-6-sol/</guid>
+      <pubDate>Wed, 12 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/grok-1157810717-1000x600.jpg" alt="SpaceXAI lanzó Grok 4.6 y afirma que iguala a GPT-5.6 Sol" /></p><p>La compañía presentó una nueva versión de Grok enfocada en agentes capaces de sostener tareas complejas durante más tiempo, programación y trabajos de conocimiento. El modelo ya está disponible en distintas plataformas y obtuvo 61 puntos en un índice que lo coloca a la altura de GPT-5.6 Sol, según l…</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/grok-1157810717-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -194,15 +203,6 @@
       <pubDate>Mon, 13 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/instagram-app-2020-1531134022-1000x600.jpg" alt="Meta dio marcha atrás: retiró la función de IA de Instagram tras una fuerte polémica por la privacidad" /></p><p>La herramienta permitía generar imágenes con IA usando fotos de cuentas públicas de Instagram. La empresa la eliminó pocos días después de su lanzamiento por las críticas de usuarios y organizaciones.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/instagram-app-2020-1531134022-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[OpenAI lanzó GPT-5.6: el nuevo cerebro de ChatGPT promete cambiar la forma de trabajar]]></title>
-      <link>https://ultimasgeek.com/openai-lanzo-gpt-5-6-el-nuevo-cerebro-de-chatgpt-promete-cambiar-la-forma-de-trabajar/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/openai-lanzo-gpt-5-6-el-nuevo-cerebro-de-chatgpt-promete-cambiar-la-forma-de-trabajar/</guid>
-      <pubDate>Fri, 10 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" alt="OpenAI lanzó GPT-5.6: el nuevo cerebro de ChatGPT promete cambiar la forma de trabajar" /></p><p>La nueva generación del modelo de OpenAI incorpora mejoras en razonamiento, velocidad, personalización y automatización de tareas, con el objetivo de ofrecer respuestas más precisas y una experiencia más integrada.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/12/ChatGPT-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
