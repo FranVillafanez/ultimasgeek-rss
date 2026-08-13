@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 13 Aug 2026 17:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 19:01:38 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple abrió un centro de manufactura avanzada en Houston y fabricará allí la Mac mini]]></title>
+      <link>https://ultimasgeek.com/apple-abrio-un-centro-de-manufactura-avanzada-en-houston-y-fabricara-alli-la-mac-mini/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-abrio-un-centro-de-manufactura-avanzada-en-houston-y-fabricara-alli-la-mac-mini/</guid>
+      <pubDate>Thu, 13 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-Advanced-Manufacturing-Center-Houston-hero_big.jpg.large_-980x600.jpg" alt="Apple abrió un centro de manufactura avanzada en Houston y fabricará allí la Mac mini" /></p><p>La compañía inauguró una instalación destinada a capacitar gratuitamente a empresas y trabajadores en manufactura avanzada, automatización e inteligencia artificial. El complejo comparte sede con la planta que produce servidores de IA de Apple y sumará este año la fabricación de la Mac mini.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-Advanced-Manufacturing-Center-Houston-hero_big.jpg.large_-980x600.jpg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Demandan a Apple por presunto fraude con la privacidad de iCloud Private Relay]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Fri, 31 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-7-1.jpeg" alt="Apple multiplicó sus ingresos durante los 15 años de Tim Cook" /></p><p>La compañía pasó de facturar US$108.000 millones anuales en 2011 a superar esa cifra en un solo trimestre. John Ternus asumirá como CEO el 1° de septiembre.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-7-1.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple evalúa un nuevo plan de iCloud+ para quienes usen más funciones de IA]]></title>
-      <link>https://ultimasgeek.com/apple-evalua-un-nuevo-plan-de-icloud-para-quienes-usen-mas-funciones-de-ia/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-evalua-un-nuevo-plan-de-icloud-para-quienes-usen-mas-funciones-de-ia/</guid>
-      <pubDate>Thu, 30 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/icloud-apple-1000x600.jpg" alt="Apple evalúa un nuevo plan de iCloud+ para quienes usen más funciones de IA" /></p><p>El CEO Tim Cook confirmó que la compañía analiza ofrecer niveles superiores de iCloud+ para los usuarios que hagan un uso intensivo de Apple Intelligence. La iniciativa apunta a cubrir los mayores costos de procesamiento en la nube y abre una nueva vía de monetización para la estrategia de inteligen…</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/icloud-apple-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -96,6 +96,15 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
       <pubDate>Mon, 13 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/brief_instructions_English.width-1000.format-webp.jpeg" alt="Waze suma un modo para motos, navegación personalizada e integra Gemini para mejorar las búsquedas por voz" /></p><p>La aplicación de navegación de Google anunció una serie de funciones impulsadas por inteligencia artificial, entre ellas un Modo Moto, rutas adaptadas a cada usuario y nuevas búsquedas conversacionales con Gemini.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/brief_instructions_English.width-1000.format-webp.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[OpenAI acelera GPT-5.6 Sol: su nuevo modo Ultrafast es hasta 14 veces más rápido]]></title>
+      <link>https://ultimasgeek.com/openai-acelera-gpt-5-6-sol-su-nuevo-modo-ultrafast-es-hasta-14-veces-mas-rapido/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/openai-acelera-gpt-5-6-sol-su-nuevo-modo-ultrafast-es-hasta-14-veces-mas-rapido/</guid>
+      <pubDate>Thu, 13 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" alt="OpenAI acelera GPT-5.6 Sol: su nuevo modo Ultrafast es hasta 14 veces más rápido" /></p><p>La compañía presentó una versión de alta velocidad que alcanza hasta 750 tokens por segundo. Debutará en la API de OpenAI y funcionará con tecnología de Cerebras.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -198,6 +207,15 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
     </item>
 
     <item>
+      <title><![CDATA[Apple evalúa un nuevo plan de iCloud+ para quienes usen más funciones de IA]]></title>
+      <link>https://ultimasgeek.com/apple-evalua-un-nuevo-plan-de-icloud-para-quienes-usen-mas-funciones-de-ia/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-evalua-un-nuevo-plan-de-icloud-para-quienes-usen-mas-funciones-de-ia/</guid>
+      <pubDate>Thu, 30 Jul 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/icloud-apple-1000x600.jpg" alt="Apple evalúa un nuevo plan de iCloud+ para quienes usen más funciones de IA" /></p><p>El CEO Tim Cook confirmó que la compañía analiza ofrecer niveles superiores de iCloud+ para los usuarios que hagan un uso intensivo de Apple Intelligence. La iniciativa apunta a cubrir los mayores costos de procesamiento en la nube y abre una nueva vía de monetización para la estrategia de inteligen…</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/icloud-apple-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Apple renovó por completo el “iPhone Upgrade Program” y sumó a la Mac y al iPad]]></title>
       <link>https://ultimasgeek.com/apple-renovo-por-completo-el-iphone-upgrade-program-y-sumo-a-la-mac-y-al-ipad/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-renovo-por-completo-el-iphone-upgrade-program-y-sumo-a-la-mac-y-al-ipad/</guid>
@@ -213,24 +231,6 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
       <pubDate>Mon, 27 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/image-1000x600.png" alt="Apple Glasses: sin grabación de video, podrían perder su principal atractivo, según un análisis" /></p><p>Un artículo de 9to5Mac sostiene que Apple enfrenta un dilema entre la privacidad y la utilidad de sus futuros anteojos inteligentes, un producto previsto para 2027.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/image-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple aumenta el precio de Apple Music y Apple One: cuánto costarán las suscripciones]]></title>
-      <link>https://ultimasgeek.com/apple-aumenta-el-precio-de-apple-music-y-apple-one-cuanto-costaran-las-suscripciones/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-aumenta-el-precio-de-apple-music-y-apple-one-cuanto-costaran-las-suscripciones/</guid>
-      <pubDate>Fri, 17 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/791930954_235777684_1024x576.jpg-1000x576.webp" alt="Apple aumenta el precio de Apple Music y Apple One: cuánto costarán las suscripciones" /></p><p>La compañía aplicó un nuevo ajuste en Estados Unidos y otros mercados. El incremento alcanza a todos los planes de Apple Music y a dos versiones de Apple One, con subas de hasta 3 dólares mensuales.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/791930954_235777684_1024x576.jpg-1000x576.webp" type="image/webp" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google comenzó a usar más datos de Search para entrenar su IA: cómo desactivar la opción]]></title>
-      <link>https://ultimasgeek.com/google-comenzo-a-usar-mas-datos-de-search-para-entrenar-su-ia-como-desactivar-la-opcion/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-comenzo-a-usar-mas-datos-de-search-para-entrenar-su-ia-como-desactivar-la-opcion/</guid>
-      <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-9.jpeg" alt="Google comenzó a usar más datos de Search para entrenar su IA: cómo desactivar la opción" /></p><p>Una actualización de privacidad activa por defecto permite que imágenes, archivos y grabaciones de voz usadas en varios servicios de Google puedan emplearse para mejorar modelos de inteligencia artificial. Los usuarios pueden modificar esa configuración.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-9.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
