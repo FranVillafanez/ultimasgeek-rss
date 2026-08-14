@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 14 Aug 2026 13:04:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 14:51:02 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple lanzó nuevas alertas por ataques con spyware: qué hacer si aparece una notificación en el iPhone]]></title>
+      <link>https://ultimasgeek.com/apple-lanzo-nuevas-alertas-por-ataques-con-spyware-que-hacer-si-aparece-una-notificacion-en-el-iphone/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-lanzo-nuevas-alertas-por-ataques-con-spyware-que-hacer-si-aparece-una-notificacion-en-el-iphone/</guid>
+      <pubDate>Fri, 14 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/ios-notification-threat-apple-hero.jpg-1000x600.jpeg" alt="Apple lanzó nuevas alertas por ataques con spyware: qué hacer si aparece una notificación en el iPhone" /></p><p>La compañía envió avisos a usuarios de 110 países y advirtió que estas amenazas pueden involucrar programas de espionaje altamente sofisticados.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/ios-notification-threat-apple-hero.jpg-1000x600.jpeg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Apple abrió un centro de manufactura avanzada en Houston y fabricará allí la Mac mini]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Mon, 03 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/03/Diseno-sin-titulo-3-1000x600.jpg" alt="Apple desafía al Reino Unido por exigir acceso a datos cifrados de iCloud" /></p><p>La compañía presentó una nueva demanda contra el Gobierno británico por una orden que busca acceder a las copias de seguridad cifradas de usuarios locales. El caso reabre el debate sobre las puertas traseras, la vigilancia estatal y la seguridad de iCloud.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/03/Diseno-sin-titulo-3-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple multiplicó sus ingresos durante los 15 años de Tim Cook]]></title>
-      <link>https://ultimasgeek.com/apple-multiplico-sus-ingresos-durante-los-15-anos-de-tim-cook/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-multiplico-sus-ingresos-durante-los-15-anos-de-tim-cook/</guid>
-      <pubDate>Fri, 31 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-7-1.jpeg" alt="Apple multiplicó sus ingresos durante los 15 años de Tim Cook" /></p><p>La compañía pasó de facturar US$108.000 millones anuales en 2011 a superar esa cifra en un solo trimestre. John Ternus asumirá como CEO el 1° de septiembre.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-7-1.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -207,6 +207,15 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
     </item>
 
     <item>
+      <title><![CDATA[Apple multiplicó sus ingresos durante los 15 años de Tim Cook]]></title>
+      <link>https://ultimasgeek.com/apple-multiplico-sus-ingresos-durante-los-15-anos-de-tim-cook/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-multiplico-sus-ingresos-durante-los-15-anos-de-tim-cook/</guid>
+      <pubDate>Fri, 31 Jul 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-7-1.jpeg" alt="Apple multiplicó sus ingresos durante los 15 años de Tim Cook" /></p><p>La compañía pasó de facturar US$108.000 millones anuales en 2011 a superar esa cifra en un solo trimestre. John Ternus asumirá como CEO el 1° de septiembre.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-7-1.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Apple evalúa un nuevo plan de iCloud+ para quienes usen más funciones de IA]]></title>
       <link>https://ultimasgeek.com/apple-evalua-un-nuevo-plan-de-icloud-para-quienes-usen-mas-funciones-de-ia/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-evalua-un-nuevo-plan-de-icloud-para-quienes-usen-mas-funciones-de-ia/</guid>
@@ -222,15 +231,6 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
       <pubDate>Tue, 28 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/Apple-Upgrade-hero_big.jpg.large_.jpg" alt="Apple renovó por completo el “iPhone Upgrade Program” y sumó a la Mac y al iPad" /></p><p>Apple transformó de manera definitiva su modelo de venta de hardware en Estados Unidos al lanzar oficialmente Apple Upgrade, una experiencia unificada que reemplaza al histórico programa enfocado únicamente en el teléfono inteligente. A partir de esta semana, los usuarios del mercado estadounidense…</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/Apple-Upgrade-hero_big.jpg.large_.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple Glasses: sin grabación de video, podrían perder su principal atractivo, según un análisis]]></title>
-      <link>https://ultimasgeek.com/apple-glasses-sin-grabacion-de-video-podrian-perder-su-principal-atractivo-segun-un-analisis/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-glasses-sin-grabacion-de-video-podrian-perder-su-principal-atractivo-segun-un-analisis/</guid>
-      <pubDate>Mon, 27 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/image-1000x600.png" alt="Apple Glasses: sin grabación de video, podrían perder su principal atractivo, según un análisis" /></p><p>Un artículo de 9to5Mac sostiene que Apple enfrenta un dilema entre la privacidad y la utilidad de sus futuros anteojos inteligentes, un producto previsto para 2027.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/image-1000x600.png" type="image/png" />
     </item>
   </channel>
 </rss>
