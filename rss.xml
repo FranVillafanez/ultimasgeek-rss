@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 18 Aug 2026 15:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:30:02 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple cambia las reglas de la App Store en la UE y elimina una tarifa]]></title>
+      <link>https://ultimasgeek.com/apple-cambia-las-reglas-de-la-app-store-en-la-ue-y-elimina-una-tarifa/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-cambia-las-reglas-de-la-app-store-en-la-ue-y-elimina-una-tarifa/</guid>
+      <pubDate>Tue, 18 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-App-Store-compliance-hero-1000x600.jpg" alt="Apple cambia las reglas de la App Store en la UE y elimina una tarifa" /></p><p>La compañía unificará desde octubre las condiciones comerciales para los desarrolladores que distribuyen aplicaciones en la Unión Europea. El nuevo esquema reemplazará el cargo por instalación y modificará las comisiones para compras dentro y fuera de la App Store.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-App-Store-compliance-hero-1000x600.jpg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Apple prepara AirPods con cámaras para potenciar Siri y la Inteligencia Visual]]></title>
@@ -42,15 +51,6 @@ La tecnología permitiría que Siri interprete lo que rodea al usuario y guarde 
       <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/images.jpeg" alt="Demandan a Apple por presunto fraude con la privacidad de iCloud Private Relay" /></p><p>Una demanda colectiva acusa a Apple de promocionar iCloud Private Relay como una herramienta capaz de proteger la dirección IP y los datos de navegación pese a vulnerabilidades que podrían revelar esa información. El reclamo apunta a usuarios que pagan una suscripción a iCloud+.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/images.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple retiró Telegram de la App Store y lo restituyó tras bloquear una cuenta]]></title>
-      <link>https://ultimasgeek.com/apple-retiro-telegram-de-la-app-store-y-lo-restituyo-tras-bloquear-una-cuenta/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-retiro-telegram-de-la-app-store-y-lo-restituyo-tras-bloquear-una-cuenta/</guid>
-      <pubDate>Tue, 04 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/06/Diseno-sin-titulo-2-1000x600.jpg" alt="Apple retiró Telegram de la App Store y lo restituyó tras bloquear una cuenta" /></p><p>La aplicación desapareció durante unos 40 minutos luego de que una revisión detectara contenido prohibido. Telegram eliminó el material y suspendió al usuario señalado, mientras el servicio continuó funcionando para quienes ya lo tenían instalado.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/06/Diseno-sin-titulo-2-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -190,6 +190,15 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
     </item>
 
     <item>
+      <title><![CDATA[Apple retiró Telegram de la App Store y lo restituyó tras bloquear una cuenta]]></title>
+      <link>https://ultimasgeek.com/apple-retiro-telegram-de-la-app-store-y-lo-restituyo-tras-bloquear-una-cuenta/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-retiro-telegram-de-la-app-store-y-lo-restituyo-tras-bloquear-una-cuenta/</guid>
+      <pubDate>Tue, 04 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/06/Diseno-sin-titulo-2-1000x600.jpg" alt="Apple retiró Telegram de la App Store y lo restituyó tras bloquear una cuenta" /></p><p>La aplicación desapareció durante unos 40 minutos luego de que una revisión detectara contenido prohibido. Telegram eliminó el material y suspendió al usuario señalado, mientras el servicio continuó funcionando para quienes ya lo tenían instalado.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/06/Diseno-sin-titulo-2-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Apple desafía al Reino Unido por exigir acceso a datos cifrados de iCloud]]></title>
       <link>https://ultimasgeek.com/apple-desafia-al-reino-unido-por-exigir-acceso-a-datos-cifrados-de-icloud/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-desafia-al-reino-unido-por-exigir-acceso-a-datos-cifrados-de-icloud/</guid>
@@ -223,15 +232,6 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
       <pubDate>Tue, 28 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/Apple-Upgrade-hero_big.jpg.large_.jpg" alt="Apple renovó por completo el “iPhone Upgrade Program” y sumó a la Mac y al iPad" /></p><p>Apple transformó de manera definitiva su modelo de venta de hardware en Estados Unidos al lanzar oficialmente Apple Upgrade, una experiencia unificada que reemplaza al histórico programa enfocado únicamente en el teléfono inteligente. A partir de esta semana, los usuarios del mercado estadounidense…</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/Apple-Upgrade-hero_big.jpg.large_.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple Glasses: sin grabación de video, podrían perder su principal atractivo, según un análisis]]></title>
-      <link>https://ultimasgeek.com/apple-glasses-sin-grabacion-de-video-podrian-perder-su-principal-atractivo-segun-un-analisis/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-glasses-sin-grabacion-de-video-podrian-perder-su-principal-atractivo-segun-un-analisis/</guid>
-      <pubDate>Mon, 27 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/image-1000x600.png" alt="Apple Glasses: sin grabación de video, podrían perder su principal atractivo, según un análisis" /></p><p>Un artículo de 9to5Mac sostiene que Apple enfrenta un dilema entre la privacidad y la utilidad de sus futuros anteojos inteligentes, un producto previsto para 2027.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/image-1000x600.png" type="image/png" />
     </item>
   </channel>
 </rss>
