@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 19 Aug 2026 18:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 19:24:04 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Meta AI desembarca en Mac con una app nativa y nuevas funciones de inteligencia artificial]]></title>
+      <link>https://ultimasgeek.com/meta-ai-desembarca-en-mac-con-una-app-nativa-y-nuevas-funciones-de-inteligencia-artificial/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/meta-ai-desembarca-en-mac-con-una-app-nativa-y-nuevas-funciones-de-inteligencia-artificial/</guid>
+      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/CleanShot-2026-08-19-at-16.05.43.png" alt="Meta AI desembarca en Mac con una app nativa y nuevas funciones de inteligencia artificial" /></p><p>La compañía lanzó una versión beta de Meta AI para macOS, diseñada específicamente para computadoras con Apple Silicon. Permite consultar contenido de otras ventanas, usar dictado, generar archivos multimedia y programar tareas y recordatorios.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/CleanShot-2026-08-19-at-16.05.43.png" type="image/png" />
+    </item>
 
     <item>
       <title><![CDATA[Apple cambia las reglas de la App Store en la UE y elimina una tarifa]]></title>
@@ -42,15 +51,6 @@ La tecnología permitiría que Siri interprete lo que rodea al usuario y guarde 
       <pubDate>Thu, 13 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-Advanced-Manufacturing-Center-Houston-hero_big.jpg.large_-980x600.jpg" alt="Apple abrió un centro de manufactura avanzada en Houston y fabricará allí la Mac mini" /></p><p>La compañía inauguró una instalación destinada a capacitar gratuitamente a empresas y trabajadores en manufactura avanzada, automatización e inteligencia artificial. El complejo comparte sede con la planta que produce servidores de IA de Apple y sumará este año la fabricación de la Mac mini.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-Advanced-Manufacturing-Center-Houston-hero_big.jpg.large_-980x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Demandan a Apple por presunto fraude con la privacidad de iCloud Private Relay]]></title>
-      <link>https://ultimasgeek.com/demandan-a-apple-por-presunto-fraude-con-la-privacidad-de-icloud-private-relay/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/demandan-a-apple-por-presunto-fraude-con-la-privacidad-de-icloud-private-relay/</guid>
-      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/images.jpeg" alt="Demandan a Apple por presunto fraude con la privacidad de iCloud Private Relay" /></p><p>Una demanda colectiva acusa a Apple de promocionar iCloud Private Relay como una herramienta capaz de proteger la dirección IP y los datos de navegación pese a vulnerabilidades que podrían revelar esa información. El reclamo apunta a usuarios que pagan una suscripción a iCloud+.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/images.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -181,12 +181,12 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
     </item>
 
     <item>
-      <title><![CDATA[Nvidia lanzó una alianza global para reforzar la seguridad de la IA tras el ataque a Hugging Face]]></title>
-      <link>https://ultimasgeek.com/nvidia-lanzo-una-alianza-global-para-reforzar-la-seguridad-de-la-ia-tras-el-ataque-a-hugging-face/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/nvidia-lanzo-una-alianza-global-para-reforzar-la-seguridad-de-la-ia-tras-el-ataque-a-hugging-face/</guid>
-      <pubDate>Mon, 27 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/intro-1785148929.jpeg" alt="Nvidia lanzó una alianza global para reforzar la seguridad de la IA tras el ataque a Hugging Face" /></p><p>La Open Secure AI Alliance reúne a más de 30 empresas tecnológicas para desarrollar herramientas abiertas de ciberseguridad y responder a los riesgos que plantean los sistemas de inteligencia artificial autónomos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/intro-1785148929.jpeg" type="image/jpeg" />
+      <title><![CDATA[Demandan a Apple por presunto fraude con la privacidad de iCloud Private Relay]]></title>
+      <link>https://ultimasgeek.com/demandan-a-apple-por-presunto-fraude-con-la-privacidad-de-icloud-private-relay/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/demandan-a-apple-por-presunto-fraude-con-la-privacidad-de-icloud-private-relay/</guid>
+      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/images.jpeg" alt="Demandan a Apple por presunto fraude con la privacidad de iCloud Private Relay" /></p><p>Una demanda colectiva acusa a Apple de promocionar iCloud Private Relay como una herramienta capaz de proteger la dirección IP y los datos de navegación pese a vulnerabilidades que podrían revelar esa información. El reclamo apunta a usuarios que pagan una suscripción a iCloud+.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/images.jpeg" type="image/jpeg" />
     </item>
 
     <item>
