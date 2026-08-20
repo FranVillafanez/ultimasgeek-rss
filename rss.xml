@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 20 Aug 2026 11:24:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:47:53 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple rechazó el pedido de OpenAI para cerrar una demanda por presunto robo de secretos comerciales]]></title>
+      <link>https://ultimasgeek.com/apple-rechazo-el-pedido-de-openai-para-cerrar-una-demanda-por-presunto-robo-de-secretos-comerciales/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-rechazo-el-pedido-de-openai-para-cerrar-una-demanda-por-presunto-robo-de-secretos-comerciales/</guid>
+      <pubDate>Thu, 20 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/7de08c89-b18e-44ee-826a-152fbcff8b79-1000x600.png" alt="Apple rechazó el pedido de OpenAI para cerrar una demanda por presunto robo de secretos comerciales" /></p><p>La compañía respondió ante la Justicia y sostuvo que su denuncia identifica secretos comerciales concretos que habrían sido apropiados por exempleados, OpenAI e io Products.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/7de08c89-b18e-44ee-826a-152fbcff8b79-1000x600.png" type="image/png" />
+    </item>
 
     <item>
       <title><![CDATA[Meta AI desembarca en Mac con una app nativa y nuevas funciones de inteligencia artificial]]></title>
@@ -42,15 +51,6 @@ La tecnología permitiría que Siri interprete lo que rodea al usuario y guarde 
       <pubDate>Fri, 14 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/ios-notification-threat-apple-hero.jpg-1000x600.jpeg" alt="Apple lanzó nuevas alertas por ataques con spyware: qué hacer si aparece una notificación en el iPhone" /></p><p>La compañía envió avisos a usuarios de 110 países y advirtió que estas amenazas pueden involucrar programas de espionaje altamente sofisticados.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/ios-notification-threat-apple-hero.jpg-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple abrió un centro de manufactura avanzada en Houston y fabricará allí la Mac mini]]></title>
-      <link>https://ultimasgeek.com/apple-abrio-un-centro-de-manufactura-avanzada-en-houston-y-fabricara-alli-la-mac-mini/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-abrio-un-centro-de-manufactura-avanzada-en-houston-y-fabricara-alli-la-mac-mini/</guid>
-      <pubDate>Thu, 13 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-Advanced-Manufacturing-Center-Houston-hero_big.jpg.large_-980x600.jpg" alt="Apple abrió un centro de manufactura avanzada en Houston y fabricará allí la Mac mini" /></p><p>La compañía inauguró una instalación destinada a capacitar gratuitamente a empresas y trabajadores en manufactura avanzada, automatización e inteligencia artificial. El complejo comparte sede con la planta que produce servidores de IA de Apple y sumará este año la fabricación de la Mac mini.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-Advanced-Manufacturing-Center-Houston-hero_big.jpg.large_-980x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -124,6 +124,15 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
       <pubDate>Thu, 13 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" alt="OpenAI acelera GPT-5.6 Sol: su nuevo modo Ultrafast es hasta 14 veces más rápido" /></p><p>La compañía presentó una versión de alta velocidad que alcanza hasta 750 tokens por segundo. Debutará en la API de OpenAI y funcionará con tecnología de Cerebras.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Apple abrió un centro de manufactura avanzada en Houston y fabricará allí la Mac mini]]></title>
+      <link>https://ultimasgeek.com/apple-abrio-un-centro-de-manufactura-avanzada-en-houston-y-fabricara-alli-la-mac-mini/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-abrio-un-centro-de-manufactura-avanzada-en-houston-y-fabricara-alli-la-mac-mini/</guid>
+      <pubDate>Thu, 13 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-Advanced-Manufacturing-Center-Houston-hero_big.jpg.large_-980x600.jpg" alt="Apple abrió un centro de manufactura avanzada en Houston y fabricará allí la Mac mini" /></p><p>La compañía inauguró una instalación destinada a capacitar gratuitamente a empresas y trabajadores en manufactura avanzada, automatización e inteligencia artificial. El complejo comparte sede con la planta que produce servidores de IA de Apple y sumará este año la fabricación de la Mac mini.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-Advanced-Manufacturing-Center-Houston-hero_big.jpg.large_-980x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -223,15 +232,6 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
       <pubDate>Tue, 28 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/Apple-Upgrade-hero_big.jpg.large_.jpg" alt="Apple renovó por completo el “iPhone Upgrade Program” y sumó a la Mac y al iPad" /></p><p>Apple transformó de manera definitiva su modelo de venta de hardware en Estados Unidos al lanzar oficialmente Apple Upgrade, una experiencia unificada que reemplaza al histórico programa enfocado únicamente en el teléfono inteligente. A partir de esta semana, los usuarios del mercado estadounidense…</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/Apple-Upgrade-hero_big.jpg.large_.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple Glasses: sin grabación de video, podrían perder su principal atractivo, según un análisis]]></title>
-      <link>https://ultimasgeek.com/apple-glasses-sin-grabacion-de-video-podrian-perder-su-principal-atractivo-segun-un-analisis/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-glasses-sin-grabacion-de-video-podrian-perder-su-principal-atractivo-segun-un-analisis/</guid>
-      <pubDate>Mon, 27 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/image-1000x600.png" alt="Apple Glasses: sin grabación de video, podrían perder su principal atractivo, según un análisis" /></p><p>Un artículo de 9to5Mac sostiene que Apple enfrenta un dilema entre la privacidad y la utilidad de sus futuros anteojos inteligentes, un producto previsto para 2027.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/image-1000x600.png" type="image/png" />
     </item>
   </channel>
 </rss>
