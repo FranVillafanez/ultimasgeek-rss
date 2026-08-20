@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 20 Aug 2026 18:37:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:30:19 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[ChatGPT suma integración con Mensajes de Apple en Mac: qué permite hacer y quiénes pueden usarla]]></title>
+      <link>https://ultimasgeek.com/chatgpt-suma-integracion-con-mensajes-de-apple-en-mac-que-permite-hacer-y-quienes-pueden-usarla/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/chatgpt-suma-integracion-con-mensajes-de-apple-en-mac-que-permite-hacer-y-quienes-pueden-usarla/</guid>
+      <pubDate>Thu, 20 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/ChatGPT-Image-20-ago-2026-03_47_05-p.m-1000x600.png" alt="ChatGPT suma integración con Mensajes de Apple en Mac: qué permite hacer y quiénes pueden usarla" /></p><p>La nueva función permite buscar conversaciones de iMessage, SMS y RCS, preparar respuestas y enviar mensajes desde la aplicación de Apple. Está disponible en todos los planes, aunque requiere una Mac con Apple silicon.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/ChatGPT-Image-20-ago-2026-03_47_05-p.m-1000x600.png" type="image/png" />
+    </item>
 
     <item>
       <title><![CDATA[Apple rechazó el pedido de OpenAI para cerrar una demanda por presunto robo de secretos comerciales]]></title>
@@ -42,15 +51,6 @@
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Diseno-sin-titulo-2-1000x600.jpg" alt="Apple prepara AirPods con cámaras para potenciar Siri y la Inteligencia Visual" /></p><p>Un video descubierto dentro de macOS Tahoe 26.7 muestra cómo funcionarían los nuevos auriculares de Apple equipados con sensores visuales.
 La tecnología permitiría que Siri interprete lo que rodea al usuario y guarde información mediante Visual Intelligence, mientras crecen las expectativas por una…</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Diseno-sin-titulo-2-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple lanzó nuevas alertas por ataques con spyware: qué hacer si aparece una notificación en el iPhone]]></title>
-      <link>https://ultimasgeek.com/apple-lanzo-nuevas-alertas-por-ataques-con-spyware-que-hacer-si-aparece-una-notificacion-en-el-iphone/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-lanzo-nuevas-alertas-por-ataques-con-spyware-que-hacer-si-aparece-una-notificacion-en-el-iphone/</guid>
-      <pubDate>Fri, 14 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/ios-notification-threat-apple-hero.jpg-1000x600.jpeg" alt="Apple lanzó nuevas alertas por ataques con spyware: qué hacer si aparece una notificación en el iPhone" /></p><p>La compañía envió avisos a usuarios de 110 países y advirtió que estas amenazas pueden involucrar programas de espionaje altamente sofisticados.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/ios-notification-threat-apple-hero.jpg-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -97,6 +97,15 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
       <pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/StC_FRE_2_click_1080_16x9-00-00-00-676-1000x600.jpeg" alt="Google suma dictado por voz natural a Gemini para macOS y apuesta por una IA más integrada" /></p><p>La compañía presentó una nueva función que permite crear, editar y resumir texto mediante la voz desde cualquier aplicación en Mac. La herramienta busca reducir el cambio entre ventanas y convertir a Gemini en un asistente cada vez más presente dentro del flujo de trabajo diario.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/StC_FRE_2_click_1080_16x9-00-00-00-676-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Apple lanzó nuevas alertas por ataques con spyware: qué hacer si aparece una notificación en el iPhone]]></title>
+      <link>https://ultimasgeek.com/apple-lanzo-nuevas-alertas-por-ataques-con-spyware-que-hacer-si-aparece-una-notificacion-en-el-iphone/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-lanzo-nuevas-alertas-por-ataques-con-spyware-que-hacer-si-aparece-una-notificacion-en-el-iphone/</guid>
+      <pubDate>Fri, 14 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/ios-notification-threat-apple-hero.jpg-1000x600.jpeg" alt="Apple lanzó nuevas alertas por ataques con spyware: qué hacer si aparece una notificación en el iPhone" /></p><p>La compañía envió avisos a usuarios de 110 países y advirtió que estas amenazas pueden involucrar programas de espionaje altamente sofisticados.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/ios-notification-threat-apple-hero.jpg-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -223,15 +232,6 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
       <pubDate>Thu, 30 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/icloud-apple-1000x600.jpg" alt="Apple evalúa un nuevo plan de iCloud+ para quienes usen más funciones de IA" /></p><p>El CEO Tim Cook confirmó que la compañía analiza ofrecer niveles superiores de iCloud+ para los usuarios que hagan un uso intensivo de Apple Intelligence. La iniciativa apunta a cubrir los mayores costos de procesamiento en la nube y abre una nueva vía de monetización para la estrategia de inteligen…</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/icloud-apple-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple renovó por completo el “iPhone Upgrade Program” y sumó a la Mac y al iPad]]></title>
-      <link>https://ultimasgeek.com/apple-renovo-por-completo-el-iphone-upgrade-program-y-sumo-a-la-mac-y-al-ipad/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-renovo-por-completo-el-iphone-upgrade-program-y-sumo-a-la-mac-y-al-ipad/</guid>
-      <pubDate>Tue, 28 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/Apple-Upgrade-hero_big.jpg.large_.jpg" alt="Apple renovó por completo el “iPhone Upgrade Program” y sumó a la Mac y al iPad" /></p><p>Apple transformó de manera definitiva su modelo de venta de hardware en Estados Unidos al lanzar oficialmente Apple Upgrade, una experiencia unificada que reemplaza al histórico programa enfocado únicamente en el teléfono inteligente. A partir de esta semana, los usuarios del mercado estadounidense…</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/Apple-Upgrade-hero_big.jpg.large_.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
