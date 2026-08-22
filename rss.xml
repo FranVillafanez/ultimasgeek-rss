@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Sat, 22 Aug 2026 10:22:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 11:19:45 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[ChatGPT suma integración con Mensajes de Apple en Mac: qué permite hacer y quiénes pueden usarla]]></title>
@@ -100,6 +100,15 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
     </item>
 
     <item>
+      <title><![CDATA[TikTok pagará US$400 millones para cerrar una demanda por privacidad infantil en Estados Unidos]]></title>
+      <link>https://ultimasgeek.com/tiktok-pagara-us400-millones-para-cerrar-una-demanda-por-privacidad-infantil-en-estados-unidos/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/tiktok-pagara-us400-millones-para-cerrar-una-demanda-por-privacidad-infantil-en-estados-unidos/</guid>
+      <pubDate>Sat, 22 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/1960x0-1000x600.jpeg" alt="TikTok pagará US$400 millones para cerrar una demanda por privacidad infantil en Estados Unidos" /></p><p>El acuerdo con el Departamento de Justicia de Estados Unidos pone fin a un litigio iniciado en 2024 por presuntas violaciones de la ley COPPA. La compañía desembolsará US$300 millones de inmediato y otros US$100 millones cuando se cumpla una condición judicial vinculada a Musical.ly.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/1960x0-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Adobe potencia Firefly: su IA ya puede crear la música completa para un video]]></title>
       <link>https://ultimasgeek.com/adobe-potencia-firefly-su-ia-ya-puede-crear-la-musica-completa-para-un-video/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/adobe-potencia-firefly-su-ia-ya-puede-crear-la-musica-completa-para-un-video/</guid>
@@ -178,15 +187,6 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
       <pubDate>Thu, 06 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/HO-xetQW0AAvupU-1000x600.jpeg" alt="Meta lanza Muse Code, su agente de IA para programar desde la terminal" /></p><p>La compañía presentó una herramienta capaz de planificar cambios, escribir código y validar resultados en proyectos de software complejos. Muse Code ya está disponible en versión beta para macOS y Linux y funciona con el nuevo modelo Muse Spark 1.2.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/HO-xetQW0AAvupU-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Anthropic reveló que sus modelos de IA vulneraron sistemas de tres empresas durante pruebas]]></title>
-      <link>https://ultimasgeek.com/anthropic-revelo-que-sus-modelos-de-ia-vulneraron-sistemas-de-tres-empresas-durante-pruebas/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/anthropic-revelo-que-sus-modelos-de-ia-vulneraron-sistemas-de-tres-empresas-durante-pruebas/</guid>
-      <pubDate>Fri, 31 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/antro-1000x600.jpeg" alt="Anthropic reveló que sus modelos de IA vulneraron sistemas de tres empresas durante pruebas" /></p><p>La compañía detrás de Claude informó que detectó tres accesos no autorizados a organizaciones reales mientras realizaba evaluaciones de ciberseguridad. El incidente, atribuido a una falla operativa que permitió acceso a internet, reavivó el debate sobre los riesgos de los modelos de IA con capacidad…</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/antro-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
