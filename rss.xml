@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Sun, 23 Aug 2026 19:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 20:21:39 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple prepara su primer iPhone plegable: qué sorprendió a quienes ya probaron el iPhone Ultra]]></title>
+      <link>https://ultimasgeek.com/apple-prepara-su-primer-iphone-plegable-que-sorprendio-a-quienes-ya-probaron-el-iphone-ultra/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-prepara-su-primer-iphone-plegable-que-sorprendio-a-quienes-ya-probaron-el-iphone-ultra/</guid>
+      <pubDate>Sun, 23 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/f0e76d05-08b8-4093-8f22-22d15731d170-1000x600.png" alt="Apple prepara su primer iPhone plegable: qué sorprendió a quienes ya probaron el iPhone Ultra" /></p><p>Los primeros usuarios que tuvieron acceso al iPhone Ultra plegable destacaron su formato compacto, la solidez de la bisagra y el aprovechamiento de la pantalla interna. Sin embargo, el futuro teléfono premium de Apple tendría una ausencia llamativa en sus cámaras pese a un precio que podría superar…</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/f0e76d05-08b8-4093-8f22-22d15731d170-1000x600.png" type="image/png" />
+    </item>
 
     <item>
       <title><![CDATA[ChatGPT suma integración con Mensajes de Apple en Mac: qué permite hacer y quiénes pueden usarla]]></title>
@@ -41,16 +50,6 @@
       <pubDate>Tue, 18 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-App-Store-compliance-hero-1000x600.jpg" alt="Apple cambia las reglas de la App Store en la UE y elimina una tarifa" /></p><p>La compañía unificará desde octubre las condiciones comerciales para los desarrolladores que distribuyen aplicaciones en la Unión Europea. El nuevo esquema reemplazará el cargo por instalación y modificará las comisiones para compras dentro y fuera de la App Store.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-App-Store-compliance-hero-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple prepara AirPods con cámaras para potenciar Siri y la Inteligencia Visual]]></title>
-      <link>https://ultimasgeek.com/apple-prepara-airpods-con-camaras-para-potenciar-siri-y-la-inteligencia-visual/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-prepara-airpods-con-camaras-para-potenciar-siri-y-la-inteligencia-visual/</guid>
-      <pubDate>Tue, 18 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Diseno-sin-titulo-2-1000x600.jpg" alt="Apple prepara AirPods con cámaras para potenciar Siri y la Inteligencia Visual" /></p><p>Un video descubierto dentro de macOS Tahoe 26.7 muestra cómo funcionarían los nuevos auriculares de Apple equipados con sensores visuales.
-La tecnología permitiría que Siri interprete lo que rodea al usuario y guarde información mediante Visual Intelligence, mientras crecen las expectativas por una…</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Diseno-sin-titulo-2-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -118,6 +117,16 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
     </item>
 
     <item>
+      <title><![CDATA[Apple prepara AirPods con cámaras para potenciar Siri y la Inteligencia Visual]]></title>
+      <link>https://ultimasgeek.com/apple-prepara-airpods-con-camaras-para-potenciar-siri-y-la-inteligencia-visual/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-prepara-airpods-con-camaras-para-potenciar-siri-y-la-inteligencia-visual/</guid>
+      <pubDate>Tue, 18 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Diseno-sin-titulo-2-1000x600.jpg" alt="Apple prepara AirPods con cámaras para potenciar Siri y la Inteligencia Visual" /></p><p>Un video descubierto dentro de macOS Tahoe 26.7 muestra cómo funcionarían los nuevos auriculares de Apple equipados con sensores visuales.
+La tecnología permitiría que Siri interprete lo que rodea al usuario y guarde información mediante Visual Intelligence, mientras crecen las expectativas por una…</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Diseno-sin-titulo-2-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Apple lanzó nuevas alertas por ataques con spyware: qué hacer si aparece una notificación en el iPhone]]></title>
       <link>https://ultimasgeek.com/apple-lanzo-nuevas-alertas-por-ataques-con-spyware-que-hacer-si-aparece-una-notificacion-en-el-iphone/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-lanzo-nuevas-alertas-por-ataques-con-spyware-que-hacer-si-aparece-una-notificacion-en-el-iphone/</guid>
@@ -133,15 +142,6 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
       <pubDate>Thu, 13 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/scam-alert-whatsapp.jpg-1000x600.jpeg" alt="WhatsApp prueba una alerta con IA para detectar mensajes de estafa antes de responder" /></p><p>La función Scam Alert analiza en el propio celular los chats de números desconocidos y advierte al usuario si encuentra señales asociadas con fraudes. Por ahora, está disponible en fase beta.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/scam-alert-whatsapp.jpg-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[X abrió su algoritmo y expuso cómo funciona el “shadowban” en la red social]]></title>
-      <link>https://ultimasgeek.com/x-abrio-su-algoritmo-y-expuso-como-funciona-el-shadowban-en-la-red-social/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/x-abrio-su-algoritmo-y-expuso-como-funciona-el-shadowban-en-la-red-social/</guid>
-      <pubDate>Thu, 13 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/08/twitterjpg.jpg" alt="X abrió su algoritmo y expuso cómo funciona el “shadowban” en la red social" /></p><p>La plataforma de Elon Musk publicó el código de su sistema de recomendaciones y dejó al descubierto mecanismos que pueden reducir la visibilidad de contenidos. La apertura permite conocer mejor qué señales utiliza X para ordenar, filtrar o directamente excluir publicaciones.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/08/twitterjpg.jpg" type="image/jpeg" />
     </item>
 
     <item>
