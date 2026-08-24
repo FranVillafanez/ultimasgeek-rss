@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 24 Aug 2026 10:36:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:27:29 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple prepara su primer iPhone plegable: qué sorprendió a quienes ya probaron el iPhone Ultra]]></title>
@@ -99,6 +99,15 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
     </item>
 
     <item>
+      <title><![CDATA[WhatsApp prepara pagos y podría ampliarlos a más países]]></title>
+      <link>https://ultimasgeek.com/whatsapp-prepara-pagos-y-podria-ampliarlos-a-mas-paises/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-prepara-pagos-y-podria-ampliarlos-a-mas-paises/</guid>
+      <pubDate>Mon, 24 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/WhatsApp-VLOP-en-Europa-9-1089476513-1000x600.jpg" alt="WhatsApp prepara pagos y podría ampliarlos a más países" /></p><p>La aplicación desarrolla una nueva sección en iPhone que permitirá enviar dinero a contactos y guardar tarjetas. Por ahora, la función está en desarrollo y Meta no confirmó en qué mercados estará disponible.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/WhatsApp-VLOP-en-Europa-9-1089476513-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[TikTok pagará US$400 millones para cerrar una demanda por privacidad infantil en Estados Unidos]]></title>
       <link>https://ultimasgeek.com/tiktok-pagara-us400-millones-para-cerrar-una-demanda-por-privacidad-infantil-en-estados-unidos/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/tiktok-pagara-us400-millones-para-cerrar-una-demanda-por-privacidad-infantil-en-estados-unidos/</guid>
@@ -178,15 +187,6 @@ La tecnología permitiría que Siri interprete lo que rodea al usuario y guarde 
       <pubDate>Fri, 07 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Meta-AI-o-ChatGPT-en-WhatsApp-8-1159779845-1000x600.jpg" alt="Meta confirmó que su IA Muse Spark 1.1 accedió sin autorización a sistemas de una empresa real" /></p><p>Una falla en el entorno de pruebas permitió que el modelo se conectara a internet durante una evaluación de ciberseguridad. Meta aseguró que no se trató de una fuga deliberada del sistema.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Meta-AI-o-ChatGPT-en-WhatsApp-8-1159779845-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Meta lanza Muse Code, su agente de IA para programar desde la terminal]]></title>
-      <link>https://ultimasgeek.com/meta-lanza-muse-code-su-agente-de-ia-para-programar-desde-la-terminal/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/meta-lanza-muse-code-su-agente-de-ia-para-programar-desde-la-terminal/</guid>
-      <pubDate>Thu, 06 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/HO-xetQW0AAvupU-1000x600.jpeg" alt="Meta lanza Muse Code, su agente de IA para programar desde la terminal" /></p><p>La compañía presentó una herramienta capaz de planificar cambios, escribir código y validar resultados en proyectos de software complejos. Muse Code ya está disponible en versión beta para macOS y Linux y funciona con el nuevo modelo Muse Spark 1.2.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/HO-xetQW0AAvupU-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
