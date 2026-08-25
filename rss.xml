@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 25 Aug 2026 13:49:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:43:26 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple presentó la nueva Mac mini con chips M6 y M5 Pro]]></title>
+      <link>https://ultimasgeek.com/apple-presento-la-nueva-mac-mini-con-chips-m6-y-m5-pro/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-presento-la-nueva-mac-mini-con-chips-m6-y-m5-pro/</guid>
+      <pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-Mac-mini-hero-260825_big.jpg.large_-980x600.jpg" alt="Apple presentó la nueva Mac mini con chips M6 y M5 Pro" /></p><p>La compañía renovó su computadora de escritorio compacta con mejoras en inteligencia artificial, gráficos, almacenamiento y conectividad. La Mac mini con M6 partirá de US$899 en Estados Unidos y comenzará a entregarse el 22 de septiembre.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-Mac-mini-hero-260825_big.jpg.large_-980x600.jpg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Apple renueva la Mac Studio con M5 Max y M5 Ultra y apuesta fuerte por la IA]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Thu, 20 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/7de08c89-b18e-44ee-826a-152fbcff8b79-1000x600.png" alt="Apple rechazó el pedido de OpenAI para cerrar una demanda por presunto robo de secretos comerciales" /></p><p>La compañía respondió ante la Justicia y sostuvo que su denuncia identifica secretos comerciales concretos que habrían sido apropiados por exempleados, OpenAI e io Products.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/7de08c89-b18e-44ee-826a-152fbcff8b79-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Meta AI desembarca en Mac con una app nativa y nuevas funciones de inteligencia artificial]]></title>
-      <link>https://ultimasgeek.com/meta-ai-desembarca-en-mac-con-una-app-nativa-y-nuevas-funciones-de-inteligencia-artificial/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/meta-ai-desembarca-en-mac-con-una-app-nativa-y-nuevas-funciones-de-inteligencia-artificial/</guid>
-      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/CleanShot-2026-08-19-at-16.05.43.png" alt="Meta AI desembarca en Mac con una app nativa y nuevas funciones de inteligencia artificial" /></p><p>La compañía lanzó una versión beta de Meta AI para macOS, diseñada específicamente para computadoras con Apple Silicon. Permite consultar contenido de otras ventanas, usar dictado, generar archivos multimedia y programar tareas y recordatorios.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/CleanShot-2026-08-19-at-16.05.43.png" type="image/png" />
     </item>
 
     <item>
@@ -135,13 +135,12 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
     </item>
 
     <item>
-      <title><![CDATA[Apple prepara AirPods con cámaras para potenciar Siri y la Inteligencia Visual]]></title>
-      <link>https://ultimasgeek.com/apple-prepara-airpods-con-camaras-para-potenciar-siri-y-la-inteligencia-visual/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-prepara-airpods-con-camaras-para-potenciar-siri-y-la-inteligencia-visual/</guid>
-      <pubDate>Tue, 18 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Diseno-sin-titulo-2-1000x600.jpg" alt="Apple prepara AirPods con cámaras para potenciar Siri y la Inteligencia Visual" /></p><p>Un video descubierto dentro de macOS Tahoe 26.7 muestra cómo funcionarían los nuevos auriculares de Apple equipados con sensores visuales.
-La tecnología permitiría que Siri interprete lo que rodea al usuario y guarde información mediante Visual Intelligence, mientras crecen las expectativas por una…</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Diseno-sin-titulo-2-1000x600.jpg" type="image/jpeg" />
+      <title><![CDATA[Meta AI desembarca en Mac con una app nativa y nuevas funciones de inteligencia artificial]]></title>
+      <link>https://ultimasgeek.com/meta-ai-desembarca-en-mac-con-una-app-nativa-y-nuevas-funciones-de-inteligencia-artificial/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/meta-ai-desembarca-en-mac-con-una-app-nativa-y-nuevas-funciones-de-inteligencia-artificial/</guid>
+      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/CleanShot-2026-08-19-at-16.05.43.png" alt="Meta AI desembarca en Mac con una app nativa y nuevas funciones de inteligencia artificial" /></p><p>La compañía lanzó una versión beta de Meta AI para macOS, diseñada específicamente para computadoras con Apple Silicon. Permite consultar contenido de otras ventanas, usar dictado, generar archivos multimedia y programar tareas y recordatorios.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/CleanShot-2026-08-19-at-16.05.43.png" type="image/png" />
     </item>
 
     <item>
@@ -178,6 +177,16 @@ La tecnología permitiría que Siri interprete lo que rodea al usuario y guarde 
       <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/mark-zuckerberg-2657647436-1000x600.jpg" alt="Zuckerberg anticipó el futuro de la IA: inventar antes que automatizar" /></p><p>El CEO de Meta sostuvo que la superinteligencia debería ampliar las capacidades humanas y permitir que más personas puedan crear, aprender y desarrollar nuevos proyectos.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/mark-zuckerberg-2657647436-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Apple prepara AirPods con cámaras para potenciar Siri y la Inteligencia Visual]]></title>
+      <link>https://ultimasgeek.com/apple-prepara-airpods-con-camaras-para-potenciar-siri-y-la-inteligencia-visual/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-prepara-airpods-con-camaras-para-potenciar-siri-y-la-inteligencia-visual/</guid>
+      <pubDate>Tue, 18 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Diseno-sin-titulo-2-1000x600.jpg" alt="Apple prepara AirPods con cámaras para potenciar Siri y la Inteligencia Visual" /></p><p>Un video descubierto dentro de macOS Tahoe 26.7 muestra cómo funcionarían los nuevos auriculares de Apple equipados con sensores visuales.
+La tecnología permitiría que Siri interprete lo que rodea al usuario y guarde información mediante Visual Intelligence, mientras crecen las expectativas por una…</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Diseno-sin-titulo-2-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -223,15 +232,6 @@ La tecnología permitiría que Siri interprete lo que rodea al usuario y guarde 
       <pubDate>Mon, 03 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/03/Diseno-sin-titulo-3-1000x600.jpg" alt="Apple desafía al Reino Unido por exigir acceso a datos cifrados de iCloud" /></p><p>La compañía presentó una nueva demanda contra el Gobierno británico por una orden que busca acceder a las copias de seguridad cifradas de usuarios locales. El caso reabre el debate sobre las puertas traseras, la vigilancia estatal y la seguridad de iCloud.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/03/Diseno-sin-titulo-3-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple multiplicó sus ingresos durante los 15 años de Tim Cook]]></title>
-      <link>https://ultimasgeek.com/apple-multiplico-sus-ingresos-durante-los-15-anos-de-tim-cook/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-multiplico-sus-ingresos-durante-los-15-anos-de-tim-cook/</guid>
-      <pubDate>Fri, 31 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-7-1.jpeg" alt="Apple multiplicó sus ingresos durante los 15 años de Tim Cook" /></p><p>La compañía pasó de facturar US$108.000 millones anuales en 2011 a superar esa cifra en un solo trimestre. John Ternus asumirá como CEO el 1° de septiembre.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/images-7-1.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
