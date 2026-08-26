@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 26 Aug 2026 12:50:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:53:44 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple presentó la nueva Mac mini con chips M6 y M5 Pro]]></title>
@@ -96,6 +96,24 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
       <pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/StC_FRE_2_click_1080_16x9-00-00-00-676-1000x600.jpeg" alt="Google suma dictado por voz natural a Gemini para macOS y apuesta por una IA más integrada" /></p><p>La compañía presentó una nueva función que permite crear, editar y resumir texto mediante la voz desde cualquier aplicación en Mac. La herramienta busca reducir el cambio entre ventanas y convertir a Gemini en un asistente cada vez más presente dentro del flujo de trabajo diario.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/StC_FRE_2_click_1080_16x9-00-00-00-676-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Instagram lanzó First Draft: la función que crea un Reel automáticamente con un solo toque]]></title>
+      <link>https://ultimasgeek.com/instagram-lanzo-first-draft-la-funcion-que-crea-un-reel-automaticamente-con-un-solo-toque/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/instagram-lanzo-first-draft-la-funcion-que-crea-un-reel-automaticamente-con-un-solo-toque/</guid>
+      <pubDate>Wed, 26 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Diseno-sin-titulo-7-1000x600.jpg" alt="Instagram lanzó First Draft: la función que crea un Reel automáticamente con un solo toque" /></p><p>La nueva herramienta recorta videos, elimina pausas y arma un primer montaje en segundos. Por ahora, está disponible en la aplicación de Instagram para iPhone.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Diseno-sin-titulo-7-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Meta prepara Hatch, un agente de IA que podría costar hasta US$199,99 al mes]]></title>
+      <link>https://ultimasgeek.com/meta-prepara-hatch-un-agente-de-ia-que-podria-costar-hasta-us19999-al-mes/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/meta-prepara-hatch-un-agente-de-ia-que-podria-costar-hasta-us19999-al-mes/</guid>
+      <pubDate>Wed, 26 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/meta-brazil-hate-speech-policy-1024x673-1-1000x600.jpg" alt="Meta prepara Hatch, un agente de IA que podría costar hasta US$199,99 al mes" /></p><p>La compañía planea lanzar en las próximas semanas su nuevo agente de inteligencia artificial para consumidores. También trabaja en un modelo llamado Watermelon, previsto para octubre.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/meta-brazil-hate-speech-policy-1024x673-1-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -214,24 +232,6 @@ La tecnología permitiría que Siri interprete lo que rodea al usuario y guarde 
       <pubDate>Fri, 14 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/ios-notification-threat-apple-hero.jpg-1000x600.jpeg" alt="Apple lanzó nuevas alertas por ataques con spyware: qué hacer si aparece una notificación en el iPhone" /></p><p>La compañía envió avisos a usuarios de 110 países y advirtió que estas amenazas pueden involucrar programas de espionaje altamente sofisticados.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/ios-notification-threat-apple-hero.jpg-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple abrió un centro de manufactura avanzada en Houston y fabricará allí la Mac mini]]></title>
-      <link>https://ultimasgeek.com/apple-abrio-un-centro-de-manufactura-avanzada-en-houston-y-fabricara-alli-la-mac-mini/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-abrio-un-centro-de-manufactura-avanzada-en-houston-y-fabricara-alli-la-mac-mini/</guid>
-      <pubDate>Thu, 13 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-Advanced-Manufacturing-Center-Houston-hero_big.jpg.large_-980x600.jpg" alt="Apple abrió un centro de manufactura avanzada en Houston y fabricará allí la Mac mini" /></p><p>La compañía inauguró una instalación destinada a capacitar gratuitamente a empresas y trabajadores en manufactura avanzada, automatización e inteligencia artificial. El complejo comparte sede con la planta que produce servidores de IA de Apple y sumará este año la fabricación de la Mac mini.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-Advanced-Manufacturing-Center-Houston-hero_big.jpg.large_-980x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Demandan a Apple por presunto fraude con la privacidad de iCloud Private Relay]]></title>
-      <link>https://ultimasgeek.com/demandan-a-apple-por-presunto-fraude-con-la-privacidad-de-icloud-private-relay/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/demandan-a-apple-por-presunto-fraude-con-la-privacidad-de-icloud-private-relay/</guid>
-      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/images.jpeg" alt="Demandan a Apple por presunto fraude con la privacidad de iCloud Private Relay" /></p><p>Una demanda colectiva acusa a Apple de promocionar iCloud Private Relay como una herramienta capaz de proteger la dirección IP y los datos de navegación pese a vulnerabilidades que podrían revelar esa información. El reclamo apunta a usuarios que pagan una suscripción a iCloud+.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/images.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
