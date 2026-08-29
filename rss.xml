@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Sat, 29 Aug 2026 05:51:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:23:03 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple presentó la nueva Mac mini con chips M6 y M5 Pro]]></title>
@@ -53,6 +53,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Google cambia los límites de Gemini Notebook y permitirá administrar mejor el uso de IA]]></title>
+      <link>https://ultimasgeek.com/google-cambia-los-limites-de-gemini-notebook-y-permitira-administrar-mejor-el-uso-de-ia/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-cambia-los-limites-de-gemini-notebook-y-permitira-administrar-mejor-el-uso-de-ia/</guid>
+      <pubDate>Sat, 29 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Notebook_limits-00-00-03-331-1000x600.jpeg" alt="Google cambia los límites de Gemini Notebook y permitirá administrar mejor el uso de IA" /></p><p>La compañía implementará desde el 2 de septiembre un nuevo sistema de consumo basado en la capacidad de cómputo utilizada. Los límites se renovarán cada cinco horas y dependerán de factores como la complejidad de las consultas, la extensión de los chats y las funciones elegidas.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Notebook_limits-00-00-03-331-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Google ofrece Gemini gratis por un año a estudiantes: qué incluye y quiénes pueden acceder]]></title>
       <link>https://ultimasgeek.com/google-ofrece-gemini-gratis-por-un-ano-a-estudiantes-que-incluye-y-quienes-pueden-acceder/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-ofrece-gemini-gratis-por-un-ano-a-estudiantes-que-incluye-y-quienes-pueden-acceder/</guid>
@@ -90,12 +99,12 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
     </item>
 
     <item>
-      <title><![CDATA[Google suma dictado por voz natural a Gemini para macOS y apuesta por una IA más integrada]]></title>
-      <link>https://ultimasgeek.com/google-suma-dictado-por-voz-natural-a-gemini-para-macos-y-apuesta-por-una-ia-mas-integrada/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-suma-dictado-por-voz-natural-a-gemini-para-macos-y-apuesta-por-una-ia-mas-integrada/</guid>
-      <pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/StC_FRE_2_click_1080_16x9-00-00-00-676-1000x600.jpeg" alt="Google suma dictado por voz natural a Gemini para macOS y apuesta por una IA más integrada" /></p><p>La compañía presentó una nueva función que permite crear, editar y resumir texto mediante la voz desde cualquier aplicación en Mac. La herramienta busca reducir el cambio entre ventanas y convertir a Gemini en un asistente cada vez más presente dentro del flujo de trabajo diario.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/StC_FRE_2_click_1080_16x9-00-00-00-676-1000x600.jpeg" type="image/jpeg" />
+      <title><![CDATA[ChatGPT suma una función para conectar varias cuentas de Gmail y Google Calendar]]></title>
+      <link>https://ultimasgeek.com/chatgpt-suma-una-funcion-para-conectar-varias-cuentas-de-gmail-y-google-calendar/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/chatgpt-suma-una-funcion-para-conectar-varias-cuentas-de-gmail-y-google-calendar/</guid>
+      <pubDate>Sat, 29 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" alt="ChatGPT suma una función para conectar varias cuentas de Gmail y Google Calendar" /></p><p>OpenAI habilitó el uso de múltiples cuentas de Google en ChatGPT y Codex. La novedad permite vincular perfiles personales y laborales de Gmail, Calendar y Contactos dentro de una misma cuenta.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -153,15 +162,6 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
     </item>
 
     <item>
-      <title><![CDATA[WhatsApp prepara pagos y podría ampliarlos a más países]]></title>
-      <link>https://ultimasgeek.com/whatsapp-prepara-pagos-y-podria-ampliarlos-a-mas-paises/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-prepara-pagos-y-podria-ampliarlos-a-mas-paises/</guid>
-      <pubDate>Mon, 24 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/WhatsApp-VLOP-en-Europa-9-1089476513-1000x600.jpg" alt="WhatsApp prepara pagos y podría ampliarlos a más países" /></p><p>La aplicación desarrolla una nueva sección en iPhone que permitirá enviar dinero a contactos y guardar tarjetas. Por ahora, la función está en desarrollo y Meta no confirmó en qué mercados estará disponible.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/WhatsApp-VLOP-en-Europa-9-1089476513-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Adobe potencia Firefly: su IA ya puede crear la música completa para un video]]></title>
       <link>https://ultimasgeek.com/adobe-potencia-firefly-su-ia-ya-puede-crear-la-musica-completa-para-un-video/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/adobe-potencia-firefly-su-ia-ya-puede-crear-la-musica-completa-para-un-video/</guid>
@@ -198,15 +198,6 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
     </item>
 
     <item>
-      <title><![CDATA[SpaceXAI lanzó Grok 4.6 y afirma que iguala a GPT-5.6 Sol]]></title>
-      <link>https://ultimasgeek.com/spacexai-lanzo-grok-4-6-y-afirma-que-iguala-a-gpt-5-6-sol/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/spacexai-lanzo-grok-4-6-y-afirma-que-iguala-a-gpt-5-6-sol/</guid>
-      <pubDate>Wed, 12 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/grok-1157810717-1000x600.jpg" alt="SpaceXAI lanzó Grok 4.6 y afirma que iguala a GPT-5.6 Sol" /></p><p>La compañía presentó una nueva versión de Grok enfocada en agentes capaces de sostener tareas complejas durante más tiempo, programación y trabajos de conocimiento. El modelo ya está disponible en distintas plataformas y obtuvo 61 puntos en un índice que lo coloca a la altura de GPT-5.6 Sol, según l…</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/grok-1157810717-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Apple cambia las reglas de la App Store en la UE y elimina una tarifa]]></title>
       <link>https://ultimasgeek.com/apple-cambia-las-reglas-de-la-app-store-en-la-ue-y-elimina-una-tarifa/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-cambia-las-reglas-de-la-app-store-en-la-ue-y-elimina-una-tarifa/</guid>
@@ -232,6 +223,15 @@ La tecnología permitiría que Siri interprete lo que rodea al usuario y guarde 
       <pubDate>Fri, 14 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/ios-notification-threat-apple-hero.jpg-1000x600.jpeg" alt="Apple lanzó nuevas alertas por ataques con spyware: qué hacer si aparece una notificación en el iPhone" /></p><p>La compañía envió avisos a usuarios de 110 países y advirtió que estas amenazas pueden involucrar programas de espionaje altamente sofisticados.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/ios-notification-threat-apple-hero.jpg-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google suma dictado por voz natural a Gemini para macOS y apuesta por una IA más integrada]]></title>
+      <link>https://ultimasgeek.com/google-suma-dictado-por-voz-natural-a-gemini-para-macos-y-apuesta-por-una-ia-mas-integrada/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-suma-dictado-por-voz-natural-a-gemini-para-macos-y-apuesta-por-una-ia-mas-integrada/</guid>
+      <pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/StC_FRE_2_click_1080_16x9-00-00-00-676-1000x600.jpeg" alt="Google suma dictado por voz natural a Gemini para macOS y apuesta por una IA más integrada" /></p><p>La compañía presentó una nueva función que permite crear, editar y resumir texto mediante la voz desde cualquier aplicación en Mac. La herramienta busca reducir el cambio entre ventanas y convertir a Gemini en un asistente cada vez más presente dentro del flujo de trabajo diario.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/StC_FRE_2_click_1080_16x9-00-00-00-676-1000x600.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
