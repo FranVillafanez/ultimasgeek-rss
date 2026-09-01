@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 01 Sep 2026 17:38:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:37:46 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[John Ternus asumió como CEO de Apple y reemplazó a Tim Cook tras 15 años]]></title>
@@ -53,6 +53,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Google lanzó Pics, su nueva herramienta con IA para crear y editar imágenes en Workspace]]></title>
+      <link>https://ultimasgeek.com/google-lanzo-pics-su-nueva-herramienta-con-ia-para-crear-y-editar-imagenes-en-workspace/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-lanzo-pics-su-nueva-herramienta-con-ia-para-crear-y-editar-imagenes-en-workspace/</guid>
+      <pubDate>Tue, 01 Sep 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/GooglePics_Hero.width-1600.format-webp-1000x600.jpeg" alt="Google lanzó Pics, su nueva herramienta con IA para crear y editar imágenes en Workspace" /></p><p>La plataforma permite generar gráficos, modificar objetos y editar textos dentro de imágenes. Comenzará a llegar a usuarios de Google AI Pro y Ultra y a clientes empresariales de Workspace.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/GooglePics_Hero.width-1600.format-webp-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Google mejora Antigravity con equipos de agentes de IA]]></title>
       <link>https://ultimasgeek.com/google-mejora-antigravity-con-equipos-de-agentes-de-ia/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-mejora-antigravity-con-equipos-de-agentes-de-ia/</guid>
@@ -87,15 +96,6 @@
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Grizzly-Vibe3_inline.width-1200.format-webp-1000x600.jpeg" alt="Google lanzó Pixel 11 y Pixel Tag para desafiar al AirTag con Gemini" /></p><p>La compañía renovó su familia de smartphones con cuatro modelos y presentó su primer rastreador de objetos, integrado a la red Find Hub de Android.
 El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemini enfocadas en accesibilidad, búsquedas y asistencia por voz.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Grizzly-Vibe3_inline.width-1200.format-webp-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Aptoide vuelve a Google Play y se convierte en la primera tienda rival disponible en Estados Unidos]]></title>
-      <link>https://ultimasgeek.com/aptoide-vuelve-a-google-play-y-se-convierte-en-la-primera-tienda-rival-disponible-en-estados-unidos/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/aptoide-vuelve-a-google-play-y-se-convierte-en-la-primera-tienda-rival-disponible-en-estados-unidos/</guid>
-      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/48c1f18f7d65f38d0b19af5f47015e9c_fgraphic-1000x500.jpg" alt="Aptoide vuelve a Google Play y se convierte en la primera tienda rival disponible en Estados Unidos" /></p><p>La plataforma portuguesa Aptoide regresó a Google Play después de más de una década y permitirá que los usuarios estadounidenses instalen una tienda alternativa directamente desde el ecosistema de Google. El cambio llega tras el fallo judicial en el caso impulsado por Epic Games, que obligó a flexib…</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/48c1f18f7d65f38d0b19af5f47015e9c_fgraphic-1000x500.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -226,12 +226,12 @@ La tecnología permitiría que Siri interprete lo que rodea al usuario y guarde 
     </item>
 
     <item>
-      <title><![CDATA[Demis Hassabis deja la conducción de Google DeepMind y asume un rol estratégico]]></title>
-      <link>https://ultimasgeek.com/demis-hassabis-deja-la-conduccion-de-google-deepmind-y-asume-un-rol-estrategico/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/demis-hassabis-deja-la-conduccion-de-google-deepmind-y-asume-un-rol-estrategico/</guid>
-      <pubDate>Wed, 05 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/daniss-1000x600.jpg" alt="Demis Hassabis deja la conducción de Google DeepMind y asume un rol estratégico" /></p><p>El cofundador del laboratorio abandonará las tareas operativas y será presidente de Google DeepMind y científico jefe de Alphabet. Koray Kavukcuoglu quedará al frente del desarrollo de Gemini, la investigación avanzada y los productos de inteligencia artificial.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/daniss-1000x600.jpg" type="image/jpeg" />
+      <title><![CDATA[Aptoide vuelve a Google Play y se convierte en la primera tienda rival disponible en Estados Unidos]]></title>
+      <link>https://ultimasgeek.com/aptoide-vuelve-a-google-play-y-se-convierte-en-la-primera-tienda-rival-disponible-en-estados-unidos/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/aptoide-vuelve-a-google-play-y-se-convierte-en-la-primera-tienda-rival-disponible-en-estados-unidos/</guid>
+      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/48c1f18f7d65f38d0b19af5f47015e9c_fgraphic-1000x500.jpg" alt="Aptoide vuelve a Google Play y se convierte en la primera tienda rival disponible en Estados Unidos" /></p><p>La plataforma portuguesa Aptoide regresó a Google Play después de más de una década y permitirá que los usuarios estadounidenses instalen una tienda alternativa directamente desde el ecosistema de Google. El cambio llega tras el fallo judicial en el caso impulsado por Epic Games, que obligó a flexib…</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/48c1f18f7d65f38d0b19af5f47015e9c_fgraphic-1000x500.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
