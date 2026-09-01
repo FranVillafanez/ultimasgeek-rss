@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 31 Aug 2026 22:32:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:40:59 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple acusa a OpenAI de usar secretos robados y destruir pruebas clave]]></title>
+      <link>https://ultimasgeek.com/apple-acusa-a-openai-de-usar-secretos-robados-y-destruir-pruebas-clave/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-acusa-a-openai-de-usar-secretos-robados-y-destruir-pruebas-clave/</guid>
+      <pubDate>Mon, 31 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/df81ed65-ee14-4438-a21b-72177a55e3ed-1000x600.png" alt="Apple acusa a OpenAI de usar secretos robados y destruir pruebas clave" /></p><p>La compañía presentó nueva evidencia contra OpenAI y dos exempleados en la causa por presunto robo de secretos comerciales. El análisis de una MacBook habría revelado el uso de un esquema confidencial de Apple y mensajes vinculados con la eliminación de pruebas.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/df81ed65-ee14-4438-a21b-72177a55e3ed-1000x600.png" type="image/png" />
+    </item>
 
     <item>
       <title><![CDATA[Apple presentó la nueva Mac mini con chips M6 y M5 Pro]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Thu, 20 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/ChatGPT-Image-20-ago-2026-03_47_05-p.m-1000x600.png" alt="ChatGPT suma integración con Mensajes de Apple en Mac: qué permite hacer y quiénes pueden usarla" /></p><p>La nueva función permite buscar conversaciones de iMessage, SMS y RCS, preparar respuestas y enviar mensajes desde la aplicación de Apple. Está disponible en todos los planes, aunque requiere una Mac con Apple silicon.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/ChatGPT-Image-20-ago-2026-03_47_05-p.m-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple rechazó el pedido de OpenAI para cerrar una demanda por presunto robo de secretos comerciales]]></title>
-      <link>https://ultimasgeek.com/apple-rechazo-el-pedido-de-openai-para-cerrar-una-demanda-por-presunto-robo-de-secretos-comerciales/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-rechazo-el-pedido-de-openai-para-cerrar-una-demanda-por-presunto-robo-de-secretos-comerciales/</guid>
-      <pubDate>Thu, 20 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/7de08c89-b18e-44ee-826a-152fbcff8b79-1000x600.png" alt="Apple rechazó el pedido de OpenAI para cerrar una demanda por presunto robo de secretos comerciales" /></p><p>La compañía respondió ante la Justicia y sostuvo que su denuncia identifica secretos comerciales concretos que habrían sido apropiados por exempleados, OpenAI e io Products.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/7de08c89-b18e-44ee-826a-152fbcff8b79-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -180,6 +180,15 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
     </item>
 
     <item>
+      <title><![CDATA[Apple rechazó el pedido de OpenAI para cerrar una demanda por presunto robo de secretos comerciales]]></title>
+      <link>https://ultimasgeek.com/apple-rechazo-el-pedido-de-openai-para-cerrar-una-demanda-por-presunto-robo-de-secretos-comerciales/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-rechazo-el-pedido-de-openai-para-cerrar-una-demanda-por-presunto-robo-de-secretos-comerciales/</guid>
+      <pubDate>Thu, 20 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/7de08c89-b18e-44ee-826a-152fbcff8b79-1000x600.png" alt="Apple rechazó el pedido de OpenAI para cerrar una demanda por presunto robo de secretos comerciales" /></p><p>La compañía respondió ante la Justicia y sostuvo que su denuncia identifica secretos comerciales concretos que habrían sido apropiados por exempleados, OpenAI e io Products.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/7de08c89-b18e-44ee-826a-152fbcff8b79-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
       <title><![CDATA[Meta AI desembarca en Mac con una app nativa y nuevas funciones de inteligencia artificial]]></title>
       <link>https://ultimasgeek.com/meta-ai-desembarca-en-mac-con-una-app-nativa-y-nuevas-funciones-de-inteligencia-artificial/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/meta-ai-desembarca-en-mac-con-una-app-nativa-y-nuevas-funciones-de-inteligencia-artificial/</guid>
@@ -195,15 +204,6 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
       <pubDate>Thu, 13 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/scam-alert-whatsapp.jpg-1000x600.jpeg" alt="WhatsApp prueba una alerta con IA para detectar mensajes de estafa antes de responder" /></p><p>La función Scam Alert analiza en el propio celular los chats de números desconocidos y advierte al usuario si encuentra señales asociadas con fraudes. Por ahora, está disponible en fase beta.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/scam-alert-whatsapp.jpg-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[OpenAI acelera GPT-5.6 Sol: su nuevo modo Ultrafast es hasta 14 veces más rápido]]></title>
-      <link>https://ultimasgeek.com/openai-acelera-gpt-5-6-sol-su-nuevo-modo-ultrafast-es-hasta-14-veces-mas-rapido/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/openai-acelera-gpt-5-6-sol-su-nuevo-modo-ultrafast-es-hasta-14-veces-mas-rapido/</guid>
-      <pubDate>Thu, 13 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" alt="OpenAI acelera GPT-5.6 Sol: su nuevo modo Ultrafast es hasta 14 veces más rápido" /></p><p>La compañía presentó una versión de alta velocidad que alcanza hasta 750 tokens por segundo. Debutará en la API de OpenAI y funcionará con tecnología de Cerebras.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
