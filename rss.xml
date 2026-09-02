@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 02 Sep 2026 20:34:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 23:00:04 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[John Ternus asumió como CEO de Apple y reemplazó a Tim Cook tras 15 años]]></title>
@@ -104,6 +104,15 @@
       <pubDate>Mon, 31 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/1200x675_cmsv2_df1bbc67-2d7e-5b78-bcdc-4321fd474aad-8059116.jpg-1000x600.jpeg" alt="Instagram limitará el alcance de perfiles de IA que se hagan pasar por personas reales" /></p><p>La red social identificará las cuentas con personajes creados por inteligencia artificial y dejará de recomendar aquellas que no informen de manera clara que no representan a una persona real.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/1200x675_cmsv2_df1bbc67-2d7e-5b78-bcdc-4321fd474aad-8059116.jpg-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[ChatGPT suma una función para conectar varias cuentas de Gmail y Google Calendar]]></title>
+      <link>https://ultimasgeek.com/chatgpt-suma-una-funcion-para-conectar-varias-cuentas-de-gmail-y-google-calendar/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/chatgpt-suma-una-funcion-para-conectar-varias-cuentas-de-gmail-y-google-calendar/</guid>
+      <pubDate>Sat, 29 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" alt="ChatGPT suma una función para conectar varias cuentas de Gmail y Google Calendar" /></p><p>OpenAI habilitó el uso de múltiples cuentas de Google en ChatGPT y Codex. La novedad permite vincular perfiles personales y laborales de Gmail, Calendar y Contactos dentro de una misma cuenta.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -222,15 +231,6 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
       <pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/StC_FRE_2_click_1080_16x9-00-00-00-676-1000x600.jpeg" alt="Google suma dictado por voz natural a Gemini para macOS y apuesta por una IA más integrada" /></p><p>La compañía presentó una nueva función que permite crear, editar y resumir texto mediante la voz desde cualquier aplicación en Mac. La herramienta busca reducir el cambio entre ventanas y convertir a Gemini en un asistente cada vez más presente dentro del flujo de trabajo diario.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/StC_FRE_2_click_1080_16x9-00-00-00-676-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Waze suma un modo para motos, navegación personalizada e integra Gemini para mejorar las búsquedas por voz]]></title>
-      <link>https://ultimasgeek.com/waze-suma-un-modo-para-motos-navegacion-personalizada-e-integra-gemini-para-mejorar-las-busquedas-por-voz/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/waze-suma-un-modo-para-motos-navegacion-personalizada-e-integra-gemini-para-mejorar-las-busquedas-por-voz/</guid>
-      <pubDate>Mon, 13 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/brief_instructions_English.width-1000.format-webp.jpeg" alt="Waze suma un modo para motos, navegación personalizada e integra Gemini para mejorar las búsquedas por voz" /></p><p>La aplicación de navegación de Google anunció una serie de funciones impulsadas por inteligencia artificial, entre ellas un Modo Moto, rutas adaptadas a cada usuario y nuevas búsquedas conversacionales con Gemini.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/brief_instructions_English.width-1000.format-webp.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
