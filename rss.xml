@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 03 Sep 2026 11:57:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 16:09:45 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[John Ternus asumió como CEO de Apple y reemplazó a Tim Cook tras 15 años]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Sat, 29 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Notebook_limits-00-00-03-331-1000x600.jpeg" alt="Google cambia los límites de Gemini Notebook y permitirá administrar mejor el uso de IA" /></p><p>La compañía implementará desde el 2 de septiembre un nuevo sistema de consumo basado en la capacidad de cómputo utilizada. Los límites se renovarán cada cinco horas y dependerán de factores como la complejidad de las consultas, la extensión de los chats y las funciones elegidas.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Notebook_limits-00-00-03-331-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Nvidia acordó comprar Hugging Face por US$ 12.930 millones y apuesta por la inteligencia artificial abierta]]></title>
+      <link>https://ultimasgeek.com/nvidia-acordo-comprar-hugging-face-por-us-12-930-millones-y-apuesta-por-la-inteligencia-artificial-abierta/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/nvidia-acordo-comprar-hugging-face-por-us-12-930-millones-y-apuesta-por-la-inteligencia-artificial-abierta/</guid>
+      <pubDate>Thu, 03 Sep 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/ChatGPT-Image-3-sept-2026-11_01_49-a.m-1000x600.png" alt="Nvidia acordó comprar Hugging Face por US$ 12.930 millones y apuesta por la inteligencia artificial abierta" /></p><p>La fabricante de chips adquirirá una de las mayores plataformas de modelos de inteligencia artificial. Hugging Face seguirá abierta y permitirá utilizar tecnología de otros proveedores.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/ChatGPT-Image-3-sept-2026-11_01_49-a.m-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -222,15 +231,6 @@ El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemi
       <pubDate>Wed, 05 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/daniss-1000x600.jpg" alt="Demis Hassabis deja la conducción de Google DeepMind y asume un rol estratégico" /></p><p>El cofundador del laboratorio abandonará las tareas operativas y será presidente de Google DeepMind y científico jefe de Alphabet. Koray Kavukcuoglu quedará al frente del desarrollo de Gemini, la investigación avanzada y los productos de inteligencia artificial.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/daniss-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google suma dictado por voz natural a Gemini para macOS y apuesta por una IA más integrada]]></title>
-      <link>https://ultimasgeek.com/google-suma-dictado-por-voz-natural-a-gemini-para-macos-y-apuesta-por-una-ia-mas-integrada/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-suma-dictado-por-voz-natural-a-gemini-para-macos-y-apuesta-por-una-ia-mas-integrada/</guid>
-      <pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/StC_FRE_2_click_1080_16x9-00-00-00-676-1000x600.jpeg" alt="Google suma dictado por voz natural a Gemini para macOS y apuesta por una IA más integrada" /></p><p>La compañía presentó una nueva función que permite crear, editar y resumir texto mediante la voz desde cualquier aplicación en Mac. La herramienta busca reducir el cambio entre ventanas y convertir a Gemini en un asistente cada vez más presente dentro del flujo de trabajo diario.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/07/StC_FRE_2_click_1080_16x9-00-00-00-676-1000x600.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
