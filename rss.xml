@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 09 Sep 2026 08:41:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:27:06 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple cambiaría el nombre de su iPhone plegable antes del lanzamiento: costaría US$2.000]]></title>
+      <link>https://ultimasgeek.com/apple-cambiaria-el-nombre-de-su-iphone-plegable-antes-del-lanzamiento-costaria-us2-000/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-cambiaria-el-nombre-de-su-iphone-plegable-antes-del-lanzamiento-costaria-us2-000/</guid>
+      <pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/2048-1000x600.jpeg" alt="Apple cambiaría el nombre de su iPhone plegable antes del lanzamiento: costaría US$2.000" /></p><p>A horas del evento, Bloomberg adelantó detalles sobre los próximos lanzamientos de Apple. El plegable sería llamado iPhone Duo, tendría formato tipo libro, dos pantallas y funciones de multitarea, mientras que los nuevos Apple Watch sumarían herramientas de grabación y resúmenes con inteligencia art…</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/2048-1000x600.jpeg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[John Ternus asumió como CEO de Apple y reemplazó a Tim Cook tras 15 años]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-Mac-Studio-hero-260825_big.jpg.large_.jpg" alt="Apple renueva la Mac Studio con M5 Max y M5 Ultra y apuesta fuerte por la IA" /></p><p>La compañía presentó su computadora de escritorio profesional más potente, con hasta 512 GB de memoria unificada, mejoras en gráficos y un salto de rendimiento para inteligencia artificial. La nueva Mac Studio ya puede reservarse y llegará a las tiendas el 22 de septiembre.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-Mac-Studio-hero-260825_big.jpg.large_.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple prepara su primer iPhone plegable: qué sorprendió a quienes ya probaron el iPhone Ultra]]></title>
-      <link>https://ultimasgeek.com/apple-prepara-su-primer-iphone-plegable-que-sorprendio-a-quienes-ya-probaron-el-iphone-ultra/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-prepara-su-primer-iphone-plegable-que-sorprendio-a-quienes-ya-probaron-el-iphone-ultra/</guid>
-      <pubDate>Sun, 23 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/f0e76d05-08b8-4093-8f22-22d15731d170-1000x600.png" alt="Apple prepara su primer iPhone plegable: qué sorprendió a quienes ya probaron el iPhone Ultra" /></p><p>Los primeros usuarios que tuvieron acceso al iPhone Ultra plegable destacaron su formato compacto, la solidez de la bisagra y el aprovechamiento de la pantalla interna. Sin embargo, el futuro teléfono premium de Apple tendría una ausencia llamativa en sus cámaras pese a un precio que podría superar…</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/f0e76d05-08b8-4093-8f22-22d15731d170-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -161,12 +161,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Perplexity lanza Portable Computer, su agente de IA que funciona de forma local y reduce el uso de la nube]]></title>
-      <link>https://ultimasgeek.com/perplexity-lanza-portable-computer-su-agente-de-ia-que-funciona-de-forma-local-y-reduce-el-uso-de-la-nube/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/perplexity-lanza-portable-computer-su-agente-de-ia-que-funciona-de-forma-local-y-reduce-el-uso-de-la-nube/</guid>
-      <pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/portable-computer-og-v1-1000x600.jpg" alt="Perplexity lanza Portable Computer, su agente de IA que funciona de forma local y reduce el uso de la nube" /></p><p>La compañía desarrolló junto a NVIDIA una versión de Perplexity Computer que procesa archivos y ejecuta tareas en el propio equipo, sin consumir créditos por el trabajo local.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/portable-computer-og-v1-1000x600.jpg" type="image/jpeg" />
+      <title><![CDATA[Apple prepara su primer iPhone plegable: qué sorprendió a quienes ya probaron el iPhone Ultra]]></title>
+      <link>https://ultimasgeek.com/apple-prepara-su-primer-iphone-plegable-que-sorprendio-a-quienes-ya-probaron-el-iphone-ultra/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-prepara-su-primer-iphone-plegable-que-sorprendio-a-quienes-ya-probaron-el-iphone-ultra/</guid>
+      <pubDate>Sun, 23 Aug 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/f0e76d05-08b8-4093-8f22-22d15731d170-1000x600.png" alt="Apple prepara su primer iPhone plegable: qué sorprendió a quienes ya probaron el iPhone Ultra" /></p><p>Los primeros usuarios que tuvieron acceso al iPhone Ultra plegable destacaron su formato compacto, la solidez de la bisagra y el aprovechamiento de la pantalla interna. Sin embargo, el futuro teléfono premium de Apple tendría una ausencia llamativa en sus cámaras pese a un precio que podría superar…</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/f0e76d05-08b8-4093-8f22-22d15731d170-1000x600.png" type="image/png" />
     </item>
 
     <item>
