@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 11 Sep 2026 08:37:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:16:56 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple presentó el iPhone Duo, su primer iPhone plegable: precio, características y cuándo sale a la venta]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Sat, 29 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Notebook_limits-00-00-03-331-1000x600.jpeg" alt="Google cambia los límites de Gemini Notebook y permitirá administrar mejor el uso de IA" /></p><p>La compañía implementará desde el 2 de septiembre un nuevo sistema de consumo basado en la capacidad de cómputo utilizada. Los límites se renovarán cada cinco horas y dependerán de factores como la complejidad de las consultas, la extensión de los chats y las funciones elegidas.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Notebook_limits-00-00-03-331-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Meta prueba las Notas de la Comunidad en Argentina y otros 15 países de América Latina]]></title>
+      <link>https://ultimasgeek.com/meta-prueba-las-notas-de-la-comunidad-en-argentina-y-otros-15-paises-de-america-latina/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/meta-prueba-las-notas-de-la-comunidad-en-argentina-y-otros-15-paises-de-america-latina/</guid>
+      <pubDate>Fri, 11 Sep 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/CNonApps.png-1000x600.jpeg" alt="Meta prueba las Notas de la Comunidad en Argentina y otros 15 países de América Latina" /></p><p>La compañía comenzó a incorporar colaboradores para probar el sistema en Facebook, Instagram y Threads. Durante esta etapa mantendrá la verificación independiente, aunque prevé una transición cuando considere que el nuevo modelo funciona correctamente.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/CNonApps.png-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -203,15 +212,6 @@
       <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/CleanShot-2026-08-19-at-16.05.43.png" alt="Meta AI desembarca en Mac con una app nativa y nuevas funciones de inteligencia artificial" /></p><p>La compañía lanzó una versión beta de Meta AI para macOS, diseñada específicamente para computadoras con Apple Silicon. Permite consultar contenido de otras ventanas, usar dictado, generar archivos multimedia y programar tareas y recordatorios.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/CleanShot-2026-08-19-at-16.05.43.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple cambia las reglas de la App Store en la UE y elimina una tarifa]]></title>
-      <link>https://ultimasgeek.com/apple-cambia-las-reglas-de-la-app-store-en-la-ue-y-elimina-una-tarifa/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-cambia-las-reglas-de-la-app-store-en-la-ue-y-elimina-una-tarifa/</guid>
-      <pubDate>Tue, 18 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-App-Store-compliance-hero-1000x600.jpg" alt="Apple cambia las reglas de la App Store en la UE y elimina una tarifa" /></p><p>La compañía unificará desde octubre las condiciones comerciales para los desarrolladores que distribuyen aplicaciones en la Unión Europea. El nuevo esquema reemplazará el cargo por instalación y modificará las comisiones para compras dentro y fuera de la App Store.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Apple-App-Store-compliance-hero-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
