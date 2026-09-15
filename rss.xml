@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 15 Sep 2026 11:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 16:23:14 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple presentó el iPhone Duo, su primer iPhone plegable: precio, características y cuándo sale a la venta]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Sat, 29 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Notebook_limits-00-00-03-331-1000x600.jpeg" alt="Google cambia los límites de Gemini Notebook y permitirá administrar mejor el uso de IA" /></p><p>La compañía implementará desde el 2 de septiembre un nuevo sistema de consumo basado en la capacidad de cómputo utilizada. Los límites se renovarán cada cinco horas y dependerán de factores como la complejidad de las consultas, la extensión de los chats y las funciones elegidas.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Notebook_limits-00-00-03-331-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Spotify permite excluir la música infantil de Wrapped y sus recomendaciones]]></title>
+      <link>https://ultimasgeek.com/spotify-permite-excluir-la-musica-infantil-de-wrapped-y-sus-recomendaciones/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/spotify-permite-excluir-la-musica-infantil-de-wrapped-y-sus-recomendaciones/</guid>
+      <pubDate>Tue, 15 Sep 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/spotifypng.png-1000x600.webp" alt="Spotify permite excluir la música infantil de Wrapped y sus recomendaciones" /></p><p>La plataforma incorporó una opción para evitar que las canciones infantiles y familiares alteren el perfil musical del usuario. El cambio también se aplica al historial de escucha.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/spotifypng.png-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -222,15 +231,6 @@
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Grizzly-Vibe3_inline.width-1200.format-webp-1000x600.jpeg" alt="Google lanzó Pixel 11 y Pixel Tag para desafiar al AirTag con Gemini" /></p><p>La compañía renovó su familia de smartphones con cuatro modelos y presentó su primer rastreador de objetos, integrado a la red Find Hub de Android.
 El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemini enfocadas en accesibilidad, búsquedas y asistencia por voz.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Grizzly-Vibe3_inline.width-1200.format-webp-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Aptoide vuelve a Google Play y se convierte en la primera tienda rival disponible en Estados Unidos]]></title>
-      <link>https://ultimasgeek.com/aptoide-vuelve-a-google-play-y-se-convierte-en-la-primera-tienda-rival-disponible-en-estados-unidos/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/aptoide-vuelve-a-google-play-y-se-convierte-en-la-primera-tienda-rival-disponible-en-estados-unidos/</guid>
-      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/48c1f18f7d65f38d0b19af5f47015e9c_fgraphic-1000x500.jpg" alt="Aptoide vuelve a Google Play y se convierte en la primera tienda rival disponible en Estados Unidos" /></p><p>La plataforma portuguesa Aptoide regresó a Google Play después de más de una década y permitirá que los usuarios estadounidenses instalen una tienda alternativa directamente desde el ecosistema de Google. El cambio llega tras el fallo judicial en el caso impulsado por Epic Games, que obligó a flexib…</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/48c1f18f7d65f38d0b19af5f47015e9c_fgraphic-1000x500.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
