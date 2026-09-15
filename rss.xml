@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 15 Sep 2026 16:23:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:02:04 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple presentó el iPhone Duo, su primer iPhone plegable: precio, características y cuándo sale a la venta]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Sat, 29 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Notebook_limits-00-00-03-331-1000x600.jpeg" alt="Google cambia los límites de Gemini Notebook y permitirá administrar mejor el uso de IA" /></p><p>La compañía implementará desde el 2 de septiembre un nuevo sistema de consumo basado en la capacidad de cómputo utilizada. Los límites se renovarán cada cinco horas y dependerán de factores como la complejidad de las consultas, la extensión de los chats y las funciones elegidas.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Notebook_limits-00-00-03-331-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Meta lanzó Meta One: cuánto cuestan los nuevos planes pagos para Instagram, WhatsApp y Facebook]]></title>
+      <link>https://ultimasgeek.com/meta-lanzo-meta-one-cuanto-cuestan-los-nuevos-planes-pagos-para-instagram-whatsapp-y-facebook/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/meta-lanzo-meta-one-cuanto-cuestan-los-nuevos-planes-pagos-para-instagram-whatsapp-y-facebook/</guid>
+      <pubDate>Tue, 15 Sep 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/CleanShot-2026-09-15-at-14.10.35.png" alt="Meta lanzó Meta One: cuánto cuestan los nuevos planes pagos para Instagram, WhatsApp y Facebook" /></p><p>La compañía presentó nuevas suscripciones que suman herramientas de inteligencia artificial, creación de contenido y funciones especiales para usuarios, creadores y empresas.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/CleanShot-2026-09-15-at-14.10.35.png" type="image/png" />
     </item>
 
     <item>
@@ -221,16 +230,6 @@
       <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/BTS_gemini_hero_withcopy.width-1600.format-webp-1000x600.jpeg" alt="Google ofrece Gemini gratis por un año a estudiantes: qué incluye y quiénes pueden acceder" /></p><p>La compañía lanzó una promoción para universitarios de más de 140 mercados, con 12 meses sin cargo de sus planes de inteligencia artificial y nuevas herramientas de estudio.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/BTS_gemini_hero_withcopy.width-1600.format-webp-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google lanzó Pixel 11 y Pixel Tag para desafiar al AirTag con Gemini]]></title>
-      <link>https://ultimasgeek.com/google-lanzo-pixel-11-y-pixel-tag-para-desafiar-al-airtag-con-gemini/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-lanzo-pixel-11-y-pixel-tag-para-desafiar-al-airtag-con-gemini/</guid>
-      <pubDate>Thu, 13 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Grizzly-Vibe3_inline.width-1200.format-webp-1000x600.jpeg" alt="Google lanzó Pixel 11 y Pixel Tag para desafiar al AirTag con Gemini" /></p><p>La compañía renovó su familia de smartphones con cuatro modelos y presentó su primer rastreador de objetos, integrado a la red Find Hub de Android.
-El evento también dejó novedades para Pixel Watch 5 y nuevas funciones de Gemini enfocadas en accesibilidad, búsquedas y asistencia por voz.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/Grizzly-Vibe3_inline.width-1200.format-webp-1000x600.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
