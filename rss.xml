@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 25 Sep 2026 11:17:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:40:33 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple pagará hasta US$40 a usuarios de iPhone en Argentina: quiénes pueden reclamar]]></title>
+      <link>https://ultimasgeek.com/apple-pagara-hasta-us40-a-usuarios-de-iphone-en-argentina-quienes-pueden-reclamar/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-pagara-hasta-us40-a-usuarios-de-iphone-en-argentina-quienes-pueden-reclamar/</guid>
+      <pubDate>Fri, 25 Sep 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" alt="Apple pagará hasta US$40 a usuarios de iPhone en Argentina: quiénes pueden reclamar" /></p><p>La compañía destinará un fondo de US$3 millones para compensar a propietarios y exusuarios de siete modelos. El trámite será online y todavía no tiene fecha de apertura.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Apple y Qualcomm renovaron su acuerdo global de patentes]]></title>
@@ -44,15 +53,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple presentó el iPhone Duo, su primer iPhone plegable: precio, características y cuándo sale a la venta]]></title>
-      <link>https://ultimasgeek.com/apple-presento-el-iphone-duo-su-primer-iphone-plegable-precio-caracteristicas-y-cuando-sale-a-la-venta/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-presento-el-iphone-duo-su-primer-iphone-plegable-precio-caracteristicas-y-cuando-sale-a-la-venta/</guid>
-      <pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Apple-iPhone-Duo-colors-260909-1000x600.jpg" alt="Apple presentó el iPhone Duo, su primer iPhone plegable: precio, características y cuándo sale a la venta" /></p><p>El nuevo teléfono tendrá una pantalla interna de 7,6 pulgadas, chip A20 Pro y un precio inicial de US$ 1.999. Las reservas comenzarán el 16 de octubre.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Apple-iPhone-Duo-colors-260909-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Reino Unido quiere que Android y Chrome permitan elegir entre buscadores y asistentes de IA]]></title>
       <link>https://ultimasgeek.com/reino-unido-quiere-que-android-y-chrome-permitan-elegir-entre-buscadores-y-asistentes-de-ia/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/reino-unido-quiere-que-android-y-chrome-permitan-elegir-entre-buscadores-y-asistentes-de-ia/</guid>
@@ -86,6 +86,15 @@
       <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/MR.BEAST_Resize_16x9.width-1300-1000x600.png" alt="MrBeast se asocia con Google: usará Gemini en nuevos desafíos extremos y sumará herramientas de salud" /></p><p>Google anunció una alianza de varios años con Beast Industries que llevará Gemini, Google Health y Fitbit a los próximos contenidos del creador, incluido un video que se estrenará el 5 de septiembre.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/MR.BEAST_Resize_16x9.width-1300-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[Claude ayudó a investigadores a acceder a sistemas internos de OpenAI]]></title>
+      <link>https://ultimasgeek.com/claude-ayudo-a-investigadores-a-acceder-a-sistemas-internos-de-openai/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/claude-ayudo-a-investigadores-a-acceder-a-sistemas-internos-de-openai/</guid>
+      <pubDate>Fri, 25 Sep 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/GettyImages-2191761606.jpg-1000x600.webp" alt="Claude ayudó a investigadores a acceder a sistemas internos de OpenAI" /></p><p>Un equipo de ciberseguridad utilizó Claude Opus 5 para explotar una cadena de fallas que terminó dando acceso a cuentas de empleados y a un repositorio interno de OpenAI. La empresa corrigió el problema y pagó una recompensa de US$ 6.500.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/GettyImages-2191761606.jpg-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -170,21 +179,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Adobe integra más inteligencia artificial en Premiere para generar video y audio sin salir de la línea de tiempo]]></title>
-      <link>https://ultimasgeek.com/adobe-integra-mas-inteligencia-artificial-en-premiere-para-generar-video-y-audio-sin-salir-de-la-linea-de-tiempo/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/adobe-integra-mas-inteligencia-artificial-en-premiere-para-generar-video-y-audio-sin-salir-de-la-linea-de-tiempo/</guid>
-      <pubDate>Tue, 08 Sep 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/media_1fa056a601a3494bb3fe36b31c3d5ed1a49f60f41.jpg" alt="Adobe integra más inteligencia artificial en Premiere para generar video y audio sin salir de la línea de tiempo" /></p><p>La compañía renovó el acceso a sus herramientas generativas para crear clips, música y efectos de sonido desde el propio proyecto, con modelos de Adobe, Google, Runway, Luma y Kling.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/media_1fa056a601a3494bb3fe36b31c3d5ed1a49f60f41.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Nvidia acordó comprar Hugging Face por US$ 12.930 millones y apuesta por la inteligencia artificial abierta]]></title>
-      <link>https://ultimasgeek.com/nvidia-acordo-comprar-hugging-face-por-us-12-930-millones-y-apuesta-por-la-inteligencia-artificial-abierta/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/nvidia-acordo-comprar-hugging-face-por-us-12-930-millones-y-apuesta-por-la-inteligencia-artificial-abierta/</guid>
-      <pubDate>Thu, 03 Sep 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/ChatGPT-Image-3-sept-2026-11_01_49-a.m-1000x600.png" alt="Nvidia acordó comprar Hugging Face por US$ 12.930 millones y apuesta por la inteligencia artificial abierta" /></p><p>La fabricante de chips adquirirá una de las mayores plataformas de modelos de inteligencia artificial. Hugging Face seguirá abierta y permitirá utilizar tecnología de otros proveedores.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/ChatGPT-Image-3-sept-2026-11_01_49-a.m-1000x600.png" type="image/png" />
+      <title><![CDATA[Apple presentó el iPhone Duo, su primer iPhone plegable: precio, características y cuándo sale a la venta]]></title>
+      <link>https://ultimasgeek.com/apple-presento-el-iphone-duo-su-primer-iphone-plegable-precio-caracteristicas-y-cuando-sale-a-la-venta/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-presento-el-iphone-duo-su-primer-iphone-plegable-precio-caracteristicas-y-cuando-sale-a-la-venta/</guid>
+      <pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Apple-iPhone-Duo-colors-260909-1000x600.jpg" alt="Apple presentó el iPhone Duo, su primer iPhone plegable: precio, características y cuándo sale a la venta" /></p><p>El nuevo teléfono tendrá una pantalla interna de 7,6 pulgadas, chip A20 Pro y un precio inicial de US$ 1.999. Las reservas comenzarán el 16 de octubre.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Apple-iPhone-Duo-colors-260909-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
