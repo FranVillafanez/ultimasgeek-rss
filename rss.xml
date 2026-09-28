@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 28 Sep 2026 18:29:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 23:44:21 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple pagará hasta US$40 a usuarios de iPhone en Argentina: quiénes pueden reclamar]]></title>
@@ -86,6 +86,15 @@
       <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/gemini-3-8_flash__blog__header__.width-1600.format-webp-1000x600.jpeg" alt="Google lanzó Gemini 3.8 Flash y una versión especializada en ciberseguridad" /></p><p>Gemini 3.8 Flash mejora el rendimiento en programación, agentes de IA y razonamiento complejo, mientras que Gemini 3.8 Flash Cyber apunta a detectar vulnerabilidades y generar parches de forma automática.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/gemini-3-8_flash__blog__header__.width-1600.format-webp-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Anthropic lanzó Claude Sonnet 5.5: es 30% más rápido y reduce costos]]></title>
+      <link>https://ultimasgeek.com/anthropic-lanzo-claude-sonnet-5-5-es-30-mas-rapido-y-reduce-costos/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/anthropic-lanzo-claude-sonnet-5-5-es-30-mas-rapido-y-reduce-costos/</guid>
+      <pubDate>Mon, 28 Sep 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-1-1000x600.jpg" alt="Anthropic lanzó Claude Sonnet 5.5: es 30% más rápido y reduce costos" /></p><p>La compañía presentó una nueva versión de su modelo de inteligencia artificial, enfocada en programación y tareas cotidianas. Promete mayor velocidad, menor uso de tokens y mejoras en documentos, presentaciones y hojas de cálculo.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-1-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -212,15 +221,6 @@
       <pubDate>Tue, 01 Sep 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/john-ternus-hero.jpg-1000x600.webp" alt="John Ternus asumió como CEO de Apple y reemplazó a Tim Cook tras 15 años" /></p><p>El histórico cambio de mando se concretó este 1° de septiembre. Cook seguirá vinculado a la compañía como presidente ejecutivo del directorio.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/john-ternus-hero.jpg-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple acusa a OpenAI de usar secretos robados y destruir pruebas clave]]></title>
-      <link>https://ultimasgeek.com/apple-acusa-a-openai-de-usar-secretos-robados-y-destruir-pruebas-clave/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-acusa-a-openai-de-usar-secretos-robados-y-destruir-pruebas-clave/</guid>
-      <pubDate>Mon, 31 Aug 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/df81ed65-ee14-4438-a21b-72177a55e3ed-1000x600.png" alt="Apple acusa a OpenAI de usar secretos robados y destruir pruebas clave" /></p><p>La compañía presentó nueva evidencia contra OpenAI y dos exempleados en la causa por presunto robo de secretos comerciales. El análisis de una MacBook habría revelado el uso de un esquema confidencial de Apple y mensajes vinculados con la eliminación de pruebas.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/df81ed65-ee14-4438-a21b-72177a55e3ed-1000x600.png" type="image/png" />
     </item>
 
     <item>
