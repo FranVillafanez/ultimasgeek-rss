@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 29 Sep 2026 17:44:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:56:21 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple actualiza Creator Studio con nuevas funciones para iPhone 18 Pro, Pixelmator y sus apps]]></title>
@@ -89,6 +89,15 @@
     </item>
 
     <item>
+      <title><![CDATA[OpenAI lanzó GPT-6.1 Sol: promete rendimiento cercano a Astra por una quinta parte del costo]]></title>
+      <link>https://ultimasgeek.com/openai-lanzo-gpt-6-1-sol-promete-rendimiento-cercano-a-astra-por-una-quinta-parte-del-costo/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/openai-lanzo-gpt-6-1-sol-promete-rendimiento-cercano-a-astra-por-una-quinta-parte-del-costo/</guid>
+      <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/gpt-6.1-sol-1000x600.png" alt="OpenAI lanzó GPT-6.1 Sol: promete rendimiento cercano a Astra por una quinta parte del costo" /></p><p>El nuevo modelo de inteligencia artificial fue presentado en DevDay 2026. Ya está disponible en ChatGPT Work, Codex y la API, con precios desde US$2 por millón de tokens de entrada.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/gpt-6.1-sol-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
       <title><![CDATA[Anthropic lanzó Claude Sonnet 5.5: es 30% más rápido y reduce costos]]></title>
       <link>https://ultimasgeek.com/anthropic-lanzo-claude-sonnet-5-5-es-30-mas-rapido-y-reduce-costos/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/anthropic-lanzo-claude-sonnet-5-5-es-30-mas-rapido-y-reduce-costos/</guid>
@@ -158,15 +167,6 @@
       <pubDate>Sat, 12 Sep 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/antro-1000x600.jpeg" alt="Anthropic reveló cómo usaron su inteligencia artificial para ciberataques, espionaje y desarrollo de armas" /></p><p>La empresa detectó y bloqueó operaciones que utilizaron Claude para actividades maliciosas entre diciembre de 2025 y agosto de 2026. Identificó casos vinculados con ciberataques, vigilancia, campañas de influencia, fraude y armas.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/antro-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[California endurece las reglas para redes sociales y chatbots de IA para proteger a menores]]></title>
-      <link>https://ultimasgeek.com/california-endurece-las-reglas-para-redes-sociales-y-chatbots-de-ia-para-proteger-a-menores/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/california-endurece-las-reglas-para-redes-sociales-y-chatbots-de-ia-para-proteger-a-menores/</guid>
-      <pubDate>Sat, 12 Sep 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Untitled-1000x600.jpg" alt="California endurece las reglas para redes sociales y chatbots de IA para proteger a menores" /></p><p>El gobernador Gavin Newsom firmó un paquete de leyes que prevé multas de hasta US$ 1 millón por niño y limita los contenidos adictivos para menores de 16 años.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Untitled-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
