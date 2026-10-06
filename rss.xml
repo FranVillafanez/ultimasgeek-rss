@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 05 Oct 2026 17:57:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 05:29:55 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Siri con inteligencia artificial se demora en Europa: Apple podría tardar al menos cinco meses]]></title>
@@ -86,6 +86,15 @@
       <pubDate>Wed, 23 Sep 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/166623327342616300-728268604.png" alt="Reino Unido quiere que Android y Chrome permitan elegir entre buscadores y asistentes de IA" /></p><p>El regulador británico propone que Google muestre opciones al iniciar el teléfono o el navegador y vuelva a preguntar una vez al año. La medida aún está en consulta.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/166623327342616300-728268604.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[OpenAI incorporará marcas de agua invisibles en los textos de ChatGPT en Europa]]></title>
+      <link>https://ultimasgeek.com/openai-incorporara-marcas-de-agua-invisibles-en-los-textos-de-chatgpt-en-europa/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/openai-incorporara-marcas-de-agua-invisibles-en-los-textos-de-chatgpt-en-europa/</guid>
+      <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" alt="OpenAI incorporará marcas de agua invisibles en los textos de ChatGPT en Europa" /></p><p>La compañía comenzará a identificar las respuestas de ChatGPT y Codex mediante textGrain para cumplir con la Ley de IA de la Unión Europea. La tecnología no será visible para los usuarios.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/gemini-3-8_flash__blog__header__.width-1600.format-webp-1000x600.jpeg" alt="Google lanzó Gemini 3.8 Flash y una versión especializada en ciberseguridad" /></p><p>Gemini 3.8 Flash mejora el rendimiento en programación, agentes de IA y razonamiento complejo, mientras que Gemini 3.8 Flash Cyber apunta a detectar vulnerabilidades y generar parches de forma automática.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/gemini-3-8_flash__blog__header__.width-1600.format-webp-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[MrBeast se asocia con Google: usará Gemini en nuevos desafíos extremos y sumará herramientas de salud]]></title>
-      <link>https://ultimasgeek.com/mrbeast-se-asocia-con-google-usara-gemini-en-nuevos-desafios-extremos-y-sumara-herramientas-de-salud/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/mrbeast-se-asocia-con-google-usara-gemini-en-nuevos-desafios-extremos-y-sumara-herramientas-de-salud/</guid>
-      <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/MR.BEAST_Resize_16x9.width-1300-1000x600.png" alt="MrBeast se asocia con Google: usará Gemini en nuevos desafíos extremos y sumará herramientas de salud" /></p><p>Google anunció una alianza de varios años con Beast Industries que llevará Gemini, Google Health y Fitbit a los próximos contenidos del creador, incluido un video que se estrenará el 5 de septiembre.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/MR.BEAST_Resize_16x9.width-1300-1000x600.png" type="image/png" />
     </item>
   </channel>
 </rss>
