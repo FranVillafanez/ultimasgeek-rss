@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 08 Oct 2026 22:59:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 02:53:47 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Siri con inteligencia artificial se demora en Europa: Apple podría tardar al menos cinco meses]]></title>
@@ -89,6 +89,24 @@
     </item>
 
     <item>
+      <title><![CDATA[Anthropic prohíbe maltratar a Claude: las nuevas reglas para usar su inteligencia artificial]]></title>
+      <link>https://ultimasgeek.com/anthropic-prohibe-maltratar-a-claude-las-nuevas-reglas-para-usar-su-inteligencia-artificial/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/anthropic-prohibe-maltratar-a-claude-las-nuevas-reglas-para-usar-su-inteligencia-artificial/</guid>
+      <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/GettyImages-2191761606.jpg-1000x600.webp" alt="Anthropic prohíbe maltratar a Claude: las nuevas reglas para usar su inteligencia artificial" /></p><p>La empresa actualizó sus políticas y estableció límites al comportamiento de los usuarios. Las medidas entrarán en vigencia el 12 de noviembre e incluyen restricciones sobre vigilancia, armas y desinformación.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/GettyImages-2191761606.jpg-1000x600.webp" type="image/webp" />
+    </item>
+
+    <item>
+      <title><![CDATA[ChatGPT cambia con GPT-6: ahora permite interactuar con gráficos, mapas y herramientas]]></title>
+      <link>https://ultimasgeek.com/chatgpt-cambia-con-gpt-6-ahora-permite-interactuar-con-graficos-mapas-y-herramientas/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/chatgpt-cambia-con-gpt-6-ahora-permite-interactuar-con-graficos-mapas-y-herramientas/</guid>
+      <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/CleanShot-2026-10-08-at-21.13.23-1000x600.png" alt="ChatGPT cambia con GPT-6: ahora permite interactuar con gráficos, mapas y herramientas" /></p><p>OpenAI lanzó Intelligent UI, una nueva función que transforma las respuestas de ChatGPT en experiencias visuales e interactivas. La actualización también llegará a los usuarios gratuitos.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/CleanShot-2026-10-08-at-21.13.23-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
       <title><![CDATA[Spotify lleva los audiolibros a más de 180 mercados y confirma cómo funcionarán en Argentina]]></title>
       <link>https://ultimasgeek.com/spotify-lleva-los-audiolibros-a-mas-de-180-mercados-y-confirma-como-funcionaran-en-argentina/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/spotify-lleva-los-audiolibros-a-mas-de-180-mercados-y-confirma-como-funcionaran-en-argentina/</guid>
@@ -134,15 +152,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Samsung presentó el Galaxy SmartTag3: ahora funciona con iPhone y ofrece hasta 790 días de batería]]></title>
-      <link>https://ultimasgeek.com/samsung-presento-el-galaxy-smarttag3-ahora-funciona-con-iphone-y-ofrece-hasta-790-dias-de-bateria/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/samsung-presento-el-galaxy-smarttag3-ahora-funciona-con-iphone-y-ofrece-hasta-790-dias-de-bateria/</guid>
-      <pubDate>Thu, 01 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/SmartTag-3-hero.jpg-1000x600.webp" alt="Samsung presentó el Galaxy SmartTag3: ahora funciona con iPhone y ofrece hasta 790 días de batería" /></p><p>El nuevo rastreador es 35% más pequeño, incorpora Bluetooth 6.0 y suma por primera vez compatibilidad con dispositivos iOS. Saldrá a la venta inicialmente en Corea del Sur y Estados Unidos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/SmartTag-3-hero.jpg-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
       <title><![CDATA[OpenAI lanzó GPT-6.1 Sol: promete rendimiento cercano a Astra por una quinta parte del costo]]></title>
       <link>https://ultimasgeek.com/openai-lanzo-gpt-6-1-sol-promete-rendimiento-cercano-a-astra-por-una-quinta-parte-del-costo/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/openai-lanzo-gpt-6-1-sol-promete-rendimiento-cercano-a-astra-por-una-quinta-parte-del-costo/</guid>
@@ -167,15 +176,6 @@
       <pubDate>Fri, 25 Sep 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/GettyImages-2191761606.jpg-1000x600.webp" alt="Claude ayudó a investigadores a acceder a sistemas internos de OpenAI" /></p><p>Un equipo de ciberseguridad utilizó Claude Opus 5 para explotar una cadena de fallas que terminó dando acceso a cuentas de empleados y a un repositorio interno de OpenAI. La empresa corrigió el problema y pagó una recompensa de US$ 6.500.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/GettyImages-2191761606.jpg-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
-      <title><![CDATA[Reino Unido quiere que Android y Chrome permitan elegir entre buscadores y asistentes de IA]]></title>
-      <link>https://ultimasgeek.com/reino-unido-quiere-que-android-y-chrome-permitan-elegir-entre-buscadores-y-asistentes-de-ia/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/reino-unido-quiere-que-android-y-chrome-permitan-elegir-entre-buscadores-y-asistentes-de-ia/</guid>
-      <pubDate>Wed, 23 Sep 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/166623327342616300-728268604.png" alt="Reino Unido quiere que Android y Chrome permitan elegir entre buscadores y asistentes de IA" /></p><p>El regulador británico propone que Google muestre opciones al iniciar el teléfono o el navegador y vuelva a preguntar una vez al año. La medida aún está en consulta.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/166623327342616300-728268604.png" type="image/png" />
     </item>
 
     <item>
@@ -215,12 +215,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple presentó los AirPods 5: llegan con cancelación de ruido, Siri AI y traducción en vivo]]></title>
-      <link>https://ultimasgeek.com/apple-presento-los-airpods-5-llegan-con-cancelacion-de-ruido-siri-ai-y-traduccion-en-vivo/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-presento-los-airpods-5-llegan-con-cancelacion-de-ruido-siri-ai-y-traduccion-en-vivo/</guid>
-      <pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Apple-AirPods-5-hero-260909-1000x600.jpg" alt="Apple presentó los AirPods 5: llegan con cancelación de ruido, Siri AI y traducción en vivo" /></p><p>Los nuevos auriculares costarán desde US$ 129, incorporan mejoras de sonido y estarán disponibles en tiendas desde el 18 de septiembre.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Apple-AirPods-5-hero-260909-1000x600.jpg" type="image/jpeg" />
+      <title><![CDATA[Reino Unido quiere que Android y Chrome permitan elegir entre buscadores y asistentes de IA]]></title>
+      <link>https://ultimasgeek.com/reino-unido-quiere-que-android-y-chrome-permitan-elegir-entre-buscadores-y-asistentes-de-ia/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/reino-unido-quiere-que-android-y-chrome-permitan-elegir-entre-buscadores-y-asistentes-de-ia/</guid>
+      <pubDate>Wed, 23 Sep 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/166623327342616300-728268604.png" alt="Reino Unido quiere que Android y Chrome permitan elegir entre buscadores y asistentes de IA" /></p><p>El regulador británico propone que Google muestre opciones al iniciar el teléfono o el navegador y vuelva a preguntar una vez al año. La medida aún está en consulta.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/166623327342616300-728268604.png" type="image/png" />
     </item>
 
     <item>
