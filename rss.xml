@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 09 Oct 2026 10:07:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:20:48 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Siri con inteligencia artificial se demora en Europa: Apple podría tardar al menos cinco meses]]></title>
@@ -86,6 +86,15 @@
       <pubDate>Mon, 28 Sep 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Project_Suncatcher_social.width-1300-1000x600.png" alt="Google enviará un satélite con chips de IA al espacio para probar futuros centros de datos orbitales" /></p><p>El lanzamiento está previsto para el 1° de octubre a bordo de un cohete Falcon 9 de SpaceX. La compañía probará sus procesadores TPU ante la radiación, las temperaturas extremas y las dificultades de refrigeración en órbita.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Project_Suncatcher_social.width-1300-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[Elon Musk busca convertir a Starlink en una operadora de telefonía móvil: cómo funcionará]]></title>
+      <link>https://ultimasgeek.com/elon-musk-busca-convertir-a-starlink-en-una-operadora-de-telefonia-movil-como-funcionara/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/elon-musk-busca-convertir-a-starlink-en-una-operadora-de-telefonia-movil-como-funcionara/</guid>
+      <pubDate>Fri, 09 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/star_1600_1067-1000x600.jpg" alt="Elon Musk busca convertir a Starlink en una operadora de telefonía móvil: cómo funcionará" /></p><p>SpaceX acordó comprar frecuencias para ofrecer cobertura celular en Estados Unidos. El proyecto combinará satélites y redes terrestres para llevar señal a zonas sin servicio.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/star_1600_1067-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Wed, 23 Sep 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/166623327342616300-728268604.png" alt="Reino Unido quiere que Android y Chrome permitan elegir entre buscadores y asistentes de IA" /></p><p>El regulador británico propone que Google muestre opciones al iniciar el teléfono o el navegador y vuelva a preguntar una vez al año. La medida aún está en consulta.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/166623327342616300-728268604.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google lanzó las Googlebooks: cuánto cuestan y cómo se integran con los celulares Android]]></title>
-      <link>https://ultimasgeek.com/google-lanzo-las-googlebooks-cuanto-cuestan-y-como-se-integran-con-los-celulares-android/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-lanzo-las-googlebooks-cuanto-cuestan-y-como-se-integran-con-los-celulares-android/</guid>
-      <pubDate>Mon, 21 Sep 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/16-9.webpn-w2560-h1440-fcrop64100000000ffffffff-rw-1000x600.webp" alt="Google lanzó las Googlebooks: cuánto cuestan y cómo se integran con los celulares Android" /></p><p>Las nuevas laptops parten de los 899 dólares, incorporan Gemini y buscan ofrecer entre Android y la computadora una experiencia similar a la integración del iPhone con las Mac.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/16-9.webpn-w2560-h1440-fcrop64100000000ffffffff-rw-1000x600.webp" type="image/webp" />
     </item>
   </channel>
 </rss>
