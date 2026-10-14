@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 14 Oct 2026 07:08:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:20:01 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple logró que la Justicia ordene a OpenAI entregar documentos por una denuncia de robo de secretos comerciales]]></title>
+      <link>https://ultimasgeek.com/apple-logro-que-la-justicia-ordene-a-openai-entregar-documentos-por-una-denuncia-de-robo-de-secretos-comerciales/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-logro-que-la-justicia-ordene-a-openai-entregar-documentos-por-una-denuncia-de-robo-de-secretos-comerciales/</guid>
+      <pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/df81ed65-ee14-4438-a21b-72177a55e3ed-1000x600.png" alt="Apple logró que la Justicia ordene a OpenAI entregar documentos por una denuncia de robo de secretos comerciales" /></p><p>Un juez de Estados Unidos obligó a la empresa creadora de ChatGPT a presentar registros de contratación de exempleados de Apple. La medida forma parte de una demanda por presunto uso de información confidencial.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/df81ed65-ee14-4438-a21b-72177a55e3ed-1000x600.png" type="image/png" />
+    </item>
 
     <item>
       <title><![CDATA[Apple presentó HomeView, su nuevo dispositivo para el hogar inteligente de 299 dólares]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Fri, 25 Sep 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" alt="Apple pagará hasta US$40 a usuarios de iPhone en Argentina: quiénes pueden reclamar" /></p><p>La compañía destinará un fondo de US$3 millones para compensar a propietarios y exusuarios de siete modelos. El trámite será online y todavía no tiene fecha de apertura.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple y Qualcomm renovaron su acuerdo global de patentes]]></title>
-      <link>https://ultimasgeek.com/apple-y-qualcomm-renovaron-su-acuerdo-global-de-patentes/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-y-qualcomm-renovaron-su-acuerdo-global-de-patentes/</guid>
-      <pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Imagen-de-Codex-24-sept-2026-06_37_26-p.m-1000x600.png" alt="Apple y Qualcomm renovaron su acuerdo global de patentes" /></p><p>El nuevo convenio entrará en vigencia el 1 de abril de 2027. El acuerdo es independiente del suministro de módems y se produce mientras Apple avanza con sus propios chips celulares.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Imagen-de-Codex-24-sept-2026-06_37_26-p.m-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -170,15 +170,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Spotify lleva los audiolibros a más de 180 mercados y confirma cómo funcionarán en Argentina]]></title>
-      <link>https://ultimasgeek.com/spotify-lleva-los-audiolibros-a-mas-de-180-mercados-y-confirma-como-funcionaran-en-argentina/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/spotify-lleva-los-audiolibros-a-mas-de-180-mercados-y-confirma-como-funcionaran-en-argentina/</guid>
-      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/spotifypng.png-1000x600.webp" alt="Spotify lleva los audiolibros a más de 180 mercados y confirma cómo funcionarán en Argentina" /></p><p>La plataforma ampliará el servicio antes de fin de 2026, con más de 350.000 títulos en 120 idiomas. En el país, el acceso tendrá como eje Audiobooks+.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/03/spotifypng.png-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
       <title><![CDATA[Google lanzó Playground, una plataforma para crear videojuegos con IA sin saber programar]]></title>
       <link>https://ultimasgeek.com/google-lanzo-playground-una-plataforma-para-crear-videojuegos-con-ia-sin-saber-programar/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-lanzo-playground-una-plataforma-para-crear-videojuegos-con-ia-sin-saber-programar/</guid>
@@ -206,12 +197,12 @@
     </item>
 
     <item>
-      <title><![CDATA[OpenAI lanzó GPT-6.1 Sol: promete rendimiento cercano a Astra por una quinta parte del costo]]></title>
-      <link>https://ultimasgeek.com/openai-lanzo-gpt-6-1-sol-promete-rendimiento-cercano-a-astra-por-una-quinta-parte-del-costo/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/openai-lanzo-gpt-6-1-sol-promete-rendimiento-cercano-a-astra-por-una-quinta-parte-del-costo/</guid>
-      <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/gpt-6.1-sol-1000x600.png" alt="OpenAI lanzó GPT-6.1 Sol: promete rendimiento cercano a Astra por una quinta parte del costo" /></p><p>El nuevo modelo de inteligencia artificial fue presentado en DevDay 2026. Ya está disponible en ChatGPT Work, Codex y la API, con precios desde US$2 por millón de tokens de entrada.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/gpt-6.1-sol-1000x600.png" type="image/png" />
+      <title><![CDATA[Apple y Qualcomm renovaron su acuerdo global de patentes]]></title>
+      <link>https://ultimasgeek.com/apple-y-qualcomm-renovaron-su-acuerdo-global-de-patentes/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-y-qualcomm-renovaron-su-acuerdo-global-de-patentes/</guid>
+      <pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Imagen-de-Codex-24-sept-2026-06_37_26-p.m-1000x600.png" alt="Apple y Qualcomm renovaron su acuerdo global de patentes" /></p><p>El nuevo convenio entrará en vigencia el 1 de abril de 2027. El acuerdo es independiente del suministro de módems y se produce mientras Apple avanza con sus propios chips celulares.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Imagen-de-Codex-24-sept-2026-06_37_26-p.m-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -230,6 +221,15 @@
       <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/hero__f74qjgtqfcia_large-2-1000x600.jpg" alt="Apple habilitó Tap to Pay en Argentina: el iPhone ahora puede usarse para cobrar sin posnet" /></p><p>La función permite a comercios aceptar pagos con tarjetas y billeteras digitales directamente desde un iPhone. En Argentina estará disponible a través de Mercado Pago.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/hero__f74qjgtqfcia_large-2-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Brasil ordenó a Apple reforzar los controles de edad para juegos de casino en la App Store]]></title>
+      <link>https://ultimasgeek.com/brasil-ordeno-a-apple-reforzar-los-controles-de-edad-para-juegos-de-casino-en-la-app-store/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/brasil-ordeno-a-apple-reforzar-los-controles-de-edad-para-juegos-de-casino-en-la-app-store/</guid>
+      <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Imagen-de-Codex-22-sept-2026-12_45_16-p.m-1000x600.png" alt="Brasil ordenó a Apple reforzar los controles de edad para juegos de casino en la App Store" /></p><p>La Justicia de San Pablo dio cinco días a la compañía para impedir descargas de menores y exigir verificación de edad en compras con dinero real.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Imagen-de-Codex-22-sept-2026-12_45_16-p.m-1000x600.png" type="image/png" />
     </item>
   </channel>
 </rss>
