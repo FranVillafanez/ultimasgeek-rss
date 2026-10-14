@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 13 Oct 2026 22:20:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:36:41 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple presentó HomeView, su nuevo dispositivo para el hogar inteligente de 299 dólares]]></title>
@@ -95,6 +95,24 @@
       <pubDate>Mon, 28 Sep 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Project_Suncatcher_social.width-1300-1000x600.png" alt="Google enviará un satélite con chips de IA al espacio para probar futuros centros de datos orbitales" /></p><p>El lanzamiento está previsto para el 1° de octubre a bordo de un cohete Falcon 9 de SpaceX. La compañía probará sus procesadores TPU ante la radiación, las temperaturas extremas y las dificultades de refrigeración en órbita.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Project_Suncatcher_social.width-1300-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[Detuvieron a un ingeniero de OpenAI acusado de instalar un dispositivo espía en sus oficinas]]></title>
+      <link>https://ultimasgeek.com/detuvieron-a-un-ingeniero-de-openai-acusado-de-instalar-un-dispositivo-espia-en-sus-oficinas/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/detuvieron-a-un-ingeniero-de-openai-acusado-de-instalar-un-dispositivo-espia-en-sus-oficinas/</guid>
+      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" alt="Detuvieron a un ingeniero de OpenAI acusado de instalar un dispositivo espía en sus oficinas" /></p><p>El empleado, de 35 años, habría ocultado una grabadora en una sala de reuniones ejecutivas. La empresa utilizó inteligencia artificial para investigar el caso y dio intervención al FBI.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Facebook permitirá elegir qué publicaciones ver con una nueva función de inteligencia artificial]]></title>
+      <link>https://ultimasgeek.com/facebook-permitira-elegir-que-publicaciones-ver-con-una-nueva-funcion-de-inteligencia-artificial/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/facebook-permitira-elegir-que-publicaciones-ver-con-una-nueva-funcion-de-inteligencia-artificial/</guid>
+      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/04/Diseno-sin-titulo-15.jpg" alt="Facebook permitirá elegir qué publicaciones ver con una nueva función de inteligencia artificial" /></p><p>Meta anunció una herramienta que permitirá a los usuarios indicar qué contenidos quieren ver más o menos en Facebook y Reels. Los cambios se aplicarán en tiempo real.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2022/04/Diseno-sin-titulo-15.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -197,15 +215,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Anthropic lanzó Claude Sonnet 5.5: es 30% más rápido y reduce costos]]></title>
-      <link>https://ultimasgeek.com/anthropic-lanzo-claude-sonnet-5-5-es-30-mas-rapido-y-reduce-costos/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/anthropic-lanzo-claude-sonnet-5-5-es-30-mas-rapido-y-reduce-costos/</guid>
-      <pubDate>Mon, 28 Sep 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-1-1000x600.jpg" alt="Anthropic lanzó Claude Sonnet 5.5: es 30% más rápido y reduce costos" /></p><p>La compañía presentó una nueva versión de su modelo de inteligencia artificial, enfocada en programación y tareas cotidianas. Promete mayor velocidad, menor uso de tokens y mejoras en documentos, presentaciones y hojas de cálculo.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/Foto-2-1-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Google Photos suma un armario digital con IA en iPhone: cómo funciona y dónde está disponible]]></title>
       <link>https://ultimasgeek.com/google-photos-suma-un-armario-digital-con-ia-en-iphone-como-funciona-y-donde-esta-disponible/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-photos-suma-un-armario-digital-con-ia-en-iphone-como-funciona-y-donde-esta-disponible/</guid>
@@ -221,15 +230,6 @@
       <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/hero__f74qjgtqfcia_large-2-1000x600.jpg" alt="Apple habilitó Tap to Pay en Argentina: el iPhone ahora puede usarse para cobrar sin posnet" /></p><p>La función permite a comercios aceptar pagos con tarjetas y billeteras digitales directamente desde un iPhone. En Argentina estará disponible a través de Mercado Pago.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/hero__f74qjgtqfcia_large-2-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Brasil ordenó a Apple reforzar los controles de edad para juegos de casino en la App Store]]></title>
-      <link>https://ultimasgeek.com/brasil-ordeno-a-apple-reforzar-los-controles-de-edad-para-juegos-de-casino-en-la-app-store/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/brasil-ordeno-a-apple-reforzar-los-controles-de-edad-para-juegos-de-casino-en-la-app-store/</guid>
-      <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Imagen-de-Codex-22-sept-2026-12_45_16-p.m-1000x600.png" alt="Brasil ordenó a Apple reforzar los controles de edad para juegos de casino en la App Store" /></p><p>La Justicia de San Pablo dio cinco días a la compañía para impedir descargas de menores y exigir verificación de edad en compras con dinero real.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Imagen-de-Codex-22-sept-2026-12_45_16-p.m-1000x600.png" type="image/png" />
     </item>
   </channel>
 </rss>
