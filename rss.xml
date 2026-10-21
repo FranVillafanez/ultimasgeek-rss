@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 21 Oct 2026 07:07:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:28:36 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[WhatsApp prepara un navegador propio para abrir enlaces sin salir de la aplicación]]></title>
+      <link>https://ultimasgeek.com/whatsapp-prepara-un-navegador-propio-para-abrir-enlaces-sin-salir-de-la-aplicacion/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-prepara-un-navegador-propio-para-abrir-enlaces-sin-salir-de-la-aplicacion/</guid>
+      <pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/11/7IKZJEXCYRP7RBMXFEOFGPG7S4-1000x600.jpg" alt="WhatsApp prepara un navegador propio para abrir enlaces sin salir de la aplicación" /></p><p>La función está en desarrollo para iPhone y permitirá abrir cualquier link recibido en los chats dentro de WhatsApp. Será opcional y todavía no tiene fecha de lanzamiento.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/11/7IKZJEXCYRP7RBMXFEOFGPG7S4-1000x600.jpg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Apple refuerza la fabricación del iPhone en Estados Unidos con una inversión millonaria]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/CleanShot-2026-10-13-at-10.07.25-1000x600.png" alt="Apple presentó HomeView, su nuevo dispositivo para el hogar inteligente de 299 dólares" /></p><p>La compañía amplía su catálogo con una pantalla para controlar dispositivos domésticos mediante inteligencia artificial. También renueva el Apple TV 4K y el HomePod mini.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/CleanShot-2026-10-13-at-10.07.25-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Siri con inteligencia artificial se demora en Europa: Apple podría tardar al menos cinco meses]]></title>
-      <link>https://ultimasgeek.com/siri-con-inteligencia-artificial-se-demora-en-europa-apple-podria-tardar-al-menos-cinco-meses/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/siri-con-inteligencia-artificial-se-demora-en-europa-apple-podria-tardar-al-menos-cinco-meses/</guid>
-      <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Apple-WWDC-2026-June-8_-Introducing-Siri-AI-and-more-48-31-screenshot-1000x600.jpg" alt="Siri con inteligencia artificial se demora en Europa: Apple podría tardar al menos cinco meses" /></p><p>La nueva Siri no está disponible en iPhone y iPad en la Unión Europea y, según Mark Gurman, el retraso de cinco meses sería el mejor escenario posible.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Apple-WWDC-2026-June-8_-Introducing-Siri-AI-and-more-48-31-screenshot-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -95,6 +95,15 @@
       <pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/article_full@1x-2997093706.jpg" alt="YouTube cambia sus recomendaciones: reducirá el alcance de los videos resubidos en Shorts" /></p><p>La plataforma dará más visibilidad al contenido original y limitará la distribución de publicaciones que reutilicen videos de otros creadores sin aportar cambios significativos.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/article_full@1x-2997093706.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[PHP advierte sobre dos fallas críticas que podrían comprometer millones de sitios web]]></title>
+      <link>https://ultimasgeek.com/php-advierte-sobre-dos-fallas-criticas-que-podrian-comprometer-millones-de-sitios-web/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/php-advierte-sobre-dos-fallas-criticas-que-podrian-comprometer-millones-de-sitios-web/</guid>
+      <pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Alerta-de-vulnerabilidad-PHP-y-CMS-1000x600.png" alt="PHP advierte sobre dos fallas críticas que podrían comprometer millones de sitios web" /></p><p>Los desarrolladores anunciaron una actualización de emergencia para este miércoles. Las vulnerabilidades podrían permitir que atacantes ejecuten código en servidores que utilizan plataformas como WordPress, Joomla y Drupal.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Alerta-de-vulnerabilidad-PHP-y-CMS-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -179,21 +188,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Anthropic prohíbe maltratar a Claude: las nuevas reglas para usar su inteligencia artificial]]></title>
-      <link>https://ultimasgeek.com/anthropic-prohibe-maltratar-a-claude-las-nuevas-reglas-para-usar-su-inteligencia-artificial/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/anthropic-prohibe-maltratar-a-claude-las-nuevas-reglas-para-usar-su-inteligencia-artificial/</guid>
-      <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/GettyImages-2191761606.jpg-1000x600.webp" alt="Anthropic prohíbe maltratar a Claude: las nuevas reglas para usar su inteligencia artificial" /></p><p>La empresa actualizó sus políticas y estableció límites al comportamiento de los usuarios. Las medidas entrarán en vigencia el 12 de noviembre e incluyen restricciones sobre vigilancia, armas y desinformación.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/GettyImages-2191761606.jpg-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
-      <title><![CDATA[ChatGPT cambia con GPT-6: ahora permite interactuar con gráficos, mapas y herramientas]]></title>
-      <link>https://ultimasgeek.com/chatgpt-cambia-con-gpt-6-ahora-permite-interactuar-con-graficos-mapas-y-herramientas/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/chatgpt-cambia-con-gpt-6-ahora-permite-interactuar-con-graficos-mapas-y-herramientas/</guid>
-      <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/CleanShot-2026-10-08-at-21.13.23-1000x600.png" alt="ChatGPT cambia con GPT-6: ahora permite interactuar con gráficos, mapas y herramientas" /></p><p>OpenAI lanzó Intelligent UI, una nueva función que transforma las respuestas de ChatGPT en experiencias visuales e interactivas. La actualización también llegará a los usuarios gratuitos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/CleanShot-2026-10-08-at-21.13.23-1000x600.png" type="image/png" />
+      <title><![CDATA[Siri con inteligencia artificial se demora en Europa: Apple podría tardar al menos cinco meses]]></title>
+      <link>https://ultimasgeek.com/siri-con-inteligencia-artificial-se-demora-en-europa-apple-podria-tardar-al-menos-cinco-meses/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/siri-con-inteligencia-artificial-se-demora-en-europa-apple-podria-tardar-al-menos-cinco-meses/</guid>
+      <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Apple-WWDC-2026-June-8_-Introducing-Siri-AI-and-more-48-31-screenshot-1000x600.jpg" alt="Siri con inteligencia artificial se demora en Europa: Apple podría tardar al menos cinco meses" /></p><p>La nueva Siri no está disponible en iPhone y iPad en la Unión Europea y, según Mark Gurman, el retraso de cinco meses sería el mejor escenario posible.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/Apple-WWDC-2026-June-8_-Introducing-Siri-AI-and-more-48-31-screenshot-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
