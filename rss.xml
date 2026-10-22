@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 22 Oct 2026 07:09:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:29:59 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple Music cambia de imagen: deja atrás el rojo y estrena un diseño inspirado en el sonido]]></title>
@@ -53,6 +53,15 @@
     </item>
 
     <item>
+      <title><![CDATA[YouTube ya supera los 33 millones de usuarios en Argentina y la Generación Z lidera su consumo]]></title>
+      <link>https://ultimasgeek.com/youtube-ya-supera-los-33-millones-de-usuarios-en-argentina-y-la-generacion-z-lidera-su-consumo/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/youtube-ya-supera-los-33-millones-de-usuarios-en-argentina-y-la-generacion-z-lidera-su-consumo/</guid>
+      <pubDate>Thu, 22 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" alt="YouTube ya supera los 33 millones de usuarios en Argentina y la Generación Z lidera su consumo" /></p><p>La plataforma alcanzó a más de 33 millones de personas en el país. Un estudio de Kantar reveló que el 86% de los espectadores consultados la considera la plataforma de video en la que más confía.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/youtube-origem-evolucao-ascensao-e-sucesso-da-plataforma-de-video-2010919679.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Una falla de Google Cloud afectó pagos y servicios bancarios en Europa]]></title>
       <link>https://ultimasgeek.com/una-falla-de-google-cloud-afecto-pagos-y-servicios-bancarios-en-europa/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/una-falla-de-google-cloud-afecto-pagos-y-servicios-bancarios-en-europa/</guid>
@@ -89,15 +98,6 @@
     </item>
 
     <item>
-      <title><![CDATA[YouTube cambia sus recomendaciones: reducirá el alcance de los videos resubidos en Shorts]]></title>
-      <link>https://ultimasgeek.com/youtube-cambia-sus-recomendaciones-reducira-el-alcance-de-los-videos-resubidos-en-shorts/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/youtube-cambia-sus-recomendaciones-reducira-el-alcance-de-los-videos-resubidos-en-shorts/</guid>
-      <pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/article_full@1x-2997093706.jpg" alt="YouTube cambia sus recomendaciones: reducirá el alcance de los videos resubidos en Shorts" /></p><p>La plataforma dará más visibilidad al contenido original y limitará la distribución de publicaciones que reutilicen videos de otros creadores sin aportar cambios significativos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/article_full@1x-2997093706.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[PHP advierte sobre dos fallas críticas que podrían comprometer millones de sitios web]]></title>
       <link>https://ultimasgeek.com/php-advierte-sobre-dos-fallas-criticas-que-podrian-comprometer-millones-de-sitios-web/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/php-advierte-sobre-dos-fallas-criticas-que-podrian-comprometer-millones-de-sitios-web/</guid>
@@ -131,15 +131,6 @@
       <pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/WA_WHATSAPP_FOCUS_SCHEDULE_LIST_FEATURE_ANDROID-1000x600.webp" alt="WhatsApp permitirá silenciar chats automáticamente según el horario: cómo funciona la nueva herramienta" /></p><p>La función permitirá programar cuándo recibir notificaciones de determinados contactos y grupos. Ya comenzó a llegar a algunos usuarios de Android, aunque tendrá una condición para utilizarla.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/WA_WHATSAPP_FOCUS_SCHEDULE_LIST_FEATURE_ANDROID-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
-      <title><![CDATA[WhatsApp ya permite hacer videollamadas sin tener una cuenta: cómo funciona]]></title>
-      <link>https://ultimasgeek.com/whatsapp-ya-permite-hacer-videollamadas-sin-tener-una-cuenta-como-funciona/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-ya-permite-hacer-videollamadas-sin-tener-una-cuenta-como-funciona/</guid>
-      <pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/844758368_29028716670085474_6165348652197937842_n-1000x600.webp" alt="WhatsApp ya permite hacer videollamadas sin tener una cuenta: cómo funciona" /></p><p>La aplicación incorporó llamadas para invitados, una función gratuita que permite participar desde una computadora sin registrarse ni instalar WhatsApp.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/844758368_29028716670085474_6165348652197937842_n-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -230,6 +221,15 @@
       <pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Imagen-de-Codex-24-sept-2026-06_37_26-p.m-1000x600.png" alt="Apple y Qualcomm renovaron su acuerdo global de patentes" /></p><p>El nuevo convenio entrará en vigencia el 1 de abril de 2027. El acuerdo es independiente del suministro de módems y se produce mientras Apple avanza con sus propios chips celulares.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Imagen-de-Codex-24-sept-2026-06_37_26-p.m-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google Photos suma un armario digital con IA en iPhone: cómo funciona y dónde está disponible]]></title>
+      <link>https://ultimasgeek.com/google-photos-suma-un-armario-digital-con-ia-en-iphone-como-funciona-y-donde-esta-disponible/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-photos-suma-un-armario-digital-con-ia-en-iphone-como-funciona-y-donde-esta-disponible/</guid>
+      <pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/google-photos-wardrobe.jpg.webp" alt="Google Photos suma un armario digital con IA en iPhone: cómo funciona y dónde está disponible" /></p><p>La función Wardrobe identifica prendas guardadas en Google Photos, las organiza por categorías y permite combinar ropa y probar looks de forma virtual. Por ahora funciona en tres países.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/google-photos-wardrobe.jpg.webp" type="image/webp" />
     </item>
   </channel>
 </rss>
