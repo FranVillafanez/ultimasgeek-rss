@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 22 Oct 2026 13:29:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:19:26 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple prueba el iPhone Duo 2 con Face ID bajo la pantalla para reemplazar Touch ID]]></title>
+      <link>https://ultimasgeek.com/apple-prueba-el-iphone-duo-2-con-face-id-bajo-la-pantalla-para-reemplazar-touch-id/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-prueba-el-iphone-duo-2-con-face-id-bajo-la-pantalla-para-reemplazar-touch-id/</guid>
+      <pubDate>Thu, 22 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Diseno-sin-titulo-7-1000x600.jpg" alt="Apple prueba el iPhone Duo 2 con Face ID bajo la pantalla para reemplazar Touch ID" /></p><p>La compañía ya tendría prototipos de la segunda generación de su iPhone plegable con reconocimiento facial integrado bajo la pantalla exterior, aunque todavía no confirmó que la tecnología llegue al modelo comercial.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Diseno-sin-titulo-7-1000x600.jpg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Apple Music cambia de imagen: deja atrás el rojo y estrena un diseño inspirado en el sonido]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/HUr9XldXIAAPeX3-1000x600.jpeg" alt="Meta y Apple se alían para llevar una potente IA de 816.000 millones de parámetros a las Mac" /></p><p>Las compañías trabajaron juntas para optimizar Muse Spark Open, el nuevo modelo de inteligencia artificial de Meta, que puede ejecutarse de forma local con dos Mac Studio equipadas con chips M5 Ultra.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/HUr9XldXIAAPeX3-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple logró que la Justicia ordene a OpenAI entregar documentos por una denuncia de robo de secretos comerciales]]></title>
-      <link>https://ultimasgeek.com/apple-logro-que-la-justicia-ordene-a-openai-entregar-documentos-por-una-denuncia-de-robo-de-secretos-comerciales/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-logro-que-la-justicia-ordene-a-openai-entregar-documentos-por-una-denuncia-de-robo-de-secretos-comerciales/</guid>
-      <pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/df81ed65-ee14-4438-a21b-72177a55e3ed-1000x600.png" alt="Apple logró que la Justicia ordene a OpenAI entregar documentos por una denuncia de robo de secretos comerciales" /></p><p>Un juez de Estados Unidos obligó a la empresa creadora de ChatGPT a presentar registros de contratación de exempleados de Apple. La medida forma parte de una demanda por presunto uso de información confidencial.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/df81ed65-ee14-4438-a21b-72177a55e3ed-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -125,21 +125,21 @@
     </item>
 
     <item>
-      <title><![CDATA[WhatsApp permitirá silenciar chats automáticamente según el horario: cómo funciona la nueva herramienta]]></title>
-      <link>https://ultimasgeek.com/whatsapp-permitira-silenciar-chats-automaticamente-segun-el-horario-como-funciona-la-nueva-herramienta/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-permitira-silenciar-chats-automaticamente-segun-el-horario-como-funciona-la-nueva-herramienta/</guid>
-      <pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/WA_WHATSAPP_FOCUS_SCHEDULE_LIST_FEATURE_ANDROID-1000x600.webp" alt="WhatsApp permitirá silenciar chats automáticamente según el horario: cómo funciona la nueva herramienta" /></p><p>La función permitirá programar cuándo recibir notificaciones de determinados contactos y grupos. Ya comenzó a llegar a algunos usuarios de Android, aunque tendrá una condición para utilizarla.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/WA_WHATSAPP_FOCUS_SCHEDULE_LIST_FEATURE_ANDROID-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
       <title><![CDATA[OpenAI se compromete a no utilizar secretos de Apple tras una demanda por robo de información]]></title>
       <link>https://ultimasgeek.com/openai-se-compromete-a-no-utilizar-secretos-de-apple-tras-una-demanda-por-robo-de-informacion/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/openai-se-compromete-a-no-utilizar-secretos-de-apple-tras-una-demanda-por-robo-de-informacion/</guid>
       <pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" alt="OpenAI se compromete a no utilizar secretos de Apple tras una demanda por robo de información" /></p><p>La empresa creadora de ChatGPT aceptó limitar el uso de información confidencial y revisar dispositivos de 14 empleados. La decisión se produjo durante una audiencia judicial en Estados Unidos.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Apple logró que la Justicia ordene a OpenAI entregar documentos por una denuncia de robo de secretos comerciales]]></title>
+      <link>https://ultimasgeek.com/apple-logro-que-la-justicia-ordene-a-openai-entregar-documentos-por-una-denuncia-de-robo-de-secretos-comerciales/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-logro-que-la-justicia-ordene-a-openai-entregar-documentos-por-una-denuncia-de-robo-de-secretos-comerciales/</guid>
+      <pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/df81ed65-ee14-4438-a21b-72177a55e3ed-1000x600.png" alt="Apple logró que la Justicia ordene a OpenAI entregar documentos por una denuncia de robo de secretos comerciales" /></p><p>Un juez de Estados Unidos obligó a la empresa creadora de ChatGPT a presentar registros de contratación de exempleados de Apple. La medida forma parte de una demanda por presunto uso de información confidencial.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/08/df81ed65-ee14-4438-a21b-72177a55e3ed-1000x600.png" type="image/png" />
     </item>
 
     <item>
