@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Fri, 23 Oct 2026 07:01:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:06:20 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[Apple prueba el iPhone Duo 2 con Face ID bajo la pantalla para reemplazar Touch ID]]></title>
@@ -95,6 +95,15 @@
       <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/CleanShot-2026-10-05-at-08.29.31-1000x600.png" alt="Google admite problemas de rendimiento de algunas apps de Android en las nuevas Googlebook con Intel" /></p><p>La compañía reconoció que un grupo reducido de aplicaciones y juegos necesita ajustes para funcionar de forma óptima en las notebooks equipadas con procesadores x86.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/CleanShot-2026-10-05-at-08.29.31-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[Canva lanzó Craft, su primer modelo propio de IA para generar imágenes]]></title>
+      <link>https://ultimasgeek.com/canva-lanzo-craft-su-primer-modelo-propio-de-ia-para-generar-imagenes/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/canva-lanzo-craft-su-primer-modelo-propio-de-ia-para-generar-imagenes/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/CanvaCraftthumbnail.png.avif" alt="Canva lanzó Craft, su primer modelo propio de IA para generar imágenes" /></p><p>La nueva herramienta puede crear imágenes en resolución 2K y más de 30 formatos. Su diferencial es que primero planifica la composición y luego genera el resultado final.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/CanvaCraftthumbnail.png.avif" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Imagen-de-Codex-24-sept-2026-06_37_26-p.m-1000x600.png" alt="Apple y Qualcomm renovaron su acuerdo global de patentes" /></p><p>El nuevo convenio entrará en vigencia el 1 de abril de 2027. El acuerdo es independiente del suministro de módems y se produce mientras Apple avanza con sus propios chips celulares.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/Imagen-de-Codex-24-sept-2026-06_37_26-p.m-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google Photos suma un armario digital con IA en iPhone: cómo funciona y dónde está disponible]]></title>
-      <link>https://ultimasgeek.com/google-photos-suma-un-armario-digital-con-ia-en-iphone-como-funciona-y-donde-esta-disponible/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-photos-suma-un-armario-digital-con-ia-en-iphone-como-funciona-y-donde-esta-disponible/</guid>
-      <pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/google-photos-wardrobe.jpg.webp" alt="Google Photos suma un armario digital con IA en iPhone: cómo funciona y dónde está disponible" /></p><p>La función Wardrobe identifica prendas guardadas en Google Photos, las organiza por categorías y permite combinar ropa y probar looks de forma virtual. Por ahora funciona en tres países.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/09/google-photos-wardrobe.jpg.webp" type="image/webp" />
     </item>
   </channel>
 </rss>
