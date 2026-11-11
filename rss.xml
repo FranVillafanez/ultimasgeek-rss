@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 11 Nov 2026 16:54:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:18:43 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Google lleva Gemini a Apple CarPlay: qué podrá hacer la inteligencia artificial desde el auto]]></title>
+      <link>https://ultimasgeek.com/google-lleva-gemini-a-apple-carplay-que-podra-hacer-la-inteligencia-artificial-desde-el-auto/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-lleva-gemini-a-apple-carplay-que-podra-hacer-la-inteligencia-artificial-desde-el-auto/</guid>
+      <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Gemini_for_MacOS_01_Hero_16x9.width-1200.format-webp-1000x600.webp" alt="Google lleva Gemini a Apple CarPlay: qué podrá hacer la inteligencia artificial desde el auto" /></p><p>La aplicación de Gemini comenzó a desplegarse este miércoles 11 de noviembre en CarPlay. Permitirá mantener conversaciones por voz, consultar correos y calendarios y continuar los chats desde el iPhone.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Gemini_for_MacOS_01_Hero_16x9.width-1200.format-webp-1000x600.webp" type="image/webp" />
+    </item>
 
     <item>
       <title><![CDATA[WhatsApp suma una función con inteligencia artificial para ampliar fotos en el iPhone]]></title>
@@ -44,15 +53,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple cerró su mejor año fiscal: facturó US$ 114.500 millones en el último trimestre]]></title>
-      <link>https://ultimasgeek.com/apple-cerro-su-mejor-ano-fiscal-facturo-us-114-500-millones-en-el-ultimo-trimestre/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-cerro-su-mejor-ano-fiscal-facturo-us-114-500-millones-en-el-ultimo-trimestre/</guid>
-      <pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" alt="Apple cerró su mejor año fiscal: facturó US$ 114.500 millones en el último trimestre" /></p><p>La compañía aumentó 12% sus ingresos interanuales, logró un récord de ventas del iPhone y alcanzó una facturación anual cercana a los US$ 479.000 millones.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Google lanzó Gemini 4 Carbon en todo el mundo: qué puede hacer y quiénes pueden usarlo]]></title>
       <link>https://ultimasgeek.com/google-lanzo-gemini-4-carbon-en-todo-el-mundo-que-puede-hacer-y-quienes-pueden-usarlo/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-lanzo-gemini-4-carbon-en-todo-el-mundo-que-puede-hacer-y-quienes-pueden-usarlo/</guid>
@@ -86,15 +86,6 @@
       <pubDate>Wed, 28 Oct 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/gemini_carbon_102726_social_share.width-1300-1000x600.png" alt="Google lanzó Gemini 4 Carbon, su nueva IA enfocada en detectar y corregir fallas de seguridad" /></p><p>El nuevo modelo de inteligencia artificial mejora la detección de vulnerabilidades, puede generar parches de código y fue diseñado para trabajar durante días en tareas complejas. Por ahora, tendrá acceso limitado.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/gemini_carbon_102726_social_share.width-1300-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google cambia su política de privacidad: podrá usar datos de Gmail y Fotos para personalizar anuncios]]></title>
-      <link>https://ultimasgeek.com/google-cambia-su-politica-de-privacidad-podra-usar-datos-de-gmail-y-fotos-para-personalizar-anuncios/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-cambia-su-politica-de-privacidad-podra-usar-datos-de-gmail-y-fotos-para-personalizar-anuncios/</guid>
-      <pubDate>Fri, 23 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" alt="Google cambia su política de privacidad: podrá usar datos de Gmail y Fotos para personalizar anuncios" /></p><p>La compañía actualizó sus condiciones y permitirá que cierta información de servicios conectados se utilice para adaptar la publicidad. La opción alcanza a usuarios que decidan vincular sus aplicaciones con las funciones de Personal Intelligence.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -161,12 +152,12 @@
     </item>
 
     <item>
-      <title><![CDATA[OpenAI anunció nuevos avances de la IA en matemática, informática y física]]></title>
-      <link>https://ultimasgeek.com/openai-anuncio-nuevos-avances-de-la-ia-en-matematica-informatica-y-fisica/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/openai-anuncio-nuevos-avances-de-la-ia-en-matematica-informatica-y-fisica/</guid>
-      <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" alt="OpenAI anunció nuevos avances de la IA en matemática, informática y física" /></p><p>La compañía afirmó que sus modelos produjeron resultados sobre tres problemas científicos de larga data. Parte del material ya fue publicado para que investigadores independientes puedan analizarlo y verificarlo.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/OpenAI_11zon-1775833454-1000x600.jpg" type="image/jpeg" />
+      <title><![CDATA[Apple cerró su mejor año fiscal: facturó US$ 114.500 millones en el último trimestre]]></title>
+      <link>https://ultimasgeek.com/apple-cerro-su-mejor-ano-fiscal-facturo-us-114-500-millones-en-el-ultimo-trimestre/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-cerro-su-mejor-ano-fiscal-facturo-us-114-500-millones-en-el-ultimo-trimestre/</guid>
+      <pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" alt="Apple cerró su mejor año fiscal: facturó US$ 114.500 millones en el último trimestre" /></p><p>La compañía aumentó 12% sus ingresos interanuales, logró un récord de ventas del iPhone y alcanzó una facturación anual cercana a los US$ 479.000 millones.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/107337117-1700572866036-gettyimages-1775277803-img_9951_apple01_11042023-320329735-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -203,6 +194,15 @@
       <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027_big.jpg.large_.jpg" alt="Apple presentó la nueva MacBook Pro de 14 pulgadas con chip M6: precio y cuándo sale" /></p><p>La nueva notebook incorpora el procesador M6, promete hasta 24 horas de batería y suma Wi-Fi 7. Costará desde US$ 1.999 y llegará a las tiendas el 6 de noviembre.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027_big.jpg.large_.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google cambia su política de privacidad: podrá usar datos de Gmail y Fotos para personalizar anuncios]]></title>
+      <link>https://ultimasgeek.com/google-cambia-su-politica-de-privacidad-podra-usar-datos-de-gmail-y-fotos-para-personalizar-anuncios/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-cambia-su-politica-de-privacidad-podra-usar-datos-de-gmail-y-fotos-para-personalizar-anuncios/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" alt="Google cambia su política de privacidad: podrá usar datos de Gmail y Fotos para personalizar anuncios" /></p><p>La compañía actualizó sus condiciones y permitirá que cierta información de servicios conectados se utilice para adaptar la publicidad. La opción alcanza a usuarios que decidan vincular sus aplicaciones con las funciones de Personal Intelligence.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
