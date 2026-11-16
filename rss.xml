@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 16 Nov 2026 05:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:31:03 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Apple lanza un estudio con IA para analizar cómo las personas usan tecnología para cuidar su salud]]></title>
+      <link>https://ultimasgeek.com/apple-lanza-un-estudio-con-ia-para-analizar-como-las-personas-usan-tecnologia-para-cuidar-su-salud/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-lanza-un-estudio-con-ia-para-analizar-como-las-personas-usan-tecnologia-para-cuidar-su-salud/</guid>
+      <pubDate>Mon, 16 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/Apple-Health-AI-Usage-Study-hero_big.jpg.large_-980x600.jpg" alt="Apple lanza un estudio con IA para analizar cómo las personas usan tecnología para cuidar su salud" /></p><p>La investigación podrá sumar hasta 200.000 participantes en Estados Unidos y evaluará la confianza, comprensión y uso cotidiano de herramientas de inteligencia artificial aplicadas a la salud.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/Apple-Health-AI-Usage-Study-hero_big.jpg.large_-980x600.jpg" type="image/jpeg" />
+    </item>
 
     <item>
       <title><![CDATA[Google lleva Gemini a Apple CarPlay: qué podrá hacer la inteligencia artificial desde el auto]]></title>
@@ -41,15 +50,6 @@
       <pubDate>Tue, 03 Nov 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/Apple-Health-app-language-expansion_quick-read-16x9.jpg.large_-1000x600.jpg" alt="Apple amplía al español su renovada app Salud con Apple Intelligence" /></p><p>La actualización suma nuevos idiomas y funciones para analizar sueño, actividad, corazón y longevidad. Ya está disponible para desarrolladores con iOS 27.3 y llegará como actualización gratuita durante 2026.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/Apple-Health-app-language-expansion_quick-read-16x9.jpg.large_-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Apple alertó a usuarios de iPhone en 99 países por posibles ataques con software espía]]></title>
-      <link>https://ultimasgeek.com/apple-alerto-a-usuarios-de-iphone-en-99-paises-por-posibles-ataques-con-software-espia/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-alerto-a-usuarios-de-iphone-en-99-paises-por-posibles-ataques-con-software-espia/</guid>
-      <pubDate>Tue, 03 Nov 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/image-2-1000x600.jpeg" alt="Apple alertó a usuarios de iPhone en 99 países por posibles ataques con software espía" /></p><p>La compañía envió nuevas notificaciones por intentos de espionaje dirigidos. Autoridades de Alemania investigan ataques contra legisladores y funcionarios.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/image-2-1000x600.jpeg" type="image/jpeg" />
     </item>
 
     <item>
@@ -179,6 +179,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Apple alertó a usuarios de iPhone en 99 países por posibles ataques con software espía]]></title>
+      <link>https://ultimasgeek.com/apple-alerto-a-usuarios-de-iphone-en-99-paises-por-posibles-ataques-con-software-espia/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-alerto-a-usuarios-de-iphone-en-99-paises-por-posibles-ataques-con-software-espia/</guid>
+      <pubDate>Tue, 03 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/image-2-1000x600.jpeg" alt="Apple alertó a usuarios de iPhone en 99 países por posibles ataques con software espía" /></p><p>La compañía envió nuevas notificaciones por intentos de espionaje dirigidos. Autoridades de Alemania investigan ataques contra legisladores y funcionarios.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/image-2-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Apple cerró su mejor año fiscal: facturó US$ 114.500 millones en el último trimestre]]></title>
       <link>https://ultimasgeek.com/apple-cerro-su-mejor-ano-fiscal-facturo-us-114-500-millones-en-el-ultimo-trimestre/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-cerro-su-mejor-ano-fiscal-facturo-us-114-500-millones-en-el-ultimo-trimestre/</guid>
@@ -221,15 +230,6 @@
       <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027_big.jpg.large_.jpg" alt="Apple presentó la nueva MacBook Pro de 14 pulgadas con chip M6: precio y cuándo sale" /></p><p>La nueva notebook incorpora el procesador M6, promete hasta 24 horas de batería y suma Wi-Fi 7. Costará desde US$ 1.999 y llegará a las tiendas el 6 de noviembre.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027_big.jpg.large_.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google cambia su política de privacidad: podrá usar datos de Gmail y Fotos para personalizar anuncios]]></title>
-      <link>https://ultimasgeek.com/google-cambia-su-politica-de-privacidad-podra-usar-datos-de-gmail-y-fotos-para-personalizar-anuncios/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-cambia-su-politica-de-privacidad-podra-usar-datos-de-gmail-y-fotos-para-personalizar-anuncios/</guid>
-      <pubDate>Fri, 23 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" alt="Google cambia su política de privacidad: podrá usar datos de Gmail y Fotos para personalizar anuncios" /></p><p>La compañía actualizó sus condiciones y permitirá que cierta información de servicios conectados se utilice para adaptar la publicidad. La opción alcanza a usuarios que decidan vincular sus aplicaciones con las funciones de Personal Intelligence.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/04/Google-1000x600.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
