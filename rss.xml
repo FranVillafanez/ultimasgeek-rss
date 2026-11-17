@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Tue, 17 Nov 2026 16:42:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 23:44:56 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Una falla afecta a iCloud, App Store y otros servicios de Apple]]></title>
+      <link>https://ultimasgeek.com/una-falla-afecta-a-icloud-app-store-y-otros-servicios-de-apple/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/una-falla-afecta-a-icloud-app-store-y-otros-servicios-de-apple/</guid>
+      <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/YQ3QOC2NXBA7FNPHGXLYQT5LNE-1000x600.png" alt="Una falla afecta a iCloud, App Store y otros servicios de Apple" /></p><p>Usuarios reportaron problemas para iniciar sesión, descargar aplicaciones y utilizar distintas plataformas de la compañía, aunque Apple no reconoció una interrupción general en su página oficial.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/YQ3QOC2NXBA7FNPHGXLYQT5LNE-1000x600.png" type="image/png" />
+    </item>
 
     <item>
       <title><![CDATA[Apple lanza un estudio con IA para analizar cómo las personas usan tecnología para cuidar su salud]]></title>
@@ -44,12 +53,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple amplía al español su renovada app Salud con Apple Intelligence]]></title>
-      <link>https://ultimasgeek.com/apple-amplia-al-espanol-su-renovada-app-salud-con-apple-intelligence/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-amplia-al-espanol-su-renovada-app-salud-con-apple-intelligence/</guid>
-      <pubDate>Tue, 03 Nov 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/Apple-Health-app-language-expansion_quick-read-16x9.jpg.large_-1000x600.jpg" alt="Apple amplía al español su renovada app Salud con Apple Intelligence" /></p><p>La actualización suma nuevos idiomas y funciones para analizar sueño, actividad, corazón y longevidad. Ya está disponible para desarrolladores con iOS 27.3 y llegará como actualización gratuita durante 2026.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/Apple-Health-app-language-expansion_quick-read-16x9.jpg.large_-1000x600.jpg" type="image/jpeg" />
+      <title><![CDATA[Google suma 66 voces regionales a Gemini: cómo funciona la nueva opción en Android y iPhone]]></title>
+      <link>https://ultimasgeek.com/google-suma-66-voces-regionales-a-gemini-como-funciona-la-nueva-opcion-en-android-y-iphone/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-suma-66-voces-regionales-a-gemini-como-funciona-la-nueva-opcion-en-android-y-iphone/</guid>
+      <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/chatbot-deep-gemini-avanada-1920x1080-332069063-1000x600.png" alt="Google suma 66 voces regionales a Gemini: cómo funciona la nueva opción en Android y iPhone" /></p><p>La compañía comenzó a desplegar 66 nuevas voces para Gemini, adaptadas a distintos idiomas y variantes regionales. La función estará disponible en Android y iOS.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/chatbot-deep-gemini-avanada-1920x1080-332069063-1000x600.png" type="image/png" />
     </item>
 
     <item>
@@ -80,12 +89,21 @@
     </item>
 
     <item>
-      <title><![CDATA[Google lanzó Gemini 4 Carbon, su nueva IA enfocada en detectar y corregir fallas de seguridad]]></title>
-      <link>https://ultimasgeek.com/google-lanzo-gemini-4-carbon-su-nueva-ia-enfocada-en-detectar-y-corregir-fallas-de-seguridad/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-lanzo-gemini-4-carbon-su-nueva-ia-enfocada-en-detectar-y-corregir-fallas-de-seguridad/</guid>
-      <pubDate>Wed, 28 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/gemini_carbon_102726_social_share.width-1300-1000x600.png" alt="Google lanzó Gemini 4 Carbon, su nueva IA enfocada en detectar y corregir fallas de seguridad" /></p><p>El nuevo modelo de inteligencia artificial mejora la detección de vulnerabilidades, puede generar parches de código y fue diseñado para trabajar durante días en tareas complejas. Por ahora, tendrá acceso limitado.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/gemini_carbon_102726_social_share.width-1300-1000x600.png" type="image/png" />
+      <title><![CDATA[OpenAI lanzó GPT-6.2 Astra y Sol: qué cambia en ChatGPT y Codex]]></title>
+      <link>https://ultimasgeek.com/openai-lanzo-gpt-6-2-astra-y-sol-que-cambia-en-chatgpt-y-codex/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/openai-lanzo-gpt-6-2-astra-y-sol-que-cambia-en-chatgpt-y-codex/</guid>
+      <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" alt="OpenAI lanzó GPT-6.2 Astra y Sol: qué cambia en ChatGPT y Codex" /></p><p>Los nuevos modelos apuntan a mejorar tareas profesionales, programación y creación de documentos. Ya están disponibles en ChatGPT Work, Codex y la API.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2025/12/ChatGPT-Voice-Chat-713014516-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Jensen Huang dijo que está dispuesto a volver como CEO de Nvidia si el directorio se lo pide]]></title>
+      <link>https://ultimasgeek.com/jensen-huang-dijo-que-esta-dispuesto-a-volver-como-ceo-de-nvidia-si-el-directorio-se-lo-pide/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/jensen-huang-dijo-que-esta-dispuesto-a-volver-como-ceo-de-nvidia-si-el-directorio-se-lo-pide/</guid>
+      <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/d88a735d-2597-4b5e-9b85-982477ac398c-1000x600.webp" alt="Jensen Huang dijo que está dispuesto a volver como CEO de Nvidia si el directorio se lo pide" /></p><p>El fundador de Nvidia se pronunció por primera vez desde su renuncia y aseguró que aceptaría regresar al frente de la compañía si la junta directiva considera que es la mejor decisión.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/d88a735d-2597-4b5e-9b85-982477ac398c-1000x600.webp" type="image/webp" />
     </item>
 
     <item>
@@ -134,15 +152,6 @@
     </item>
 
     <item>
-      <title><![CDATA[X lanzó una nueva función para crear clips de videos y ganar dinero con las reproducciones]]></title>
-      <link>https://ultimasgeek.com/x-lanzo-una-nueva-funcion-para-crear-clips-de-videos-y-ganar-dinero-con-las-reproducciones/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/x-lanzo-una-nueva-funcion-para-crear-clips-de-videos-y-ganar-dinero-con-las-reproducciones/</guid>
-      <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/X_Twitter_1713882875836_1713882876367-2387728595-1000x600.jpg" alt="X lanzó una nueva función para crear clips de videos y ganar dinero con las reproducciones" /></p><p>La herramienta permite seleccionar fragmentos de hasta 60 segundos sin salir de la aplicación. Tanto quien crea el clip como el autor del video original pueden obtener ingresos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/01/X_Twitter_1713882875836_1713882876367-2387728595-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Instagram lanzó una herramienta de inteligencia artificial para crear filtros personalizados]]></title>
       <link>https://ultimasgeek.com/instagram-lanzo-una-herramienta-de-inteligencia-artificial-para-crear-filtros-personalizados/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/instagram-lanzo-una-herramienta-de-inteligencia-artificial-para-crear-filtros-personalizados/</guid>
@@ -161,21 +170,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Instagram amplía a todo el mundo su sistema de inteligencia artificial para detectar la edad de los usuarios]]></title>
-      <link>https://ultimasgeek.com/instagram-amplia-a-todo-el-mundo-su-sistema-de-inteligencia-artificial-para-detectar-la-edad-de-los-usuarios/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/instagram-amplia-a-todo-el-mundo-su-sistema-de-inteligencia-artificial-para-detectar-la-edad-de-los-usuarios/</guid>
-      <pubDate>Mon, 09 Nov 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/ig-1000x600.png" alt="Instagram amplía a todo el mundo su sistema de inteligencia artificial para detectar la edad de los usuarios" /></p><p>Meta utilizará inteligencia artificial para identificar a adolescentes que declararon una edad incorrecta y aplicarles automáticamente las protecciones de las cuentas para menores.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/ig-1000x600.png" type="image/png" />
-    </item>
-
-    <item>
-      <title><![CDATA[Meta lanzó Spaces, una nueva función para trabajar con su agente de inteligencia artificial Muse]]></title>
-      <link>https://ultimasgeek.com/meta-lanzo-spaces-una-nueva-funcion-para-trabajar-con-su-agente-de-inteligencia-artificial-muse/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/meta-lanzo-spaces-una-nueva-funcion-para-trabajar-con-su-agente-de-inteligencia-artificial-muse/</guid>
-      <pubDate>Sun, 08 Nov 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/Design-the-Muse-App_Just-for-You_Social-Share.png-1000x600.webp" alt="Meta lanzó Spaces, una nueva función para trabajar con su agente de inteligencia artificial Muse" /></p><p>La herramienta permite crear espacios personalizados para organizar viajes, eventos, compras y otros proyectos. También puede conectarse con aplicaciones externas y actualizar información en segundo plano.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/Design-the-Muse-App_Just-for-You_Social-Share.png-1000x600.webp" type="image/webp" />
+      <title><![CDATA[Apple amplía al español su renovada app Salud con Apple Intelligence]]></title>
+      <link>https://ultimasgeek.com/apple-amplia-al-espanol-su-renovada-app-salud-con-apple-intelligence/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-amplia-al-espanol-su-renovada-app-salud-con-apple-intelligence/</guid>
+      <pubDate>Tue, 03 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/Apple-Health-app-language-expansion_quick-read-16x9.jpg.large_-1000x600.jpg" alt="Apple amplía al español su renovada app Salud con Apple Intelligence" /></p><p>La actualización suma nuevos idiomas y funciones para analizar sueño, actividad, corazón y longevidad. Ya está disponible para desarrolladores con iOS 27.3 y llegará como actualización gratuita durante 2026.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/Apple-Health-app-language-expansion_quick-read-16x9.jpg.large_-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -224,12 +224,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple presentó la nueva MacBook Pro de 14 pulgadas con chip M6: precio y cuándo sale]]></title>
-      <link>https://ultimasgeek.com/apple-presento-la-nueva-macbook-pro-de-14-pulgadas-con-chip-m6-precio-y-cuando-sale/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-presento-la-nueva-macbook-pro-de-14-pulgadas-con-chip-m6-precio-y-cuando-sale/</guid>
-      <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027_big.jpg.large_.jpg" alt="Apple presentó la nueva MacBook Pro de 14 pulgadas con chip M6: precio y cuándo sale" /></p><p>La nueva notebook incorpora el procesador M6, promete hasta 24 horas de batería y suma Wi-Fi 7. Costará desde US$ 1.999 y llegará a las tiendas el 6 de noviembre.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027_big.jpg.large_.jpg" type="image/jpeg" />
+      <title><![CDATA[Google lanzó Gemini 4 Carbon, su nueva IA enfocada en detectar y corregir fallas de seguridad]]></title>
+      <link>https://ultimasgeek.com/google-lanzo-gemini-4-carbon-su-nueva-ia-enfocada-en-detectar-y-corregir-fallas-de-seguridad/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-lanzo-gemini-4-carbon-su-nueva-ia-enfocada-en-detectar-y-corregir-fallas-de-seguridad/</guid>
+      <pubDate>Wed, 28 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/gemini_carbon_102726_social_share.width-1300-1000x600.png" alt="Google lanzó Gemini 4 Carbon, su nueva IA enfocada en detectar y corregir fallas de seguridad" /></p><p>El nuevo modelo de inteligencia artificial mejora la detección de vulnerabilidades, puede generar parches de código y fue diseñado para trabajar durante días en tareas complejas. Por ahora, tendrá acceso limitado.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/gemini_carbon_102726_social_share.width-1300-1000x600.png" type="image/png" />
     </item>
   </channel>
 </rss>
