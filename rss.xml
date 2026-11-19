@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Thu, 19 Nov 2026 16:19:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 23:24:30 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[Google suma a Gemini una función para controlar aplicaciones y realizar tareas en una Mac]]></title>
+      <link>https://ultimasgeek.com/google-suma-a-gemini-una-funcion-para-controlar-aplicaciones-y-realizar-tareas-en-una-mac/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-suma-a-gemini-una-funcion-para-controlar-aplicaciones-y-realizar-tareas-en-una-mac/</guid>
+      <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/Screenshot-2023-12-07-at-9.22.13-1000x600.webp" alt="Google suma a Gemini una función para controlar aplicaciones y realizar tareas en una Mac" /></p><p>La inteligencia artificial podrá hacer clic, escribir, navegar por menús y completar procesos de varios pasos mientras el usuario continúa utilizando su computadora.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/Screenshot-2023-12-07-at-9.22.13-1000x600.webp" type="image/webp" />
+    </item>
 
     <item>
       <title><![CDATA[Una falla afecta a iCloud, App Store y otros servicios de Apple]]></title>
@@ -44,15 +53,6 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple prepara HomeView para sumar chatbots de inteligencia artificial de terceros]]></title>
-      <link>https://ultimasgeek.com/apple-prepara-homeview-para-sumar-chatbots-de-inteligencia-artificial-de-terceros/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-prepara-homeview-para-sumar-chatbots-de-inteligencia-artificial-de-terceros/</guid>
-      <pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/2026-10-13-10.09.15-1000x600.jpg" alt="Apple prepara HomeView para sumar chatbots de inteligencia artificial de terceros" /></p><p>Código detectado en la beta de iOS 27.3 apunta a que el dispositivo podría admitir servicios como ChatGPT y Claude, aunque Apple todavía no anunció oficialmente la función.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/2026-10-13-10.09.15-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Google suma 66 voces regionales a Gemini: cómo funciona la nueva opción en Android y iPhone]]></title>
       <link>https://ultimasgeek.com/google-suma-66-voces-regionales-a-gemini-como-funciona-la-nueva-opcion-en-android-y-iphone/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/google-suma-66-voces-regionales-a-gemini-como-funciona-la-nueva-opcion-en-android-y-iphone/</guid>
@@ -77,15 +77,6 @@
       <pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/pics-blog-header-2784x1566.width-1200.format-webp-1000x600.webp" alt="Google lanzó Omni 1.2 Flash en Vids: permite crear videos con IA gratis" /></p><p>La compañía incorporó su nuevo modelo de generación de video a Google Vids. Los usuarios podrán crear hasta tres clips de 15 segundos por mes sin costo.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/pics-blog-header-2784x1566.width-1200.format-webp-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google Chrome suma Gemini y ahora puede buscar datos en Gmail para completar formularios]]></title>
-      <link>https://ultimasgeek.com/google-chrome-suma-gemini-y-ahora-puede-buscar-datos-en-gmail-para-completar-formularios/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-chrome-suma-gemini-y-ahora-puede-buscar-datos-en-gmail-para-completar-formularios/</guid>
-      <pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Untitled-1-1000x600.jpg" alt="Google Chrome suma Gemini y ahora puede buscar datos en Gmail para completar formularios" /></p><p>La nueva función usa Inteligencia Personal para localizar números de pedidos, seguimientos de paquetes y reservas de vuelos sin que el usuario tenga que abrir Gmail.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Untitled-1-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -170,6 +161,15 @@
     </item>
 
     <item>
+      <title><![CDATA[Apple prepara HomeView para sumar chatbots de inteligencia artificial de terceros]]></title>
+      <link>https://ultimasgeek.com/apple-prepara-homeview-para-sumar-chatbots-de-inteligencia-artificial-de-terceros/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/apple-prepara-homeview-para-sumar-chatbots-de-inteligencia-artificial-de-terceros/</guid>
+      <pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/2026-10-13-10.09.15-1000x600.jpg" alt="Apple prepara HomeView para sumar chatbots de inteligencia artificial de terceros" /></p><p>Código detectado en la beta de iOS 27.3 apunta a que el dispositivo podría admitir servicios como ChatGPT y Claude, aunque Apple todavía no anunció oficialmente la función.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/2026-10-13-10.09.15-1000x600.jpg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[Apple amplía al español su renovada app Salud con Apple Intelligence]]></title>
       <link>https://ultimasgeek.com/apple-amplia-al-espanol-su-renovada-app-salud-con-apple-intelligence/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-amplia-al-espanol-su-renovada-app-salud-con-apple-intelligence/</guid>
@@ -215,12 +215,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Apple presentó el nuevo iMac con chip M6: más potencia para inteligencia artificial y precio desde US$ 1.499]]></title>
-      <link>https://ultimasgeek.com/apple-presento-el-nuevo-imac-con-chip-m6-mas-potencia-para-inteligencia-artificial-y-precio-desde-us-1-499/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/apple-presento-el-nuevo-imac-con-chip-m6-mas-potencia-para-inteligencia-artificial-y-precio-desde-us-1-499/</guid>
-      <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Apple-iMac-with-M6-hero-261027_big.jpg.large_-1000x600.jpg" alt="Apple presentó el nuevo iMac con chip M6: más potencia para inteligencia artificial y precio desde US$ 1.499" /></p><p>La computadora todo en uno mantiene su pantalla Retina 4.5K de 24 pulgadas, suma Wi-Fi 7, Bluetooth 6 y hasta 12 núcleos de CPU y GPU. Las reservas comienzan este miércoles 28 de octubre.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Apple-iMac-with-M6-hero-261027_big.jpg.large_-1000x600.jpg" type="image/jpeg" />
+      <title><![CDATA[Google Chrome suma Gemini y ahora puede buscar datos en Gmail para completar formularios]]></title>
+      <link>https://ultimasgeek.com/google-chrome-suma-gemini-y-ahora-puede-buscar-datos-en-gmail-para-completar-formularios/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-chrome-suma-gemini-y-ahora-puede-buscar-datos-en-gmail-para-completar-formularios/</guid>
+      <pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Untitled-1-1000x600.jpg" alt="Google Chrome suma Gemini y ahora puede buscar datos en Gmail para completar formularios" /></p><p>La nueva función usa Inteligencia Personal para localizar números de pedidos, seguimientos de paquetes y reservas de vuelos sin que el usuario tenga que abrir Gmail.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Untitled-1-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
