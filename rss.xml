@@ -5,7 +5,16 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Mon, 23 Nov 2026 11:52:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:26:35 +0000</lastBuildDate>
+
+    <item>
+      <title><![CDATA[WhatsApp suma los mensajes de texto que se pueden ver una sola vez: cómo funcionan]]></title>
+      <link>https://ultimasgeek.com/whatsapp-suma-los-mensajes-de-texto-que-se-pueden-ver-una-sola-vez-como-funcionan/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-suma-los-mensajes-de-texto-que-se-pueden-ver-una-sola-vez-como-funcionan/</guid>
+      <pubDate>Mon, 23 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/WhatsApp-Google-Messendzhery-Servisy-6-1000x600.webp" alt="WhatsApp suma los mensajes de texto que se pueden ver una sola vez: cómo funcionan" /></p><p>La nueva función comenzó a llegar a usuarios de la versión beta para iPhone y evita capturas de pantalla, copias y reenvíos. Por ahora, no está disponible para todos.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/06/WhatsApp-Google-Messendzhery-Servisy-6-1000x600.webp" type="image/webp" />
+    </item>
 
     <item>
       <title><![CDATA[Google suma a Gemini una función para controlar aplicaciones y realizar tareas en una Mac]]></title>
@@ -44,15 +53,6 @@
     </item>
 
     <item>
-      <title><![CDATA[WhatsApp suma una función con inteligencia artificial para ampliar fotos en el iPhone]]></title>
-      <link>https://ultimasgeek.com/whatsapp-suma-una-funcion-con-inteligencia-artificial-para-ampliar-fotos-en-el-iphone/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-suma-una-funcion-con-inteligencia-artificial-para-ampliar-fotos-en-el-iphone/</guid>
-      <pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/11/7IKZJEXCYRP7RBMXFEOFGPG7S4-1000x600.jpg" alt="WhatsApp suma una función con inteligencia artificial para ampliar fotos en el iPhone" /></p><p>La aplicación comenzó a desplegar una herramienta de Meta AI que genera contenido alrededor de una imagen y permite adaptarla al formato vertical 9:16 antes de compartirla.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/11/7IKZJEXCYRP7RBMXFEOFGPG7S4-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[Apple desarrolla un agente de IA que podrá controlar aplicaciones y escribir código]]></title>
       <link>https://ultimasgeek.com/apple-desarrolla-un-agente-de-ia-que-podra-controlar-aplicaciones-y-escribir-codigo/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/apple-desarrolla-un-agente-de-ia-que-podra-controlar-aplicaciones-y-escribir-codigo/</guid>
@@ -77,6 +77,15 @@
       <pubDate>Tue, 10 Nov 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/gemini_carbon_102726_social_share.width-1300-1000x600.png" alt="Google lanzó Gemini 4 Carbon en todo el mundo: qué puede hacer y quiénes pueden usarlo" /></p><p>La compañía amplió el acceso a su nuevo modelo de inteligencia artificial, diseñado para programación avanzada, ciberseguridad e investigación científica. Estará disponible en varios servicios de Google, aunque con restricciones según la suscripción.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/gemini_carbon_102726_social_share.width-1300-1000x600.png" type="image/png" />
+    </item>
+
+    <item>
+      <title><![CDATA[Nvidia da marcha atrás y Jensen Huang vuelve como CEO tras su renuncia]]></title>
+      <link>https://ultimasgeek.com/nvidia-da-marcha-atras-y-jensen-huang-vuelve-como-ceo-tras-su-renuncia/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/nvidia-da-marcha-atras-y-jensen-huang-vuelve-como-ceo-tras-su-renuncia/</guid>
+      <pubDate>Mon, 23 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/imagen-destacada-2-1000x600.jpg" alt="Nvidia da marcha atrás y Jensen Huang vuelve como CEO tras su renuncia" /></p><p>El directorio decidió por unanimidad restituir al cofundador de la compañía menos de dos semanas después de su salida. La empresa aseguró que consultó a funcionarios de Estados Unidos y descartó riesgos para la seguridad nacional.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/imagen-destacada-2-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -170,12 +179,12 @@
     </item>
 
     <item>
-      <title><![CDATA[Jensen Huang renunció como CEO de Nvidia: de limpiar baños a crear el gigante de los chips de IA]]></title>
-      <link>https://ultimasgeek.com/jensen-huang-renuncio-como-ceo-de-nvidia-de-limpiar-banos-a-crear-el-gigante-de-los-chips-de-ia/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/jensen-huang-renuncio-como-ceo-de-nvidia-de-limpiar-banos-a-crear-el-gigante-de-los-chips-de-ia/</guid>
-      <pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/imagen-destacada-2-1000x600.jpg" alt="Jensen Huang renunció como CEO de Nvidia: de limpiar baños a crear el gigante de los chips de IA" /></p><p>El cofundador dejó la conducción de la compañía después de 33 años. Antes de convertirse en una figura central de la tecnología, trabajó como lavaplatos, mozo y limpiando baños en Estados Unidos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/imagen-destacada-2-1000x600.jpg" type="image/jpeg" />
+      <title><![CDATA[WhatsApp suma una función con inteligencia artificial para ampliar fotos en el iPhone]]></title>
+      <link>https://ultimasgeek.com/whatsapp-suma-una-funcion-con-inteligencia-artificial-para-ampliar-fotos-en-el-iphone/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-suma-una-funcion-con-inteligencia-artificial-para-ampliar-fotos-en-el-iphone/</guid>
+      <pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/11/7IKZJEXCYRP7RBMXFEOFGPG7S4-1000x600.jpg" alt="WhatsApp suma una función con inteligencia artificial para ampliar fotos en el iPhone" /></p><p>La aplicación comenzó a desplegar una herramienta de Meta AI que genera contenido alrededor de una imagen y permite adaptarla al formato vertical 9:16 antes de compartirla.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2023/11/7IKZJEXCYRP7RBMXFEOFGPG7S4-1000x600.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -221,15 +230,6 @@
       <pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/pics-blog-header-2784x1566.width-1200.format-webp-1000x600.webp" alt="Google lanzó Omni 1.2 Flash en Vids: permite crear videos con IA gratis" /></p><p>La compañía incorporó su nuevo modelo de generación de video a Google Vids. Los usuarios podrán crear hasta tres clips de 15 segundos por mes sin costo.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/pics-blog-header-2784x1566.width-1200.format-webp-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
-      <title><![CDATA[Google Chrome suma Gemini y ahora puede buscar datos en Gmail para completar formularios]]></title>
-      <link>https://ultimasgeek.com/google-chrome-suma-gemini-y-ahora-puede-buscar-datos-en-gmail-para-completar-formularios/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/google-chrome-suma-gemini-y-ahora-puede-buscar-datos-en-gmail-para-completar-formularios/</guid>
-      <pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Untitled-1-1000x600.jpg" alt="Google Chrome suma Gemini y ahora puede buscar datos en Gmail para completar formularios" /></p><p>La nueva función usa Inteligencia Personal para localizar números de pedidos, seguimientos de paquetes y reservas de vuelos sin que el usuario tenga que abrir Gmail.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Untitled-1-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
