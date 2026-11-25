@@ -5,7 +5,7 @@
     <link>https://ultimasgeek.com/</link>
     <atom:link href="https://franvillafanez.github.io/ultimasgeek-rss/rss.xml" rel="self" type="application/rss+xml" />
     <description>Feed generado automáticamente desde la home</description>
-    <lastBuildDate>Wed, 25 Nov 2026 03:27:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 13:55:14 +0000</lastBuildDate>
 
     <item>
       <title><![CDATA[WhatsApp suma los mensajes de texto que se pueden ver una sola vez: cómo funcionan]]></title>
@@ -80,6 +80,24 @@
     </item>
 
     <item>
+      <title><![CDATA[Claude ya permite crear e instalar aplicaciones en Mac y Windows con inteligencia artificial]]></title>
+      <link>https://ultimasgeek.com/claude-ya-permite-crear-e-instalar-aplicaciones-en-mac-y-windows-con-inteligencia-artificial/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/claude-ya-permite-crear-e-instalar-aplicaciones-en-mac-y-windows-con-inteligencia-artificial/</guid>
+      <pubDate>Wed, 25 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/antro-1000x600.jpeg" alt="Claude ya permite crear e instalar aplicaciones en Mac y Windows con inteligencia artificial" /></p><p>La nueva función de Anthropic está disponible en versión beta para todos los planes, incluido el gratuito. Permite desarrollar herramientas personalizadas sin conocimientos avanzados de programación.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/06/antro-1000x600.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title><![CDATA[Microsoft declara el “código rojo” tras su peor caída de servicios]]></title>
+      <link>https://ultimasgeek.com/microsoft-declara-el-codigo-rojo-tras-su-peor-caida-de-servicios/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/microsoft-declara-el-codigo-rojo-tras-su-peor-caida-de-servicios/</guid>
+      <pubDate>Wed, 25 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/images-2-1.jpeg" alt="Microsoft declara el “código rojo” tras su peor caída de servicios" /></p><p>La compañía busca resolver futuras interrupciones globales en menos de una hora, luego de una falla que afectó a Outlook, Teams y otras plataformas durante 24 horas.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/images-2-1.jpeg" type="image/jpeg" />
+    </item>
+
+    <item>
       <title><![CDATA[La Unión Europea cuestionó a TikTok por su algoritmo y advirtió sobre videos dañinos]]></title>
       <link>https://ultimasgeek.com/la-union-europea-cuestiono-a-tiktok-por-su-algoritmo-y-advirtio-sobre-videos-daninos/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/la-union-europea-cuestiono-a-tiktok-por-su-algoritmo-y-advirtio-sobre-videos-daninos/</guid>
@@ -134,15 +152,6 @@
     </item>
 
     <item>
-      <title><![CDATA[WhatsApp permitirá guardar las copias de seguridad en su propia nube y dejar de depender de iCloud]]></title>
-      <link>https://ultimasgeek.com/whatsapp-permitira-guardar-las-copias-de-seguridad-en-su-propia-nube-y-dejar-de-depender-de-icloud/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/whatsapp-permitira-guardar-las-copias-de-seguridad-en-su-propia-nube-y-dejar-de-depender-de-icloud/</guid>
-      <pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/i870137-1149679578-1000x600.jpeg" alt="WhatsApp permitirá guardar las copias de seguridad en su propia nube y dejar de depender de iCloud" /></p><p>La nueva función comenzó a llegar a usuarios de prueba de iPhone. Ofrece 2 GB gratuitos, cifrado de extremo a extremo y planes pagos para almacenar más conversaciones.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/02/i870137-1149679578-1000x600.jpeg" type="image/jpeg" />
-    </item>
-
-    <item>
       <title><![CDATA[OpenAI lanzó GPT-6.2 Astra y Sol: qué cambia en ChatGPT y Codex]]></title>
       <link>https://ultimasgeek.com/openai-lanzo-gpt-6-2-astra-y-sol-que-cambia-en-chatgpt-y-codex/</link>
       <guid isPermaLink="true">https://ultimasgeek.com/openai-lanzo-gpt-6-2-astra-y-sol-que-cambia-en-chatgpt-y-codex/</guid>
@@ -158,24 +167,6 @@
       <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/d88a735d-2597-4b5e-9b85-982477ac398c-1000x600.webp" alt="Jensen Huang dijo que está dispuesto a volver como CEO de Nvidia si el directorio se lo pide" /></p><p>El fundador de Nvidia se pronunció por primera vez desde su renuncia y aseguró que aceptaría regresar al frente de la compañía si la junta directiva considera que es la mejor decisión.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/d88a735d-2597-4b5e-9b85-982477ac398c-1000x600.webp" type="image/webp" />
-    </item>
-
-    <item>
-      <title><![CDATA[OpenAI lanzó ChatGPT Wallet: sus agentes de IA ya pueden hacer compras por los usuarios]]></title>
-      <link>https://ultimasgeek.com/openai-lanzo-chatgpt-wallet-sus-agentes-de-ia-ya-pueden-hacer-compras-por-los-usuarios/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/openai-lanzo-chatgpt-wallet-sus-agentes-de-ia-ya-pueden-hacer-compras-por-los-usuarios/</guid>
-      <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/Untitled-1000x600.jpg" alt="OpenAI lanzó ChatGPT Wallet: sus agentes de IA ya pueden hacer compras por los usuarios" /></p><p>La nueva herramienta permite que los agentes “dots” completen pagos sin acceder a los datos reales de las tarjetas. Por ahora, estará disponible para usuarios Pro en Estados Unidos.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/Untitled-1000x600.jpg" type="image/jpeg" />
-    </item>
-
-    <item>
-      <title><![CDATA[Trump propuso a Tim Cook para dirigir Nvidia tras la renuncia de Jensen Huang]]></title>
-      <link>https://ultimasgeek.com/trump-propuso-a-tim-cook-para-dirigir-nvidia-tras-la-renuncia-de-jensen-huang/</link>
-      <guid isPermaLink="true">https://ultimasgeek.com/trump-propuso-a-tim-cook-para-dirigir-nvidia-tras-la-renuncia-de-jensen-huang/</guid>
-      <pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/imagen-destacada-4.jpg" alt="Trump propuso a Tim Cook para dirigir Nvidia tras la renuncia de Jensen Huang" /></p><p>El presidente de Estados Unidos respaldó públicamente al ex CEO de Apple como posible sucesor del histórico ejecutivo de Nvidia. La compañía dejó a Colette Kress al frente de manera interina.</p>]]></description>
-      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/imagen-destacada-4.jpg" type="image/jpeg" />
     </item>
 
     <item>
@@ -230,6 +221,15 @@
       <pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/pics-blog-header-2784x1566.width-1200.format-webp-1000x600.webp" alt="Google lanzó Omni 1.2 Flash en Vids: permite crear videos con IA gratis" /></p><p>La compañía incorporó su nuevo modelo de generación de video a Google Vids. Los usuarios podrán crear hasta tres clips de 15 segundos por mes sin costo.</p>]]></description>
       <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/11/pics-blog-header-2784x1566.width-1200.format-webp-1000x600.webp" type="image/webp" />
+    </item>
+
+    <item>
+      <title><![CDATA[Google Chrome suma Gemini y ahora puede buscar datos en Gmail para completar formularios]]></title>
+      <link>https://ultimasgeek.com/google-chrome-suma-gemini-y-ahora-puede-buscar-datos-en-gmail-para-completar-formularios/</link>
+      <guid isPermaLink="true">https://ultimasgeek.com/google-chrome-suma-gemini-y-ahora-puede-buscar-datos-en-gmail-para-completar-formularios/</guid>
+      <pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Untitled-1-1000x600.jpg" alt="Google Chrome suma Gemini y ahora puede buscar datos en Gmail para completar formularios" /></p><p>La nueva función usa Inteligencia Personal para localizar números de pedidos, seguimientos de paquetes y reservas de vuelos sin que el usuario tenga que abrir Gmail.</p>]]></description>
+      <enclosure url="https://ultimasgeek.com/wp-content/uploads/sites/76/2026/10/Untitled-1-1000x600.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
